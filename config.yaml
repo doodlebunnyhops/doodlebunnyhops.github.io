@@ -1,0 +1,6 @@
+baseURL: 'https://doodlebunnyhops.github.io/'
+languageCode: en-us
+title: My New Hugo Site
+theme: ananke
+
+page: :slug/
