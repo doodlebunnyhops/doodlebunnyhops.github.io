@@ -1,3 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "inventory"]
+	path = themes/inventory
+	url = https://github.com/unicef/inventory-hugo-theme.git
+[submodule "hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome
+[submodule "themes/compose"]
+	path = themes/compose
+	url = https://github.com/onweru/compose/

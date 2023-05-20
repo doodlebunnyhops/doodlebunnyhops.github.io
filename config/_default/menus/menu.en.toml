@@ -1,0 +1,30 @@
+#[[main]]
+#  name = "Example"
+#  weight = 3
+#  url = "https://docs.neuralvibes.com"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
+
+[[main]]
+  name = "Lore"
+  weight = 1
+  url = "docs/"
+[[main]]
+  name = "Dossier"
+  weight = 2
+  url = "dossier/"
+[[main]]
+  name = "Interesting"
+  weight = 3
+  url = "interesting/"
+[[main]]
+  name = "Terminology"
+  weight = 4
+  url = "terminology/"
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"

@@ -1,6 +1,22 @@
 baseURL: 'https://doodlebunnyhops.github.io/'
 languageCode: en-us
-title: My New Hugo Site
-theme: ananke
+title: The Unoffical Guide
+theme: compose
+enableRobotsTXT: true
+enableGitInfo: true
 
-page: :slug/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+# contentDir: "content"
+# menu:
+  # main:
+  # - name: Guide
+    # pageRef: /guide
+    # weight: 20
+  # - name: About
+    # pageRef: /about
+    # weight: 30
