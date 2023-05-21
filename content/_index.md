@@ -8,22 +8,19 @@ fileLink = "content/projects.csv"
 title = "Projects"
 
 +++
-{{< block "grid-2" >}}
-{{< column >}}
+
 
 # Can you solve the **Mystery** of Brookhaven?
 
+This is the unoffical guide to [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
 
-{{< tip >}}
-Blah blah 
 
-words words
-{{< /tip >}}
 
-{{< /column >}}
+> Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
+
+
 
 {{< column >}}
-![diy](https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png)
+![Portal Thumbnail](/images/thumbnails/portal_update.png)
 {{< /column >}}
-{{< /block >}}

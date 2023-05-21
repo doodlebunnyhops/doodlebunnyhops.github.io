@@ -11,3 +11,11 @@ enableGitInfo = true
 
 [outputs]
   home = ["HTML", "RSS","JSON"]
+  
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "reveal"
+mediaType = "text/html"
+isHTML = true

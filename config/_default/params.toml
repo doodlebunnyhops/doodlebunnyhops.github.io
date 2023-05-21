@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-docSections = ["dossier","interesting","terminology","docs"]
+docSections = ["dossier","interesting","terminology","docs","slides","tools","quests"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
