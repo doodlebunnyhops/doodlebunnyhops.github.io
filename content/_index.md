@@ -8,8 +8,7 @@ fileLink = "content/projects.csv"
 title = "Projects"
 
 +++
-{{< block "grid-2" >}}
-{{< column >}}
+
 
 # Can you solve the **Mystery** of Brookhaven?
 
@@ -21,9 +20,7 @@ Blah blah
 words words
 {{< /tip >}}
 
-{{< /column >}}
 
 {{< column >}}
 ![diy](https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png)
 {{< /column >}}
-{{< /block >}}
