@@ -4,10 +4,12 @@ weight: 2
 ---
 
 ---
-#### Agency Bunker
+
+## Agency Bunker
+
 >Refers to hidden agency bunker by the gas station
 ---
-#### Bunker Panel
+## Bunker Panel
 >Inside the Base there is a panel with letters and numbers that turn on/off based on actions
 ---
 #### Bunker Message
