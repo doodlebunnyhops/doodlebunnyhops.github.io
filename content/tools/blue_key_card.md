@@ -1,4 +1,7 @@
 #####
+
+This blue key card gives us access to **Brookhaven Electric**
+
 {{< youtube "nAO-DwNWq-g" >}}
 
 {{< tip >}}
