@@ -17,6 +17,7 @@ codeMaxLines = 10
 
 # show/hide line numbers by default. Switch to `true` if you'd rather have them on.
 showLineNumbers = false
+enableCopyright = false
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
@@ -35,8 +36,10 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 
 # Site logo
 [logo]
-  lightMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
-  darkMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
+#  lightMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
+#  darkMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
+  lightMode = "/images/house-with-garden_5.png"
+  darkMode = "/images/house-with-garden_5.png"
 
 [source]
   name = "GitHub"
@@ -44,8 +47,9 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/doodlebunnyhops/doodlebunnyhops.github.io"
 
+  
 # optional
 # attribution. Feel free to delete this
 [author]
-  name = "BloominDaisy"
-  url = "https://github.com/doodlebunnyhops"
+  name = "Weru"
+  url = "https://neuralvibes.com/author/"
