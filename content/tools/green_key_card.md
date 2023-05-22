@@ -4,7 +4,7 @@ The green card does _something_...
 
 {{< youtube "47yimxPrOvE" >}}
 
-[Helpful Images]({{< ref "slides/green_key_card_slide" >}}  )
+[Helpful Images]({{< ref "slides/green_key_card_slide" >}})
 
 {{< tip >}}
 **Requirements** : None

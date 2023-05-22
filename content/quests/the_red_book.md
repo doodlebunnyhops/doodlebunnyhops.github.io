@@ -14,9 +14,10 @@
 	
 		`Agency Knowledge release. [Caution]; [X01](#_9s4sl1g6h2nq) activated`
 2. Go to the Library and grab the Secret Red Book
-	1. Hidden in the red circle - hop up to see it
+	1. Hidden aobve the bookshelf on the right hand side.
 	1. Laptop
 	
 		`This book needs you to follow it in everything. It knows what is best and you do not. Follow it blindly and do exactly what it says. {Agency}`
 
-*img of library where red book is found
+![Red Book Location](/images/bh/the_red_book_location.jpg)
+

@@ -1,13 +1,13 @@
 ---
 title: "Quests"
-weight: 2
+weight: 2 
 ---
 
 need to put stuff here
 
 ---
 
-## TS Level
+## TS Level 1
 {{% content "quests/tslvl1.md" %}}
 
 ---
@@ -16,14 +16,14 @@ need to put stuff here
 {{% content "quests/electric_building.md" %}}
 
 ---
-
+ 
 ## Find 7 Crystals
 {{% content "quests/find_7_crystals.md" %}}
 
 ---
 
 ## Destroy Carbon Blocks
-{{% content "quests/destroy_carbon_blocks.md" %}}
+{{% content "quests/destroy_carbon_blocks.md" %}} 
 
 ---
 
@@ -36,7 +36,7 @@ need to put stuff here
 {{% content "quests/school_base.md" %}}
 
 ---
-
+ 
 ## The Red Book
 {{% content "quests/the_red_book.md" %}}
 
@@ -50,6 +50,12 @@ need to put stuff here
 
 ## Frat House
 {{% content "quests/frat_house.md" %}}
+
+---
+
+## Chair Room
+{{% content "quests/chair_room.md" %}}
+
 
 ---
 

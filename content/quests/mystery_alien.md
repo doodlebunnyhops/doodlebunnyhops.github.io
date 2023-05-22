@@ -3,7 +3,9 @@
 
 {{< tip >}}
 
-**Requirements** : [TS LVL 1]({{< ref "tslvl1" >}}  )
+**Requirements** : [TS LVL 1]({{< ref "lore/quests#ts-level-1" >}})
+
+**Items Needed** : Sleeping bag
 {{< /tip >}}
 
 

@@ -1,5 +1,5 @@
 +++
-title = "Brookhaven Mystery"
+title = "Home"
 [data]
 columnTitles = ["Section", "Status"]
 title = "Projects"

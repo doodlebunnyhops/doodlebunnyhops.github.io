@@ -5,76 +5,100 @@ layout = "list"
 +++
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_abandoned_house.png
+
+Abandoned House by airport
 
 ![diy](/images/bh/monolith-location_abandoned_house.png)
 
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_balckhawk_billboard.png
+
+Next to billboard in Blackhawk Neighborhood
 
 ![diy](/images/bh/monolith-location_balckhawk_billboard.png)
 
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_behind_barn.png
+
+Behind Barn
 
 ![diy](/images/bh/monolith-location_behind_barn.png)
 
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_hill_by_eagle view.png
+
+On hill by Eagle View Estate
+
 ![diy](/images/bh/monolith-location_hill_by_eagle_view.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_lightpost_behind_horse_stable.png
+
+Near lightpost behind horse stables
+
 ![diy](/images/bh/monolith-location_lightpost_behind_horse_stable.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_madison_lake_hill_top.png
+
+Top of a hill by Madison lake and South Estate
+
 ![diy](/images/bh/monolith-location_madison_lake_hill_top.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_near_gas_station.png
+
+Near gas station
+
 ![diy](/images/bh/monolith-location_near_gas_station.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_outside_of_agency_bunker.png
+
+Underground just behind the Secret Agency Base
+
 ![diy](/images/bh/monolith-location_outside_of_agency_bunker.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_top_of_hill_between_house_23_and_24.png
+
+Top of the hill between house #23 and #24
+
 ![diy](/images/bh/monolith-location_top_of_hill_between_house_23_and_24.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})
 
 ---
 
 {{< slide transition="fade" transition-speed="slow" >}}
-monolith-location_underpass_by_abanoned_house.png
+
+Next to bridge underpass by Abandoned house
+
 ![diy](/images/bh/monolith-location_underpass_by_abanoned_house.png)
-[Monoliths]({{< ref "docs/quests#monoliths" >}})
+
+[Back to steps]({{< ref "lore/quests#monoliths" >}})

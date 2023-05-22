@@ -2,7 +2,7 @@
 
 {{< tip >}}
 
-**Requirements** : [Blue Key Card]({{< ref "tools#blue_key_card" >}}  )
+**Requirements** : [Blue Key Card]({{< ref "lore/tools#blue-key-card" >}}  )
 {{< /tip >}}
 
 
@@ -16,7 +16,8 @@
 5. Turn on right switch: Activates [A03](#_5tgexk4m9coj)
 	1. Power diverted mainframe waiting… (Requirements may have been changed.)
 	2. Bunker Message now reads:
-	`"Brookhaven Electric main power on`
+	
+	`Brookhaven Electric main power on`
 
 {{< tip "warning" >}}	
 Bunker message could be different if Townhall Power switches haven't been touched!
