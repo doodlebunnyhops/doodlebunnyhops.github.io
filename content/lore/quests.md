@@ -3,12 +3,7 @@ title: "Quests"
 weight: 2 
 ---
 
-need to put stuff here
-
----
-
-## TS Level 1
-{{% content "quests/tslvl1.md" %}}
+Quests are steps that end in activating a [Panel Light](). Sometimes tools, side-quests or other quests are required to complete a quest and will be listed in the `requirements` section.
 
 ---
 
@@ -34,11 +29,6 @@ need to put stuff here
 
 ## School Base
 {{% content "quests/school_base.md" %}}
-
----
- 
-## The Red Book
-{{% content "quests/the_red_book.md" %}}
 
 ---
 

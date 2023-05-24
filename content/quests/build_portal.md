@@ -1,4 +1,4 @@
-#####
+Lets build stuff!
 {{< youtube "Mecnd2D7cWA" >}}
 
 {{< tip >}}
