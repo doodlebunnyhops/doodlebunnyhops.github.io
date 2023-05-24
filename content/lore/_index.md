@@ -6,7 +6,7 @@ weight: 1
 
 We started out with a few hints around the Town of Brookhaven. 
 
----
+![horizontal-line](/images/green-line.png)
 
 ### Why are some things a quest, and others not?
 
@@ -24,7 +24,7 @@ Trying to determine what steps are main story quests, or side quests has been ki
 There are a lot of [Agency Light Panel]() triggers, and while most can be turned on by doing one action. Some have more requirements, ones that have requirements to turn that light on are considered part of a quest. Those that have no requirements and is generally 1 step, will be listed in the [Agency Light Panel]() page and referenced by the quest that requires it. 
 {{< /tip >}}
 
----
+![horizontal-line](/images/green-line.png)
 
 ### Where to get started
 
