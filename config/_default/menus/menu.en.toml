@@ -11,11 +11,11 @@
 [[main]]
   name = "Lore"
   weight = 1
-  url = "docs/"
+  url = "lore/"
 [[main]]
-  name = "Dossier"
+  name = "CaseBook"
   weight = 2
-  url = "dossier/"
+  url = "casebook/"
 [[main]]
   name = "Interesting"
   weight = 3

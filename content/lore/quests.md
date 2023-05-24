@@ -1,14 +1,9 @@
 ---
 title: "Quests"
-weight: 2
+weight: 2 
 ---
 
-need to put stuff here
-
----
-
-## TS Level
-{{% content "quests/tslvl1.md" %}}
+Quests are steps that end in activating a [Panel Light](). Sometimes tools, side-quests or other quests are required to complete a quest and will be listed in the `requirements` section.
 
 ---
 
@@ -16,14 +11,14 @@ need to put stuff here
 {{% content "quests/electric_building.md" %}}
 
 ---
-
+ 
 ## Find 7 Crystals
 {{% content "quests/find_7_crystals.md" %}}
 
 ---
 
 ## Destroy Carbon Blocks
-{{% content "quests/destroy_carbon_blocks.md" %}}
+{{% content "quests/destroy_carbon_blocks.md" %}} 
 
 ---
 
@@ -37,11 +32,6 @@ need to put stuff here
 
 ---
 
-## The Red Book
-{{% content "quests/the_red_book.md" %}}
-
----
-
 
 ## Build Portal
 {{% content "quests/build_portal.md" %}}
@@ -50,6 +40,12 @@ need to put stuff here
 
 ## Frat House
 {{% content "quests/frat_house.md" %}}
+
+---
+
+## Chair Room
+{{% content "quests/chair_room.md" %}}
+
 
 ---
 

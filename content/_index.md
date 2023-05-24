@@ -1,5 +1,5 @@
 +++
-title = "Brookhaven Mystery"
+title = "Home"
 [data]
 columnTitles = ["Section", "Status"]
 title = "Projects"
@@ -7,6 +7,7 @@ enableCopyright = false
 
 +++
 
+<center><img src="/images/under_construction.png" alt="Paris"></center>
 
 # Can you solve the **Mystery** of Brookhaven?
 

@@ -1,9 +1,11 @@
-#####
+Lets build stuff!
 {{< youtube "Mecnd2D7cWA" >}}
 
 {{< tip >}}
 
-**Requirements** : [The Red Book]({{< ref "the_red_book" >}}  )
+**Requirements** : [The Red Book]({{< ref "lore/quests#the-red-book" >}})
+
+**Items Needed** : Hammer, optional Binoculars
 {{< /tip >}}
 
 
@@ -21,7 +23,7 @@
 		
 			`The Book power unveiled [Follow]: [X02](#_666nwxto7jfq) activated`
 		
-		3. Notice the device on the floor tells us what year we are in _Manufactured in Brookhaven: 2028_
+		3. Notice the [device on the floor]({{< ref "slides/build_portal_slide" >}}) tells us what year we are in _Manufactured in Brookhaven: 2028_
 		4. There is a message behind the White Chair on the left side:
 		
 			`The Book will tell you what to do next, follow its lead and do not think for yourself. In the future as we recruit from the common, be mindful of double agents.`
@@ -33,6 +35,7 @@
 			`Hydrogen beam excelerator complete: [A16](#_8q1hlllilfnu) activated`
 
 {{< tip "warning" >}}
-If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. There is no way of fixing this but don't worry. It does not affect anything. You can continue the steps as you would normally. It is interesting because it's a completely new message that isn't seen anywhere.
+If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. It's unclear what causes this message to appear.
+![Red Book Location](/images/bh/build_portal_error.jpg)
 {{<  /tip >}}
-*img of agency hydrogen construction in progress
+

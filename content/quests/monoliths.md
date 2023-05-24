@@ -3,7 +3,7 @@
 
 {{< tip >}}
 
-**Requirements** : [The Red Book]({{< ref "the_red_book" >}}  )
+**Requirements** : [The Red Book]({{< ref "lore/quests#the-red-book" >}}  )
 {{< /tip >}}
 
 
@@ -20,10 +20,7 @@
 		`“We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)`
 	- This Triggers A18
 	
-	
-{{< gallery "images/bh/monolith-location_behind_barn.png,images/bh/monolith-location_abandoned_house.png,images/bh/monolith-location_balckhawk_billboard.png,images/bh/monolith-location_behind_barn.png" >}}
-
 {{< tip >}}
-[Click here for Slide of all monolith locations]({{< ref "slides/slide" >}}  )
+[Click here]({{< ref "slides/monolith_slide" >}}) for images of all monolith locations
 {{<  /tip >}}
 *img of agency hydrogen construction in progress
