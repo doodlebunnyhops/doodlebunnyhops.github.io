@@ -29,7 +29,7 @@ This Crow spawns around 7:30am on top of the Barn.
 {{< slide transition="fade" transition-speed="slow" >}}
 
 
-This Crow spawns around 8am by the lightpost.
+This Crow spawns around 8am by the light post.
 
 ![crow 2](/images/bh/green_key_card-crow2.jpg)
 

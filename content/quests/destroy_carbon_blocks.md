@@ -18,7 +18,7 @@
 1. Go to the Town Hall
 	1. Turn on the Danger switch Activates [A01](#_k862pyeltu85) and make sure High Voltage is off
 	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](#_89s29feevfxw)
-1. Go to the Secret Xray Hideout Room in the Hospital. This isn't a neccessary step but it does show you have spawned the carbon blocks properly that we will collect next.
+1. Go to the Secret X-ray Hideout Room in the Hospital. This isn't a necessary step but it does show you have spawned the carbon blocks properly that we will collect next.
 	1. Click on the blue button underneath the table
 	1. Quantum Message: 
 			

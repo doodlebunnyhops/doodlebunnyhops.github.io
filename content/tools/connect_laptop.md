@@ -1,6 +1,6 @@
 ####
 
-Connecting the laptop to.... _who_ we aren't exactly sure. Pretty positive it's connecitng to the **agency**.
+Connecting the laptop to.... _who_ we aren't exactly sure. Pretty positive it's connecting to the **agency**.
 We do this because sometimes the laptop will give us messages, hints/tips along the way.
 
 {{< youtube "6b_tvg4R4YA" >}}

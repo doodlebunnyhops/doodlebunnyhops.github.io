@@ -14,7 +14,7 @@
 ### Fill it in!
 Each issue type has examples and sections to answer to help us streamline requests.
 
-Once you're all done click on the "Submit new issue" butotn near the bottom.
+Once you're all done click on the "Submit new issue" button near the bottom.
 ![image](/images/git/update_info.png)
 
 ![horizontal-line](/images/green-line.png)

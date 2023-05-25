@@ -36,11 +36,11 @@ weight: 2
 #### Electricity Message
 >Message Board inside the Electricity Building
 ---
-#### Xray Hideout
+#### X-ray Hideout
 >Go to the X-ray inside the hospital. Go behind the screen into a false wall. You see a table and cabinet in the secret room.
 ---
 #### Quantum Room
->In xray hideout, under the table; there is a teleporter that leads you to the Quantum Room. There, gravity is manipulated and altered, and a large Agency logo as well as a status message can be seen on a wall.
+>In x-ray hideout, under the table; there is a teleporter that leads you to the Quantum Room. There, gravity is manipulated and altered, and a large Agency logo as well as a status message can be seen on a wall.
 ---
 #### Quantum State
 >A message directly across the Agency Logo will show the status of the Quantum Room.

@@ -11,7 +11,7 @@ enableCopyright = false
 
 # Can you solve the **Mystery** of Brookhaven?
 
-This is the unoffical guide to [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
+This is the unofficial guide to [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
 
 

@@ -12,11 +12,11 @@ We started out with a few hints around the Town of Brookhaven.
 
 Want to see what all the steps look like? {{< button "../../mermaid/steps_flow" "Check this out" "mb-1" >}}
 
-Trying to determine what steps are main story quests, or side quests has been kind of diffucult to figure out. So I went ahead and laid down some guidance on how I determine what steps are considered tools, side-quests, or quests.
+Trying to determine what steps are main story quests, or side quests has been kind of difficult to figure out. So I went ahead and laid down some guidance on how I determine what steps are considered tools, side-quests, or quests.
 
 **Tools**: Are special inventory items needed to complete a quest or side-quest. They are not found in the games inventory, except for the laptop.
 
-**Side-Quest**: Are steps that need to happen but don't take any action on the [Agency Light Panel](). They do not give you a Tool and are needed by other quests to compelte them.
+**Side-Quest**: Are steps that need to happen but don't take any action on the [Agency Light Panel](). They do not give you a Tool and are needed by other quests to complete them.
 
 **Quests**: Are steps needed to complete an event that does take action on the [Agency Light Panel]().
 

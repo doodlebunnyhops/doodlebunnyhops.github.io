@@ -15,7 +15,7 @@
 	1. Click on the Scalpel behind the false wall in the XRay Room behind the cabinet.
 2. Then go to the Agency Experimentation Site
 	1. Click on the button found underneath the Surgery Table to turn the lights on
-	2. Sit in the chair on the right under "Experimental" and get slimed!
+	2. Sit in the chair on the right under "Experimental" and get slimmed!
 3. Go to the mall:
 	1. Turn on the left switch in the TV Station (behind the wall use a sleeping bag)
 		1. Laptop

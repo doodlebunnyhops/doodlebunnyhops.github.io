@@ -9,7 +9,7 @@
 **Steps:**
 
 1. Go to Brookhaven Electric, near South Estate and Solar Panels
-2. Use the Blue Keycard to enter Electric Building
+2. Use the Blue Key card to enter Electric Building
 3. Click on the Blue Panel on the left
 4. Blue panel password: Your roblox username (not in game name if changed)
 	1. Activates [A02](#_vblndiv11dkj)
@@ -20,5 +20,5 @@
 	`Brookhaven Electric main power on`
 
 {{< tip "warning" >}}	
-Bunker message could be different if Townhall Power switches haven't been touched!
+Bunker message could be different if Town hall Power switches haven't been touched!
 {{< /tip >}}
