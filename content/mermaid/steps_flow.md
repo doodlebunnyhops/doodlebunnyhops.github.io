@@ -9,6 +9,7 @@ flowchart LR
 %% Short Steps
     A24[A24: Power Coupler on/off]
     A25[A25: PSU inf. +/-]
+    click A24 href "https://www.github.com" "This is a link"
 	
 	binoculars --> H08
     coffin --> A23
