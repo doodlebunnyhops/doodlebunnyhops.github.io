@@ -47,7 +47,7 @@ On hill by Eagle View Estate
 
 {{< slide transition="fade" transition-speed="slow" >}}
 
-Near lightpost behind horse stables
+Near light post behind horse stables
 
 ![diy](/images/bh/monolith-location_lightpost_behind_horse_stable.png)
 

@@ -12,4 +12,4 @@ Get your plowing done and come on over for some grilled corn cause we haven a pa
 
 ## Secrets
 
-Nonthing reported yet, make sure to checkout wolfs discord server in #secrets-and-mysteries 
+Nothing reported yet, make sure to checkout wolfs discord server in #secrets-and-mysteries 

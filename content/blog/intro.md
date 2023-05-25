@@ -8,4 +8,4 @@ description: "Hey it's BloominDaisy here!"
 
 ## Introduction
 
-Hey it's BloominDaisy here! A local at the Secerts and Mysteries discord channel in Wolfpaq's server.
+Hey it's BloominDaisy here! A local at the Secrets and Mysteries discord channel in Wolfpaq's server.

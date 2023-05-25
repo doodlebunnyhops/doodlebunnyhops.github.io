@@ -8,7 +8,7 @@ description: "Brookhaven Update"
 
 ## Theme
 
-Time to get our nom nom's on! There's pleanty of new eats and treats to be found!
+Time to get our nom nom's on! There's plenty of new eats and treats to be found!
 
 ## Secrets
 
