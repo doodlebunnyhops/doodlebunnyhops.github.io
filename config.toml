@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "http://bh.local:1313/"
 title = "Brookhaven Secrets and Mysteries"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
@@ -14,7 +14,7 @@ enableCopyright = true
   home = ["HTML", "RSS","JSON"]
   
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 
 [outputFormats.Reveal]
 baseName = "reveal"

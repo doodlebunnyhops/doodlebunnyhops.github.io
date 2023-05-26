@@ -5,17 +5,23 @@ There's a secret room behind the Agency Base... what's it for?
 
 {{< tip >}}
 
-**Requirements** : [Frat House]({{< ref "lore/quests#frat-house" >}}  )
+**Requirements** : 
+
+- [Frat House]({{< ref "lore/quests#frat-house" >}})
+- [What's the password]({{< ref "lore/special_tools#whats-the-password" >}})
+	- This isn't a hard requirement that we know of since we already know the password.
+
+
 {{< /tip >}}
 
 
 **Steps:**
 
-1. Make sure the Agency Base lights are off
+1. Make sure the Agency Base lights are off. Activates [A08](../../casebook/light_panel#a08)
 2. Put the password in the Agency Base Keypad. The Password is **Marcus Brookhaven**
-	1. There is a way to find the password, if curious follow "[What's the password](#_n5zskoeziwvl)"
-	2. Opens the door to the Chair Room, notice the power is off
-	3. Bunker Message now reads:
+	1. Opens the door to the Chair Room, notice the power is off
+	1. Activates [A26](../../casebook/light_panel#a26)
+	1. Bunker Message now reads:
  
 		`Inferential delusion mechanism available: A26 activated`
 
@@ -25,5 +31,5 @@ If Bunker Message reads:
 
 `Signal disruption: A08 needed to unlock mechanism`
 
- Then disable A08 (Turn Agency bunker lights off) and put password in again
+ Then turn Agency bunker lights off and put password in again
 {{<  /tip >}}

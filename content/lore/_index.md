@@ -4,35 +4,37 @@ weight: 1
 --- 
 ### What is the Lore of Brookhaven RP?
 
-We started out with a few hints around the Town of Brookhaven. 
+We started out with a few hints around the Town of Brookhaven. A movie clip, some notes, a strange experimentation room above the hospital. But what does it all mean?
+
+We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
+
 
 ![horizontal-line](/images/green-line.png)
 
 ### Why are some things a quest, and others not?
 
-Want to see what all the steps look like? {{< button "../../mermaid/steps_flow" "Check this out" "mb-1" >}}
+The flow of investigating can be... chaotic. But I have identified there are tools, special tools, and quests to help guide you through your journey on what has been discovered.
 
-Trying to determine what steps are main story quests, or side quests has been kind of difficult to figure out. So I went ahead and laid down some guidance on how I determine what steps are considered tools, side-quests, or quests.
+To get a sense of what the flow looks like, [checkout this diagram](../../mermaid/steps_flow).
 
-**Tools**: Are special inventory items needed to complete a quest or side-quest. They are not found in the games inventory, except for the laptop.
 
-**Side-Quest**: Are steps that need to happen but don't take any action on the [Agency Light Panel](). They do not give you a Tool and are needed by other quests to complete them.
+**Tools**: These are items that give us hints along the way of our investigation.
 
-**Quests**: Are steps needed to complete an event that does take action on the [Agency Light Panel]().
+**Special Tools**: These are items not available in inventory and are needed for other quests.
 
-{{< tip >}}
-There are a lot of [Agency Light Panel]() triggers, and while most can be turned on by doing one action. Some have more requirements, ones that have requirements to turn that light on are considered part of a quest. Those that have no requirements and is generally 1 step, will be listed in the [Agency Light Panel]() page and referenced by the quest that requires it. 
-{{< /tip >}}
+**Quests**: These are considered main story line quests, they may unlock, build, or show us new hints. Since this is an ever updating game, we don't know if a quest is ever really complete. 
 
 ![horizontal-line](/images/green-line.png)
 
 ### Where to get started
 
-It's recommended starting with the Tools section and then move along to Quests, as side-quests will be done as needed with a quest.
+It's recommended starting with the Tools section and then move along to Quests, as special tools will be done as needed with a quest.
+
+Also keep in mind, maybe there are steps we shouldn't do, though commonly the community feels all steps and lights in the [Agency Light Panel](../../casebook/light_panel) should be done to solve the mystery.
 
 {{< button "./tools/" "Tools" "mb-1" >}}
 
 {{< button "./quests/" "Quests" "mb-1" >}}
 
-{{< button "./side-quests/" "Side Quests" "mb-1" >}}
+{{< button "./special_tools/" "Special Tools" "mb-1" >}}
 
