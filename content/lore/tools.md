@@ -10,6 +10,7 @@ It's also recommended to have the following in your inventory at some point:
 - Ladder
 - Shovel
 - Hammer
+- Binoculars
 - Laptop
 
 ![horizontal-line](/images/green-line.png)
@@ -17,13 +18,8 @@ It's also recommended to have the following in your inventory at some point:
 ## Connect Laptop
 {{% content "tools/connect_laptop.md" %}}
 
-![horizontal-line](/images/green-line.png)
-
-## Green Key Card
-{{% content "tools/green_key_card.md" %}}
-
 
 ![horizontal-line](/images/green-line.png)
 
-## Blue Key Card
-{{% content "tools/blue_key_card.md" %}}
+## Binoculars
+{{% content "tools/binoculars.md" %}}

@@ -8,7 +8,7 @@
 
 **Steps:**
 
-1. Go to [Xray Hideout](#38tus5vwvmty)
+1. Go to [Xray Hideout]()
 	1. Press on the white stack of papers
 	2. Message Board in Agency Bunker now says:
 	

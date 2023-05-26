@@ -1,9 +1,11 @@
 ---
 title: "Quests"
-weight: 2 
+weight: 2
 ---
 
-Quests are steps that end in activating a [Panel Light](). Sometimes tools, side-quests or other quests are required to complete a quest and will be listed in the `requirements` section.
+Ahh yes, here is the heart of our investigation. These are quests that have lead us to find/unlock more clues or secrets the town of Brookhaven holds.
+
+Sometimes tools, special tools, or other quests are required to complete a quest and will be listed in the `requirements` section.
 
 ![horizontal-line](/images/green-line.png)
 
@@ -53,3 +55,19 @@ Quests are steps that end in activating a [Panel Light](). Sometimes tools, side
 {{% content "quests/monoliths.md" %}}
 
 ![horizontal-line](/images/green-line.png)
+
+## Plant House
+{{% content "quests/plant_house.md" %}}
+
+![horizontal-line](/images/green-line.png)
+
+## Ghostly Sighting
+{{% content "quests/ghostly_sighting.md" %}}
+
+![horizontal-line](/images/green-line.png)
+
+## Glowing Chair
+{{% content "quests/glowing_chair.md" %}}
+
+![horizontal-line](/images/green-line.png)
+ 

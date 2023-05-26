@@ -14,10 +14,10 @@
 
 [Helpful images during this quest]({{< ref "slides/destroy_carbon_blocks_slide" >}})
 
-1. Click on the Camera on the mountain near Madison Lake: Activates [A09](#_6clwxix2iugu)
+1. Click on the Camera on the mountain near Madison Lake: Activates [A09](../../casebook/light_panel#a09)
 1. Go to the Town Hall
-	1. Turn on the Danger switch Activates [A01](#_k862pyeltu85) and make sure High Voltage is off
-	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](#_89s29feevfxw)
+	1. Turn on the Danger switch Activates [A01](../../casebook/light_panel#a01) and make sure High Voltage is off
+	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](../../casebook/light_panel#v08)
 1. Go to the Secret X-ray Hideout Room in the Hospital. This isn't a necessary step but it does show you have spawned the carbon blocks properly that we will collect next.
 	1. Click on the blue button underneath the table
 	1. Quantum Message: 
@@ -35,7 +35,7 @@
 	1. Laptop:
 	
 		`You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)`
-	2. Activates [A21](#_d2v1lx8vihaf)
+	2. Activates [A21](../../casebook/light_panel#a21)
 
 
 {{< tip >}}	

@@ -18,11 +18,11 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 
 1. In this house[^1], go to the Attic and grab the Crystal
 	- Should get a sync failed message on your computer
-	- Activates H04
+	- Activates [H04](../../casebook/light_panel#h04)
 1. Click the button on the top of the Church Roof.
-	- Activates A04
+	- Activates [A04](../../casebook/light_panel#a04)
 1. Inside the Church, click the button behind the coffin, must be standing on lightened area
-	- Activates A05
+	- Activates [A05](../../casebook/light_panel#a05)
 1. Should connect to laptop now, will be teleported to the Arch close to the barn when successful
 
 **Connect Computer References:**

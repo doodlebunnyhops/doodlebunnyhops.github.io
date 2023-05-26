@@ -9,16 +9,24 @@ flowchart LR
 %% Short Steps
     A24[A24: Power Coupler on/off]
     A25[A25: PSU inf. +/-]
-    click A24 href "https://www.github.com" "This is a link"
 	
 	binoculars --> H08
     coffin --> A23
     plant_book --> H06
-	blue_keycard --> A02
 	A15 --> green_keycard
-    A22 --> energy_pyramid
 %% End short steps
-    bakery_button --> H07
+%% rod under arch
+%% A22 has to be clicked again before collecting rod
+    bakery_button --> A22a --> rod_under_arch --> H07
+%% Glowing Chair
+    H07 --> use_rod[Use Rod in Museum] --> glowing_chair
+
+    
+    A22 --> energy_pyramid
+
+
+
+
 	
 	%% frat house
     laptop --> sit
@@ -30,6 +38,9 @@ flowchart LR
     H04 --> A04
     A04 --> A05
     A05 --> laptop_connected
+    
+
+    A08 --> A26
     energy_pyramid --> A07
     A17 --> A14
     A20 --> A17
@@ -46,23 +57,23 @@ flowchart LR
     A06 -->|On| A17
 	A01 -->|Off| A17
     V08 --> A21
-    A03 --> A21
+    
 
 
 
+    hospital_paper --> message_sent --> barn_button --> tslvl1
+    barn_button --> tslvl1_msg
     tslvl1 --> scalpel
     scalpel --> hospital_button --> sit_hospital
     sit_hospital --> mall_lever
     mall_lever --> A27
+    
+    blue_keycard --> A02
+    A03 --> A21
+	
 
-    A08 --> A26
 	
-%% Glowing Chair
-    H07 --> glowing_chair
-	
-%% rod under arch
-    energy_pyramid --> H07
-%%    bakery_button --> H07
+
 	
 %% chair room
     energy_pyramid --> password
@@ -100,6 +111,7 @@ flowchart LR
     A20[A20: Awaiting Power]
     A21[A21: No Text]
     A22[A22: Enemy Signal Detected]
+    A22a[A22: Enemy Signal Detected]
     A23["A23: Asystole Reversal  (Error)"]
     A26[A26: Inferential delusion mechanism available]
     A27[A27: In Darkness]
@@ -114,7 +126,8 @@ flowchart LR
     X02["X02: The Book power unveiled [Follow]"]
     energy_pyramid[Item: Energy Pyramid]
     red_book[Item: Red Book]
-    tslvl1[Unlock: TS Level 1]
+    tslvl1>Unlocked: TS Level 1 Authorized]
+    tslvl1_msg[["TS [LVL 1] Permissable"]]
     binoculars[Click/Item: binoculars]
     blue_keycard[Item: Blue Key Card]
 	green_keycard[Item: Green Key Card]
@@ -135,6 +148,37 @@ flowchart LR
     burn_file[Click: Burn Agency File]
     scalpel[Click: Scalpel]
     mall_lever[Action: Flip left lever behind TV Station]
+    hospital_paper[Click: Paper Stack Hidden X-Ray Room]
+    barn_button[Click: Barn Button second floor] 
+    message_sent[[Message Sent]]
+    rod_under_arch[Item: Rod under arch]
+    click A01 href "../../casebook/light_panel/#a01" "A01 Details"
+    click A02 href "../../casebook/light_panel/#a02" "A02 Details"
+    click A03 href "../../casebook/light_panel/#a03" "A03 Details"
+    click A04 href "../../casebook/light_panel/#a04" "A04 Details"
+    click A05 href "../../casebook/light_panel/#a05" "A05 Details"
+    click A06 href "../../casebook/light_panel/#a06" "A06 Details"
+    click A07 href "../../casebook/light_panel/#a07" "A07 Details"
+    click A08 href "../../casebook/light_panel/#a08" "A08 Details"
+    click A09 href "../../casebook/light_panel/#a09" "A09 Details"
+    click A10 href "../../casebook/light_panel/#a10" "A10 Details"
+    click A11 href "../../casebook/light_panel/#a11" "A11 Details"
+    click A12 href "../../casebook/light_panel/#a12" "A12 Details"
+    click A13 href "../../casebook/light_panel/#a13" "A13 Details"
+    click A14 href "../../casebook/light_panel/#a14" "A14 Details"
+    click A15 href "../../casebook/light_panel/#a15" "A15 Details"
+    click A16 href "../../casebook/light_panel/#a16" "A16 Details"
+    click A17 href "../../casebook/light_panel/#a17" "A17 Details"
+    click A18 href "../../casebook/light_panel/#a18" "A18 Details"
+    click A19 href "../../casebook/light_panel/#a19" "A19 Details"
+    click A20 href "../../casebook/light_panel/#a20" "A20 Details"
+    click A21 href "../../casebook/light_panel/#a21" "A21 Details"
+    click A22 href "../../casebook/light_panel/#a22" "A22 Details"
+    click A23 href "../../casebook/light_panel/#a23" "A23 Details"
+    click A24 href "../../casebook/light_panel/#a24" "A24 Details"
+    click A25 href "../../casebook/light_panel/#a25" "A25 Details"
+    click A26 href "../../casebook/light_panel/#a26" "A26 Details"
+    click A27 href "../../casebook/light_panel/#a27" "A27 Details"
 {{< /mermaid >}}
 
 {{< button "../../lore/" "Back to Lore" "mb-1" >}}

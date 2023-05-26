@@ -3,7 +3,7 @@
 
 {{< tip >}}
 
-**Requirements** : [TS LVL 1]({{< ref "lore/quests#ts-level-1" >}})
+**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}})
 
 **Items Needed** : Sleeping bag
 {{< /tip >}}
@@ -18,11 +18,12 @@
 	2. Sit in the chair on the right under "Experimental" and get slimmed!
 3. Go to the mall:
 	1. Turn on the left switch in the TV Station (behind the wall use a sleeping bag)
+		1. This activates [A27](../../casebook/light_panel#a27)
 		1. Laptop
 		
 			`Please do as you are told, the Agency knows what's best for you! (Agency)`
 		2. Bunker Message:
 		
-			`In darkness: [A27](#_ezzo1p9huive)activated`
+			`In darkness: [A27]activated`
 4. Back at Agency Experimentation Site you can now Electrocute the Alien in the Tube
 

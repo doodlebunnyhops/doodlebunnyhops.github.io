@@ -1,9 +1,10 @@
-####
+We are an a quest to find 7 crystals!
+
 {{< youtube "O2qx41jY-tI" >}}
 
 
 {{< tip >}}
-**Requirements** : [TS LVL 1]({{< ref "lore/quests#ts-level-1" >}}  )
+**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}}  )
 {{< /tip >}}
 
 
@@ -11,7 +12,7 @@
 
 1. Head to the Abandoned House
 2. Click on the button between the Fridge and the Counter
-	1. _7 Crystals Released_: [A19](#_hooedrlfse12) Activated
+	1. _7 Crystals Released_: [A19](../../casebook/light_panel#a19) Activated
 	2. Laptop:
 	
 		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
@@ -25,7 +26,7 @@
 	7. In the Barn behind the hay on the first level.
 4. _Energy crystals awaiting power_
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
-	2. [A20](#_xztuovquujux) now activated
+	2. [A20](../../casebook/light_panel#a20) now activated
 
 
 {{< tip >}}	
