@@ -34,7 +34,6 @@ Sometimes tools, special tools, or other quests are required to complete a quest
 
 ![horizontal-line](/images/green-line.png)
 
-
 ## Build Portal
 {{% content "quests/build_portal.md" %}}
 
@@ -48,11 +47,15 @@ Sometimes tools, special tools, or other quests are required to complete a quest
 ## Chair Room
 {{% content "quests/chair_room.md" %}}
 
-
 ![horizontal-line](/images/green-line.png)
 
 ## Monoliths
 {{% content "quests/monoliths.md" %}}
+
+![horizontal-line](/images/green-line.png)
+
+## Rod in the Police Station
+{{% content "quests/rod_in_policestation.md" %}}
 
 ![horizontal-line](/images/green-line.png)
 

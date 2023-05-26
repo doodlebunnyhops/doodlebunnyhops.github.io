@@ -3,13 +3,37 @@ title: "Agency Light Panel"
 weight: 1
 ---
 
-_img of light panel_
+The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
 
- 
-_table?_
 
-What is the light panel
+Here is an image off the panel with no lights activated.
+![Agency Light Panel Image](/images/bh/panel.jpg)
 
+---
+### Interactive Lights Table
+
+This table shows us what we do know so far. If a light has a link in it, we have the steps to enable it.
+
+|||||||||||||
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [A01](#a01) | [A02](#a02) | [A03](#a03) | [A04](#a04) | [A05](#a05) | [A06](#a06) | [A07](#a07) | [A08](#a08) | [A09](#a09) | A10 | A11 | A12 |
+| A13 | [A14](#a14) | [A15](#a15) | [A16](#a16) | [A17](#a17) | [A18](#a18) | [A19](#a19) | [A20](#a20) | [A21](#a21) | [A22](#a22) | [A23](#a23) | [A24](#a24) |
+| [A25](#a25) | [A26](#a26) | [A27](#a27) | A28 | A29 | A30 | A31 | A32 | A33 | A34 | A35 | A36 |
+| [H02](#h02) | [H03](#h03) | [H04](#h04) | H05 | [H06](#h06) | [H07](#h07) | [H08](#h08) | [V08](#v08) | V09 | V10 | V11 | V12 |
+| [X01](#x01) | [X02](#x02) | X03 | X04 | X05 | X06 | X07 | X08 | X09 | X10 | X11 | X12 |
+| X13 | X14 | X15 | X16 | X17 | X18 | X19 | X20 | X21 | X22 | X23 | X24 |
+
+---
+
+### Theory on Light's Naming
+
+**A** : Action in Town that's already available
+
+**H** : Action in a Special House. Typically in Role Play homes, but there are a few non RP houses that trigger H lights.
+
+**V** : I only have one action here discovered so I don't have a good basis for this one yet. Perhaps V for valves or voltage?
+
+**X** : Unlocks things that are hidden
 
 ![horizontal-line](/images/green-line.png)
 
