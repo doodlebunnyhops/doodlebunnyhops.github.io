@@ -1,4 +1,4 @@
-baseURL = "http://bh.local:1313/"
+baseURL = "https://example.com"
 title = "Brookhaven Secrets and Mysteries"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
