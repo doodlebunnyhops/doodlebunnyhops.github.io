@@ -4,6 +4,14 @@ title: "Lore Steps Visual"
 
 Want to see a better view of this diagram, check it out [here](/images/bh/mermaid-diagram-2023-05-24-083839.svg)
 
+{{< tip >}}
+This is an interactive Diagram! You can click on a light number to go to its steps
+
+You can also zoom in to make it easier to see each step, don't worry zooming in doesn't lose quality... there's a lot here! 
+
+_Works best on mobile_
+{{< /tip >}}
+
 {{< mermaid >}}
 flowchart LR
 %% Short Steps

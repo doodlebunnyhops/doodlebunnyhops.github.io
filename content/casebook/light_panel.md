@@ -5,6 +5,7 @@ weight: 1
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
 
+It's located inside the Agency Bunker.
 
 Here is an image of the panel with no lights activated.
 ![Agency Light Panel Image](/images/bh/panel.jpg)
