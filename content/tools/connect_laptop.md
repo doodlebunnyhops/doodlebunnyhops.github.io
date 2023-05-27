@@ -10,7 +10,9 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 {{< tip >}}
 **Requirements** : None
 
-**Items Needed** : Laptop
+**Items Needed** : 
+- Laptop
+- Ladder (to get on roof of church)
 {{< /tip >}}
 
 
