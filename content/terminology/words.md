@@ -1,15 +1,15 @@
 ---
 title: "Definitions"
-weight: 2
+weight: 0
 ---
 
 ---
 
-## Agency Bunker
+#### Agency Bunker
 
 >Refers to hidden agency bunker by the gas station
 ---
-## Bunker Panel
+#### Agency Light Panel
 >Inside the Base there is a panel with letters and numbers that turn on/off based on actions
 ---
 #### Bunker Message
@@ -17,6 +17,9 @@ weight: 2
 ---
 #### Bunker Board
 >This is the board below the Bunker Message with 10 red buttons, specific actions turn them green.
+---
+#### Bunker Switch Board
+>This is a switch board with 5 switches in the Agency Bunker. It's missing the 3rd switch.
 ---
 #### Crystal
 >Yellow slightly glowing item that looks to have 3 prongs.
@@ -32,6 +35,7 @@ weight: 2
 ---
 #### Electricity Building
 >Near the South East side of Brookhaven by Solar Panels.
+>Offically named Brookhaven Electric
 ---
 #### Electricity Message
 >Message Board inside the Electricity Building
@@ -55,7 +59,7 @@ weight: 2
 >Also known as "Fred's House"
 ---
 #### Plant House
-
+>RP House where a special book is found.
 ---
 #### Abandoned House
 >Run Down House by the Airport Runway
@@ -63,6 +67,6 @@ weight: 2
 #### Agency Experimentation Site
 >Room above the Hospital that looks old and Abandoned. There are 2 chairs, a Surgery Table, and an Operations Room in this area.
 ---
-#### Hideout Bunker
-> Hideout behind Starbrooks
+#### Criminal Base
+> Hideout behind Starbrooks through a hidden door. You will see a light that can be clicked and opens a passageway to the criminal base.
 ---
