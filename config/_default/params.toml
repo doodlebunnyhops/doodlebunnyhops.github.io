@@ -54,5 +54,5 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   name = "Weru"
   url = "https://neuralvibes.com/author/"
 
-# GoogleAnalytics = 'G-LYV1YN0FYF'
-ga_analytics = "G-LYV1YN0FYF"
+# Google Analytics 4
+googleAnalytics = 'G-LYV1YN0FYF'
