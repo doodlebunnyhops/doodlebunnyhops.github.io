@@ -23,3 +23,10 @@ This is the unofficial guide to [Brookhaven 🏡RP](https://www.roblox.com/games
 {{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)
 {{< /column >}}
+
+---
+
+## Not sure where to get started?
+
+- [Lore](/lore) for steps uncovering secrets already found!
+- [CaseBook](/casebook) contains notes and observations found during investigations
