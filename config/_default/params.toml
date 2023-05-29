@@ -17,7 +17,7 @@ codeMaxLines = 10
 
 # show/hide line numbers by default. Switch to `true` if you'd rather have them on.
 showLineNumbers = false
-enableCopyright = false
+enableCopyright = true
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
@@ -53,6 +53,3 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 [author]
   name = "Weru"
   url = "https://neuralvibes.com/author/"
-
-# Google Analytics 4
-# googleAnalytics = 'G-LYV1YN0FYF'

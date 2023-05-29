@@ -6,16 +6,16 @@ enableRobotsTXT = true
 #theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
  theme = ["compose","reveal-hugo"]
 enableGitInfo = true
-enableCopyright = true
-googleAnalytics = 'G-LYV1YN0FYF'
+
+#googleAnalytics = 'G-LYV1YN0FYF'
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [outputs]
   home = ["HTML", "RSS","JSON"]
   
-[markup.goldmark.renderer]
-unsafe = false
+#[markup.goldmark.renderer]
+#unsafe = false
 
 [outputFormats.Reveal]
 baseName = "reveal"
