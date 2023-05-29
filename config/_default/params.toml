@@ -17,7 +17,7 @@ codeMaxLines = 10
 
 # show/hide line numbers by default. Switch to `true` if you'd rather have them on.
 showLineNumbers = false
-enableCopyright = true
+enableCopyright = false
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
