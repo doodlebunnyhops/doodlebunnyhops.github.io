@@ -7,7 +7,7 @@ enableRobotsTXT = true
  theme = ["compose","reveal-hugo"]
 enableGitInfo = true
 
-#googleAnalytics = 'G-LYV1YN0FYF'
+googleAnalytics = 'G-LYV1YN0FYF'
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
