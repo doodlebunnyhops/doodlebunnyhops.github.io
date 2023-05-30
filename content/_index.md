@@ -7,11 +7,10 @@ enableCopyright = false
 
 +++
 
-<center><img src="/images/under_construction.png" alt="Paris"></center>
 
 # Can you solve the **Mystery** of Brookhaven?
 
-This is the unofficial guide to [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
+This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
 
 
