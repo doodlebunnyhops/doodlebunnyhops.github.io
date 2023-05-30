@@ -1,8 +1,9 @@
 ---
-title: "Mr.B Notes"
-weight: 30
+title: "Mr.B"
+weight: 2
 draft: true
 ---
+# Notes
 
 ## SOmething
 

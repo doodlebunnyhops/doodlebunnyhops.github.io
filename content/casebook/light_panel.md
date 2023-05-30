@@ -15,6 +15,10 @@ Here is an image of the panel with no lights activated.
 
 This table shows us what we do know so far. If a light has a link in it, we have the steps to enable it.
 
+{{< tip "warning" >}}
+If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
+{{< /tip >}}
+
 |||||||||||||
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [A01](#a01) | [A02](#a02) | [A03](#a03) | [A04](#a04) | [A05](#a05) | [A06](#a06) | [A07](#a07) | [A08](#a08) | [A09](#a09) | A10 | A11 | A12 |
