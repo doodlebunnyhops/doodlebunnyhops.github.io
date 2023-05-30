@@ -1,7 +1,7 @@
 ---
 title: "Message Board"
 weight: 2
----
+--- 
 
 There are 2 message boards in the quantum room. The first is always present, and the second??
 
