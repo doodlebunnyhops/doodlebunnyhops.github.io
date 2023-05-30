@@ -1,5 +1,6 @@
 ---
 title: "Bunker Messages"
+draft: true
 ---
 
 ## Something
