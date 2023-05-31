@@ -1,7 +1,7 @@
 ---
 title: "Tools"
 weight: 1
----
+--- 
 
 These are steps to grab a few items or enable a feature that you will need at some point during the mystery hunt.
 It's also recommended to have the following in your inventory at some point:
