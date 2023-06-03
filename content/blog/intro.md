@@ -18,15 +18,11 @@ I worked on this site after seeing a lot of consistent use of the [Google Doc](h
 
 With the doc's growth and more players wanting to help contribute I had to come up with a way to solve 2 problems.
 
-{{< tip >}}
-Make the experience of using the guide easier, for experienced investigators and new ones alike.
-{{< /tip >}}
 
-{{< tip >}}
-Provide a way for contributions to be _safely_ added.
-	
-Trolls make this hard... 
-{{< /tip >}}
+**1)** Make the experience of using the guide easier, for experienced investigators and new ones alike.
+
+**2)** Provide a way for contributions to be _safely_ added. Trolls make this hard... 
+
 
 **And I found a way!** 
 
