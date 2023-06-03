@@ -15,6 +15,8 @@ Here is an image of the panel with no lights activated.
 
 This table shows us what we do know so far. If a light has a link in it, we have the steps to enable it.
 
+_The exception here is X22(#x22) - we have a hint about it but no steps to activate it._
+
 {{< tip "warning" >}}
 If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
 {{< /tip >}}
@@ -26,7 +28,7 @@ If you're having a hard time seeing the rest of the table, click anywhere on the
 | [A25](#a25) | [A26](#a26) | [A27](#a27) | A28 | A29 | A30 | A31 | A32 | A33 | A34 | A35 | A36 |
 | [H02](#h02) | [H03](#h03) | [H04](#h04) | H05 | [H06](#h06) | [H07](#h07) | [H08](#h08) | [V08](#v08) | V09 | V10 | V11 | V12 |
 | [X01](#x01) | [X02](#x02) | X03 | X04 | X05 | X06 | X07 | X08 | X09 | X10 | X11 | X12 |
-| X13 | X14 | X15 | X16 | X17 | X18 | X19 | X20 | X21 | X22 | X23 | X24 |
+| X13 | X14 | X15 | X16 | X17 | X18 | X19 | X20 | X21 | [X22](#x22) | X23 | X24 |
 
 ---
 
@@ -199,3 +201,8 @@ If you're having a hard time seeing the rest of the table, click anywhere on the
 
 ## X02
 {{% content "light_panel/x02.md" %}}
+
+![horizontal-line](/images/green-line.png)
+
+## X22
+{{% content "light_panel/x22.md" %}}
