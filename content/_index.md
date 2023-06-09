@@ -17,15 +17,15 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
-
-
-{{< column >}}
-![Portal Thumbnail](/images/thumbnails/portal_update.png)
-{{< /column >}}
-
 ---
 
 ## Not sure where to get started?
 
 - [Lore](/lore) for steps uncovering secrets already found!
 - [CaseBook](/casebook) contains notes and observations found during investigations
+
+{{< column >}}
+![Portal Thumbnail](/images/thumbnails/portal_update.png)
+{{< /column >}}
+
+

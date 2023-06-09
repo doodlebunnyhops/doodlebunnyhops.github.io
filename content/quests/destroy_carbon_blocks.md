@@ -20,7 +20,10 @@
 	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](../../casebook/light_panel#v08)
 1. Go to the Secret X-ray Hideout Room in the Hospital. This isn't a necessary step but it does show you have spawned the carbon blocks properly that we will collect next.
 	1. Click on the blue button underneath the table
-	1. Quantum Message: 
+	1. Quantum Message Board 1 - Bottom Section: 
+			
+		`Power Online`
+	1. Quantum Message Board 2: 
 			
 		`TS LVL 2 [Mirrored Successfully] Carbon burn commencing`
 1. Destroy the blocks: 
