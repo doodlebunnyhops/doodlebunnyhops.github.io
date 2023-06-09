@@ -3,7 +3,7 @@ title: "Message Board"
 weight: 2
 --- 
 
-There are 2 message boards in the quantum room. The first is always present, and the second??
+There are 2 message boards in the quantum room. The first is always present, and the second appears once [Power Online](#power-online) is activated.
 
 ![horizontal-line](/images/green-line.png)
 
@@ -24,5 +24,10 @@ There are 2 message boards in the quantum room. The first is always present, and
 
 ## Carbon Burn Commencing
 {{% content "casebook/quantum/content/carbon_burn_commencing.md" %}}
+
+![horizontal-line](/images/green-line.png)
+
+## Power Online
+{{% content "casebook/quantum/content/power_online.md" %}}
 
 ![horizontal-line](/images/green-line.png)

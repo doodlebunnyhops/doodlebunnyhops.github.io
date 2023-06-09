@@ -21,7 +21,7 @@ Use a sleeping bag to look past the back wall.
 
 {{< slide transition="fade" transition-speed="slow" >}}
 
-Crystal Location #4:
+Carbon Location #4:
 
 Inside of the roof at the church. Go on top of the Church and place down a Sleeping Bag, or go inside and place the sleeping bag on the ceiling.
  
@@ -34,7 +34,7 @@ Inside of the roof at the church. Go on top of the Church and place down a Sleep
 
 {{< slide transition="fade" transition-speed="slow" >}}
 
-Crystal Location #5:
+Carbon Location #5:
 
 Near the Grocery Store, place a sleeping bag near the grass wall
  
