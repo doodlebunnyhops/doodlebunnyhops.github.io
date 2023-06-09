@@ -8,6 +8,7 @@ The **Agency Light Panel** is commonly looked at during investigations to see if
 It's located inside the Agency Bunker.
 
 Here is an image of the panel with no lights activated.
+
 ![Agency Light Panel Image](/images/bh/panel.jpg)
 
 ---
@@ -15,7 +16,7 @@ Here is an image of the panel with no lights activated.
 
 This table shows us what we do know so far. If a light has a link in it, we have the steps to enable it.
 
-_The exception here is X22(#x22) - we have a hint about it but no steps to activate it._
+_The exception here is [X22](#x22) - we have a hint about it but no steps to activate it._
 
 {{< tip "warning" >}}
 If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
