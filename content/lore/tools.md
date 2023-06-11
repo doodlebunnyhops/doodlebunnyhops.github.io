@@ -3,15 +3,15 @@ title: "Tools"
 weight: 1
 --- 
 
-These are steps to grab a few items or enable a feature that you will need at some point during the mystery hunt.
+These are steps to grab a few items that will help reveal hints.
 It's also recommended to have the following in your inventory at some point:
 
 - Sleeping Bag
 - Ladder
 - Shovel
 - Hammer
-- Binoculars
-- Laptop
+- [Laptop](#connect-laptop) *
+- [Binoculars](#binoculars) *
 
 ![horizontal-line](/images/green-line.png)
 
