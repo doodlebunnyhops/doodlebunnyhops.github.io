@@ -10,7 +10,7 @@
 1. In the Town Hall
 	1. Turn the High Voltage switch on: [A06](../../casebook/light_panel#a06)
 	1. Make sure danger switch is off
-	1. Laptop Message: 
+	1. Bunker Message: 
 	
 		`Power Configured to crystals`
 	1. With proper switches on and off plus Crystals found unlocks [A17](../../casebook/light_panel#a17)
