@@ -1,6 +1,7 @@
 ---
 title: "School"
 weight: 1
+draft: true
 --- 
 
 ## Where is it
