@@ -19,13 +19,15 @@ Did you know when viewing home cams, if the church bell has never been rung, loo
 
 #### Known locations doves appear at:
 
-1. **Horse Stables**: perched on fence and the Energy Pyramid spawns by hay (teleport by going to Gold Ranch) 
+1. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
 2. **Hotel**: Spawns in the Storage Closet in the office. 
-3. **Mall**: Spawns inside of the Mall behind the TV in Rosie's Gym 
-4. **Town Hall**: Doves are in the Tree between the Town Hall and The Fire Station and the Energy Pyramid spawns on the ground next to the tree 
-5. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
-6. **Cabin**: Doves spawn on the corner of the Cabin Roof that's closest to the Subway Station and the Energy Pyramid spawns behind a tree behind a big Gray Rock on the left side of the cabin 
+3. **Rosie's Gym**: Spawns inside of the Mall behind the TV in Rosie's Gym upstairs.
+4. **Town Hall**: Doves are on the upstairs balcony of Town Hall. The Energy Pyramid spawns on the ground next to the tree between Town Hall and the Fire Station.
+5. **Horse Stables**: perched on fence and the Energy Pyramid spawns by hay (teleport by going to Gold Ranch for faster travels!) 
+6. **Cabin**: Doves spawn on the top of the Cabin Roof and the Energy Pyramid spawns behind a tree near a big Gray Rock on the left side of the cabin 
 
 
 >**Laptop Message** After the Energy Pyramid is obtained:
 >_The crystal will help you see through deception. (Mr. B)_
+
+Want more details on Energy Crystals? There's a [casebook]({{< ref "/casebook/energy_pyramids" >}})!
