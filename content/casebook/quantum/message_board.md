@@ -31,3 +31,10 @@ There are 2 message boards in the quantum room. The first is always present, and
 {{% content "casebook/quantum/content/power_online.md" %}}
 
 ![horizontal-line](/images/green-line.png)
+
+
+## First Messages
+{{% content "casebook/quantum/content/first_messages.md" %}}
+ 
+
+![horizontal-line](/images/green-line.png)

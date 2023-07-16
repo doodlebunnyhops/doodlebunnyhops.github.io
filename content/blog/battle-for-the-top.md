@@ -12,7 +12,7 @@ Congrats Wolfpaq and team!!
 
 [See Rolimon's announcemnt here](https://twitter.com/rolimons/status/1680368948632780800?s=46&t=R-EL4-xfJDAuRdFMpQpEdw)
 
- _Update 2023-07-15 20:09pm EST_
+ ^_Update 2023-07-15 20:09pm EST_
 
  
 ---

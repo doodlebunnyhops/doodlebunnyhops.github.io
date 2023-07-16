@@ -10,6 +10,9 @@ enableGitInfo = true
 googleAnalytics = 'G-LYV1YN0FYF'
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["sitemap"]
+[sitemap]
+  filename = "content/sitemap.xml"
 
 [outputs]
   home = ["HTML", "RSS","JSON"]

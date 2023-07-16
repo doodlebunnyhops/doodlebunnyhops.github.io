@@ -4,6 +4,8 @@ title: The Unoffical Guide
 theme: compose
 enableRobotsTXT: true
 enableGitInfo: true
+disableKinds:
+- sitemap
 
 
 outputs:
