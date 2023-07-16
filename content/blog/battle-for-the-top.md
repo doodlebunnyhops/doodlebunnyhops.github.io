@@ -2,10 +2,20 @@
 author: "BloominDaisy"
 date: 2023-07-15
 title: "Battle of the most visited!"
-image: https://pbs.twimg.com/media/F1G2MqkWYAA5e8G?format=jpg&name=small
+image: https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
 description: "Brookhaven Update"
 ---
 
+BROOKHAVEN TOP VISITED ROBLOX EXPERIENCE!
+
+Congrats Wolfpaq and team!!
+
+[See Rolimon's announcemnt here](https://twitter.com/rolimons/status/1680368948632780800?s=46&t=R-EL4-xfJDAuRdFMpQpEdw)
+
+ _Update 2023-07-15 20:09pm EST_
+
+ 
+---
 Brookhaven RP is neck and neck for top most visited Roblox Experience!
 
 ---
