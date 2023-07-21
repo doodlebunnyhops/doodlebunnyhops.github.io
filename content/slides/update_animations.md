@@ -10,7 +10,7 @@ layout = "list"
 
 ![New House](/images/bh/new-house-loaded.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -19,7 +19,7 @@ layout = "list"
 
 ![Street Sweeper Vehicle](/images/bh/new-car-working.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -28,7 +28,7 @@ layout = "list"
 
 ![Playable Arcade Prop](/images/bh/arcade-prop.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -37,7 +37,7 @@ layout = "list"
 
 ![Military Tent Prop](/images/bh/playhouse-prop-military-option.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -46,7 +46,7 @@ layout = "list"
 
 ![Some New Animations](/images/bh/animations.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -56,7 +56,7 @@ layout = "list"
 Notice the tiny button on the bottom :D
 ![New Settings Button](/images/bh/settings.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
@@ -65,7 +65,7 @@ Notice the tiny button on the bottom :D
 
 ![Baby in Car feature](/images/bh/baby-in-car.jpg)
 
-[Back to steps]({{< ref "blog/animations" >}})
+[Back to Blog]({{< ref "blog/animations" >}})
 
 
 ---
