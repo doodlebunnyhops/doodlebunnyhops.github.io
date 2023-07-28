@@ -1,9 +1,3 @@
----
-title: "Definitions"
-weight: 0
----
-
----
 
 #### Agency Bunker
 
@@ -35,7 +29,7 @@ weight: 0
 ---
 #### Electricity Building
 >Near the South East side of Brookhaven by Solar Panels.
->Offically named Brookhaven Electric
+>Officially named Brookhaven Electric
 ---
 #### Electricity Message
 >Message Board inside the Electricity Building
