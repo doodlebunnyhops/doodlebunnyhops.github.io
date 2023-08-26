@@ -37,7 +37,7 @@ Lets build stuff!
 			`Hydrogen beam excelerator complete: [A16] activated`
 
 {{< tip "warning" >}}
-If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. It's unclear what causes this message to appear.
+If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. This means it has already been clicked and the boxes are still behind the Agency Bunker.
 ![Red Book Location](/images/bh/build_portal_error.jpg)
 {{<  /tip >}}
 
