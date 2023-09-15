@@ -1,7 +1,7 @@
 ---
 title: "CaseBook"
 weight: 2
----
+--- 
 
 Notes and observations found during investigations.
 
@@ -9,8 +9,8 @@ Notes and observations found during investigations.
 - [Energy Pyramids](energy_pyramids)
 - [Movie Codes](movie_codes)
 - [Quantum Room](quantum)
-	- [Window Messages](window_messages)
-	- [Message Board](message_board)
-	- [Mysterious Steam](steam)
+	- [Window Messages](quantum/window_messages)
+	- [Message Board](quantum/message_board)
+	- [Mysterious Steam](quantum/steam)
 
 ![Collage of notes](/images/bh/collage.png)

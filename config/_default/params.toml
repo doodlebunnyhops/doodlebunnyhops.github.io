@@ -27,7 +27,7 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 # search
 [search]
 on = true
-global = false # turn to `true` to enable global search
+global = true # turn to `true` to enable global search
 [search.algolia]
 enable = false # if false search will default to fusejs
 id = "Q40WQQX84U" # Application ID

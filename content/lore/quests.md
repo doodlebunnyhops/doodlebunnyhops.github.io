@@ -12,67 +12,433 @@ Notes and messages found along the way are in our [CaseBook](../../casebook) for
 ![horizontal-line](/images/green-line.png)
  
 ## Find 7 Crystals
-{{% content "quests/find_7_crystals.md" %}}
+We are an a quest to find 7 crystals!
+
+{{< youtube "O2qx41jY-tI" >}}
+
+
+{{< tip >}}
+**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}}  )
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Head to the Abandoned House
+2. Click on the button between the Fridge and the Counter
+	1. _7 Crystals Released_: [A19](../../casebook/light_panel#a19) Activated
+	2. Laptop:
+	
+		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
+3. Collect the crystals in this order: [Images of some locations]({{< ref "slides/find_7_crystals_slide" >}})
+	1. The Crystal on top of the Hospital Roof
+	2. Inside the Church behind a plant
+	3. In the Abandoned House between the wall and the counter
+	4. At the Bend at the Highway next to Blackhawk Community sign near Houses #13 and #14
+	5. Inside of the Horse Stable, middle room behind the hay (not the barn)
+	6. North Estate, left hand side that's just over the tunnel - in the brown dirt.
+	7. In the Barn behind the hay on the first level.
+4. _Energy crystals awaiting power_
+	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
+	2. [A20](../../casebook/light_panel#a20) now activated
+
+
+{{< tip >}}	
+After you have finished collecting all crystals, if you return to the Quantum Room, upon exiting you will hear a high pitch chirp that will TP you again to Paradise Falls
+{{< /tip >}}
 
 ![horizontal-line](/images/green-line.png)
 
 ## School Base
-{{% content "quests/school_base.md" %}}
+
+{{< tip >}}
+
+**Requirements** : [Find 7 Crystals]({{< ref "lore/quests#find-7-crystals" >}}  )
+{{< /tip >}}
+
+**Steps:**
+
+1. In the Town Hall
+	1. Turn the High Voltage switch on: [A06](../../casebook/light_panel#a06)
+	1. Make sure danger switch is off
+	1. Bunker Message: 
+	
+		`Power Configured to crystals`
+	1. With proper switches on and off plus Crystals found unlocks [A17](../../casebook/light_panel#a17)
+2. Go to the School and look on the Plants for a code
+	1. Sometimes the code is on the leafs or the pot (example code: 48989)
+	2. Commonly found in
+		1. Science Room
+		2. Plant by gym (on the pot)
+		3. English Room
+		4. Large plant upstairs in study area
+3. Use code in School Base.
+	1. [A14](../../casebook/light_panel#a14) is now activated. You will see the following message on the school base board:
+	
+	`Coordinates approved. A(x1,y1) and B(x2,y2)`
+	
+
 
 ![horizontal-line](/images/green-line.png)
 
 ## Mystery Alien
-{{% content "quests/mystery_alien.md" %}}
+
+{{< youtube "Ez6vK6Ve2Wc?t=19" >}}
+
+{{< tip >}}
+
+**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}})
+
+**Items Needed** : Sleeping bag
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Go to the hidden XRay Room in the Hospital
+	1. Click on the Scalpel behind the false wall in the XRay Room behind the cabinet.
+2. Then go to the Agency Experimentation Site
+	1. Click on the button found underneath the Surgery Table to turn the lights on
+	2. Sit in the chair on the right under "Experimental" and get slimmed!
+3. Go to the mall:
+	1. Turn on the left switch in the TV Station (behind the wall use a sleeping bag)
+		1. This activates [A27](../../casebook/light_panel#a27)
+		1. Laptop
+		
+			`Please do as you are told, the Agency knows what's best for you! (Agency)`
+		2. Bunker Message:
+		
+			`In darkness: [A27]activated`
+4. Back at Agency Experimentation Site you can now Electrocute the Alien in the Tube
+
+
 
 ![horizontal-line](/images/green-line.png)
 
 ## Electric Building
-{{% content "quests/electric_building.md" %}}
+
+{{< tip >}}
+
+**Requirements** : [Blue Key Card]({{< ref "lore/special_tools#blue-key-card" >}}  )
+{{< /tip >}}
+
+[Helpful Images]({{< ref "slides/electric_building_slide.md" >}})
+
+**Steps:**
+
+1. Go to Brookhaven Electric, near South Estate and Solar Panels.
+	1. [Check Map](/images/map/map-bh-electric.svg) if you're not sure where that is.
+2. Use the Blue Key card to enter Electric Building
+	1. Brookhaven Electric Message displays: `Temperature Stable`
+3. Click on the Blue Panel on the left
+4. Blue panel password: Your roblox username (not in game name if changed)
+	1. Activates [A02](../../casebook/light_panel#a02)
+	1. Brookhaven Electric Message displays: `Low voltage. Mainframe unavailable...`
+5. Turn on right switch: Activates [A03](../../casebook/light_panel#a03)
+	1. Bunker Message now reads: `Brookhaven Electric main power on`
+
+{{< tip "warning" >}}	
+Brookhaven Electric message could be different if Town hall Power switches have been touched before entering the Electric Building!
+Example: `Low voltage. Mainframe unavailable...`
+{{< /tip >}}
+
 
 ![horizontal-line](/images/green-line.png)
 
 ## Destroy Carbon Blocks
-{{% content "quests/destroy_carbon_blocks.md" %}} 
+
+{{< youtube "3ZVlAgJNryE" >}}
+
+{{< tip >}}
+
+**Requirements** : [Electric Building]({{< ref "lore/quests#electric-building" >}}  )
+
+**Items Needed** : Sleeping bag, Ladder
+{{< /tip >}}
+
+
+
+**Steps:**
+
+[Helpful images during this quest]({{< ref "slides/destroy_carbon_blocks_slide" >}})
+
+1. Click on the Camera on the mountain near Madison Lake: Activates [A09](../../casebook/light_panel#a09)
+1. Go to the Town Hall
+	1. Turn on the Danger switch Activates [A01](../../casebook/light_panel#a01) and make sure High Voltage is off
+	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](../../casebook/light_panel#v08)
+1. Go to the Secret X-ray Hideout Room in the Hospital. This isn't a necessary step but it does show you have spawned the carbon blocks properly that we will collect next.
+	1. Click on the blue button underneath the table
+	1. Quantum Message Board 1 - Bottom Section: 
+			
+		`Power Online`
+	1. Quantum Message Board 2: 
+			
+		`TS LVL 2 [Mirrored Successfully] Carbon burn commencing`
+1. Destroy the blocks: 
+	1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
+	2. Place down a sleeping bag near the right wall in **arcade**
+	3. Place down a sleeping bag near the left wall in **bank**
+	4. Inside of the roof at the **church** (go on top of the Church and place down a Sleeping Bag.)
+	5. Near the Grocery Store, place a sleeping bag near the **grass wall**
+	6. In **movie theater** hallway, use sleeping bag at the bottom right of the door and movie banner
+	7. Go to the **Swimming pool's secret** room.
+1. On completion you will teleport to the Arch by the Barn and your Right Hand will glow Black
+	1. Laptop:
+	
+		`You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)`
+	2. Activates [A21](../../casebook/light_panel#a21)
+
+
+{{< tip >}}	
+After destroying all carbon blocks, if you return to the Quantum room, upon exiting you will be TPd to the portal area. Doesn't work if you have the yellow glow hand, only black glow. The Glow will disappear after sometime and you will be teleported to the normal location.
+{{< /tip >}}
+
+{{< tip "warning" >}}	
+If you get this Error Message when trying to summon the Carbon Block in the Quantum Room, make sure the valves are in the correct direction in the Town Hall:
+- High Voltage is **off**
+- Danger is **on**
+
+![Low Voltage Error Msssage](/images/bh/carbon_block_low_voltage.jpg)
+{{< /tip >}}	
 
 ![horizontal-line](/images/green-line.png)
 
 ## Build Portal
-{{% content "quests/build_portal.md" %}}
+Lets build stuff!
+{{< youtube "Mecnd2D7cWA" >}}
+
+{{< tip >}}
+
+**Requirements** : [The Red Book]({{< ref "lore/special_tools#the-red-book" >}})
+
+**Items Needed** : Hammer, optional Binoculars
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Go to the hotel - it should look run down (it's from the future)
+	1. Click on the book underneath the table
+	2. Click on the frame of the empty picture by the door
+	3. Click on the button found behind the bedside table
+		1. Activates [X02](../../casebook/light_panel#x02)
+		1. Laptop
+		
+			`The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}`
+		
+		2. Bunker Message
+		
+			`The Book power unveiled [Follow]: [X02] activated`
+		
+		3. Notice the [device on the floor]({{< ref "slides/build_portal_slide" >}}) tells us what year we are in _Manufactured in Brookhaven: 2028_
+		4. There is a message behind the White Chair on the left side:
+		
+			`The Book will tell you what to do next, follow its lead and do not think for yourself. In the future as we recruit from the common, be mindful of double agents.`
+2. Go to the Agency Base
+	1. Behind the Agency Base you should see boxes, use the Hammer on them until they have all disappeared. \*Hit F to type 3 so you hear a hitting sound\*
+	2. When completed you will briefly see an orb
+		1. Activates [A16](../../casebook/light_panel#a16)
+		1. Bunker Message: \*note excelerator is misspelled should it be accelerator?\*
+		
+			`Hydrogen beam excelerator complete: [A16] activated`
+
+{{< tip "warning" >}}
+If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. This means it has already been clicked and the boxes are still behind the Agency Bunker.
+![Red Book Location](/images/bh/build_portal_error.jpg)
+{{<  /tip >}}
+
+
 
 ![horizontal-line](/images/green-line.png)
 
 ## Monoliths
-{{% content "quests/monoliths.md" %}}
+
+{{< youtube "Ez6vK6Ve2Wc?t=150" >}}
+
+{{< tip >}}
+
+**Requirements** : [The Red Book]({{< ref "lore/special_tools#the-red-book" >}}  )
+{{< /tip >}}
+
+
+**Steps:**
+
+
+1. Go to the Upstairs Bedroom in the Haunted House, there’s a fall through floor 
+1. Sit on the Blue Chair
+	- Laptop
+
+		`“We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)`
+	- This Activates [A18](../../casebook/light_panel#a18)
+	- Notice the interesting script on the Guillotine
+	
+		![monolith scripture](/images/bh/monolith_scripture.jpg)
+	
+{{< tip >}}
+[Click here]({{< ref "slides/monolith_slide" >}}) for images of all monolith locations
+{{<  /tip >}}
 
 ![horizontal-line](/images/green-line.png)
 
 ## Ghostly Sighting
-{{% content "quests/ghostly_sighting.md" %}}
+There's a ghost in the museum!
+
+{{< youtube "QYFuIAZ9VFY" >}}
+
+{{< tip >}}
+**Requirements** : [The Red Book]({{< ref "lore/special_tools#the-red-book" >}})
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Go to building above Mail & Packages
+	1. If it's not already converted, change the room to "Museum"
+	1. With the Red Book in hand, approach the display that looks like a stand - it will glow red!
+	1. You will see a ghost and the text appear below the pictures by the ghost
+ "Greed" and "Fear"
+	1. Once you have activated the Ghostly Sighting - head to the grave yard
+		1. Notice the grave that says "Let me out". If someone changed the headstone it's the one that you can fall into.
+			The back now says "Creator of Agency"
+		1. [Youtube link](https://youtu.be/UYFZXVKLlHk) to show how to step through this
+
 
 ![horizontal-line](/images/green-line.png)
 
 ## Glowing Chair
-{{% content "quests/glowing_chair.md" %}}
+A glowing figure appears in the abandoned house!
+
+{{< youtube "QYFuIAZ9VFY" >}}
+
+{{< tip >}}
+**Requirements** : [Rod Under the Arch]({{< ref "lore/special_tools#rod-under-the-arch" >}})
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Go to the building above Mail & Packages
+	1. If it's not already converted, change the room to "Museum"
+2. With the Rod in your hand approach the Energy Pyramid Display
+	1. You should hear a chime and see the display glow yellowish.
+3. Notice the words under the Pictures and the highlighted picture of the Arch
+ 
+	`Says "Brave" and "Kind"`	
+4. Head to the Abandoned House by the Airport Runway
+	1. You will see an interesting glowing figure sitting in a chair.
 
 ![horizontal-line](/images/green-line.png)
 
 ## Rod in the Police Station
-{{% content "quests/rod_in_policestation.md" %}}
+The rod becomes clickable after an action but...
+
+{{< tip >}}
+
+**Requirements** : [Energy Pyramid]({{< ref "lore/special_tools#energy-pyramid" >}})
+
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Complete steps 1 & 2 of [Rod Under The Arch]({{< ref "lore/special_tools#rod-under-the-arch" >}})
+2. Go to the Hidden Room in the Jail Cells on the top of the Bunk-bed and through the vent and on the right side in the Police Station.
+  1. Activates [A07]({{< ref "casebook/light_panel#a07" >}})
+3. You should now be able to click on the Rod and see a message saying
+
+	`Power Expired`
 
 ![horizontal-line](/images/green-line.png)
 
 ## Frat House
-{{% content "quests/frat_house.md" %}}
+
+Unlocks the Blue Keypad in the Agency Bunker
+
+`Recommended starting the video at 1m:17sec`
+{{< youtube "gysIfNUKpbw" >}}
+
+{{< tip >}}
+**Requirements** : None
+{{< /tip >}}
+
+**Steps:**
+
+1. Go into the Basement Library of the Frat House and go through the secret entrance to Sub-Basement
+2. With a laptop in your hand, sit on all 4 chairs, not the one behind the table.
+3. Now you should be able to click on the button found on the column to the right of the table/chair: Activates [H02](../../casebook/light_panel#h02)
+4. There is now a secret wall on the other end, drop down.
+5. Click on the laptop: Activates [H03](../../casebook/light_panel#h03)
 
 ![horizontal-line](/images/green-line.png)
 
 ## Chair Room
-{{% content "quests/chair_room.md" %}}
+
+There's a secret room behind the Agency Base... what's it for?
+
+{{< youtube "Mecnd2D7cWA?t=376" >}}
+
+{{< tip >}}
+
+**Requirements** : 
+
+- [Frat House]({{< ref "lore/quests#frat-house" >}})
+- [What's the password]({{< ref "lore/special_tools#whats-the-password" >}})
+	- This isn't a hard requirement that we know of since we already know the password.
+
+
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Make sure the Agency Base lights are off. Activates [A08](../../casebook/light_panel#a08)
+2. Put the password in the Agency Base Keypad. The Password is **Marcus Brookhaven**
+	1. Opens the door to the Chair Room, notice the power is off
+	1. Activates [A26](../../casebook/light_panel#a26)
+	1. Bunker Message now reads:
+ 
+		`Inferential delusion mechanism available: A26 activated`
+
+ 
+{{< tip "warning" >}}
+If Bunker Message reads:
+
+`Signal disruption: A08 needed to unlock mechanism`
+
+ Then turn Agency bunker lights off and put password in again
+{{<  /tip >}}
 
 ![horizontal-line](/images/green-line.png)
 
 ## Plant House
-{{% content "quests/plant_house.md" %}}
+There's something special that reveals a hidden message
+
+{{< youtube "Ez6vK6Ve2Wc?t=227" >}}
+
+{{< tip >}}
+**Requirements** : None
+{{< /tip >}}
+
+
+**Steps:**
+
+1. Spawn in the Plant House
+2. In the Basement Area - click on the Green Plant Book
+	1. Activates [H06](../../casebook/light_panel#h06)
+	1. Bunker Message:
+ 
+		`Plant Quantum Saved: [H06]`
+		
+3. Quantum Room has new message on one of the "windows":
+
+	`Seek the bottom of a hill to find the dirt that once was filled`
+
+	1. Hint is likely telling us to "Go to a graveyard".
+
+		>When you seek the bottom of a hill, you are descending to lower ground. The "dirt that once was filled" refers to the soil that was once in the spot where the hole is now. By digging a hole, you can uncover the dirt that was displaced or removed from its original location, leaving a hole in the ground. Therefore, seeking the bottom of a hill leads you to a hole where you can find the dirt that was once there.
+
+
+
 
 ![horizontal-line](/images/green-line.png)
  

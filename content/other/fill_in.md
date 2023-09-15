@@ -1,3 +1,0 @@
-General questions about the site, maybe you aren't sure how to navigate around. Let us know if you have website [Questions](https://github.com/doodlebunnyhops/doodlebunnyhops.github.io/issues/new?assignees=doodlebunnyhops&labels=question&projects=&template=question.md&title=%5BQuestion%5D)!
-
-For questions about the game or discuss idea's about secrets checkout the [Discord](/contribute/discord) section.

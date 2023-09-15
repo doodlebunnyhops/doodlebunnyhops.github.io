@@ -1,6 +1,7 @@
 ---
 title: "Points of Interest"
 weight: 2
+draft: true
 --- 
 
 

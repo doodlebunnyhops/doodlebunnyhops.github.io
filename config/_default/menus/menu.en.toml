@@ -23,7 +23,7 @@
 [[main]]
   name = "Terminology"
   weight = 4
-  url = "terminology/"
+  url = "terminology/words"
 [[main]]
   name = "Blog"
   weight = 5
