@@ -11,7 +11,7 @@ This Crow spawns around 7am behind the barn near the scarecrow.
 
 ![scarecrow](/images/bh/green_key_card-scarecrow.jpg)
 
-[Back to steps]({{< ref "lore/tools#green-key-card" >}})
+[Back to steps]({{< ref "lore/special_tools#green-key-card" >}})
 
 ---
 
@@ -22,7 +22,7 @@ This Crow spawns around 7:30am on top of the Barn.
 
 ![crow 1](/images/bh/green_key_card-crow1.jpg)
 
-[Back to steps]({{< ref "lore/tools#green-key-card" >}})
+[Back to steps]({{< ref "lore/special_tools#green-key-card" >}})
 
 ---
 
@@ -33,7 +33,7 @@ This Crow spawns around 8am by the light post.
 
 ![crow 2](/images/bh/green_key_card-crow2.jpg)
 
-[Back to steps]({{< ref "lore/tools#green-key-card" >}})
+[Back to steps]({{< ref "lore/special_tools#green-key-card" >}})
 
 ---
 
@@ -44,4 +44,4 @@ This Crow spawns around 8:30am by the fence. When this crow appears it is time t
 
 ![crow 3](/images/bh/green_key_card-crow3.jpg)
 
-[Back to steps]({{< ref "lore/tools#green-key-card" >}})
+[Back to steps]({{< ref "lore/special_tools#green-key-card" >}})
