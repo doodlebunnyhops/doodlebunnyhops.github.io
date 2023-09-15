@@ -699,7 +699,7 @@ Gotta cool off the power supply
 **Steps:**
 
 1. At Town Hall - inside City Water & Power
-2. Turn Water Valves 2,3 and 4 (where counting 1-5 from left to right)
+2. Turn On Water Valves 2,3 and 4 (where counting 1-5 from left to right)
 	1. Activates V08
 
 >If you activate V08 and then suddenly a Valve Error Message appears, make sure that the Town Hall Water Valves are facing the right way, after turning them back to the correct place, V08 will be turned back on.

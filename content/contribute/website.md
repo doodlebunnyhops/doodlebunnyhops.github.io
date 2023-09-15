@@ -14,7 +14,7 @@ Head on over to [this sites repo](https://github.com/doodlebunnyhops/doodlebunny
 ![horizontal-line](/images/green-line.png)
 
 
-## Types of requests
+## ~_~_~Types of requests~_~_~
 Currently we expect 3 types of issues to come in.
 
 
@@ -37,7 +37,7 @@ For questions about the game or discuss idea's about secrets checkout the [Disco
 ![horizontal-line](/images/green-line.png)
 
 
-## How to submit Request
+## ~_~_~How to submit Request~_~_~
 **Remember using git issues requires a git account**
 - [Select Type](/contribute/website/#select-which-type-you-want-to-submit)
 - [Fill it in](/contribute/website/#fill-it-in)

@@ -35,7 +35,8 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 
 **Steps:**
 
-1. In this house[^1], go to the Attic and grab the Crystal
+1. In this house, go to the Attic and grab the Crystal
+	- ![h04-house](/images/bh/h04-house.jpg)
 	- Should get a sync failed message on your computer
 	- Activates [H04](../../casebook/light_panel#h04)
 1. Click the button on the top of the Church Roof.
@@ -52,11 +53,6 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 ![Paradise Falls Crystal](/images/bh/paradise-falls-crystal-2in.jpg)
 
 - The crystal in the blue apartment (penthouse gamepass) can also be clicked but does not unlock the button on top of the Church Roof.
-
-
-**Connect Computer References:**
-[^1]: ![h04-house](/images/bh/h04-house.jpg)
-
 
 
 ![horizontal-line](/images/green-line.png)

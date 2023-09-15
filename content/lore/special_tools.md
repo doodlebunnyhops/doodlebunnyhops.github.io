@@ -115,16 +115,15 @@ An interesting glowing pyramid object believed to have energy within it.
 Did you know when viewing home cams, if the church bell has never been rung, looking at the Gold Ranch view will show the bush area next to the barn. When you ring the church bells, it will move the camera for home cams to look at the stables \<- which makes it really easy to see if the Energy Pyramid has spawned there.
 {{< /tip >}}
 
+<h3>Steps:</h3>
 
-### **Steps:**
-
-#### Summon Doves:
+<h4>Summon Doves:</h4>
 
 1. Ring the bell at the Church (Teleport by going to house #22 or #17 to get to the church quickly)
   1. Bunker Message will now read: "Enemy signal Detected: A22"
   2. This wakes up the doves - now look in one of these locations for the Energy Pyramid
 
-#### Known locations doves appear at:
+<h4>Known locations doves appear at:</h4>
 
 1. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
 2. **Hotel**: Spawns in the Storage Closet in the office. 
@@ -155,12 +154,12 @@ Find the hidden password
 
 **Steps:**
 
-1. Go to this house[^1]
+1. Go to this house
+	- ![House needed for this task](/images/bh/whats-the-password-house.jpg)
 2. Go to the Second Floor and then go to the Bedroom where the Vault is
 3. The open closet actually has a secret ladder - climb up
 4. Click on the Energy Pyramid to reveal the secret used on the Blue Keypad in the Agency Bunker (must have the Energy Pyramid item)
 
-[^1]: ![House needed for this task](/images/bh/whats-the-password-house.jpg)
  
 ![horizontal-line](/images/green-line.png)
  
