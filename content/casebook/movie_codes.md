@@ -83,6 +83,8 @@ Note that switch **3** is missing... do we need to find it?
 ## Special Lights
 You will notice that after watching a movie clip, that some dots on the Agency [Bunker Board ](../../terminology/words#bunker-board)will turn green.
 
+There is one action that is not movie related so it may seem other things can turn these lights on but have yet to be discovered.
+
 ![Agency Bunker Message Panel](/images/bh/bunker_message_panel.jpg)
 
 From left to right we know the following triggers:
