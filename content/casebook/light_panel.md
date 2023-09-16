@@ -534,7 +534,7 @@ No known Quest uses this trigger
 ![horizontal-line](/images/green-line.png)
 
 ## A27
-**In Darkness**
+**In Darkness / See-Through**
 
 Unlocks ability to Electrocute the Alien
 
@@ -543,6 +543,8 @@ Unlocks ability to Electrocute the Alien
 >- [Mystery Alien]({{< ref "lore/quests#mystery-alien" >}})
 
 >**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}})
+
+<h3>Activating</h3>
 
 **Steps:**
 
@@ -560,6 +562,17 @@ Unlocks ability to Electrocute the Alien
  
 			`In darkness: A27 activated`
 4. Back at [Agency Experimentation Site]() you can now Electrocute the Alien in the tube
+
+<h3>Deactivating</h3>
+
+**Steps:**
+
+1. Turn the switch off in the hidden room behind the TV Station in the mall from earlier.
+	1. Bunker Message:
+	
+		`See-through / (Crystal) :A27`
+		
+		![See-Through Crystal A27 deactivated](/images/bh/a27_deactivated.jpg)
 
 
 ![horizontal-line](/images/green-line.png)
