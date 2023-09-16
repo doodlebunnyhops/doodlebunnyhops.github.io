@@ -12,5 +12,11 @@ Notes and observations found during investigations.
 	- [Window Messages](quantum/window_messages)
 	- [Message Board](quantum/message_board)
 	- [Mysterious Steam](quantum/steam)
+- [Notes](notes)
+	- [Secret Agency](notes/agency)
+	- [Mr. B](notes/mrb)
+	- [Mr. Brookhaven](notes/mrbookhaven)
+	- [Madison](notes/madison)
+	- [Other](notes/other)
 
 ![Collage of notes](/images/bh/collage.png)

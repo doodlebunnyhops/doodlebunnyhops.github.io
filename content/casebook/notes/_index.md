@@ -1,11 +1,13 @@
 ---
 title: "~~Notes~~"
-weight: 20
-draft: true
+weight: 30
+draft: false
 ---
 
-A lot of notes
+Collection of notes found throughout town.
 
-## More Notes
-
-## Even More Notes
+- [Secret Agency](agency)
+- [Mr. B](mrb)
+- [Mr. Brookhaven](mrbrookhaven)
+- [Madison](madison)
+- [Other](other)

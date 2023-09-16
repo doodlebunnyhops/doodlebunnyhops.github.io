@@ -1,6 +1,6 @@
 ---
 title: "~~Quantum Room~~"
-weight: 40
+weight: 20
 ---
 
 There is a lot to observe in the Quantum Room. Here's a breakdown of some things noted:
