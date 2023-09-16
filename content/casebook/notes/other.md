@@ -69,3 +69,23 @@ draft: false
 ![Note in Bakery Attic. The sound stretches across the town.](/images/bh/other_bakery_note.jpg) 
 
 ![horizontal-line](/images/green-line.png)
+
+## Operation REDRIVER
+
+{{< tip >}}
+**Requirements** : None
+{{< /tip >}}
+
+**Steps:**
+
+1. Go to the Secret Room hidden behind the Xray Room in the Hospital, look at the note on the table
+
+![Note in Secret XRAY Room reads Operation REDRIVER Terminated](/images/bh/operation_red_river_note.jpg) 
+
+{{< tip >}}
+Is it pronounced `red river` or `re driver`?
+[Officially](https://discord.com/channels/482308357248647177/870010373976236052/1105193056317218856) it is pronounced Red River
+![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.jpg)
+{{< /tip >}}
+
+![horizontal-line](/images/green-line.png)
