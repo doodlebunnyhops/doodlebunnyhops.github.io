@@ -54,10 +54,30 @@ This blue key card gives us access to **Brookhaven Electric**
 3. Grab the Blue Key card behind the cabinet
 
 
-{{< tip >}}
-Feeling a little lost? Checkout these pics or the yt link above to help.
-[Helpful Images]({{< ref "slides/blue_key_card_slide" >}})
-{{< /tip >}}
+{{< tabs "tabsId" >}}
+{{< tab "Vent Location" >}}
+Jump inside the police vent
+
+![Police Cell Room to jump into vent](/images/bh/blue-key-card-cell.jpg)
+{{< /tab >}}
+
+{{< tab "False Wall" >}}
+Hidden wall to find a secret room above police station.
+
+Notice the avatar is halfway through the wall - this is the entrance to the hidden room.
+
+![Device in Future Hotel Room](/images/bh/blue-key-card-wall.jpg)
+{{< /tab >}}
+
+{{< tab "Blue Key Card" >}}
+Blue Key Card is behind the cabinet.
+
+![Device in Future Hotel Room](/images/bh/blue-key-card-cabinet.jpg)
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
  
 ![horizontal-line](/images/green-line.png)
  
@@ -191,11 +211,36 @@ The green card does _something_...
 	- These steps are the A15 code, it only lights up on the Agency Bunker panel during a specific time.
 2. Message from Laptop: 
 
-	>Use this key wisely, it may open something you are not ready to see. (Mr. B)
+	`Use this key wisely, it may open something you are not ready to see. (Mr. B)`
 3. Swipe card next to Bunker Panel:
-	- At Agency Bunker use green key card next to the panel; the light will turn from White to Blue and bunker message will show "Key card accepted"
-	- This unlocks the button under the table in the Agency Bunker
+	- At Agency Bunker use green key card next to the panel; the light will turn from White to Blue and bunker message will show `Key card accepted`
+	- This unlocks the button under the table in the Agency Bunker.
+		- The button doesn't seem to do anything _yet_.
 
-{{< tip >}}
-Having a hard time knowing exactly where the crows are? Checkout these [Helpful Images]({{< ref "slides/green_key_card_slide" >}})!
-{{< /tip >}}
+{{< tabs "tabID" >}}
+
+{{< tab "Crow 1" >}}
+This Crow spawns around 7am behind the barn near the scarecrow.
+
+![scarecrow](/images/bh/green_key_card-scarecrow.jpg)
+{{< /tab >}}
+
+{{< tab "Crow 2" >}}
+This Crow spawns around 7:30am on top of the Barn.
+
+![crow 1](/images/bh/green_key_card-crow1.jpg)
+{{< /tab >}}
+
+{{< tab "Crow 3" >}}
+This Crow spawns around 8am by the light post.
+
+![crow 2](/images/bh/green_key_card-crow2.jpg)
+{{< /tab >}}
+
+{{< tab "Crow 4 - DIG!" >}}
+This Crow spawns around 8:30am by the fence. When this crow appears it is time to dig for the green card.
+
+![crow 3](/images/bh/green_key_card-crow3.jpg)
+{{< /tab >}}
+
+{{< /tabs >}}

@@ -22,7 +22,6 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 
 {{< youtube "6b_tvg4R4YA" >}}
 
-[Helpful Images]({{< ref "slides/connect_laptop_slide" >}}  )
 
 {{< tip >}}
 **Requirements** : None
@@ -32,11 +31,42 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 - Ladder (to get on roof of church)
 {{< /tip >}}
 
+{{< tabs "tabID" >}}
+
+{{< tab "House to use" >}}
+This is the house you need to spawn. 
+Upstairs is an attic you can get to, this is where you'll find the crystal needed to attempt syning your laptop.
+
+![h04 house, grey 3 roofs](/images/bh/h04-house.jpg)
+{{< /tab >}}
+
+{{< tab "Church Roof" >}}
+Here is the button on top of the church that needs to be clicked.
+
+![Button on Church Roof](/images/bh/a04-x100.jpg)
+{{< /tab >}}
+
+{{< tab "Coffin Button" >}}
+Here is the button on the coffin in the church that needs to be clicked.
+
+> You need to be standing on the glowing platform when you click this button 
+
+![Button on coffin inside church](/images/bh/a05.jpg)
+{{< /tab >}}
+
+{{< tab "Connected!" >}}
+If you have completed all the steps successfully you will be teleported to the arch closest to the barn.
+
+If you did not teleport, check that you have the crystal in your inventory and that you have clicked the button on the church roof.
+
+![teleported to arch and connected laptop](/images/bh/a05-complete.jpg)
+{{< /tab >}}
+
+{{< /tabs >}}
 
 **Steps:**
 
-1. In this house, go to the Attic and grab the Crystal
-	- ![h04-house](/images/bh/h04-house.jpg)
+1. In house shown above, go to the Attic and grab the Crystal
 	- Should get a sync failed message on your computer
 	- Activates [H04](../../casebook/light_panel#h04)
 1. Click the button on the top of the Church Roof.
@@ -46,13 +76,16 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 1. Should connect to laptop now, will be teleported to the Arch close to the barn when successful
 
 
+
+{{< tip >}}
 #### Notes
 
 - Crystal by Paradise Falls appears after collecting the crystal in the attic.
-
-![Paradise Falls Crystal](/images/bh/paradise-falls-crystal-2in.jpg)
+	
+	![Paradise Falls Crystal](/images/bh/paradise-falls-crystal-2in.jpg)
 
 - The crystal in the blue apartment (penthouse gamepass) can also be clicked but does not unlock the button on top of the Church Roof.
+{{< /tip >}}
 
 
 ![horizontal-line](/images/green-line.png)
