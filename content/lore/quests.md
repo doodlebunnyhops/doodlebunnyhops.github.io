@@ -278,6 +278,23 @@ If you click the Bedside Table Button in the Future Room and get an Error Messag
 [Click here]({{< ref "slides/monolith_slide" >}}) for images of all monolith locations
 {{<  /tip >}}
 
+
+
+{{< tabs "tabsId" >}}
+{{< tab "First" >}}
+What could such a tab include?
+{{< /tab >}}
+{{< tab "Second" >}}
+- Some *bulletpoints*
+- and more…
+- …
+{{< /tab >}}
+{{< tab "Third" >}}
+> great wise words?
+{{< /tab >}}
+{{< /tabs >}}
+
+
 ![horizontal-line](/images/green-line.png)
 
 ## Ghostly Sighting

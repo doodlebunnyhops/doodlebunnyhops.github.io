@@ -1,10 +1,11 @@
 baseURL = "https://example.com"
 title = "Brookhaven Secrets and Mysteries"
 enableRobotsTXT = true
+
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 #theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
- theme = ["compose","reveal-hugo"]
+# theme = ["compose","reveal-hugo"]
 enableGitInfo = true
 
 googleAnalytics = 'G-LYV1YN0FYF'
