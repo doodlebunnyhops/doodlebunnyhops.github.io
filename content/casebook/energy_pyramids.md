@@ -45,11 +45,3 @@ I have personally set out to test secrets and findings. These are locations I've
 
 
 ![horizontal-line](/images/green-line.png)
-
-### Possible Locations
-
-{{< tip "warning" >}}
-I have yet to personally see these locations myself but have seen reports from others. **There is a chance they aren't real!** Though if you do see these locations, best to make a video recording to share in the WolfPaq Discord community.
-{{< /tip >}}
-1. **Abandoned House**: Doves appear in front of the abandoned house perched just above the broken window. The energy pyramid is on the backside of the abandoned house on the roof. 
-2. **Drone Platform on the Mountain**: Doves appear on a light post by the drone jump area on top of the mountain. Energy pyramid is tucked away behind the Drone platform. 

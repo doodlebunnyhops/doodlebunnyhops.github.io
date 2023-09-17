@@ -30,7 +30,7 @@ We are an a quest to find 7 crystals!
 	2. Laptop:
 	
 		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
-3. Collect the crystals in this order: [Images of some locations]({{< ref "slides/find_7_crystals_slide" >}})
+3. Collect the crystals in this order: 
 	1. The Crystal on top of the Hospital Roof
 	2. Inside the Church behind a plant
 	3. In the Abandoned House between the wall and the counter
@@ -42,6 +42,25 @@ We are an a quest to find 7 crystals!
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
 	2. [A20](../../casebook/light_panel#a20) now activated
 
+{{< tip >}}
+
+Helpful Images
+{{< tabs "tabsId" >}}
+
+{{< tab "Location #4" >}}
+Down the small brown patch on the left next to Blackhawk Community Sign. Near houses #13 and #14
+
+![Crystal at black](/images/bh/a19-collect-bend.jpg)
+{{< /tab >}}
+
+{{< tab "Location #6" >}}
+Facing front of North Estate, go to the left hand side that’s just over the tunnel - in the brown dirt.
+
+![Crystal at black](/images/bh/a19-collect-northestate.jpg)
+{{< /tab >}}
+
+{{< /tabs >}}
+{{< /tip >}}
 
 {{< tip >}}	
 After you have finished collecting all crystals, if you return to the Quantum Room, upon exiting you will hear a high pitch chirp that will TP you again to Paradise Falls
@@ -111,6 +130,14 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 			`In darkness: [A27]activated`
 4. Back at Agency Experimentation Site you can now Electrocute the Alien in the Tube
 
+{{< tip >}}
+Turning the switch off in the hidden room behind the TV Station in the mall from earlier will deactivate [A27](../../casebook/light_panel#a27)!
+	
+Bunker Message:
+`See-through / (Crystal) :A27`
+		
+{{< /tip >}}
+
 
 
 ![horizontal-line](/images/green-line.png)
@@ -121,8 +148,25 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 
 **Requirements** : [Blue Key Card]({{< ref "lore/special_tools#blue-key-card" >}}  )
 {{< /tip >}}
+{{< tabs "tabsId" >}}
+{{< tab "Temp Stable" >}}
+When you first enter the building, assuming the levers in Town hall haven't been touched. You will see this message.
 
-[Helpful Images]({{< ref "slides/electric_building_slide.md" >}})
+![Electric Building Temp Stable](/images/bh/electric-building-temp-stable.jpg)
+{{< /tab >}}
+
+{{< tab "Password" >}}
+Click on the blue pass code panel to put your ROBLOX username in. If you've changed your in game name, it's not the in game username.
+
+![Blue Pass code Panel](/images/bh/electric-building-blue-passcode.jpg)
+{{< /tab >}}
+
+{{< tab "Lever" >}}
+Flip the lever on the right, it will go from red to green.
+
+![Red Lever on Right](/images/bh/electric-building-right-lever.jpg)
+{{< /tab >}}
+{{< /tabs >}}
 
 **Steps:**
 
@@ -158,9 +202,9 @@ Example: `Low voltage. Mainframe unavailable...`
 
 
 
-**Steps:**
 
-[Helpful images during this quest]({{< ref "slides/destroy_carbon_blocks_slide" >}})
+
+**Steps:**
 
 1. Click on the Camera on the mountain near Madison Lake: Activates [A09](../../casebook/light_panel#a09)
 1. Go to the Town Hall
@@ -175,6 +219,28 @@ Example: `Low voltage. Mainframe unavailable...`
 			
 		`TS LVL 2 [Mirrored Successfully] Carbon burn commencing`
 1. Destroy the blocks: 
+	{{< tabs "tabsID" >}}
+
+{{< tab "Location #1" >}}
+Criminal Base behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
+Use a sleeping bag to look past the back wall.
+
+![Carbon Block Criminal Base](/images/bh/carbon_block_criminal_base.jpg)
+{{< /tab >}}
+
+{{< tab "Location #4" >}}
+Inside of the roof at the church. Go on top of the Church and place down a Sleeping Bag, or go inside and place the sleeping bag on the ceiling.
+ 
+![Crystal at black](/images/bh/carbon_block_church_roof.jpg)
+{{< /tab >}}
+
+{{< tab "Location #5" >}}
+Near the Grocery Store, place a sleeping bag near the grass wall
+ 
+![Crystal at black](/images/bh/carbon_block_green_wall.jpg)
+{{< /tab >}}
+
+	{{< /tabs >}}
 	1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
 	2. Place down a sleeping bag near the right wall in **arcade**
 	3. Place down a sleeping bag near the left wall in **bank**
@@ -230,7 +296,20 @@ Lets build stuff!
 		
 			`The Book power unveiled [Follow]: [X02] activated`
 		
-		3. Notice the [device on the floor]({{< ref "slides/build_portal_slide" >}}) tells us what year we are in _Manufactured in Brookhaven: 2028_
+		3. Notice the device on the floor tells us what year we are in _Manufactured in Brookhaven: 2028_
+		{{< tabs "tabsId" >}}
+		{{< tab "Device On Floor" >}}
+Device on the floor of the hotel in the future.
+
+![Device in Future Hotel Room](/images/bh/build_portal_manufactured.jpg)
+
+		{{< /tab >}}
+		{{< tab "Close Up" >}}
+Closeup of the device, we can see it was manufactured in Brookhaven in the year 2028
+
+![Device in Future Hotel Room](/images/bh/build_portal_manufactured_closeup.jpg)
+		{{< /tab >}}
+		{{< /tabs >}}
 		4. There is a message behind the White Chair on the left side:
 		
 			`The Book will tell you what to do next, follow its lead and do not think for yourself. In the future as we recruit from the common, be mindful of double agents.`
@@ -273,26 +352,73 @@ If you click the Bedside Table Button in the Future Room and get an Error Messag
 	- Notice the interesting script on the Guillotine
 	
 		![monolith scripture](/images/bh/monolith_scripture.jpg)
-	
+
+Location and picture of each Monotlith
+
 {{< tip >}}
-[Click here]({{< ref "slides/monolith_slide" >}}) for images of all monolith locations
-{{<  /tip >}}
 
-
-
+Helpful Images
 {{< tabs "tabsId" >}}
-{{< tab "First" >}}
-What could such a tab include?
+{{< tab "1" >}}
+Abandoned House by airport
+![diy](/images/bh/monolith-location_abandoned_house.png)
 {{< /tab >}}
-{{< tab "Second" >}}
-- Some *bulletpoints*
-- and more…
-- …
+{{< tab "2" >}}
+Next to billboard in Blackhawk Neighborhood
+
+![diy](/images/bh/monolith-location_balckhawk_billboard.png)
 {{< /tab >}}
-{{< tab "Third" >}}
-> great wise words?
+
+{{< tab "3" >}}
+Behind Barn
+
+![diy](/images/bh/monolith-location_behind_barn.png)
 {{< /tab >}}
+
+{{< tab "4" >}}
+On hill by Eagle View Estate
+
+![diy](/images/bh/monolith-location_hill_by_eagle_view.png)
+{{< /tab >}}
+
+{{< tab "5" >}}
+Near light post behind horse stables
+
+![diy](/images/bh/monolith-location_lightpost_behind_horse_stable.png)
+{{< /tab >}}
+
+{{< tab "6" >}}
+Top of a hill by Madison lake and South Estate
+
+![diy](/images/bh/monolith-location_madison_lake_hill_top.png)
+{{< /tab >}}
+
+{{< tab "7" >}}
+Near gas station
+
+![diy](/images/bh/monolith-location_near_gas_station.png)
+{{< /tab >}}
+
+{{< tab "8" >}}
+Underground just behind the Secret Agency Base
+
+![diy](/images/bh/monolith-location_outside_of_agency_bunker.png)
+{{< /tab >}}
+
+{{< tab "9" >}}
+Top of the hill between house #23 and #24
+
+![diy](/images/bh/monolith-location_top_of_hill_between_house_23_and_24.png)
+{{< /tab >}}
+
+{{< tab "10" >}}
+Next to bridge underpass by Abandoned house
+
+![diy](/images/bh/monolith-location_underpass_by_abanoned_house.png)
+{{< /tab >}}
+
 {{< /tabs >}}
+{{< /tip >}}
 
 
 ![horizontal-line](/images/green-line.png)
