@@ -477,7 +477,7 @@ The rod becomes clickable after an action but...
 
 {{< tip >}}
 
-**Requirements** : [Energy Pyramid]({{< ref "lore/special_tools#energy-pyramid" >}})
+**Requirements** : Part of [Rod Under The Arch]({{< ref "lore/special_tools#rod-under-the-arch" >}})
 
 {{< /tip >}}
 
