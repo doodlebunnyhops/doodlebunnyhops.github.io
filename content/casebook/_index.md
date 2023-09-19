@@ -22,5 +22,6 @@ Notes and observations found during investigations.
 	- [Agency](computer/agency)
 	- [Mr. B](computer/mrb)
 	- [Other](computer/other)
+- [Interesting Findings & Observations](interesting)
 
 ![Collage of notes](/images/bh/collage.png)
