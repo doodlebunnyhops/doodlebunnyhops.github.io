@@ -1,5 +1,5 @@
 ---
-title: "~~Computer Messages~~"
+title: "~~Computer~~"
 weight: 40
 draft: false
 ---
