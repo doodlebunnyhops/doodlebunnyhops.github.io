@@ -16,6 +16,6 @@ If you don't know how to get to the Quantum Room here are the steps:
 
 {{< /tip >}}
 
-- [Window Messages](window_messages)
-- [Message Board](message_board)
-- [Mysterious Steam](steam)
+- [Window Messages](window_messages/)
+- [Message Board](message_board/)
+- [Mysterious Steam](steam/)

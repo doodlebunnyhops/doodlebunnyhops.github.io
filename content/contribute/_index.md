@@ -7,7 +7,7 @@ weight: 6
 
 I'm so happy you want to assist! We have setup the site to be hosted on github sites so that we can better filter out trolls.. Yea they happen.
 
-Continue on to the [website](/contribute/website) section for more details
+Continue on to the [website](/contribute/website/) section for more details
 
 {{< tip >}}
 Please do not submit leaks, this site only offers secrets actively in the game!

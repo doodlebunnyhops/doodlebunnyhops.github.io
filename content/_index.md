@@ -21,8 +21,8 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 ## Not sure where to get started?
 
-- [Lore](/lore) for steps uncovering secrets already found!
-- [CaseBook](/casebook) contains notes and observations found during investigations
+- [Lore](/lore/) for steps uncovering secrets already found!
+- [CaseBook](/casebook/) contains notes and observations found during investigations
 
 {{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)

@@ -3,7 +3,7 @@ title: "Special Tools"
 weight: 2
 ---
 
-Special tools are items that aren't in normal inventory and can only be obtained from doing specific steps or is a task to unlock something that doesn't turn on a light in the [Agency Light Panel](../../casebook/light_panel) nor give you an item.
+Special tools are items that aren't in normal inventory and can only be obtained from doing specific steps or is a task to unlock something that doesn't turn on a light in the [Agency Light Panel](../../casebook/light_panel/) nor give you an item.
 
 These special items/tasks are needed for other quests.
 

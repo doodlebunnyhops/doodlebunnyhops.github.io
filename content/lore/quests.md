@@ -7,7 +7,7 @@ Ahh yes, here is the heart of our investigation. These are quests that have led 
 
 Sometimes tools, special tools, or other quests are required to complete a quest and will be listed in the `requirements` section.
 
-Notes and messages found along the way are in our [CaseBook](../../casebook) for safe keeping. 
+Notes and messages found along the way are in our [CaseBook](../../casebook/) for safe keeping. 
 
 ![horizontal-line](/images/green-line.png)
  
