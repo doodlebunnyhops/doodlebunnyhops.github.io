@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
     <url>
         <loc>https://solve.bhmystery.com/</loc>
         <lastmod>2023-06-09</lastmod>
@@ -24,7 +26,6 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
-    <url>
     <url>
         <loc>https://solve.bhmystery.com/lore/special_tools/</loc>
 		<lastmod>2023-06-11</lastmod>
