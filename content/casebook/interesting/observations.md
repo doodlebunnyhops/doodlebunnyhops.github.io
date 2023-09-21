@@ -9,13 +9,16 @@ draft: false
 ## Linked Electric & Water
 
 {{< tip >}}
-Refer to Quest: Brookhaven Electric
+Refer to Quest: [Electric Building](/lore/quests/#electric-building) to access the building.
 {{< /tip >}}
 
 ### Notes
-- Electricity Room, Water Pipes in Town Hall, and Camera at Madison Lake are linked
-    - When 2-4 water levers are turned on, the brookhaven electric room still reads “Mainframe unavailable”
+- Electricity Building and Water Pipes in Town Hall, and Camera at Madison Lake are linked
+    - When water levers 2-4 are turned on, the brookhaven electric room still reads “Mainframe unavailable”
     - Once the camera on the mountain near Lake Madison is clicked and Danger is turned on - then it reads “Coolers running at 54% capacity” in Brookhaven Electric
+        - This triggers the carbon blocks to spawn from [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks) quest
+    - With the above done if you flip on one more water lever, doesn't matter which, then Electricity Building reads "Power Diverted"
+        - Power Diverted message when [Monoliths](/lore/quests/#monoliths) are spawning will trigger [Mysterious Steam](/casebook/quantum/steam/) in the quantum room.
 
 ![horizontal-line](/images/green-line.png)
 

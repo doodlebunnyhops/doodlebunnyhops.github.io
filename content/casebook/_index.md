@@ -44,6 +44,12 @@ Notes and observations found during investigations.
 
 {{< tab "Interesting Findings" >}}
 - [Interesting Findings & Observations](interesting)
+	- [Observations](interesting/observations.md)
+	- [Under the Fountain](interesting/fountain.md)
+	- [Rocketship](interesting/rocketship.md)
+	- [Camp Cabin](interesting/camp_cabin.md)
+	- [Hidden Valley Cave](interesting/hidden_valley_cave.md)
+	- [Teleporting](interesting/teleporting.md)
 {{< /tab>}}
 
 {{< /tabs >}}
