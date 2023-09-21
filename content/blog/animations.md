@@ -20,7 +20,7 @@ New Street Sweeper Vehicle
 
 20 New Animations!!!
 
-A settings button that allows mobile users to _finally_ sprint! And add a baby in a carseat when you load your vehicle. :D
+A settings button that allows mobile users to _finally_ sprint! And add a baby in a car seat when you load your vehicle. :D
 
 [Pics of all the fun new things!]({{< ref "slides/update_animations" >}})
 

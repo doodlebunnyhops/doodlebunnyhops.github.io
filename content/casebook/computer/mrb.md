@@ -63,7 +63,7 @@ draft: false
 
 **Steps:**
 
-1. After you enter the Passcode into the keypad, check your computer and this message should appear.
+1. After you enter the passcode into the keypad, check your computer and this message should appear.
 
 
 ![DESC](/images/bh/future_double_agent_comp_message.jpg) 

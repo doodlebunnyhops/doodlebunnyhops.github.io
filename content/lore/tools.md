@@ -35,7 +35,7 @@ We do this because sometimes the laptop will give us messages, hints/tips along 
 
 {{< tab "House to use" >}}
 This is the house you need to spawn. 
-Upstairs is an attic you can get to, this is where you'll find the crystal needed to attempt syning your laptop.
+Upstairs is an attic you can get to, this is where you'll find the crystal needed to attempt syncing your laptop.
 
 ![h04 house, grey 3 roofs](/images/bh/h04-house.jpg)
 {{< /tab >}}
@@ -84,7 +84,7 @@ If you did not teleport, check that you have the crystal in your inventory and t
 	
 	![Paradise Falls Crystal](/images/bh/paradise-falls-crystal-2in.jpg)
 
-- The crystal in the blue apartment (penthouse gamepass) can also be clicked but does not unlock the button on top of the Church Roof.
+- The crystal in the blue apartment (penthouse game-pass) can also be clicked but does not unlock the button on top of the Church Roof.
 {{< /tip >}}
 
 
