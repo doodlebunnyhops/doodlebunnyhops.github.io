@@ -68,7 +68,7 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 1. Grab a house and own the Bakery House, go upstairs into one of the bedrooms and click on the button underneath the bed.
 1. Go to the Church and ring the bell
-    1. Go back to the Bakery and go to the second floor and at the top jump on the picture frame and get into the attic and there should be a glowing Energy Ring. bakery_energy_ring
+    1. Go back to the Bakery and go to the second floor and at the top jump on the picture frame and get into the attic and there should be a glowing Energy Ring.
 
 ![Energy Ring in Bakery Attic](/images/bh/bakery_energy_ring.jpg)
 

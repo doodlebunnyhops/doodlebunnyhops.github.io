@@ -92,7 +92,7 @@ If you did not teleport, check that you have the crystal in your inventory and t
 
 ## Binoculars
 
-While the binoculars are already available to us in inventory, it's important to note that grabbing a specific pair actually turns on one of the lights in the [Agency Light Panel](../../casebook/light_panel).
+While the binoculars are already available to us in inventory, it's important to note that grabbing a specific pair actually turns on one of the lights in the [Agency Light Panel](../../casebook/light_panel/).
 We don't know if this pair of binoculars are needed, but having them helps us find clues during the investigation.
 
 {{< tip >}}

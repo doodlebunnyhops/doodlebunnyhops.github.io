@@ -32,7 +32,7 @@ With the doc's growth and more players wanting to help contribute I had to come 
 
 I'm hosting this website through github.com, which really makes it easy to have players submit a ticket to contribute to the site only after review. Take that trolls!
 
-If you are interested in helping add to the guide make sure to checkout the [Contributions](../../contribute) section. 
+If you are interested in helping add to the guide make sure to checkout the [Contributions](../../contribute/) section. 
 
 ![horizontal-line](/images/green-line.png)
 

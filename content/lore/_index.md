@@ -16,11 +16,11 @@ We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 ### Where to get started
 
-If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools#connect-laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
+If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools#connect-laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests/). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
 
 If you're pretty familiar or want to look at a specific thing, each tool, special tool, and quest will list requirements they have so you can easily decide where you would like to start!
 {{< tip >}}
-Keep in mind, maybe there are steps we shouldn't do, though commonly the community feels all steps and lights in the [Agency Light Panel](../../casebook/light_panel) should be done to solve the mystery.
+Keep in mind, maybe there are steps we shouldn't do, though commonly the community feels all steps and lights in the [Agency Light Panel](../../casebook/light_panel/) should be done to solve the mystery.
 {{< /tip >}}
 
 
@@ -47,7 +47,7 @@ The flow of investigating can be... chaotic. But I have identified there are too
 
 
 
-To get a sense of what the flow looks like, [checkout this diagram](../mermaid/steps_flow).
+To get a sense of what the flow looks like, [checkout this diagram](../mermaid/steps_flow/).
 
 
 

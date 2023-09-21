@@ -29,7 +29,7 @@ Maybe? There certainly seems to be hint and nothing found as of yet from the tim
 On the side of the new Armored Bank Vehicle you can change the theme... into an Agency Armored Vehicle <span class="emojify">🤔</span> ... interesting
 
 
-But look closer, we see an [Agency Light Panel](../../casebook/light_panel) number **X22** which is still an unknown how to activate.
+But look closer, we see an [Agency Light Panel](../../casebook/light_panel/) number **X22** which is still an unknown how to activate.
 
 There are _so many_ X lights that we don't know, I haven't even included them in the Agency Light Panel list. There's 24 X lights and we've only found how to activate X01 and X02 <span class="emojify">😵‍</span>
 
