@@ -11,7 +11,7 @@ While one player stands at the spot under eagle view where the portal will be ge
 Darzeth’s Youtube vid for better idea of where to stand:
 New Secret Discovered In Roblox Brookhaven RP
 
-Special shoutout to BRB in Wolfpaq’s discord for this discovery!
+Special shout-out to BRB in Wolfpaq’s discord for this discovery!
 
 Quantum Room Teleport Spots
 Whenever you teleport out of the Quantum Room, you usually get teleported by the Yacht. Sometimes that is not the case

@@ -4,7 +4,7 @@ weight: 1
 draft: false
 ---
 
-Clearly marked with their signature logo with AGNECY written on it, it's clear agents would communicate with notes mostly hidden.
+Clearly marked with their signature logo with AGENCY written on it, it's clear agents would communicate with notes mostly hidden.
 
 ![horizontal-line](/images/green-line.png)
 
@@ -67,7 +67,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 1. Go to the hidden XRay Room in the Hospital
 	1. Click on the Scalpel behind the false wall in the Xray Room behind the cabinet. 
-1. At Agency Experimentation Site (Second Rloor of the Hospital)
+1. At Agency Experimentation Site (Second Floor of the Hospital)
 	1. Click on the Button found under the Surgery Table to turn the lights on
 	2. Sit in the chair on the right under “Experimental” and get slimed!
 1. Look behind one of the chairs in the Agency Experimentation Site

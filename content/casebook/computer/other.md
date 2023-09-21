@@ -18,7 +18,7 @@ draft: false
 1. Grab the Crystal either in one of these spots but do not click on the church tower button or button on coffin inside the church:
 	1. The attic in the 3 Roofed Home
 	3. Or if there's one in Paradise Falls.
-		1. *Note that the crystal in the blue apartment (penthouse gamepass) will not complete Connect Laptop.
+		1. *Note that the crystal in the blue apartment (penthouse game-pass) will not complete Connect Laptop.
 
 ![DESC](/images/bh/sync_failed_comp_message.jpg) 
 

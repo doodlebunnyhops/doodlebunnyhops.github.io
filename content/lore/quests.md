@@ -353,7 +353,7 @@ If you click the Bedside Table Button in the Future Room and get an Error Messag
 	
 		![monolith scripture](/images/bh/monolith_scripture.jpg)
 
-Location and picture of each Monotlith
+Location and picture of each Monolith
 
 {{< tip >}}
 
