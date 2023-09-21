@@ -4,18 +4,58 @@ weight: 6
 draft: false
 ---
 
-Hidden Valley Teleport Spot
-Requires 2 players to achieve this teleport. 
-While one player stands at the spot under eagle view where the portal will be generated, have another player hammer on the boxes that will generate the portal. Follow quest Build Portal
 
+![horizontal-line](/images/green-line.png)
+
+## Hidden Valley Teleport Spot
+{{< tip >}}
+**Requirements** : 2 players
+{{< /tip >}}
+
+
+{{< tabs "tabID" >}}
+{{< tab "Player 1 Steps" >}}
+
+1. Stand at the spot under eagle view where the portal will be generated
+{{< /tab>}}
+
+{{< tab "Player 2 Steps" >}}
+
+1. Work on the [Build Portal](/lore/quests/#build-portal) quest.
+1. When you finish hammering on the boxes in that quest, player 1 will teleport to Hidden Valley.
+{{< /tab>}}
+{{< /tabs >}}
+
+{{< tip >}}
 Darzeth’s Youtube vid for better idea of where to stand:
-New Secret Discovered In Roblox Brookhaven RP
+{{< youtube "O4s7pI_jzW0" >}}
+{{< /tip >}}
 
-Special shout-out to BRB in Wolfpaq’s discord for this discovery!
+![horizontal-line](/images/green-line.png)
 
-Quantum Room Teleport Spots
-Whenever you teleport out of the Quantum Room, you usually get teleported by the Yacht. Sometimes that is not the case
+## Quantum Room Teleport Spots
+Whenever you teleport out of the Quantum Room, you usually get teleported by the Yacht. Sometimes that is not the case...
 
-You can teleport into the Paradise Falls Cave if you have the Yellow Glow on your Hand (Completing the Crystals Quest)
 
-You can teleport to the Portal Entrance if you have the Black Glow on your hand (Completing the Carbon Blocks Quest)
+### Paradise Falls
+
+{{< tip >}}
+**Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
+{{< /tip >}}
+
+**Steps:**
+1. After completing Find 7 Crystals with your hand glowing.
+1. Head to quantum room and then leave.
+1. You possibly could teleport to Paradise Falls.
+
+### Portal Entrance
+
+{{< tip >}}
+**Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
+{{< /tip >}}
+
+1. After completing Destroy Carbon Blocks with your hand glowing.
+1. Head to quantum room and then leave.
+1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/#build-portal).
+
+![horizontal-line](/images/green-line.png)

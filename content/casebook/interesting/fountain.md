@@ -5,12 +5,18 @@ draft: false
 ---
 
 
+![horizontal-line](/images/green-line.png)
 
-Video link  from xdarzeth to show you how to go Under the Fountain.
-Requirements: None
-Steps:
-Head to the Subway Station at the Spawn.
-Click on the logo above the bench.
-There’s now a false wall to the right that you can walk through and get Under the Fountain!
+## How to get under fountain
+{{< tip >}}
+**Requirements** : None
+{{< /tip >}}
 
-https://youtu.be/7EsrkJeRgrQ
+**Steps:**
+1. Head to the Subway Station at the Spawn.
+1. Click on the logo above the bench.
+1. There’s now a false wall to the right that you can walk through and get Under the Fountain!
+
+{{< youtube "7EsrkJeRgrQ" >}}
+
+![horizontal-line](/images/green-line.png)
