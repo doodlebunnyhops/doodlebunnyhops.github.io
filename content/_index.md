@@ -20,6 +20,23 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 ---
 
+Want to connect? Checkout my twitter and reddit
+
+
+<a class="nav-link" href="https://x.com/SolveBHMystery" target="_blank" rel="noopener" >
+<picture data-lit="images/XMarkLight.svg" data-dark="images/XMarkDark.svg">
+    <img src="images/XMarkLight.svg" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
+</picture>				
+</a>
+
+
+<a class="nav-link" href="https://www.reddit.com/r/BrookhavenRPSecrets/" target="_blank" rel="noopener" > 
+<picture data-lit="images/Reddit_Mark_OnWhite@2x.png" data-dark="images/Reddit_Mark_OnWhite@2x.png">
+    <img src="images/Reddit_Mark_OnWhite@2x.png" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
+</picture>				
+</a>
+
+---
 ## Not sure where to get started?
 
 - [Lore](/lore/) for steps uncovering secrets already found!

@@ -53,11 +53,11 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   name = "x"
   url = "https://x.com/SolveBHMystery"
 
-#[[source]]
-#  iconLight = "images/RedditMark.svg"
-#  iconDark = "images/RedditMark.svg"
-#  name = "reddit"
-#  url = "https://www.reddit.com/"
+[[source]]
+  iconLight = "images/Reddit_Mark_OnWhite@2x.png"
+  iconDark = "images/Reddit_Mark_OnWhite@2x.png"
+  name = "reddit"
+  url = "https://www.reddit.com/r/BrookhavenRPSecrets/"
 
 # optional
 # attribution. Feel free to delete this
