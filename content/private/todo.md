@@ -11,3 +11,5 @@ draft: true
 1. [ ] Work on structure to present POI's
 1. [ ] Need a tips section
 1. [ ] Explain quests is laid out as a suggestion to start from top to bottom
+1. [ ] Tags in frontmatter
+	- tags: ["Computer Messages"]

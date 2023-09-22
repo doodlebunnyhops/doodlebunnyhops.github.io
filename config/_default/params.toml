@@ -41,17 +41,29 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   lightMode = "/images/house-with-garden_5.png"
   darkMode = "/images/house-with-garden_5.png"
 
-[source]
+[[source]]
   name = "GitHub"
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/doodlebunnyhops/doodlebunnyhops.github.io"
 
-  
+[[source]]
+  iconLight = "images/XMarkLight.svg"
+  iconDark = "images/XMarkDark.svg"
+  name = "x"
+  url = "https://x.com/SolveBHMystery"
+
+#[[source]]
+#  iconLight = "images/RedditMark.svg"
+#  iconDark = "images/RedditMark.svg"
+#  name = "reddit"
+#  url = "https://www.reddit.com/"
+
 # optional
 # attribution. Feel free to delete this
 [author]
   name = "Bloomindaisy"
 
-twitter = "@SolveBHMystery"
+
+
 
