@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-04-14
 title: "Survival Update"
 image: https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
-description: "Brookhaven Update"
+description: "Brookhaven Update: Survival Role Play"
 ---
 
 Shelter in! We need a place to hide!!! This update comes with an awesome RP house placed in an apocalyptic setting, we must survive! But from what?

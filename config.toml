@@ -7,6 +7,8 @@ enableRobotsTXT = true
 #theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
  theme = ["compose","reveal-hugo"]
 enableGitInfo = true
+enableEmoji = true
+canonifyURLs = true
 
 googleAnalytics = 'G-LYV1YN0FYF'
 
