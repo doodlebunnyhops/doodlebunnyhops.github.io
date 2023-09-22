@@ -64,7 +64,7 @@
 					{{- $litPath := absURL .iconLight }}
 					{{- $darkPath := absURL .iconDark }}
 					<picture data-lit="{{ $litPath }}" data-dark="{{ $darkPath }}">
-						<img src="{{ $litPath }}" alt="{{ .name }} Repo">
+						<img src="{{ $litPath }}" alt="{{ .name }}">
 					</picture>
 				{{ else }}{{ .name }}{{ end }}
 			</a>
