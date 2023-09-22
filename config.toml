@@ -27,3 +27,11 @@ disableKinds = ["sitemap"]
 baseName = "reveal"
 mediaType = "text/html"
 isHTML = true
+
+twitter = "@SolveBHMystery"
+largeTwitterCard = true
+
+[author]
+  name = "Bloomindaisy"
+
+  numberOfTagsShown = 5
