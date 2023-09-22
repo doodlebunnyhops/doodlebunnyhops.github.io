@@ -1,6 +1,7 @@
 ---
 title: "CaseBook"
 weight: 2
+description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."
 --- 
 
 Notes and observations found during investigations.
@@ -30,7 +31,7 @@ Notes and observations found during investigations.
 - [Notes & Messages](notes/)
 	- [Agency](notes/agency/)
 	- [Mr. B](notes/mrb)
-	- [Mr. Brookhaven](notes/mrbookhaven/)
+	- [Mr. Brookhaven](notes/mrbrookhaven/)
 	- [Madison](notes/madison/)
 	- [Other](notes/other/)
 {{< /tab>}}

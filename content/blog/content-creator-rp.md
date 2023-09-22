@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-30
 title: "Content Creator House!"
 image: https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
-description: "Brookhaven Update"
+description: "Brookhaven Update: New Content Creator Role Play House"
 ---
 
 Alert your followers and start "streaming" in your new Content Creator's RP House!

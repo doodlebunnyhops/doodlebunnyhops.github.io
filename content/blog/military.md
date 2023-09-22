@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-23
 title: "Military Estate and more!"
 image: https://tr.rbxcdn.com/12205ae2bd08d5682a2f8b8978d774a3/768/432/Image/Png
-description: "Brookhaven Update"
+description: "Brookhaven Update: New Estate Pass Military Base "
 ---
 
 Premium users rejoice! There are some new paid content on Brookhaven...and a jet?!   

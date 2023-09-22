@@ -4,6 +4,7 @@ title = "Home"
 columnTitles = ["Section", "Status"]
 title = "Projects"
 enableCopyright = false
+description = "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. It includes a walkthrough of quests and what tools or other quests are required, in addition to a casebook that has all the extra details found throughout the game."
 
 +++
 

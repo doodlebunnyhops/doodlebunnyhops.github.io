@@ -1,6 +1,7 @@
 ---
 title: "Contribute"
 weight: 6
+description: "How to guide to submit requests to this site for Brookhaven RP Secrets and mysteries or ask questions about this site."
 ---
 ![horizontal-line](/images/green-line.png)
 ## Found something to add or a mistake?

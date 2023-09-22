@@ -1,6 +1,7 @@
 ---
 title: "~~Quantum Room~~"
 weight: 20
+description: "The quantum room in Brookhaven RP has a lot of interesting things to explore. Steam or Smoke from the floor, odd cryptic messages on windows, and a message board."
 ---
 
 There is a lot to observe in the Quantum Room. Here's a breakdown of some things noted:
