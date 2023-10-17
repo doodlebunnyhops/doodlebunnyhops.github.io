@@ -21,7 +21,7 @@ Someone had asked in [Wolfpaq's Discord](https://discord.com/channels/4823083572
 
 ![Wolfpaq confirms odd lighting in cave will be in a future secret update.](/images/bh/wolf.jpg)
 
-Confirming not only are we going to see a secret update in the future, but this cave will be apart of the Secrets and Mysteries Lore!
+Confirming, not only are we going to see a secret update in the future, but this cave will be a part of the Secrets and Mysteries Lore!
 
 ![horizontal-line](/images/green-line.png)
 
