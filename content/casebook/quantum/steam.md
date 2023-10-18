@@ -3,11 +3,15 @@ title: "Mysterious Steam"
 weight: 3
 ---
 
-You can cause steam to happen in one of the 4 rooms in the Quantum Room.
+You can cause steam to happen in one of the 4 rooms in the Quantum Room. 
 
-Perhaps this means we should need to steam all the rooms, or maybe there isn't enough cooling capacity?
+But what does the steam mean, and why does it only happen when Monoliths appear?
+
+
 
 ![horizontal-line](/images/green-line.png)
+
+### Create Steam
 
 {{< tip >}}
 **Requirements** : 
@@ -28,3 +32,17 @@ Perhaps this means we should need to steam all the rooms, or maybe there isn't e
 1. Head to Quantum Room immediately after turning on water lever 1 or 5
 	1. It will take anywhere from 30 min - 2h in game for steam to start in the Quantum Room.
 	1. Steam will last for ~30 min in game and on completion the floor will flash black.
+
+![horizontal-line](/images/green-line.png)
+
+### Related To Monoliths
+
+{{< tip >}}
+Right after the steam stops and the floor flashes black, this means a new Monolith has spawned!
+{{< /tip >}}
+
+Checkout locations of [Monoliths](/lore/quests#monoliths).
+
+{{< liteyoutube "yoVHGsPnZPA" >}}
+
+
