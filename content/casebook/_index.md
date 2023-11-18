@@ -8,10 +8,6 @@ Notes and observations found during investigations.
 
 
 
-
-
-
-
 {{< tabs "tabID">}}
 
 {{< tab "Main" >}}
@@ -25,6 +21,11 @@ Notes and observations found during investigations.
 	- [Window Messages](quantum/window_messages/)
 	- [Message Board](quantum/message_board/)
 	- [Mysterious Steam](quantum/steam/)
+{{< /tab>}}
+
+{{< tab "Museum" >}}
+- [Museum](museum/)
+	- [The Knight](museum/knight/)
 {{< /tab>}}
 
 {{< tab "Notes & Messages" >}}
