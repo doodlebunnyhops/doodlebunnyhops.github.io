@@ -2,6 +2,7 @@
 title: "Mr.B"
 weight: 2
 draft: false
+description: "All Notes and how to find them that are signed by Mr. B in Brookhaven RP Secrets and Mysteries."
 ---
 
 

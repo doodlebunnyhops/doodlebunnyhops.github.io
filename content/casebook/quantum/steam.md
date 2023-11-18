@@ -1,6 +1,7 @@
 ---
 title: "Mysterious Steam"
 weight: 3
+description: "The quantum room in Brookhaven RP occasionally has steam coming from one of the rooms, see how to activate it and how it relates to monoliths."
 ---
 
 You can cause steam to happen in one of the 4 rooms in the Quantum Room. 

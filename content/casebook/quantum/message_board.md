@@ -1,6 +1,7 @@
 ---
 title: "Message Board"
 weight: 2
+description: "All Messages seen on the Message Board in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
 --- 
 
 There are 2 message boards in the quantum room. The first is always present, and the second appears once [Power Online](#power-online) is activated.

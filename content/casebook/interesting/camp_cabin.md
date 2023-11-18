@@ -2,6 +2,7 @@
 title: "Camp Cabin"
 weight: 4
 draft: false
+description: "Interesting Spider in the Camp Cabin at Brookhaven RP"
 ---
 
 

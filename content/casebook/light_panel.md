@@ -1,6 +1,7 @@
 ---
 title: "Agency Light Panel"
 weight: 1
+description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
 ---
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.

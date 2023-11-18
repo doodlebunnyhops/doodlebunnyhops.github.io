@@ -2,6 +2,7 @@
 title: "Other"
 weight: 3
 draft: false
+description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteries. These Messages are not signed. Picture of message provided."
 ---
 
 

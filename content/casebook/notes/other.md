@@ -2,6 +2,7 @@
 title: "Other"
 weight: 5
 draft: false
+description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These Notes are not signed or only one note from the signer to appear. Picture of note provided."
 ---
 
 

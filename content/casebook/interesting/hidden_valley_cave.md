@@ -2,13 +2,14 @@
 title: "Hidden Valley Cave"
 weight: 5
 draft: false
+description: "More Secrets confirmed coming to the Hidden Valley Cave in Brookhaven RP and video timelapse of interesting light."
 ---
 
 ![hmm](/images/bh/no_light_source.jpg)
 
 
 In the Aug 25 2023 [Construction update](/blog/construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!
-The BrookhavenRP community went back and forth if it could possibly mean something or was a bug. But on the release of the [Halloween Update](/blog/10-13-23.md) Wolfpaq gave us some insight. 
+The BrookhavenRP community went back and forth if it could possibly mean something or was a bug. But on the release of the [Halloween Update](/blog/10-13-23) Wolfpaq gave us some insight. 
 
 ![horizontal-line](/images/green-line.png)
 
