@@ -2,6 +2,7 @@
 title: "Mr. B"
 weight: 2
 draft: false
+description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Secrets and Mysteries."
 ---
 
 

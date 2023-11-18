@@ -1,6 +1,7 @@
 ---
 title: "Discord"
 weight: 2
+description: "Discord Channel for Brookhaven RP Secrets and Mysteries by Wolfpaq"
 ---
 
 You'll find a pretty cool community to chat with about Brookhaven's Secrets and Mysteries in [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) channel #secrets-and-mysteries. 

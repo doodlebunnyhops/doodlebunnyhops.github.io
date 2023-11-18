@@ -2,6 +2,7 @@
 title: "Teleporting"
 weight: 6
 draft: false
+description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
 ---
 
 

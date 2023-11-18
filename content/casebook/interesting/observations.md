@@ -2,6 +2,7 @@
 title: "Observations"
 weight: 1
 draft: false
+description: "Observations found in the Brookhaven RP Secrets and Mysteries. May contain observations that haven't been determined as part of the Secrets and Mysteries lore."
 ---
 
 ![horizontal-line](/images/green-line.png)

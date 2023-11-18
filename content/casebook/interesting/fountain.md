@@ -2,6 +2,7 @@
 title: "Under the Fountain"
 weight: 2
 draft: false
+description: "How to get under the fountain in Brookhaven RP at spawn."
 ---
 
 

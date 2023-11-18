@@ -2,6 +2,7 @@
 title: "Rocketship"
 weight: 3
 draft: false
+description: "Interesting Alien Handprints and energy orb in the Rocket RP house at Brookhaven RP"
 ---
 
 Unclear if this has anything to do with the Brookhaven Mystery, but it is a Fun Find for RP.

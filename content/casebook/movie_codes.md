@@ -1,6 +1,7 @@
 ---
 title: "Movie Codes"
 weight: 3
+description: "Movie codes and how to find them in Brookhaven RP, with video of the movie. Part of Brookhaven Secrets and Mysteries."
 ---
 
 Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are locked until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.

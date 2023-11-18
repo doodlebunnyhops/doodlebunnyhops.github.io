@@ -1,6 +1,7 @@
 ---
 title: "Quests"
 weight: 3
+description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
 ---
  
 Ahh yes, here is the heart of our investigation. These are quests that have led us to find/unlock more clues or secrets the town of Brookhaven holds.

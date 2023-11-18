@@ -2,6 +2,7 @@
 title: "Madison"
 weight: 4
 draft: false
+description: "All Notes and how to find them that are signed by Madison in Brookhaven RP Secrets and Mysteries."
 ---
 
 Collection of notes written to and from Madison. It's interesting that notes _to_ Madison are never signed by their writer.
