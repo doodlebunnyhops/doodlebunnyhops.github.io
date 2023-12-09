@@ -21,3 +21,9 @@ description: "How to get under the fountain in Brookhaven RP at spawn."
 {{< youtube "7EsrkJeRgrQ" >}}
 
 ![horizontal-line](/images/green-line.png)
+
+## Dec '23 Holiday Update
+
+In the December 8th 2023 Holiday Update, Wolfpaq added a secret present location that can be found by going under the fountain!
+
+{{< youtube "3GcOFIw7O5A" >}}
