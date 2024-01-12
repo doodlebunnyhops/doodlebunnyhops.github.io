@@ -10,6 +10,8 @@ enableGitInfo = true
 enableEmoji = true
 canonifyURLs = true
 
+paginate = 40
+
 googleAnalytics = 'G-LYV1YN0FYF'
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
