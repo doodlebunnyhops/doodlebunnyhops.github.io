@@ -6,7 +6,7 @@ description: "How to get under the fountain in Brookhaven RP at spawn."
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## How to get under fountain
 {{< tip >}}
@@ -20,7 +20,7 @@ description: "How to get under the fountain in Brookhaven RP at spawn."
 
 {{< youtube "7EsrkJeRgrQ" >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Dec '23 Holiday Update
 

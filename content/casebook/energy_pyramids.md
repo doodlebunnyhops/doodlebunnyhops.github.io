@@ -9,7 +9,7 @@ It's considered a [special tool]({{< ref "/lore/special_tools.md#energy-pyramid"
 
 Always a pair of doves will call near the energy pyramid to help guide you to the energy crystal's location. 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Mechanics
 
@@ -29,7 +29,7 @@ So far I haven't identified any pattern. Though some locations seem to get the d
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Known Locations
 
@@ -45,4 +45,4 @@ I have personally set out to test secrets and findings. These are locations I've
 6. **Cabin**: Doves spawn on the top of the Cabin Roof and the Energy Pyramid spawns behind a tree near a big Gray Rock on the left side of the cabin 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

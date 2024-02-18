@@ -6,7 +6,7 @@ description: "Movie codes and how to find them in Brookhaven RP, with video of t
 
 Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are locked until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Agency Switch Board
 
@@ -20,13 +20,13 @@ Note that switch **3** is missing... do we need to find it?
 
 ![Agency Switch Board](/images/bh/agency_switch_board_200.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### YT Clip of all Movies
 
 {{< youtube "IwpmmT6N3Lg" >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Police Station Code
 
@@ -43,7 +43,7 @@ Note that switch **3** is missing... do we need to find it?
 1. Use this code in the Movie Theater to watch it
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Abandoned House Code
 
@@ -60,7 +60,7 @@ Note that switch **3** is missing... do we need to find it?
 1. Use this code in the Movie Theater to watch 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Eagle View Arch Code
 
@@ -79,7 +79,7 @@ Note that switch **3** is missing... do we need to find it?
 ![Eagle View Arch Location](/images/bh/eagle-view-arch-code.png)
 ![Eagle View Arch Location](/images/bh/eagle-view-arch-code-inside.png)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Special Lights
 You will notice that after watching a movie clip, that some dots on the Agency [Bunker Board ](../../terminology/words#bunker-board)will turn green.
@@ -102,5 +102,5 @@ From left to right we know the following triggers:
 1. ?
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 

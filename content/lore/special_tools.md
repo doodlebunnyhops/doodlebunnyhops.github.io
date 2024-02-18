@@ -8,7 +8,7 @@ Special tools are items that aren't in normal inventory and can only be obtained
 
 These special items/tasks are needed for other quests.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 
 ## TS Level 1
@@ -35,7 +35,7 @@ These special items/tasks are needed for other quests.
 			`TS [LVL 1] Permissible`
 			
  
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
  
 ## Blue Key Card
 
@@ -80,7 +80,7 @@ Blue Key Card is behind the cabinet.
 {{< /tabs >}}
 
  
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
  
 ## The Red Book
 
@@ -105,7 +105,7 @@ Blue Key Card is behind the cabinet.
 
 ![Red Book Location](/images/bh/the_red_book_location.jpg)
  
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
  
 ## Rod Under the Arch
 There's a white bent rod hidden, what does it do?
@@ -123,7 +123,7 @@ There's a white bent rod hidden, what does it do?
 1. Go to the Arch by the Barn, and look underneath it, side by the Barn (notice it's lifted a little) click it: Activates [H07](../../casebook/light_panel#h07)
 
  
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
  
 ## Energy Pyramid
 An interesting glowing pyramid object believed to have energy within it.
@@ -159,7 +159,7 @@ Did you know when viewing home cams, if the church bell has never been rung, loo
 
 Want more details on Energy Crystals? There's a [casebook]({{< ref "/casebook/energy_pyramids" >}})!
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## What's the Password
 
@@ -182,7 +182,7 @@ Find the hidden password
 4. Click on the Energy Pyramid to reveal the secret used on the Blue Keypad in the Agency Bunker (must have the Energy Pyramid item)
 
  
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
  
 ## Green Key Card
 

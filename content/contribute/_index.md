@@ -3,7 +3,7 @@ title: "Contribute"
 weight: 6
 description: "How to guide to submit requests to this site for Brookhaven RP Secrets and mysteries or ask questions about this site."
 ---
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 ## Found something to add or a mistake?
 
 I'm so happy you want to assist! We have setup the site to be hosted on github sites so that we can better filter out trolls.. Yea they happen.
@@ -14,7 +14,7 @@ Continue on to the [website](/contribute/website/) section for more details
 Please do not submit leaks, this site only offers secrets actively in the game!
 {{< /tip >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Community Discussion
 

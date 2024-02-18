@@ -6,7 +6,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Agency Bunker
 
@@ -21,7 +21,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Note in Agency bunker reads Veritas Vincit](/images/bh/other_agency_bunker_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Military RP Home
 
@@ -39,7 +39,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Note from Medical Officer Avid letting the general know he has resigned](/images/bh/other_military_rp_note.png) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Future Hotel Picture
 
@@ -53,7 +53,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Message on Picture frame in Hotel Room. Says this room is from the future.](/images/bh/other_future_hotel_picture_frame_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Bakery
 
@@ -69,7 +69,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Note in Bakery Attic. The sound stretches across the town.](/images/bh/other_bakery_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Operation REDRIVER
 
@@ -89,4 +89,4 @@ Is it pronounced `red river` or `re driver`?
 ![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.jpg)
 {{< /tip >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

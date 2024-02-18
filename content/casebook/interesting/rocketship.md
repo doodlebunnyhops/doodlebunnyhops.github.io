@@ -7,7 +7,7 @@ description: "Interesting Alien Handprints and energy orb in the Rocket RP house
 
 Unclear if this has anything to do with the Brookhaven Mystery, but it is a Fun Find for RP.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 {{< tip >}}
 **Requirements** : None
@@ -31,4 +31,4 @@ Unclear if this has anything to do with the Brookhaven Mystery, but it is a Fun 
     1. Oxygen/Fuel Room: Near the door by Fuel Tank and appears that the button has been destroyed
     1. Afterburner: Go down the ladder in the Oxygen/Fuel Room and you will see the handprint on the bottom of the ladder.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

@@ -1,6 +1,6 @@
 ---
-title: "~~Interesting Findings~~"
-weight: 50
+title: "Interesting Findings"
+weight: 70
 draft: false
 description: "Brookhaven RP content on interesting findings in the game that may have to do with role play or secrets and mysteries."
 ---

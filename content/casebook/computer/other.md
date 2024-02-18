@@ -6,7 +6,7 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Sync Failed
 
@@ -24,7 +24,7 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 ![DESC](/images/bh/sync_failed_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## You’re connected!
 
@@ -39,7 +39,7 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 ![DESC](/images/bh/connected_comp_message.png) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Frat House
 
@@ -58,4 +58,4 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 ![DESC](/images/bh/frathouse_computer_message.png) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

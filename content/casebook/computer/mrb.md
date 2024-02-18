@@ -6,7 +6,7 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Use This Key Wisely
 
@@ -22,7 +22,7 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 ![DESC](/images/bh/green_card_comp_message.png) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Crystal Hunt Begins
 
@@ -38,7 +38,7 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 ![DESC](/images/bh/7_crystals_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Crystal Guidance
 
@@ -54,7 +54,7 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 ![DESC](/images/bh/crystal_guidance_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Future Double Agent
 
@@ -70,4 +70,4 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 ![DESC](/images/bh/future_double_agent_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

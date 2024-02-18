@@ -22,6 +22,12 @@ List of definitions as some names for places/things does differ.
 #### Bunker Switch Board
 >This is a switch board with 5 switches in the Agency Bunker. It's missing the 3rd switch.
 ---
+#### Agency Lair
+>A sub-sub level Agency location hidden inside the Shipping and Criminal RP house. Also referred to as Greed and Fear’s Lair.
+---
+#### Criminal Lair
+>Sub level room located in the Shipping and Criminal RP House. Also referred to as Criminal Base, as it resembles the original Criminal Base that is no longer in game.
+---
 #### Crystal
 >Yellow slightly glowing item that looks to have 3 prongs.
 ---
@@ -68,6 +74,6 @@ List of definitions as some names for places/things does differ.
 #### Agency Experimentation Site
 >Room above the Hospital that looks old and Abandoned. There are 2 chairs, a Surgery Table, and an Operations Room in this area.
 ---
-#### Criminal Base
-> Hideout behind Starbrooks through a hidden door. You will see a light that can be clicked and opens a passageway to the criminal base.
+#### Hideout Bunker
+> Hideout behind Starbrooks through a hidden door. You will see a light that can be clicked and opens a passageway. Aslo referred to as Criminal Base.
 ---

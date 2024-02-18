@@ -21,7 +21,7 @@ enableCopyright = false
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
-
+numberOfTagsShown = 14
 otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
 # search

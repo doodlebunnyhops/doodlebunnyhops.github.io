@@ -2,12 +2,16 @@
 title: "Agency"
 weight: 1
 draft: false
-tags: ["Computer Messages"]
 description: "All Messages provided on the laptop from the Agency in Brookhaven RP Secrets and Mysteries."
+tags: ["Computer Messages","Agency Computer Messages", "Agency"]
+images: 
+- bh/follow_the_book_comp_message.png
+- bh/useful_soldier_comp_message.jpg
+image: bh/useful_soldier_comp_message.jpg
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Follow The Book
 
@@ -23,7 +27,7 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/follow_the_book_comp_message.png) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Power of The Book
 
@@ -41,7 +45,7 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/power_of_the_book_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Useful Soldier
 
@@ -57,7 +61,7 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/useful_soldier_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Circle The Monoliths
 
@@ -73,7 +77,7 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/circle_monotliths_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## No Experimenting
 
@@ -91,7 +95,7 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/agency_no_experimenting_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Agency Knows What's Best
 
@@ -111,4 +115,26 @@ description: "All Messages provided on the laptop from the Agency in Brookhaven 
 ![DESC](/images/bh/agency_knows_whats_best_comp_message.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
+
+
+	
+
+## Money is everything!
+
+{{< tip >}}
+**Requirements** : Part of [Agency Greed](/lore/quests/#agency-greed)
+{{< /tip >}}
+
+**Steps:**
+
+1. Go to the Criminal Lair under the Shipping RP house.
+1. By the desk there is a button that will unlock a hidden door.
+1. Place money in hand, as the note from Marcus suggested, and go through the lasers.
+1.  After sitting in the chairs, open your laptop to see a new message from the Agency. *We still need confirmation if all chairs or just one need to be sat in.
+
+	`Follow blindly, do not think. Money is everything!. (Agency)`
+	
+	![Agency Computer Message, money is everything](/images/bh/agency_greed_comp_message.jpg)
+
+<hr style="background-color: #28b44c" size=8>
