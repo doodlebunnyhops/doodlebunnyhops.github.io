@@ -4,7 +4,7 @@ weight: 1
 description: "All Messages seen on the windows in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
 ---
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Lake Madison Camera
 _We met in secret_
@@ -22,7 +22,7 @@ _We met in secret_
 
 ![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-lake-madison.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Plant RP House Book
 _The bottom of a hill..._
@@ -41,7 +41,7 @@ _The bottom of a hill..._
 
 ![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-plant-house.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Military RP Binoculars
 _Within the green..._

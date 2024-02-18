@@ -7,7 +7,7 @@ description: "All Notes and how to find them that are signed by Madison in Brook
 
 Collection of notes written to and from Madison. It's interesting that notes _to_ Madison are never signed by their writer.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Survival RP House
 
@@ -22,7 +22,7 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ![Note from Madison, power of the agency has grown](/images/bh/madison_survival_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Barn
 
@@ -36,7 +36,7 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ![Note to Madison letting her know they are going back to the future. It is unsigned](/images/bh/madison_barn_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Abandoned House
 
@@ -50,4 +50,4 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ![Note to Madison apologizing for leaving abruptly](/images/bh/madison_abandoned_house_note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

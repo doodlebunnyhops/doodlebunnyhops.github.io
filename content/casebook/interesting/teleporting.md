@@ -6,7 +6,7 @@ description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
 ---
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Hidden Valley Teleport Spot
 {{< tip >}}
@@ -32,7 +32,7 @@ Darzeth’s Youtube vid for better idea of where to stand:
 {{< youtube "O4s7pI_jzW0" >}}
 {{< /tip >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Quantum Room Teleport Spots
 Whenever you teleport out of the Quantum Room, you usually get teleported by the Yacht. Sometimes that is not the case...
@@ -59,4 +59,4 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 1. Head to quantum room and then leave.
 1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/#build-portal).
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

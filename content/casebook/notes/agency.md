@@ -7,7 +7,7 @@ description: "All Notes and how to find them that are signed by the Agency in Br
 
 Clearly marked with their signature logo with AGENCY written on it, it's clear agents would communicate with notes mostly hidden.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Hotel from the Future: Closet
 
@@ -23,7 +23,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 ![Agency Note About Madison and Older Boy](/images/bh/future-hotel-note.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Hotel from the Future: Chair
 
@@ -41,7 +41,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 ![Message behind chair to follow the book](/images/bh/future-hotel-chair-note.jpg) 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Quantum Room
 
@@ -56,7 +56,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 ![Agency note that says sleep and extract 7 building blocks of life. Crystal requires sequencing](/images/bh/carbon-block-note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Experimentation Site
 
@@ -75,4 +75,4 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 ![Agency Note that reads, only we know best.](/images/bh/get-slimed-note.jpg) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

@@ -44,7 +44,7 @@ If you're having a hard time seeing the rest of the table, click anywhere on the
 
 **X** : Unlocks things that are hidden
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A01
 **Power Relay on/off**
@@ -65,7 +65,7 @@ Turning the High Voltage lever on in Town Hall will activate this light.
 
  ![High Voltage Switch On](/images/bh/a01.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A02
 **Access to Secondary Program Granted**
@@ -88,7 +88,7 @@ Put password in the Brookhaven Electric password panel
 5. Continue to [A03](#a03)
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A03
 **Brookhaven Electric Main Power**
@@ -114,7 +114,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 {{< /tip >}}
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A04
 **Energy Relay Charged**
@@ -131,7 +131,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 	1. Activates A04
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A05
 **Arch Main Power Inverted /Connection Acquired**
@@ -149,7 +149,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 3. Click on the button behind the Coffin, must be standing on Lightened Area
 	1. Activates A05
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A06
 **Power Relay on/off**
@@ -166,7 +166,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 2. High Voltage lever Green (turn it on)
 	1. Activates A06
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A07
 **Insignia Unlocked**
@@ -189,7 +189,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 	`Power Expired`	
 	1. Activates A07
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A08
 **Signal Array Online/Disruption**
@@ -208,7 +208,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 3. Turn on light switch: Message reads: **Signal Array Online**
 	1. Deactivates A08
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A09
 **SQL Injection Complete / Vertical Privilege escalation achieved**
@@ -226,7 +226,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
   1. Activates A09
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A14
 **Coordinates approved, A(x1,y1) and B(x2,y2)**
@@ -250,7 +250,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 	1. Coordinates approved. A(x1,y1) and B(x2,y2)
 	2. Activates A14
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A15
 **Apparition of the Crow**
@@ -271,7 +271,7 @@ A15 will only activate between 7am-9:37am
 2. Dig by Crow at 8:30am to obtain the Green Key card
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A16
 **Hydrogen beam accelerator complete**
@@ -294,7 +294,7 @@ Build a Portal
 			`Hydrogen beam excelerator complete: A16 activated`
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A17
 **Power configured to crystals**
@@ -316,7 +316,7 @@ Unlocks the Door to the Secret Room on the Roof of the School
 1. You should now be able to enter the Secret School Base found on the Roof of the School once the requirements are met.
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A18
 **Carbon ingot articulation Arch forcefield :NO ERRORS:**
@@ -344,7 +344,7 @@ Sit down!
 		`We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)`
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A19
 **Energy Crystals released/Numeric Sequence Approved**
@@ -367,7 +367,7 @@ Hidden Crystals are now Find-able
 		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A20
 **Awaiting Power**
@@ -394,7 +394,7 @@ Collecting the crystals to power something
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow
 	2. A20 now activated
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A21
 **No Text**
@@ -433,7 +433,7 @@ Unlocks TS LVL 2
 	2. Activates A21
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A22
 **Enemy Signal Detected**
@@ -451,7 +451,7 @@ Unlocks TS LVL 2
 	1. Activates A22
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A23
 **Asystole Reversal (Error)**
@@ -468,7 +468,7 @@ No known Quest uses this trigger
 2. You can "fall" into one of the Graves, click on the Coffin
 	1. Activates A23
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A24
 **Power Coupler on/off**
@@ -484,7 +484,7 @@ No known Quest uses this trigger
 	1. Activates A24
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A25
 **PSU inf.**
@@ -500,7 +500,7 @@ No known Quest uses this trigger
 	1. Activates A25
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A26
 **Inferential delusion mechanism available**
@@ -532,7 +532,7 @@ No known Quest uses this trigger
 
 1. You can turn the lights back on as needed.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## A27
 **In Darkness / See-Through**
@@ -576,7 +576,7 @@ Unlocks ability to Electrocute the Alien
 		![See-Through Crystal A27 deactivated](/images/bh/a27_deactivated.jpg)
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H02
 **Hidden Dorm Unlocked**
@@ -597,7 +597,7 @@ Reveals a hidden room in the Frat House
 	1. Continue to [H03](#h03)
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H03
 **Unlocked Bunker Control Screen**
@@ -618,7 +618,7 @@ Unlocks Blue Keypad in the Agency Bunker
 	1. Sometimes I find clicking the back of laptop works easier.
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H04
 **Crystal Found**
@@ -639,7 +639,7 @@ Unlocks Blue Keypad in the Agency Bunker
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H06
 **Plant Quantum saved**
@@ -663,7 +663,7 @@ Reveals secret message in Quantum Room
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H07
 **Town Signal ready**
@@ -680,7 +680,7 @@ Reveals the Rod that can be Obtained
 	1. In the Bakery House: where the vault room is, there should be a note now. If you can see the note, now you can find the rod.
 1. Go to the Arch by the Barn, and look underneath it, side by the Barn (notice it's lifted a little) click it: Activates H07
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## H08
 **Counter intelligence detected**
@@ -697,7 +697,7 @@ A useful tool in finding secrets and tips
 	2. Use the Binoculars to read hidden notes and find other secrets ;)
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## V08
 **E-Thermal control online**
@@ -720,7 +720,7 @@ Gotta cool off the power supply
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## X01
 **Agency knowledge released [Caution]**
@@ -743,7 +743,7 @@ Burn the evidence
 		`Agency Knowledge released. [Caution]; [X01] activated`
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## X02
 **The Book power unveiled [Follow]**
@@ -770,7 +770,7 @@ Travel to the past by the power of a book!
 			`The Book power unveiled [Follow]: X02 activated`
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## X22
 We still don’t know how to activate light X22 but we do see it mentioned on the Agency themed Armored Truck that came with the Robbers update June 02 ‘23. 

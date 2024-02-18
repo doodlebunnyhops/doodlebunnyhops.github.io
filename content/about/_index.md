@@ -13,5 +13,5 @@ Hey it's BloominDaisy here! A local at the Secrets and Mysteries discord channel
 
 I worked on this site after seeing a lot of consistent use of the [Google Doc](https://docs.google.com/document/d/1xIEoVSAsFoBpZYfg6fYfoWsWe6F7Pu-ARkPTVMRCTZk/edit?usp=sharing) I had started back in January of this year.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 

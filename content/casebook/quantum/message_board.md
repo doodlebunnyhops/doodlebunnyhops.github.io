@@ -6,7 +6,7 @@ description: "All Messages seen on the Message Board in the quantum room and how
 
 There are 2 message boards in the quantum room. The first is always present, and the second appears once [Power Online](#power-online) is activated.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Room Activated
 _But why does the room need to be activated?_
@@ -25,7 +25,7 @@ _But why does the room need to be activated?_
 
 ![Quantum Window Message from clicking Camera](/images/bh/room-activated.png)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Backdoor Camera Slot Found
 _What computer are we connected to?_
@@ -43,7 +43,7 @@ _What computer are we connected to?_
 
 ![Quantum Window Message from clicking Camera](/images/bh/backdoor-camera-slot.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Algorithm Generated
 _Is this related to the code we see in the Experimentation Site above the hospital?_
@@ -62,7 +62,7 @@ _Is this related to the code we see in the Experimentation Site above the hospit
 
 ![Quantum Window Message from clicking Camera](/images/bh/algorithm-generated.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Carbon Burn Commencing
 _Carbon Blocks have appeared..._
@@ -80,7 +80,7 @@ _Carbon Blocks have appeared..._
 
 ![Quantum Window Message from clicking Camera](/images/bh/carbon-burn-commencing.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Power Online
 _Power the Quantum Room_
@@ -104,7 +104,7 @@ _Power the Quantum Room_
 		
 ![Quantum Room Message Board Power Online](/images/bh/destroy-carbon-blocks-online-2.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 
 ## First Messages
@@ -135,4 +135,4 @@ Before any secrets are done these are the first messages you will see rotating p
 ![Quantum Window Message from clicking Camera](/images/bh/gravitational-time-dilation-ua.jpg)
  
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

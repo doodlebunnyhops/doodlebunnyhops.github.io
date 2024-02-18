@@ -10,7 +10,7 @@ But what does the steam mean, and why does it only happen when Monoliths appear?
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Create Steam
 
@@ -34,7 +34,7 @@ But what does the steam mean, and why does it only happen when Monoliths appear?
 	1. It will take anywhere from 30 min - 2h in game for steam to start in the Quantum Room.
 	1. Steam will last for ~30 min in game and on completion the floor will flash black.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Related To Monoliths
 

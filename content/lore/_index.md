@@ -13,7 +13,7 @@ We started out with a few hints around the Town of Brookhaven. A movie clip, som
 We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Where to get started
 
@@ -32,7 +32,7 @@ Keep in mind, maybe there are steps we shouldn't do, though commonly the communi
 {{< button "./quests/" "Quests" "mb-1" >}}
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Why are some things a quest, and others not?
 

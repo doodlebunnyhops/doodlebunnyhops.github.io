@@ -8,7 +8,7 @@ description: "All Notes and how to find them that are signed by Mr. Brookhaven i
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Crystals for Good or Bad
 
@@ -22,4 +22,4 @@ description: "All Notes and how to find them that are signed by Mr. Brookhaven i
 
 ![Note from Mr. Brookhaven, the crystal calls out 7 times.](/images/bh/mrbrookhaven_crystals_notes.png) 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

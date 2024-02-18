@@ -14,7 +14,7 @@ It's also recommended to have the following in your inventory at some point:
 - [Laptop](#connect-laptop) *
 - [Binoculars](#binoculars) *
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Connect Laptop
 
@@ -89,7 +89,7 @@ If you did not teleport, check that you have the crystal in your inventory and t
 {{< /tip >}}
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Binoculars
 

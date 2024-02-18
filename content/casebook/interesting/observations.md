@@ -5,7 +5,7 @@ draft: false
 description: "Observations found in the Brookhaven RP Secrets and Mysteries. May contain observations that haven't been determined as part of the Secrets and Mysteries lore."
 ---
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Linked Electric & Water
 
@@ -23,7 +23,7 @@ Electricity Building and Water Pipes in Town Hall, and Camera at Madison Lake ar
     - With the above done if you flip on one more water lever, doesn't matter which, then Electricity Building reads "Power Diverted"
         - Power Diverted message when [Monoliths](/lore/quests/#monoliths) are spawning will trigger [Mysterious Steam](/casebook/quantum/steam/) in the quantum room.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Paradise Falls Crystal
 
@@ -46,7 +46,7 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 1. Click on the Crystal that is inside of the Attic
 1. Head back to the Paradise Falls Cave and the Crystal should have spawned there.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## TS LVL3 Plaque
 {{< tip >}}
@@ -58,7 +58,7 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 ![hidden tslvl3 plaque](/images/bh/tslvl3.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Energy Ring Panels
 {{< tip >}}
@@ -73,7 +73,7 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 ![Energy Ring in Bakery Attic](/images/bh/bakery_energy_ring.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Orange Button
 
@@ -88,4 +88,4 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 ![Orange Button under table in Agency Bunker](/images/bh/agency_orange_button.jpg)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

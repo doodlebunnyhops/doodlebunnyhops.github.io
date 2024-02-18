@@ -8,7 +8,7 @@ description: "Interesting Spider in the Camp Cabin at Brookhaven RP"
 
 Unclear if this is part of Brookhaven Mystery.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ## Friendly Spider?
 {{< tip >}}
@@ -30,4 +30,4 @@ In the Camp Cabin there is a spider that shows in a few places.
 
 There are blocks found in the Attic of the Camp Cabin, a chair, a mirror, and a doll. If you click the backside of the mirror you will notice the blocks will change color.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>

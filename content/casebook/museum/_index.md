@@ -1,5 +1,5 @@
 ---
-title: "~~Museum~~"
+title: "Museum"
 weight: 30
 description: "Each displayed piece in the Brookhaven Museum holds a secret"
 ---
@@ -9,14 +9,14 @@ description: "Each displayed piece in the Brookhaven Museum holds a secret"
 
 Here's what we _know_...
 
-- [Knight](knight/) - He stands for _Bravery_
-- Kind - ??
-- Judge - A _greedy_ man
-- Fear - ??
+- **[Brave](knight/)**:    A brave knight attempting to protect against the darkness.
+- **Kind**:     unknown
+- **[Greed](greed/)**:    Agency Creator...Judge... _still alive_?
+- **Fear**:     unknown
 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 
 ### Related Quest's involving the Museum

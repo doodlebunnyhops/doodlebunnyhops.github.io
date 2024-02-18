@@ -11,7 +11,7 @@ description: "More Secrets confirmed coming to the Hidden Valley Cave in Brookha
 In the Aug 25 2023 [Construction update](/blog/construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!
 The BrookhavenRP community went back and forth if it could possibly mean something or was a bug. But on the release of the [Halloween Update](/blog/10-13-23) Wolfpaq gave us some insight. 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Wolfpaq Confirms:
 
@@ -24,7 +24,7 @@ Someone had asked in [Wolfpaq's Discord](https://discord.com/channels/4823083572
 
 Confirming, not only are we going to see a secret update in the future, but this cave will be a part of the Secrets and Mysteries Lore!
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Getting to Secret Cave
 
@@ -41,7 +41,7 @@ Confirming, not only are we going to see a secret update in the future, but this
 You can also access this area from Paradise Falls
 {{< /tip >}}
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Light Timing 
 

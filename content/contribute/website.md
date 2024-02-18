@@ -12,7 +12,7 @@ You will need to have a github account in order to submit an issue, if this isn'
 Head on over to [this sites repo](https://github.com/doodlebunnyhops/doodlebunnyhops.github.io/issues) where you can open an issue. 
 
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 
 ## ~_~_~Types of requests~_~_~
@@ -35,7 +35,7 @@ General questions about the site, maybe you aren't sure how to navigate around. 
 
 For questions about the game or discuss idea's about secrets checkout the [Discord](/contribute/discord) section.
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 
 ## ~_~_~How to submit Request~_~_~
@@ -44,13 +44,13 @@ For questions about the game or discuss idea's about secrets checkout the [Disco
 - [Fill it in](/contribute/website/#fill-it-in)
 - [Submit](/contribute/website/#submit)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Select Which type you want to submit:
 
 ![image](/images/git/which_issue.png)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Fill it in!
 Each issue type has examples and sections to answer to help us streamline requests.
@@ -58,7 +58,7 @@ Each issue type has examples and sections to answer to help us streamline reques
 Once you're all done click on the "Submit new issue" button near the bottom.
 ![image](/images/git/update_info.png)
 
-![horizontal-line](/images/green-line.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### Submit
 

@@ -2,10 +2,10 @@
 title: "CaseBook"
 weight: 2
 description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."
+toc: true
 --- 
 
 Notes and observations found during investigations.
-
 
 
 {{< tabs "tabID">}}
