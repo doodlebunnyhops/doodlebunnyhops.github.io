@@ -1,6 +1,6 @@
 ---
 title: "Energy Pyramids"
-weight: 3
+weight: 2
 description: "How to find Energy Pyramids in Brookhaven RP and what they are used for in Secrets and Mysteries."
 ---
 

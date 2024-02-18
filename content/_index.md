@@ -1,12 +1,16 @@
-+++
-title = "Home"
-[data]
-columnTitles = ["Section", "Status"]
-title = "Projects"
-enableCopyright = false
-description = "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. It includes a walkthrough of quests and what tools or other quests are required, in addition to a casebook that has all the extra details found throughout the game."
+---
+title: "Home"
+date: 2023-05-19
+description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. It includes a walkthrough of quests and what tools or other quests are required, in addition to a casebook that has all the extra details found throughout the game."
+enableCopyright: false
+image: bh/collage.png
+images: 
+- bh/collage.png
+- thumbnails/portal_update.png
+Categories: ["Brookhaven RP","Brookhaven Mystery", "Roblox"]
+Tags: ["Secrets and Mysteries","Lore","Detective"]
+---
 
-+++
 
 
 # Can you solve the **Mystery** of Brookhaven?

@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-docSections = ["casebook","interesting","terminology","lore","slides","tools","quests","contribute"]
+docSections = ["casebook","interesting","terminology","lore","slides","tools","quests","contribute","poi"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
@@ -30,9 +30,9 @@ on = true
 global = true # turn to `true` to enable global search
 [search.algolia]
 enable = false # if false search will default to fusejs
-id = "Q40WQQX84U" # Application ID
-index = "compose" # Index name
-key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
+id = "none" # Application ID
+index = "none" # Index name
+key = "none" # Search-Only API Key
 
 # Site logo
 [logo]
