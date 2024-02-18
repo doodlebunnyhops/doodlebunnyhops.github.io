@@ -6,7 +6,7 @@ description: "Computer messages that appear on your laptop in Brookhaven RP by t
 tags: ["Computer Messages"]
 images: 
 - bh/follow_the_book_comp_message.png
-image: bh/follow_the_book_comp_message.png
+image: images/bh/follow_the_book_comp_message.png
 date: 2024-01-01
 ---
 
