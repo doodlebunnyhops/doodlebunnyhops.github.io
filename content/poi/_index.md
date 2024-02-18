@@ -17,11 +17,7 @@ You can click them to find out more details about that location!.
 You may find it easier to zoom in and out on the image to get a better view
 {{< /tip >}}
 
-{{< svg "static/images/map/map-full-squares.svg" >}}
+{{< svg "static/images/map/map-with-outlines_spawn_highlight.svg" >}}
 
-
-## Town Hall
-
-Stuff about town hall
 
 ---
