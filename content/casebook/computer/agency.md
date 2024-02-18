@@ -7,7 +7,7 @@ tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - bh/follow_the_book_comp_message.png
 - bh/useful_soldier_comp_message.jpg
-image: bh/useful_soldier_comp_message.jpg
+image: images/bh/useful_soldier_comp_message.jpg
 ---
 
 
