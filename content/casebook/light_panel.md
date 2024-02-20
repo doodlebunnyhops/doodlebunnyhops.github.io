@@ -2,6 +2,56 @@
 title: "Agency Light Panel"
 weight: 1
 description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
+aliases:
+- /light_panel
+- /light_panel/a01
+- /light_panel/a02
+- /light_panel/a03
+- /light_panel/a04
+- /light_panel/a05
+- /light_panel/a06
+- /light_panel/a07
+- /light_panel/a08
+- /light_panel/a00
+- /light_panel/a10
+- /light_panel/a11
+- /light_panel/a12
+- /light_panel/a13
+- /light_panel/a14
+- /light_panel/a15
+- /light_panel/a16
+- /light_panel/a17
+- /light_panel/a18
+- /light_panel/a19
+- /light_panel/a20
+- /light_panel/a21
+- /light_panel/a22
+- /light_panel/a23
+- /light_panel/a24
+- /light_panel/a25
+- /light_panel/a26
+- /light_panel/a27
+- /light_panel/h02
+- /light_panel/h03
+- /light_panel/h04
+- /light_panel/h05
+- /light_panel/h06
+- /light_panel/h07
+- /light_panel/h08
+- /light_panel/v08
+- /light_panel/v09
+- /light_panel/v10
+- /light_panel/v11
+- /light_panel/v12
+- /light_panel/x01
+- /light_panel/x02
+- /light_panel/x03
+- /light_panel/x04
+- /light_panel/x05
+- /light_panel/x06
+- /light_panel/x07
+- /light_panel/x08
+- /light_panel/x09
 ---
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
