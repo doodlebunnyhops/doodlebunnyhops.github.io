@@ -12,11 +12,10 @@ Marcus, Mr.Brookhaven's son has left only one note signed by him. Does this mean
 
 ## Shipping / Criminal RP House
 
-
-{{< youtube "TCznqHlgmn0" >}}
-
 {{< tip >}}
 **Requirements** : None
+
+Part of [Criminal Lair](/lore/quests/#criminal-lair)
 {{< /tip >}}
 
 **Steps:**
