@@ -500,7 +500,8 @@ The rod becomes clickable after an action but...
 Unlocks the Blue Keypad in the Agency Bunker
 
 `Recommended starting the video at 1m:17sec`
-{{< youtube "gysIfNUKpbw" >}}
+
+{{< liteyoutube videoid="gysIfNUKpbw" params="start=77" >}}
 
 {{< tip >}}
 **Requirements** : None
