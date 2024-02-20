@@ -2,6 +2,8 @@
 title: "Tools"
 weight: 1
 description: "Common tools used in Brookhaven RP Secrets and Mysteries and how to get them."
+aliases:
+- /tools
 --- 
 
 These are steps to grab a few items that will help reveal hints.
