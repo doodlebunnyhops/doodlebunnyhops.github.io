@@ -500,7 +500,8 @@ The rod becomes clickable after an action but...
 Unlocks the Blue Keypad in the Agency Bunker
 
 `Recommended starting the video at 1m:17sec`
-{{< youtube "gysIfNUKpbw" >}}
+
+{{< liteyoutube videoid="gysIfNUKpbw" params="start=77" >}}
 
 {{< tip >}}
 **Requirements** : None
@@ -644,8 +645,8 @@ All of these steps will be in the Shipping / Criminal RP house.
 
 These steps are broken into 2 parts
 
-- [Criminal Lair](#criminal-lair)
-- [Agency Lair](#agency-lair)
+- [Criminal Lair](/lore/quests/#criminal-lair)
+- [Agency Lair](/lore/quests/#agency-lair)
 {{< /tip >}}
 
 {{< tip >}}

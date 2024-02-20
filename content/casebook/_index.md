@@ -22,6 +22,18 @@ Notes and observations found during investigations.
 - [Movie Codes](movie_codes/)
 {{< /tab>}}
 
+{{< tab "Museum" >}}
+- [Museum](museum/)
+	- [Brave](museum/knight/)
+	- [Greed](museum/greed/)
+{{< /tab>}}
+
+{{< tab "Monoliths" >}}
+- [Monoliths](monoliths/)
+	- [Details](monoliths/details/)
+	- [Locations](monoliths/locations/)
+{{< /tab>}}
+
 {{< tab "Quantum Room" >}}
 - [Quantum Room](quantum/)
 	- [Window Messages](quantum/window_messages/)
@@ -29,14 +41,10 @@ Notes and observations found during investigations.
 	- [Mysterious Steam](quantum/steam/)
 {{< /tab>}}
 
-{{< tab "Museum" >}}
-- [Museum](museum/)
-	- [The Knight](museum/knight/)
-{{< /tab>}}
-
 {{< tab "Notes & Messages" >}}
 - [Notes & Messages](notes/)
 	- [Agency](notes/agency/)
+	- [Marcus](notes/marcus)
 	- [Mr. B](notes/mrb)
 	- [Mr. Brookhaven](notes/mrbrookhaven/)
 	- [Madison](notes/madison/)
