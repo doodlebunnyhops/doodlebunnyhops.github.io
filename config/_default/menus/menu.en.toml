@@ -16,10 +16,10 @@
   name = "CaseBook"
   weight = 2
   url = "casebook/"
-#[[main]]
-#  name = "Interesting"
-#  weight = 3
-#  url = "interesting/"
+[[main]]
+  name = "Map"
+  weight = 3
+  url = "map/"
 [[main]]
   name = "Terminology"
   weight = 4

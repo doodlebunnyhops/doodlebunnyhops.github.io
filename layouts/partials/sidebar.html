@@ -8,8 +8,6 @@
   {{- $page := .page }}
   {{- $permalink := $page.RelPermalink }}
   <section class="section aside_inner">
-    {{/*  <img src="/images/green-line.png">  */}}
-    {{/*  <hr style="color: #28b44c">  */}}
     <hr style="background-color: #28b44c">
     <h2 class="section_title{{ if eq $section.RelPermalink $permalink }} active{{ end }}"><a  href="{{ $section.Permalink }}" class="group">{{ $section.Title }}</a></h2>
       {{- $pages := $section.Pages }}
@@ -17,9 +15,10 @@
       <section class="" id="docs-{{ anchorize $section.Title }}">
         {{- range . }}
         {{- if .IsPage }}
-        <h4 class="section_link{{ if eq .RelPermalink $permalink }} active{{ end }}"><a id="docs-{{ anchorize .Title }}" href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        <h3 class="section_link{{ if eq .RelPermalink $permalink }} active{{ end }}"><a id="docs-{{ anchorize .Title }}" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          {{ $toc_id := printf "toc-%s" (replace (urlize .Title) "." "-") }}
         {{- if ne (print .TableOfContents) ""}}
-          {{- .TableOfContents }}
+          {{-  safeHTML (replace .TableOfContents "TableOfContents" $toc_id) }}
         {{- end }}
         {{- else }}
         {{- template "tree" (dict "page" $page "section" .) }}
@@ -27,7 +26,6 @@
         {{- end }}
       </section>
       {{- end }}
-      
-  </section>
+        </section>
   {{- end }}
 </aside>

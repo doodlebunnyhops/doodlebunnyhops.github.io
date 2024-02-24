@@ -174,7 +174,7 @@ Flip the lever on the right, it will go from red to green.
 **Steps:**
 
 1. Go to Brookhaven Electric, near South Estate and Solar Panels.
-	1. [Check Map](/images/map/map-bh-electric.svg) if you're not sure where that is.
+	1. [Check Map](/images/map/brookhaven-electric.svg) if you're not sure where that is.
 2. Use the Blue Key card to enter Electric Building
 	1. Brookhaven Electric Message displays: `Temperature Stable`
 3. Click on the Blue Panel on the left
