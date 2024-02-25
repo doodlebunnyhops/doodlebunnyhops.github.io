@@ -1,25 +1,17 @@
 ---
 title: "Monoliths"
 weight: 40
+date: 2023-05-31
 description: "Monoliths appear throughout the town of Brookhaven"
+images: 
+- bh/monolith_main.jpg
+image: bh/monolith_main.jpg
+tags: ["Monolith Details"]
 ---
 
 
-## Who are the people in the paintings?
+## What are they?
 
-Here's what we _know_...
+A lot of speculation on these strange tall rectangular objects with even weirder scripture on the side. They seem to be Agency created, as they all have the logo of the Agency on them, and we know they're looking for something but why?
 
-- **[Brave](knight/)**:    A brave knight attempting to protect against the darkness.
-- **Kind**:     unknown
-- **Greed**:    Agency Creator...Judge... _still alive_?
-- **Fear**:     unknown
-
-
-
-<hr style="background-color: #28b44c" size=8>
-
-
-### Related Quest's involving the Museum
-
-- [Ghostly Sighting](/lore/quests/#ghostly-sighting)
-- [Glowing Chair](/lore/quests/#glowing-chair)
+![Monlith by Barn](/images/bh/monolith_main.jpg)

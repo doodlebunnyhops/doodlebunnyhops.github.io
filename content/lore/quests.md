@@ -10,7 +10,7 @@ Ahh yes, here is the heart of our investigation. These are quests that have led 
 
 Sometimes tools, special tools, or other quests are required to complete a quest and will be listed in the `requirements` section.
 
-Notes and messages found along the way are in our [CaseBook](../../casebook/) for safe keeping. 
+Notes and messages found along the way are in our [CaseBook](casebook/) for safe keeping. 
 
 <hr style="background-color: #28b44c" size=8>
  
@@ -29,7 +29,7 @@ We are an a quest to find 7 crystals!
 
 1. Head to the Abandoned House
 2. Click on the button between the Fridge and the Counter
-	1. _7 Crystals Released_: [A19](../../casebook/light_panel#a19) Activated
+	1. _7 Crystals Released_: [A19](casebook/light_panel#a19) Activated
 	2. Laptop:
 	
 		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
@@ -43,7 +43,7 @@ We are an a quest to find 7 crystals!
 	7. In the Barn behind the hay on the first level.
 4. _Energy crystals awaiting power_
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
-	2. [A20](../../casebook/light_panel#a20) now activated
+	2. [A20](casebook/light_panel#a20) now activated
 
 {{< tip >}}
 
@@ -81,12 +81,12 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 **Steps:**
 
 1. In the Town Hall
-	1. Turn the High Voltage switch on: [A06](../../casebook/light_panel#a06)
+	1. Turn the High Voltage switch on: [A06](casebook/light_panel#a06)
 	1. Make sure danger switch is off
 	1. Bunker Message: 
 	
 		`Power Configured to crystals`
-	1. With proper switches on and off plus Crystals found unlocks [A17](../../casebook/light_panel#a17)
+	1. With proper switches on and off plus Crystals found unlocks [A17](casebook/light_panel#a17)
 2. Go to the School and look on the Plants for a code
 	1. Sometimes the code is on the leafs or the pot (example code: 48989)
 	2. Commonly found in
@@ -95,7 +95,7 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 		3. English Room
 		4. Large plant upstairs in study area
 3. Use code in School Base.
-	1. [A14](../../casebook/light_panel#a14) is now activated. You will see the following message on the school base board:
+	1. [A14](casebook/light_panel#a14) is now activated. You will see the following message on the school base board:
 	
 	`Coordinates approved. A(x1,y1) and B(x2,y2)`
 	
@@ -124,7 +124,7 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 	2. Sit in the chair on the right under "Experimental" and get slimmed!
 3. Go to the mall:
 	1. Turn on the left switch in the TV Station (behind the wall use a sleeping bag)
-		1. This activates [A27](../../casebook/light_panel#a27)
+		1. This activates [A27](casebook/light_panel#a27)
 		1. Laptop
 		
 			`Please do as you are told, the Agency knows what's best for you! (Agency)`
@@ -134,7 +134,7 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 4. Back at Agency Experimentation Site you can now Electrocute the Alien in the Tube
 
 {{< tip >}}
-Turning the switch off in the hidden room behind the TV Station in the mall from earlier will deactivate [A27](../../casebook/light_panel#a27)!
+Turning the switch off in the hidden room behind the TV Station in the mall from earlier will deactivate [A27](casebook/light_panel#a27)!
 	
 Bunker Message:
 `See-through / (Crystal) :A27`
@@ -174,14 +174,14 @@ Flip the lever on the right, it will go from red to green.
 **Steps:**
 
 1. Go to Brookhaven Electric, near South Estate and Solar Panels.
-	1. [Check Map](/images/map/map-bh-electric.svg) if you're not sure where that is.
+	1. [Check Map](/map/poi/brookhaven-electric) if you're not sure where that is.
 2. Use the Blue Key card to enter Electric Building
 	1. Brookhaven Electric Message displays: `Temperature Stable`
 3. Click on the Blue Panel on the left
 4. Blue panel password: Your roblox username (not in game name if changed)
-	1. Activates [A02](../../casebook/light_panel#a02)
+	1. Activates [A02](casebook/light_panel#a02)
 	1. Brookhaven Electric Message displays: `Low voltage. Mainframe unavailable...`
-5. Turn on right switch: Activates [A03](../../casebook/light_panel#a03)
+5. Turn on right switch: Activates [A03](casebook/light_panel#a03)
 	1. Bunker Message now reads: `Brookhaven Electric main power on`
 
 {{< tip "warning" >}}	
@@ -209,10 +209,10 @@ Example: `Low voltage. Mainframe unavailable...`
 
 **Steps:**
 
-1. Click on the Camera on the mountain near Madison Lake: Activates [A09](../../casebook/light_panel#a09)
+1. Click on the Camera on the mountain near Madison Lake: Activates [A09](casebook/light_panel#a09)
 1. Go to the Town Hall
-	1. Turn on the Danger switch Activates [A01](../../casebook/light_panel#a01) and make sure High Voltage is off
-	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](../../casebook/light_panel#v08)
+	1. Turn on the Danger switch Activates [A01](casebook/light_panel#a01) and make sure High Voltage is off
+	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](casebook/light_panel#v08)
 1. Go to the Secret X-ray Hideout Room in the Hospital. This isn't a necessary step but it does show you have spawned the carbon blocks properly that we will collect next.
 	1. Click on the blue button underneath the table
 	1. Quantum Message Board 1 - Bottom Section: 
@@ -255,7 +255,7 @@ Near the Grocery Store, place a sleeping bag near the grass wall
 	1. Laptop:
 	
 		`You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)`
-	2. Activates [A21](../../casebook/light_panel#a21)
+	2. Activates [A21](casebook/light_panel#a21)
 
 
 {{< tip >}}	
@@ -290,7 +290,7 @@ Lets build stuff!
 	1. Click on the book underneath the table
 	2. Click on the frame of the empty picture by the door
 	3. Click on the button found behind the bedside table
-		1. Activates [X02](../../casebook/light_panel#x02)
+		1. Activates [X02](casebook/light_panel#x02)
 		1. Laptop
 		
 			`The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}`
@@ -319,7 +319,7 @@ Closeup of the device, we can see it was manufactured in Brookhaven in the year 
 2. Go to the Agency Base
 	1. Behind the Agency Base you should see boxes, use the Hammer on them until they have all disappeared. \*Hit F to type 3 so you hear a hitting sound\*
 	2. When completed you will briefly see an orb
-		1. Activates [A16](../../casebook/light_panel#a16)
+		1. Activates [A16](casebook/light_panel#a16)
 		1. Bunker Message: \*note excelerator is misspelled should it be accelerator?\*
 		
 			`Hydrogen beam excelerator complete: [A16] activated`
@@ -351,7 +351,7 @@ If you click the Bedside Table Button in the Future Room and get an Error Messag
 	- Laptop
 
 		`“We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)`
-	- This Activates [A18](../../casebook/light_panel#a18)
+	- This Activates [A18](casebook/light_panel#a18)
 	- Notice the interesting script on the Guillotine
 	
 		![monolith scripture](/images/bh/monolith_scripture.jpg)
@@ -511,9 +511,9 @@ Unlocks the Blue Keypad in the Agency Bunker
 
 1. Go into the Basement Library of the Frat House and go through the secret entrance to Sub-Basement
 2. With a laptop in your hand, sit on all 4 chairs, not the one behind the table.
-3. Now you should be able to click on the button found on the column to the right of the table/chair: Activates [H02](../../casebook/light_panel#h02)
+3. Now you should be able to click on the button found on the column to the right of the table/chair: Activates [H02](casebook/light_panel#h02)
 4. There is now a secret wall on the other end, drop down.
-5. Click on the laptop: Activates [H03](../../casebook/light_panel#h03)
+5. Click on the laptop: Activates [H03](casebook/light_panel#h03)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -537,10 +537,10 @@ There's a secret room behind the Agency Base... what's it for?
 
 **Steps:**
 
-1. Make sure the Agency Base lights are off. Activates [A08](../../casebook/light_panel#a08)
+1. Make sure the Agency Base lights are off. Activates [A08](casebook/light_panel#a08)
 2. Put the password in the Agency Base Keypad. The Password is **Marcus Brookhaven**
 	1. Opens the door to the Chair Room, notice the power is off
-	1. Activates [A26](../../casebook/light_panel#a26)
+	1. Activates [A26](casebook/light_panel#a26)
 	1. Bunker Message now reads:
  
 		`Inferential delusion mechanism available: A26 activated`
@@ -570,7 +570,7 @@ There's something special that reveals a hidden message
 
 1. Spawn in the Plant House
 2. In the Basement Area - click on the Green Plant Book
-	1. Activates [H06](../../casebook/light_panel#h06)
+	1. Activates [H06](casebook/light_panel#h06)
 	1. Bunker Message:
  
 		`Plant Quantum Saved: [H06]`
