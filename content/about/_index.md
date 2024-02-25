@@ -10,7 +10,7 @@ Categories: ["about"]
 Tags: ["bloomindaisy"]
 ---
 
-## Introduction
+# Introduction
 
 ![bloomindaisy's avatar](https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png)
 

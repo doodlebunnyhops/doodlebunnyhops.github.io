@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2023-05-19
-description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. It includes a walkthrough of quests and what tools or other quests are required, in addition to a casebook that has all the extra details found throughout the game."
+description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."
 enableCopyright: false
 image: images/bh/collage.png
 images: 
@@ -24,6 +24,18 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 ---
 
+## Not sure where to get started?
+
+- [Lore](/lore/) for steps uncovering secrets already found!
+- [CaseBook](/casebook/) contains notes and observations found during investigations
+- [Map](/map) for an interactive map to see where all the go to places are and info on that location.
+
+{{< column >}}
+![Portal Thumbnail](/images/thumbnails/portal_update.png)
+{{< /column >}}
+
+---
+
 Want to connect? Checkout my twitter and reddit
 
 
@@ -39,15 +51,5 @@ Want to connect? Checkout my twitter and reddit
     <img src="images/Reddit_Mark_OnWhite@2x.png" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
 </picture>				
 </a>
-
----
-## Not sure where to get started?
-
-- [Lore](/lore/) for steps uncovering secrets already found!
-- [CaseBook](/casebook/) contains notes and observations found during investigations
-
-{{< column >}}
-![Portal Thumbnail](/images/thumbnails/portal_update.png)
-{{< /column >}}
 
 

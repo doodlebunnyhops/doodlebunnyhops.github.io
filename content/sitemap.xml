@@ -4,391 +4,559 @@
 
     <url>
         <loc>https://solve.bhmystery.com/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/lore/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/lore/tools/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/lore/special_tools/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/lore/quests/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/light_panel/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/energy_pyramids/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/movie_codes/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/museum/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/museum/knight/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/museum/greed/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/monoliths/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/monoliths/details/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/monoliths/locations/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/quantum/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/quantum/window_messages/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/quantum/message_board/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/quantum/steam/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/notes/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/casebook/notes/agency/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/notes/marcus/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://solve.bhmystery.com/casebook/notes/mrbrookhaven/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <loc>https://solve.bhmystery.com/casebook/notes/agency/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/notes/mrb/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://solve.bhmystery.com/casebook/notes/madison/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <loc>https://solve.bhmystery.com/casebook/notes/mrbrookhaven/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/notes/other/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/casebook/notes/madison/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/computer/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/computer/agency/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/casebook/computer/mrb/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/computer/other/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/casebook/computer/mrb/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/observations/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/casebook/interesting/fountain/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/rocketship/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/casebook/interesting/fountain/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/hidden_valley_cave/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/camp_cabin/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/casebook/interesting/teleporting/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/abandoned-house/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/arch-by-abandoned-house/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/agency-bunker/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/barn/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/arch-by-barn/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/brookhaven-electric/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/cemetery/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/camp-cabin/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/criminal-hideout/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/church/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/hidden-camera/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/crows/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/horse-stable/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/hidden-valley/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/library/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/hospital/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/mall/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/motel/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/museum/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/north-view-estate/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/paradise-falls/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/police-station/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/school/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/portal/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/town-hall/</loc>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/map/poi/spawn/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/02-16-24/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/01-26-24/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/blog/01-12-24/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/01-01-24/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/blog/01-12-24/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/12-08-23/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/11-17-23/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/10-13-23/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/09-22-23/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/09-08-23/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/construction/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/avatar/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/blog/animations/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/battle-for-the-top/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/blog/animations/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/content-creator-rp/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/military/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/rob/</loc>
-        <lastmod>2024-02-18</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://solve.bhmystery.com/blog/intro/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/farm/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/foodtruck/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/blog/refuge/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/contribute/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/contribute/website/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/contribute/discord/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://solve.bhmystery.com/about/</loc>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/mermaid/steps_flow/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/terminology/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/terminology/words/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://solve.bhmystery.com/slides/update_animations/reveal.html/</loc>
-        <lastmod>2024-02-18</lastmod>
+        <lastmod>2024-02-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
