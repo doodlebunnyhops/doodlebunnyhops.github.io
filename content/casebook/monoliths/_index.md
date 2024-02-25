@@ -13,3 +13,5 @@ tags: ["Monolith Details"]
 ## What are they?
 
 A lot of speculation on these strange tall rectangular objects with even weirder scripture on the side. They seem to be Agency created, as they all have the logo of the Agency on them, and we know they're looking for something but why?
+
+![Monlith by Barn](/images/bh/monolith_main.jpg)

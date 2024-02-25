@@ -6,6 +6,7 @@ aliases:
 - /other
 ---
 <hr style="background-color: #28b44c" size=8>
+
 ## Found something to add or a mistake?
 
 I'm so happy you want to assist! We have setup the site to be hosted on github sites so that we can better filter out trolls.. Yea they happen.

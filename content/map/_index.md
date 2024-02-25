@@ -1,29 +1,58 @@
 ---
-title: "Points of Interest"
+title: "Map"
 weight: 1
-description: "Computer messages that appear on your laptop in Brookhaven RP by the Agency, Mr. B, and other sources."
-tags: ["Computer Messages"]
+description: "Interactive Maps of Brookhaven"
+tags: ["Maps"]
 images: 
-- bh/agency_greed_comp_message.jpg
-- bh/follow_the_book_comp_message.png
-image: bh/agency_greed_comp_message.jpg
+- maps/poi.svg
+image: maps/poi.svg
 date: 2024-01-01
 # draft: false
 --- 
 
 
-This is an interactive map showing points of interest in the Town of Brookhaven. 
+Navigating all the places around Brookhaven can be a challenge if you don't know where to find them. 
 
-{{< tip >}}
-You can click them to find out more details about that location!.
+This section has broken down the map for easier traveling during your investigation. 
+
+
+## Map Types
+
+{{< tabs "tabsId" >}}
+
+{{< tab "Points of Interest" >}}
+This map provides many locations used throughout quests
+
+{{< button "poi" "Points of Interest" >}}
+{{< /tab >}}
+
+{{< tab "Carbon Blocks" >}}
+See where all the Carbon Blocks are located.
+
+{{< tip "warning" >}}
+Coming soon
 {{< /tip >}}
 
-{{< tip >}}
-You may find it easier to zoom in and out on the image to get a better view
+{{< /tab >}}
+
+{{< /tabs >}}
+
+{{< tip "warning" >}}
+More map types to come!
+
+Coming soon: 
+
+- Carbon Block Locations
+- Crystal Locations
+- Dove Locations
 {{< /tip >}}
 
+## Using these Maps
 
+These maps are interactive, you can click on areas that are outlined to see more details about that location.
 
-{{< svg "static/images/maps/map-with-outlines_spawn_highlight.svg" >}}
+{{< tip "warning" >}}
+There are a lot of locations to cover, keep in mind only a couple of locations have details right now. Thanks for your patience!
+{{< /tip >}}
 
 ---

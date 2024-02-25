@@ -50,7 +50,7 @@
         ]]>
       </style>
 
-  <a xlink:href="/map/mall/"> 
+  <a xlink:href="/map/poi/mall/"> 
   <rect x="571.059" y="761.472" width="77.845" height="80.129" rx="7" ry="7" style="stroke: rgb(255, 0, 0); stroke-width: 4px; fill: rgb(255, 255, 255); fill-opacity: 0; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, 137.412846, 133.769009)">
     <title>Mall</title>
   </rect>

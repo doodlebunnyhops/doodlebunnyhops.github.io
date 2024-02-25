@@ -137,48 +137,47 @@
     });
   }
   
-  function markExternalLinks() {
-    let links = elems('a');
-    if(links) {
-      try {
-        Array.from(links).forEach(function(link){
+  // function markExternalLinks() {
+  //   let links = elems('a');
+  //   if(links) {
+  //     try {
+  //       Array.from(links).forEach(function(link){
   
-          let target, rel, blank, noopener, attr1, attr2, url, is_external;
-          if(link.href instanceof SVGAnimatedString){
-            console.log("Link HREF type animalVal:");
-            console.log(link.href);
-            url = new URL(link.href.animVal);
-          } else {
-            console.log("Link HREF:");
-            console.log(link.href);
-            url = new URL(link.href);
-          }
+  //         let target, rel, blank, noopener, attr1, attr2, url, is_external;
+  //         if(link.href instanceof SVGAnimatedString){
+  //           console.log("is SVGAnimatedString: %s", link.href);
+  //           // url = new URL(link.href.animVal);
+  //         } else {
+  //           // console.log("Is Link HREF: %s", link.href);
+  //           url = new URL(link.href);
   
-          // definition of same origin: RFC 6454, section 4 (https://tools.ietf.org/html/rfc6454#section-4)
-          is_external = url.host !== location.host || url.protocol !== location.protocol || url.port !== location.port;
-          if(is_external) {
-            target = 'target';
-            rel = 'rel';
-            blank = '_blank';
-            noopener = 'noopener';
-            attr1 = elemAttribute(link, target);
-            attr2 = elemAttribute(link, noopener);
-    
-            attr1 ? false : elemAttribute(link, target, blank);
-            attr2 ? false : elemAttribute(link, rel, noopener);
-          }
-        });
-        } catch (err) {
-        console.log("ERROR");
-        console.log(err);
-  
-      }
+  //           // definition of same origin: RFC 6454, section 4 (https://tools.ietf.org/html/rfc6454#section-4)
+  //           is_external = url.host !== location.host || url.protocol !== location.protocol || url.port !== location.port;
+  //           if(is_external) {
+  //             target = 'target';
+  //             rel = 'rel';
+  //             blank = '_blank';
+  //             noopener = 'noopener';
+  //             attr1 = elemAttribute(link, target);
+  //             attr2 = elemAttribute(link, noopener);
       
-    }
-  }
+  //             attr1 ? false : elemAttribute(link, target, blank);
+  //             attr2 ? false : elemAttribute(link, rel, noopener);
+  //           }
+  //         }
+  //       });
+  //       } catch (err) {
+  //       console.log("ERROR");
+  //       console.log(err);
+  
+  //     }
+      
+  //   }
+  // }
   
   
-  function markExternalLinksOG() {
+  function markExternalLinks() {
+    console.log("myscript.js")
     let links = elems('a');
     if(links) {
       Array.from(links).forEach(function(link){
@@ -220,10 +219,15 @@
       }
     });
   
-    heading_nodes.forEach(node => {
+    heading_nodes.forEach(node => { //ERROR HERE
       let link = createEl('a');
       let icon = createEl('img');
-      icon.src = '{{ absURL "icons/link.svg" }}';
+      
+      console.log("Icon: %s", icon);
+
+      icon.src = '{{ absURL "icons/link.svg" }}'; //ERROR HERE
+      console.log("Icon.src: %s", icon.src);
+
       link.className = 'link icon';
       link.appendChild(icon);
       let id = node.getAttribute('id');
@@ -310,7 +314,7 @@
     updateDate();
     customizeSidebar();
     markExternalLinks();
-    createDeepLinks();
+    createDeepLinks(); //ERROR HERE
     copyHeadingLink();
     makeTablesResponsive();
     backToTop();
@@ -326,5 +330,5 @@
     });
   }
   
-  window.addEventListener('load', loadActions());
+  window.addEventListener('load', loadActions()); //ERROR HERE
   

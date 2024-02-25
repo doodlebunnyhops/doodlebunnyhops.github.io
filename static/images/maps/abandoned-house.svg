@@ -8,8 +8,8 @@
   </image>
 
     <title>Abandoned House</title>
-    <a xlink:href="/map/abandoned-house/" >
-      <rect x="554.134" y="1320.515" width="108.409" height="112.129" rx="7" ry="7">
+    <a xlink:href="/map/poi/abandoned-house/" >
+      <rect x="554.134" y="1320.515" width="108.409" height="112.129" rx="7" ry="7" class="rectClass">
       </rect>
     </a>
 </svg>
