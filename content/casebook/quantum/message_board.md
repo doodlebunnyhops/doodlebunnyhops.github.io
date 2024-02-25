@@ -2,6 +2,13 @@
 title: "Message Board"
 weight: 2
 description: "All Messages seen on the Message Board in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
+aliases:
+- /casebook/quantum/content/carbon_burn_commencing
+- /casebook/quantum/content/room_activated
+- /casebook/quantum/content/power_online
+- /casebook/quantum/content/backdoor_camera_slot_found
+- /casebook/quantum/content/first_messages
+- /casebook/quantum/content/algorithm_generated
 --- 
 
 There are 2 message boards in the quantum room. The first is always present, and the second appears once [Power Online](#power-online) is activated.

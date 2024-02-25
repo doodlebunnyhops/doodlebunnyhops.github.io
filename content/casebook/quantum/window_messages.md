@@ -2,6 +2,10 @@
 title: "Window Messages"
 weight: 1
 description: "All Messages seen on the windows in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
+aliases:
+- /casebook/quantum/content/lake_madison_camera
+- /casebook/quantum/content/plant_rp_house_book
+- /casebook/quantum/content/military_rp_binocluars
 ---
 
 <hr style="background-color: #28b44c" size=8>
