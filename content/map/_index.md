@@ -2,7 +2,7 @@
 title: "Map"
 weight: 1
 description: "Interactive Maps of Brookhaven"
-tags: ["Maps"]
+tags: ["map"]
 images: 
 - maps/poi.svg
 image: maps/poi.svg

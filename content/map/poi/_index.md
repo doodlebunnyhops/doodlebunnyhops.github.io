@@ -1,8 +1,8 @@
 ---
 title: "Points of Interest"
 weight: 1
-description: "Computer messages that appear on your laptop in Brookhaven RP by the Agency, Mr. B, and other sources."
-tags: ["Computer Messages"]
+description: "Brookhaven RP interactive map of locations with details."
+Categories: ["point of interest","map"]
 images: 
 - bh/agency_greed_comp_message.jpg
 - bh/follow_the_book_comp_message.png
