@@ -3,9 +3,9 @@ title: "Camp Cabin"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Camp Cabin location view and related secrets"
-# image: maps/town_hall.jpg
-# images: 
-# - maps/town_hall.jpg
+image: maps/camp_cabin.jpg
+images: 
+- maps/camp_cabin.jpg
 Categories: ["point of interest","map"]
 Tags: ["Camp Cabin"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 <!-- ![LOC PIC]() -->
 
-<!-- ![view of Town Hall](/images/maps/town_hall.jpg) -->
+![view of Camp Cabin](/images/maps/camp_cabin.jpg)
 
 {{< svg "static/images/maps/camp-cabin.svg" >}}
 

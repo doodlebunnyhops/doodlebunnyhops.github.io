@@ -3,9 +3,9 @@ title: "Portal"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Portal location view and related secrets"
-# image: maps/town_hall.jpg
-# images: 
-# - maps/town_hall.jpg
+image: maps/portal_1.jpg
+images: 
+- maps/portal_1.jpg
 Categories: ["point of interest","map"]
 Tags: ["Portal"]
 draft: false
@@ -13,6 +13,7 @@ draft: false
 
 
 <!-- ![LOC PIC]() -->
+![view of Portal](/images/maps/portal_1.jpg)
 
 {{< svg "static/images/maps/portal.svg" >}}
 

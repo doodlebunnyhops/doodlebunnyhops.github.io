@@ -3,9 +3,11 @@ title: "Hidden Valley"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Hidden Valley location view and related secrets"
-# image: maps/town_hall.jpg
-# images: 
-# - maps/town_hall.jpg
+image: maps/hidden_valley_2.jpg
+images: 
+- maps/hidden_valley_1.jpg
+- maps/hidden_valley_2.jpg
+- maps/hidden_valley_cave.jpg
 Categories: ["point of interest","map"]
 Tags: ["Hidden Valley"]
 draft: false
@@ -13,8 +15,11 @@ draft: false
 
 
 <!-- ![LOC PIC]() -->
-
-<!-- ![view of Town Hall](/images/maps/town_hall.jpg) -->
+{{< column "grid-2" >}}
+![view of Hidden Valley](/images/maps/hidden_valley_1.jpg)
+![view of Hidden Valley](/images/maps/hidden_valley_2.jpg)
+![view of Hidden Valley](/images/maps/hidden_valley_cave.jpg)
+{{< /column >}}
 
 {{< svg "static/images/maps/hidden-valley.svg" >}}
 

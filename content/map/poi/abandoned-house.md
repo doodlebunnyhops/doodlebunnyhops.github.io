@@ -3,14 +3,15 @@ title: "Abandoned House"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Abandoned House location and related details"
-image: map/abandoned_house.jpg
+image: maps/abandoned_house.jpg
 images: 
-- map/abandoned_house.jpg
+- maps/abandoned_house.jpg
 Categories: ["point of interest","map"]
 Tags: ["abandoned house"]
 draft: false
 --- 
 
+Located on the outskirts of Brookhaven just past the airport, this run down house has many hidden secrets and seems to be a pivotal place for Mr.Brookhaven.
 
 ![Abandoned House](/images/maps/abandoned_house.jpg)
 
