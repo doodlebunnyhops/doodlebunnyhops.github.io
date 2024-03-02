@@ -3,6 +3,10 @@ title: "Agency"
 weight: 1
 draft: false
 description: "All Notes and how to find them that are signed by the Agency in Brookhaven RP Secrets and Mysteries."
+images: 
+- images/bh/agency_greed_comp_message.jpg
+- images/bh/follow_the_book_comp_message.png
+image: bh/agency_greed_comp_message.jpg
 ---
 
 Clearly marked with their signature logo with AGENCY written on it, it's clear agents would communicate with notes mostly hidden.

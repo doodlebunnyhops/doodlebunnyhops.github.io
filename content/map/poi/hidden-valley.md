@@ -4,8 +4,8 @@ weight: 1
 date: 2024-01-02
 description: "Brookhaven Hidden Valley location view and related secrets"
 image: maps/hidden_valley_2.jpg
-images: 
-- maps/hidden_valley_1.jpg
+images:
+- images/maps/hidden_valley_1.jpg
 - maps/hidden_valley_2.jpg
 - maps/hidden_valley_cave.jpg
 Categories: ["point of interest","map"]

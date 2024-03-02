@@ -4,8 +4,8 @@ weight: 1
 description: "Brookhaven RP interactive map of locations with details."
 Categories: ["point of interest","map"]
 images: 
-- bh/agency_greed_comp_message.jpg
-- bh/follow_the_book_comp_message.png
+- images/bh/agency_greed_comp_message.jpg
+- images/bh/follow_the_book_comp_message.png
 image: bh/agency_greed_comp_message.jpg
 date: 2024-01-01
 toc: false

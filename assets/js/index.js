@@ -224,10 +224,10 @@
       let link = createEl('a');
       let icon = createEl('img');
       
-      console.log("Icon: %s", icon);
+      // console.log("Icon: %s", icon);
 
       icon.src = '{{ absURL "icons/link.svg" }}'; //ERROR HERE
-      console.log("Icon.src: %s", icon.src);
+      // console.log("Icon.src: %s", icon.src);
 
       link.className = 'link icon';
       link.appendChild(icon);

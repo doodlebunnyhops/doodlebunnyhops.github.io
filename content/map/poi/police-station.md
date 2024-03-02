@@ -4,8 +4,8 @@ weight: 1
 date: 2024-01-02
 description: "Brookhaven Police Station location view and related secrets"
 image: maps/police.jpg
-images: 
-- maps/police.jpg
+images:
+- images/maps/police.jpg
 Categories: ["point of interest","map"]
 Tags: ["Police Station"]
 draft: false
