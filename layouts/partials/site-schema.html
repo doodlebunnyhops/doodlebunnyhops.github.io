@@ -24,15 +24,21 @@
         "description": "{{.Params.description}}"
     }
     </script>
- 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "ImageObject",
+      "contentUrl": "{{ $img }}"
+    }
+    </script>
     <script type="application/ld+json">
         {
           "@context": "https://schema.org/", 
           "@type": "BreadcrumbList", 
           "itemListElement": [
-    {{- $p := . }}
-    {{- $len := (len site.Menus.main) }}
-    {{- range $k, $v := site.Menus.main }}
+        {{- $p := . }}
+        {{- $len := (len site.Menus.main) }}
+        {{- range $k, $v := site.Menus.main }}
         {{- $url := absLangURL $v.URL }}
         {{- if or (hasPrefix $v.URL "http") (hasPrefix $v.URL "www.") }}
             {{- $url = $v.URL }}
@@ -42,31 +48,28 @@
                 "@type": "ListItem", 
                 "position": {{ (add $k 1) }}, 
                 "name": "{{T $v.Identifier | default $v.Name }}",
-                "item": "{{ $url }}",
-                "url": "{{ $url }}"
+                "item": "{{ $url }}"
             }]
         {{- else }}
             {
                 "@type": "ListItem", 
                 "position": {{ (add $k 1) }}, 
                 "name": "{{T $v.Identifier | default $v.Name }}",
-                "item": "{{ $url }}",
-                "url": "{{ $url }}"
+                "item": "{{ $url }}"
             },
         {{- end }}
     {{- end }}
         }
 </script>
 {{- else }}
-TypeZ {{ .Page.Type }}
-
+{{/*  TypeZ {{ .Page.Type }}
 isPageZ {{ .IsPage }}
-isSectionZ {{ .IsSection }}
+isSectionZ {{ .IsSection }}  */}}
     {{- if and ( eq .Page.Type "blog" ) ( .IsSection ) }}
         <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-            "@type": "Blog",
+            "@type": "NewsArticle",
             "mainEntityOfPage": "{{ .Permalink }}",
             "name": "{{ .Page.Title }}",
             "description": "{{ .Params.description }}",
@@ -86,15 +89,13 @@ isSectionZ {{ .IsSection }}
         <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
+            "@type": "NewsArticle",
             "headline": "{{ .Page.Title }}",
             "alternativeHeadline": "{{ truncate 100 .Page.Summary }}",
             "wordCount": "{{ .Page.WordCount }}",
-            "image": {
-                "@type": "ImageObject",
-                "@id": "{{ $img }}",
-                "url": "{{ $img }}"
-            },
+            "image": [
+                "{{ $img }}"
+            ],
             "author": {
                 "@type": "Person",
                 "url": "{{ "about" | absURL }}",
@@ -120,32 +121,38 @@ isSectionZ {{ .IsSection }}
         }
     </script>
     {{- end }}
+    
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "ImageObject",
+          "contentUrl": "{{ $img }}"
+        }
+        </script>
     {{- if and (or ( .IsSection ) ( not .Description )) ( ne .Page.Type "about") -}}
     <script type="application/ld+json">
         {
-          "@context": "https://schema.org/", 
+          "@context": "https://schema.org", 
           "@type": "BreadcrumbList", 
           "itemListElement": [
-    {{- $len := (len .Pages) }}
-    {{- range $k, $v := .Pages}}
-        {{- $url := $v.Permalink }}
-        {{- if eq (add $k 1) $len }}
+            {{- $len := (len .Pages) }}
+            {{- range $k, $v := .Pages}}
+            {{- $url := $v.Permalink }}
+            {{- if eq (add $k 1) $len }}
             {
                 "@type": "ListItem", 
                 "position": {{ (add $k 1) }}, 
                 "name": "{{ $v.Title}}",
-                "item": "{{ $url }}",
-                "url": "{{ $url }}"
+                "item": "{{ $url }}"
             }]
-        {{- else }}
+            {{- else }}
             {
                 "@type": "ListItem", 
                 "position": {{ (add $k 1) }}, 
                 "name": "{{ $v.Title }}",
-                "item": "{{- $url }}",
-                "url": "{{- $url }}"
+                "item": "{{- $url }}"
             },
-        {{- end }}
+            {{- end }}
     {{- end }}
         }
     </script>
