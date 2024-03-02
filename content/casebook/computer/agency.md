@@ -5,9 +5,9 @@ draft: false
 description: "All Messages provided on the laptop from the Agency in Brookhaven RP Secrets and Mysteries."
 tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
-- bh/follow_the_book_comp_message.png
-- bh/useful_soldier_comp_message.jpg
-image: images/bh/useful_soldier_comp_message.jpg
+- images/bh/follow_the_book_comp_message.png
+- images/bh/useful_soldier_comp_message.jpg
+image: bh/useful_soldier_comp_message.jpg
 ---
 
 

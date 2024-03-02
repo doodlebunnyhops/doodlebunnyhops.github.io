@@ -4,8 +4,8 @@ weight: 1
 date: 2024-01-02
 description: "Brookhaven Hidden Camera location view and related secrets"
 image: maps/hidden_camera.jpg
-images: 
-- maps/hidden_camera.jpg
+images:
+- images/maps/hidden_camera.jpg
 Categories: ["point of interest","map"]
 Tags: ["Hidden Camera"]
 draft: false

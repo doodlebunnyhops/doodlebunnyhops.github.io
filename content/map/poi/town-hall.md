@@ -5,7 +5,7 @@ date: 2024-01-02
 description: "Brookhaven Town Hall location view and related secrets"
 image: maps/town_hall.jpg
 images: 
-- maps/town_hall.jpg
+- images/maps/town_hall.jpg
 Categories: ["point of interest","map"]
 Tags: ["Town Hall"]
 draft: false

@@ -5,8 +5,8 @@ draft: false
 date: 2023-05-31
 description: "Brookhaven RP content on interesting findings in the game that may have to do with role play or secrets and mysteries."
 images: 
-- bh/no_light_source.jpg
-- bh/flag.jpg
+- images/bh/no_light_source.jpg
+- images/bh/flag.jpg
 image: bh/no_light_source.jpg
 tags: ["Interesting Findings"]
 ---

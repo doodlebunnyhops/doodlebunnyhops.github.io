@@ -1,0 +1,156 @@
+{{- $img := "images/bh/collage.png" | absURL }}
+{{- if .Params.image }}
+    {{/*  {{- $img = .Params.image | absURL}}  */}}
+    {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}
+        {{- $img = .Params.image }}
+    {{- else }}
+        {{- $img = (printf "%s%s" "images/" .Params.image) | absURL}}
+    {{- end }}
+{{- end }}
+
+{{- if or ( .IsHome ) ( not .Description ) -}}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "url": "{{.Permalink}}",
+        "name": "{{ .Site.Title }}",
+        "author": "{{.Site.Params.author.name}}",
+        "thumbnailUrl": {
+            "@type": "URL",
+            "@id": "{{ $img }}",
+            "@url": "{{ $img }}"
+        },
+        "description": "{{.Params.description}}"
+    }
+    </script>
+ 
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/", 
+          "@type": "BreadcrumbList", 
+          "itemListElement": [
+    {{- $p := . }}
+    {{- $len := (len site.Menus.main) }}
+    {{- range $k, $v := site.Menus.main }}
+        {{- $url := absLangURL $v.URL }}
+        {{- if or (hasPrefix $v.URL "http") (hasPrefix $v.URL "www.") }}
+            {{- $url = $v.URL }}
+        {{- end }}
+        {{- if eq (add $k 1) $len }}
+            {
+                "@type": "ListItem", 
+                "position": {{ (add $k 1) }}, 
+                "name": "{{T $v.Identifier | default $v.Name }}",
+                "item": "{{ $url }}",
+                "url": "{{ $url }}"
+            }]
+        {{- else }}
+            {
+                "@type": "ListItem", 
+                "position": {{ (add $k 1) }}, 
+                "name": "{{T $v.Identifier | default $v.Name }}",
+                "item": "{{ $url }}",
+                "url": "{{ $url }}"
+            },
+        {{- end }}
+    {{- end }}
+        }
+</script>
+{{- else }}
+TypeZ {{ .Page.Type }}
+isPageZ {{ ( printf "%s" .IsPage ) }}
+isSectionZ {{ ( printf "%s" .IsSection ) }}
+
+
+isPageZ {{ .IsPage }}
+isSectionZ {{ .IsSection }}
+    {{- if and ( eq .Page.Type "blog" ) ( .IsSection ) }}
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "Blog",
+            "mainEntityOfPage": "{{ .Permalink }}",
+            "name": "{{ .Page.Title }}",
+            "description": "{{ .Params.description }}",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "{{ $img }}",
+                "url": "{{ $img }}"
+            },
+            "author": {
+                "@type": "Person",
+                "url": "{{ "about" | absURL }}",
+                "name": "{{ .Site.Params.author.name }}"
+            }
+            }
+        </script>
+    {{- else if eq .Page.Type "blog" }}
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "{{ .Page.Title }}",
+            "alternativeHeadline": "{{ truncate 100 .Page.Summary }}",
+            "wordCount": "{{ .Page.WordCount }}",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "{{ $img }}",
+                "url": "{{ $img }}"
+            },
+            "author": {
+                "@type": "Person",
+                "url": "{{ "about" | absURL }}",
+                "name": "{{ .Params.author }}"
+            },
+            "datePublished": "{{ .Params.date}}"
+            }
+        </script>
+    {{- else }}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "url": "{{.Permalink}}",
+            "name": "{{ .Page.Title }}",
+            "author": "{{.Site.Params.author.name}}",
+            "thumbnailUrl": {
+                "@type": "URL",
+                "@id": "{{ $img }}",
+                "@url": "{{ $img }}"
+            },
+            "description": "{{.Params.description}}"
+        }
+    </script>
+    {{- end }}
+    {{- if or ( .IsSection ) ( not .Description ) -}}
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/", 
+          "@type": "BreadcrumbList", 
+          "itemListElement": [
+    {{- $len := (len .Pages) }}
+    {{- range $k, $v := .Pages}}
+        {{- $url := $v.Permalink }}
+        {{- if eq (add $k 1) $len }}
+            {
+                "@type": "ListItem", 
+                "position": {{ (add $k 1) }}, 
+                "name": "{{ $v.Title}}",
+                "item": "{{ $url }}",
+                "url": "{{ $url }}"
+            }]
+        {{- else }}
+            {
+                "@type": "ListItem", 
+                "position": {{ (add $k 1) }}, 
+                "name": "{{ $v.Title }}",
+                "item": "{{- $url }}",
+                "url": "{{- $url }}"
+            },
+        {{- end }}
+    {{- end }}
+        }
+    </script>
+    {{- end }}
+{{- end }}

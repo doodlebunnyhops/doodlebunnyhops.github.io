@@ -4,8 +4,8 @@ weight: 1
 date: 2024-01-02
 description: "Brookhaven Barn location view and related secrets"
 image: maps/barn.jpg
-images: 
-- maps/barn.jpg
+images:
+- images/maps/barn.jpg
 Categories: ["point of interest","map"]
 Tags: ["Barn"]
 draft: false
