@@ -13,9 +13,11 @@ Sometimes tools, special tools, or other quests are required to complete a quest
 
 Notes and messages found along the way are in our [CaseBook](casebook/) for safe keeping. 
 
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
- 
-## Find 7 Crystals
+
+{{% schema-itemscope "HowTo" %}}
+{{< schema-itemprop "name" >}}## Find 7 Crystals{{< /schema-itemprop>}}
 We are an a quest to find 7 crystals!
 
 {{< youtube "O2qx41jY-tI" >}}
@@ -70,6 +72,9 @@ Facing front of North Estate, go to the left hand side that’s just over the tu
 After you have finished collecting all crystals, if you return to the Quantum Room, upon exiting you will hear a high pitch chirp that will TP you again to Paradise Falls
 {{< /tip >}}
 
+{{% /schema-itemscope %}}
+
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## School Base
@@ -101,7 +106,7 @@ After you have finished collecting all crystals, if you return to the Quantum Ro
 	`Coordinates approved. A(x1,y1) and B(x2,y2)`
 	
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Mystery Alien
@@ -143,7 +148,7 @@ Bunker Message:
 {{< /tip >}}
 
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Electric Building
@@ -190,7 +195,7 @@ Brookhaven Electric message could be different if Town hall Power switches have 
 Example: `Low voltage. Mainframe unavailable...`
 {{< /tip >}}
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Destroy Carbon Blocks
@@ -271,6 +276,7 @@ If you get this Error Message when trying to summon the Carbon Block in the Quan
 ![Low Voltage Error Msssage](/images/bh/carbon_block_low_voltage.jpg)
 {{< /tip >}}	
 
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Build Portal
@@ -331,7 +337,7 @@ If you click the Bedside Table Button in the Future Room and get an Error Messag
 {{<  /tip >}}
 
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Monoliths
@@ -424,7 +430,7 @@ Next to bridge underpass by Abandoned house
 {{< /tabs >}}
 {{< /tip >}}
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Ghostly Sighting
@@ -448,7 +454,7 @@ There's a ghost in the museum!
 		1. Notice the grave that says "Let me out". If someone changed the headstone it's the one that you can fall into.
 			The back now says "Creator of Agency"
 
-
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Glowing Chair
@@ -473,6 +479,7 @@ A glowing figure appears in the abandoned house!
 4. Head to the Abandoned House by the Airport Runway
 	1. You will see an interesting glowing figure sitting in a chair.
 
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Rod in the Police Station
@@ -494,6 +501,7 @@ The rod becomes clickable after an action but...
 
 	`Power Expired`
 
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Frat House
@@ -516,6 +524,7 @@ Unlocks the Blue Keypad in the Agency Bunker
 4. There is now a secret wall on the other end, drop down.
 5. Click on the laptop: Activates [H03](casebook/light_panel#h03)
 
+<!--more-->
 <hr style="background-color: #28b44c" size=8>
 
 ## Chair Room

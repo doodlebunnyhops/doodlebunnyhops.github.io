@@ -1,0 +1,24 @@
+{{- $img := "images/bh/collage.png" | absURL }}
+{{- if .Params.image }}
+    {{/*  {{- $img = .Params.image | absURL}}  */}}
+    {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}
+        {{- $img = .Params.image }}
+    {{- else }}
+        {{- $img = (printf "%s%s" "images/" .Params.image) | absURL}}
+    {{- end }}
+{{- end }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "WebSite",
+    "url": "{{.Permalink}}",
+    "name": "{{ .Page.Title }}",
+    "author": "{{.Site.Params.author.name}}",
+    "thumbnailUrl": {
+        "@type": "URL",
+        "@id": "{{ $img }}",
+        "@url": "{{ $img }}"
+    },
+    "description": "{{.Params.description}}"
+}
+</script>

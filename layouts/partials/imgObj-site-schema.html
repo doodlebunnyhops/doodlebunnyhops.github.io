@@ -1,0 +1,24 @@
+{{- $img := "images/bh/collage.png" | absURL }}
+{{- if .Params.image }}
+    {{/*  {{- $img = .Params.image | absURL}}  */}}
+    {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}
+        {{- $img = .Params.image }}
+    {{- else }}
+        {{- $img = (printf "%s%s" "images/" .Params.image) | absURL}}
+    {{- end }}
+{{- end }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "{{ $img}}",
+    "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "acquireLicensePage": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "creditText": "BloominDaisy",
+    "creator": {
+    "@type": "Person",
+    "name": "BloominDaisy"
+    },
+    "copyrightNotice": "BloominDaisy"
+}
+</script>

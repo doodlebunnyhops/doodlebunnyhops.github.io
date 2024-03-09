@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org", 
+      "@type": "BreadcrumbList", 
+      "itemListElement": [
+        {{- $len := (len .Pages) }}
+        {{- range $k, $v := .Pages}}
+        {{- $url := $v.Permalink }}
+        {{- if eq (add $k 1) $len }}
+        {
+            "@type": "ListItem", 
+            "position": {{ (add $k 1) }}, 
+            "name": "{{ $v.Title}}",
+            "item": "{{ $url }}"
+        }]
+        {{- else }}
+        {
+            "@type": "ListItem", 
+            "position": {{ (add $k 1) }}, 
+            "name": "{{ $v.Title }}",
+            "item": "{{- $url }}"
+        },
+        {{- end }}
+{{- end }}
+    }
+</script>

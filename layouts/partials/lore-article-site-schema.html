@@ -1,0 +1,95 @@
+
+{{- $img := "images/bh/collage.png" | absURL }}
+{{- if .Params.image }}
+    {{/*  {{- $img = .Params.image | absURL}}  */}}
+    {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}
+        {{- $img = .Params.image }}
+    {{- else }}
+        {{- $img = (printf "%s%s" "images/" .Params.image) | absURL}}
+    {{- end }}
+{{- end }}
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Page.Title }}",
+    "alternativeHeadline": "{{ truncate 100 .Page.Summary }}",
+    "thumbnailUrl": "{{ $img }}",
+    "wordCount": "{{ .Page.WordCount }}",
+    "image": [
+        "{{ $img }}"
+    ],
+    "author": {
+        "@type": "Person",
+        "url": "{{ "about" | absURL }}",
+        "name": "{{ .Site.Params.author.name }}"
+    },
+    "datePublished": "{{ .Params.date}}"
+}
+</script>
+{{/*  {{ .Fragments.Identifiers  }}  */}}
+
+{{/*  TypeZ {{ .Page.Type }}
+isPageZ {{ .IsPage }}
+isSectionZ {{ .IsSection }}
+PageZ {{ .Pages }}  */}}
+
+{{- $permalink := .Page.RelPermalink }}
+
+{{ $rawData := .RawContent  }}
+
+{{/*  {{- $data := replaceRE `(<hr style="background-color: #28b44c" size=8>)` " " $rawData  }}  */}}
+
+{{/*  RawZ {{$data}}  */}}
+
+{{- $caption := (split $rawData `<hr style="background-color: #28b44c" size=8>`) }}
+{{/*  {{ $caption = replace $caption "&lt;hr style=&#34;background-color: #28b44c&#34; size=8&gt;" " "}}  */}}
+{{/*  CaptZ {{  (index $caption 4 )  }}
+CaptZ {{ $caption }}  */}}
+
+
+{{/*  {{ $raw := .RawContent }}  */}}
+{{/*  {{- range $k, $v := .Fragments.Identifiers }}  */}}
+{{/*  {{ .Fragments.Headings | jsonify (dict "indent" "  ") }}  */}}
+
+{{- range .Fragments.Headings }}
+    {{- range .Headings }}
+        {{/*  IDz {{ .Title }}  */}}
+        {{- $title := .Title}}
+        {{- $id := .ID }}
+        {{- $subtitle := (printf "%s%s" "## " .Title)}}
+        {{/*  {{ $subtitle := .Title }}  */}}
+            {{- range $k, $v := $caption}}
+
+                {{- if (strings.Contains $v $subtitle) }}
+{{/*  HAZA {{ truncate 200 ($v | markdownify | plainify )  }}  */}}
+
+
+                    <script type="application/ld+json">
+                        {
+                            "@context": "https://schema.org",
+                            "@type": "Article",
+                            "headline": "{{ $title }}",
+                            "name": "{{ $title }}",
+                            "url": "{{ (printf "%s#%s" $permalink $id | absURL  ) }}",
+                            "alternativeHeadline": "{{ truncate 200 (($v | markdownify) | plainify ) }}",
+                            "thumbnailUrl": "{{ $img }}",
+                            "image": [
+                                "{{ $img }}"
+                            ],
+                            "author": {
+                                "@type": "Person",
+                                "url": "{{ "about" | absURL }}",
+                                "name": "Boop"
+                            }
+                        }
+                        </script>
+                {{- end }}
+            {{- end }}
+    {{- end }}
+{{- end }}
+
+{{/*  IdentifiersZ {{ .id }}  */}}
+{{/*  {{- end }}  */}}
+ 

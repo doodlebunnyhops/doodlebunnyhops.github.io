@@ -1,0 +1,6 @@
+{{- $itemProp := .Get 0 -}}
+
+INNERz {{ .Inner }}
+{{/*  <div {{- with $itemProp }} itemscope itemtype="https://schema.org/{{ . }}" {{ end }}>
+ {{- .Inner | markdownify -}}  */}}
+{{/*  </div>  */}}
