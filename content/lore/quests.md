@@ -5,7 +5,7 @@ description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, 
 aliases:
 - /quests
 image: bh/collage.png
----
+--- 
  
 Ahh yes, here is the heart of our investigation. These are quests that have led us to find/unlock more clues or secrets the town of Brookhaven holds.
 

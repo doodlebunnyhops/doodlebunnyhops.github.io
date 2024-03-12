@@ -1,5 +1,5 @@
 
-{{- $img := "images/bh/collage.png" | absURL }}
+{{- $img := "images/bh/collage.png" | absURL }} 
 {{- if .Params.image }}
     {{/*  {{- $img = .Params.image | absURL}}  */}}
     {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}

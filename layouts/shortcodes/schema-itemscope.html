@@ -1,4 +1,4 @@
-{{- $itemType := .Get 0 -}}
+{{- $itemType := .Get 0 -}} 
 <div {{- with $itemType }} itemscope itemtype="https://schema.org/{{ . }}" {{ end }}>
  {{- .Inner | markdownify -}}
 </div>
