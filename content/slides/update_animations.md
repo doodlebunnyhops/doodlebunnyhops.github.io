@@ -3,6 +3,7 @@ title = "Animations Update Slide"
 outputs = ["Reveal"]
 layout = "list"
 description = "Pictures from the Brookhaven RP Update adding new Animations "
+private = true
 +++
 
 
