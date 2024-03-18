@@ -6,27 +6,30 @@ aliases:
 - /movie-codes
 ---
 
-Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are locked until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.
+Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are **locked** until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.
 
 <hr style="background-color: #28b44c" size=8>
 
-### Agency Switch Board
+### How to Find Movie Codes
 
-Also known as [Bunker Switch Board](../../terminology/words#bunker-switch-board)
+![Agency Switch Board](/images/bh/agency_switch_board_200.jpg)
 
-To turn on a switch just click it and it will turn yellow when it's on.
+1. Go to the Agency Switch Board, also known as [Bunker Switch Board](../../terminology/words#bunker-switch-board) inside of the [Agency Bunker](/map/poi/agency-bunker/).
+2. To turn on a switch just click it and it will turn yellow when it's on. Picture above shows each switch is currently off.
+3. Each movie code can now be found. Currently there are 3. Click or scroll down to see where to find each movie code.
+    - [Police State](#police-station-code)
+    - [Abandoned House](#abandoned-house-code)
+    - [Eagle View Arch](#eagle-view-arch-code)
+    - Example of what a movie code on a reel looks like: ![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
+4. Once you have found a movie code, you can play the movie at the mall.
+    - Inside the [mall](/map/poi/mall/) to the right is the movie theater.
+    - As you're going into the movie theater section, you should see a door on your left, and in that room you can click on the movie projector to put in the code you found.
+
 
 {{< tip >}}
 Note that switch **3** is missing... do we need to find it?
 {{< /tip >}}
 
-![Agency Switch Board](/images/bh/agency_switch_board_200.jpg)
-
-<hr style="background-color: #28b44c" size=8>
-
-### YT Clip of all Movies
-
-{{< youtube "IwpmmT6N3Lg" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -79,7 +82,13 @@ Note that switch **3** is missing... do we need to find it?
 1. Use this code in the Movie Theater to watch : Example: 27542
 
 ![Eagle View Arch Location](/images/bh/eagle-view-arch-code.png)
-![Eagle View Arch Location](/images/bh/eagle-view-arch-code-inside.png)
+![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
+
+<hr style="background-color: #28b44c" size=8>
+
+### YT Clip of all Movies
+
+{{< youtube "IwpmmT6N3Lg" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
