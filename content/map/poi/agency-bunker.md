@@ -34,7 +34,6 @@ The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten 
 
 - [Agency Light Panel](/casebook/light_panel/)
 - [Movie Codes](/casebook/movie_codes/)
-- Notes
 - [Monolith Message Board](/casebook/monoliths/details/#agency-bunker-message-board-outside)
 
 <hr style="background-color: #28b44c" size=8>
@@ -44,6 +43,3 @@ The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten 
 - [Build Portal](/lore/quests/#build-portal)
 - [Green Card](/lore/special_tools/#green-key-card)
 - [Chair Room](/lore/quests/#chair-room)
-
-
-![Location of Agency Bunker](/images/map/map-agency-bunker.svg" >}}
