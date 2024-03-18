@@ -11,23 +11,25 @@ Tags: ["Brookhaven Electric"]
 draft: false
 --- 
 
-
-<!-- ![LOC PIC]() -->
+Brookhaven Electric, the power source to the town is locked and needs a special access key card to gain entrance, but why? What else could the facility be powering?
 
 ![view of Brookhaven Electric](/images/maps/brookhaven_electric.jpg)
 
-{{< svg "static/images/maps/brookhaven-electric.svg" >}}
+<hr style="background-color: #28b44c" size=8>
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Map View
 
-<!-- <hr style="background-color: #28b44c" size=8>
+![Location of Brookhaven Electric](/images/maps/brookhaven-electric.png)
+
+<hr style="background-color: #28b44c" size=8>
 
 ### CaseBook Items
 
-- [URL](/)
+- [Mysterious Steam](/casebook/quantum/steam/)
+- [Observations: Linked Electric & Water](/casebook/interesting/observations/#linked-electric--water)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Quests
 
-- [URL](/) -->
+- [Access Card](/lore/special_tools/#blue-key-card)

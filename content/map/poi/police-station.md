@@ -16,7 +16,7 @@ draft: false
 
 ![view of Police Station](/images/maps/police.jpg)
 
-{{< svg "static/images/maps/police-station.svg" >}}
+![Location of Police Station](/images/maps/police-station.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

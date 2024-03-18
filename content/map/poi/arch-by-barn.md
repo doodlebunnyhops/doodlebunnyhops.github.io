@@ -11,23 +11,18 @@ Tags: ["Rod Under Arch","Arch"]
 draft: false
 --- 
 
-
-<!-- ![LOC PIC]() -->
+The Arch by the Barn has a hidden rod underneath its base! Why did Mr.Brookhaven put it there?
 
 ![view of Arch by Barn](/images/maps/arch2.jpg)
 
-{{< svg "static/images/maps/arch-by-barn.svg" >}}
+<hr style="background-color: #28b44c" size=8>
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Map View
 
-<!-- <hr style="background-color: #28b44c" size=8>
-
-### CaseBook Items
-
-- [URL](/)
+![Location of Arch by Barn](/images/maps/arch-by-barn.png)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Quests
 
-- [URL](/) -->
+- [Rod Under the Arch](/lore/special_tools/#rod-under-the-arch)

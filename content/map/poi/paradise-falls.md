@@ -16,7 +16,7 @@ draft: false
 
 ![view of Paradise Falls](/images/maps/paradise_falls.jpg)
 
-{{< svg "static/images/maps/paradise-falls.svg" >}}
+![Location of Paradise Falls](/images/maps/paradise-falls.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

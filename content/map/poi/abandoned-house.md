@@ -15,7 +15,11 @@ Located on the outskirts of Brookhaven just past the airport, this run down hous
 
 ![Abandoned House](/images/maps/abandoned_house.jpg)
 
-{{< svg "static/images/maps/abandoned-house.svg" >}}
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+![Location of Abandoned House](/images/maps/abandoned-house.png)
 
 <hr style="background-color: #28b44c" size=8>
 

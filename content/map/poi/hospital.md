@@ -16,7 +16,7 @@ draft: false
 
 ![view of Hospital](/images/maps/hospital.jpg)
 
-{{< svg "static/images/maps/hospital.svg" >}}
+![Location of Hospital](/images/maps/hospital.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

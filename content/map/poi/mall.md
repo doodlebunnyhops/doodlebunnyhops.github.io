@@ -16,7 +16,7 @@ draft: false
 
 ![view of Mall](/images/maps/mall.jpg)
 
-{{< svg "static/images/maps/mall.svg" >}}
+![Location of Mall](/images/maps/mall.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

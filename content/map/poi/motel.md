@@ -16,7 +16,7 @@ draft: false
 
 ![view of Motel](/images/maps/motel.jpg)
 
-{{< svg "static/images/maps/motel.svg" >}}
+![Location of Motel](/images/maps/motel.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

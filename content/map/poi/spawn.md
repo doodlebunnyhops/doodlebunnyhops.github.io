@@ -16,7 +16,7 @@ draft: false
 
 ![view of spawn](/images/maps/spawn.jpg)
 
-{{< svg "static/images/maps/spawn.svg" >}}
+![Location of Spawn](/images/maps/spawn.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

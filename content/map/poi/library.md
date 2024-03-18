@@ -16,7 +16,7 @@ draft: false
 
 ![view of Library](/images/maps/library.jpg)
 
-{{< svg "static/images/maps/library.svg" >}}
+![Location of Library](/images/maps/library.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 
