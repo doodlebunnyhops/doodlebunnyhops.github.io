@@ -3,6 +3,7 @@ import re
 import os
 import json
 import requests
+from datetime import date
 from datetime import datetime
 import xml.etree.ElementTree as ET
 
@@ -38,7 +39,7 @@ def buildObj(urls):
         "urlList":urls
         }
     y = json.dumps(data)
-    print(y)
+    # print(y)
     return y
 
 
@@ -65,6 +66,8 @@ def getUrls():
     # Find urls currently in sitemap
     # Find urls not currently in sitemap
     # Find urls no longer in sitemap?? This would be there's a url in extURL and not locally <- so should it be removed?
+    
+    print("Today:\t{0}".format(date.today()))
     for url in root.findall('schema:url', ns):
         loc = url.find('schema:loc',ns)
         lastmod = url.find('schema:lastmod',ns)
@@ -80,7 +83,11 @@ def getUrls():
                 extLastmodObj = datecvt(extLastmod.text)
                 #compare dates last changed
                 # if (lastmodObj > extLastmodObj) this is true - then we need to slate this url for an index update.
-                if (lastmodObj > extLastmodObj):
+                # print("LastMod = Today?:\t{0}".format(extLastmodObj.date() == date.today()))
+                if (extLastmodObj.date() >= date.today()):
+                    update.append(loc.text)
+                
+                elif (lastmodObj > extLastmodObj):
                     update.append(loc.text)
                 print("Location: {0}\n\tLastMod Local:\t{1}\n\tLastMod Remote:\t{2}\n\tLocal Newer:\t{3}\n".format(loc.text,lastmodObj,extLastmodObj, lastmodObj > extLastmodObj))
         
@@ -90,8 +97,8 @@ def getUrls():
             update.append(loc.text)
     # print(update)
     data = buildObj(update)
+    print(data)
     # callIndexNow(data)
-    # print(data)
 
 
 if __name__ == '__main__':
