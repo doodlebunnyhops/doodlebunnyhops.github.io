@@ -16,7 +16,7 @@ draft: false
 
 ![view of Horse Stables](/images/maps/horse_stables.jpg)
 
-{{< svg "static/images/maps/horse-stable.svg" >}}
+![Location of Horse Stables](/images/maps/horse-stable.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

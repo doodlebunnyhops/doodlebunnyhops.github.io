@@ -16,7 +16,7 @@ draft: false
 
 ![view of Criminal Hideout](/images/maps/criminal_hideout.jpg)
 
-{{< svg "static/images/maps/criminal-hideout.svg" >}}
+![Location of Crimnal Hideout](/images/maps/criminal-hideout.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

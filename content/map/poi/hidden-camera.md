@@ -16,7 +16,7 @@ draft: false
 
 ![view of Hidden Camera](/images/maps/hidden_camera.jpg)
 
-{{< svg "static/images/maps/hidden-camera.svg" >}}
+![Location of Hidden Camera](/images/maps/hidden-camera.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

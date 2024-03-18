@@ -12,21 +12,17 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+The arch by the abandoned house is hiding a movie code underneath one of it's bases!
 
 ![view of Arch by Abandoned House](/images/maps/arch1.jpg)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
 
-{{< svg "static/images/maps/arch-by-abandoned-house.svg" >}}
-<!-- <hr style="background-color: #28b44c" size=8>
+## Map View
+
+![Location of Arch by Abandoned House](/images/maps/arch-by-abandoned-house.png)
+<hr style="background-color: #28b44c" size=8>
 
 ### CaseBook Items
 
-- [URL](/)
-
-<hr style="background-color: #28b44c" size=8>
-
-### Quests
-
-- [URL](/) -->
+- [Movie Code](/casebook/movie_codes/#eagle-view-arch-code)

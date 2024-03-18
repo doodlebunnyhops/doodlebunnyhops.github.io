@@ -18,7 +18,7 @@ aliases:
 
 ![view of North Estate](/images/maps/north_estate.jpg)
 
-{{< svg "static/images/maps/north-estate.svg" >}}
+![Location of North Estate](/images/maps/north-estate.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

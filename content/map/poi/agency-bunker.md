@@ -12,7 +12,7 @@ Tags: ["Agency Bunker"]
 draft: false
 --- 
 
-Hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. The question is who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
+The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. The question is who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
 
 {{< column "grid-2" >}}
 
@@ -22,7 +22,11 @@ Hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. The
 
 {{< /column >}}
 
-{{< svg "static/images/maps/agency-bunker.svg" >}}
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+![Location of Agency Bunker](/images/maps/agency-bunker.png)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -42,4 +46,4 @@ Hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. The
 - [Chair Room](/lore/quests/#chair-room)
 
 
-{{< svg "static/images/map/map-agency-bunker.svg" >}}
+![Location of Agency Bunker](/images/map/map-agency-bunker.svg" >}}

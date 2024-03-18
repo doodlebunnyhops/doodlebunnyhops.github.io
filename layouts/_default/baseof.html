@@ -5,12 +5,11 @@
 {{- $is_dark := $config.enableDarkMode }}
 {{- $default_mode := $config.defaultLightingMode -}}
 <!doctype html>
-{{/*  <html lang={{ $lang }}{{ with $is_dark }} class=dark{{ end }}{{ with $default_mode }} data-mode={{ . }}{{ end }} itemscope itemtype={{ $item_type }}>  */}}
 <html lang={{ $lang }}{{ with $is_dark }} class=dark{{ end }}{{ with $default_mode }} data-mode={{ . }}{{ end }}>
 <head>
   {{- partial "head/index" . }}
   {{- partial "site-schema.html" . -}}
-  {{/*  {{- block "JSON-LD" . }}{{- end }}  */}}
+  {{- partial "clarity.html" . -}}
 </head>
 <body class="page-{{ .Kind }}" id="pagetop">
   <header class="nav_header">

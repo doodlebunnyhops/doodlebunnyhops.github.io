@@ -13,9 +13,13 @@ draft: false
 
 
 <!-- ![LOC PIC]() -->
-![view of Portal](/images/maps/portal_1.jpg)
+{{< column "grid-2" >}}
+![View of Entrance to Portal](/images/maps/portal_1.jpg)
 
-{{< svg "static/images/maps/portal.svg" >}}
+![view of built Portal](/images/maps/portal-built.jpg)
+{{< /column >}}
+
+![Location of Portal](/images/maps/portal.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

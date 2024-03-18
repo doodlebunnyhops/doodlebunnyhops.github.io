@@ -16,7 +16,7 @@ draft: false
 
 ![view of Crows](/images/maps/crows.jpg)
 
-{{< svg "static/images/maps/crows.svg" >}}
+![Location of Crows](/images/maps/crows.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

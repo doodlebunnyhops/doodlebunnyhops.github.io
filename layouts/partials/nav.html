@@ -29,47 +29,20 @@
 			<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ T .Identifier | default .Name }}</span></a>
 		</li>
 		{{- end }}
-		{{/*  My Social Logos in Menu  */}}
-			{{/*  {{- $base := absURL "" }}
-			{{- $items := .Site.Data.social }}
-			{{- $social := .Site.Menus.social }}
-			{{- with $social }}
-			{{- $items = . }}
-			{{- end }}
-			{{- range $items }}
-			{{- $url := .URL }}
-			{{- $label := lower .Name }}
-			{{- if or (hasPrefix .URL "http") (hasPrefix .URL "www.") }}
-				{{- $url = .URL }}
-			{{- end }}
-				{{- if eq $social nil }}
-					{{ $url = .url }}
-					{{ $label = lower .item }}
-				{{- end }}
-				{{- if and (eq (hasPrefix $url $base) false) (eq (hasPrefix $url "http") false) }}
-					{{ $url = absLangURL $url }}
-				{{- end }}
-				<li class="nav-item">
-				<a class="nav-link" href="{{ $url }}" target="_blank">
-					{{ partial "sprite" (dict "icon" $label) }}
-				</a>
-				</li>
-		{{ end }}  */}}
-		{{/*  End My Social Logos in Menu  */}}
-		{{ $repo := $config.source }}
-		{{ range $config.source }}
+		{{- $repo := $config.source }}
+		{{- range $config.source }}
 		<li class="nav-item nav_repo">
 			<a class="nav-link" href="{{ .url }}" target="_blank">
-				{{ if .iconLight }}
+				{{- if .iconLight }}
 					{{- $litPath := absURL .iconLight }}
 					{{- $darkPath := absURL .iconDark }}
 					<picture data-lit="{{ $litPath }}" data-dark="{{ $darkPath }}">
 						<img src="{{ $litPath }}" alt="{{ .name }}">
 					</picture>
-				{{ else }}{{ .name }}{{ end }}
+				{{- else }}{{ .name }}{{ end }}
 			</a>
 		</li>
-		{{ end }}
+		{{- end }}
 		<li class="nav-item">{{ partial "mode" . }}</li>
 	</ul>
 </nav>

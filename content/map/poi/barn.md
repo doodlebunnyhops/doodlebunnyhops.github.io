@@ -11,23 +11,25 @@ Tags: ["Barn"]
 draft: false
 --- 
 
-
-<!-- ![LOC PIC]() -->
+The Brookhaven Barn is hiding a note and a mysterious crystal. 
 
 ![view of Barn](/images/maps/barn.jpg)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
 
-{{< svg "static/images/maps/barn.svg" >}}
+## Map View
 
-<!-- <hr style="background-color: #28b44c" size=8>
+![Location of Barn](/images/maps/barn.png)
+
+<hr style="background-color: #28b44c" size=8>
 
 ### CaseBook Items
 
-- [URL](/)
+- [Barn Note](/casebook/notes/mrb/#barn)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Quests
 
-- [URL](/) -->
+- [TS Level 1](/lore/special_tools/#ts-level-1)
+- [Find 7 Crystals](/lore/quests/#find-7-crystals)

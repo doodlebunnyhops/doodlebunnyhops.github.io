@@ -9,9 +9,12 @@ import xml.etree.ElementTree as ET
 
 
 def datecvt(date_str):
-    ymd = re.findall(r'\d{4}-\d{2}-\d{2}', date_str)
-    datetime_object = datetime.strptime(ymd[0], "%Y-%m-%d").date()
-    # print(ymd)
+    # 2024-03-02T17:06:43-05:00
+    datetimeFmt = "%Y-%m-%dT%H:%M:%S%z"
+    # ymd = re.findall(r'\d{4}-\d{2}-\d{2}', date_str)
+    # datetime_object = datetime.strptime(ymd[0], "%Y-%m-%d").date()
+    datetime_object = datetime.strptime(date_str, datetimeFmt)
+    # print(datetime_object)
     return datetime_object
 
 # curl -i POST \
@@ -35,7 +38,7 @@ def buildObj(urls):
         "urlList":urls
         }
     y = json.dumps(data)
-    # print(y)
+    print(y)
     return y
 
 
@@ -79,15 +82,15 @@ def getUrls():
                 # if (lastmodObj > extLastmodObj) this is true - then we need to slate this url for an index update.
                 if (lastmodObj > extLastmodObj):
                     update.append(loc.text)
-                # print("Location: {0}\n\tLastMod Local:\t{1}\n\tLastMod Remote:\t{2}\n\tLocal Newer:\t{3}\n".format(loc.text,lastmodObj,extLastmodObj, lastmodObj > extLastmodObj))
+                print("Location: {0}\n\tLastMod Local:\t{1}\n\tLastMod Remote:\t{2}\n\tLocal Newer:\t{3}\n".format(loc.text,lastmodObj,extLastmodObj, lastmodObj > extLastmodObj))
         
         # Find urls not currently in sitemap
         if (found == False):
-            # print("Location Not in Remote: {0}\n\tLastMod Local:\t{1}\n".format(loc.text,lastmodObj))
+            print("Location Not in Remote: {0}\n\tLastMod Local:\t{1}\n".format(loc.text,lastmodObj))
             update.append(loc.text)
     # print(update)
     data = buildObj(update)
-    callIndexNow(data)
+    # callIndexNow(data)
     # print(data)
 
 

@@ -11,23 +11,21 @@ Tags: ["Camp Cabin"]
 draft: false
 --- 
 
-
-<!-- ![LOC PIC]() -->
+A nice summer's getaway with beach access and seasonal slide in the summer atop the mountain. But this cabin is a known location for an [Energy Pyramid](/casebook/energy_pyramids/#known-locations) to spawn and a _very_ creepy attic. 
 
 ![view of Camp Cabin](/images/maps/camp_cabin.jpg)
 
-{{< svg "static/images/maps/camp-cabin.svg" >}}
-
-![Under Construction Warning, Page not complete](/images/under_construction.png)
-
-<!-- <hr style="background-color: #28b44c" size=8>
-
-### CaseBook Items
-
-- [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+## Map View
 
-- [URL](/) -->
+![Location of Camp Cabin](/images/maps/camp-cabin.png)
+
+<hr style="background-color: #28b44c" size=8>
+
+### CaseBook Items
+
+- [Spider](/casebook/interesting/camp_cabin/#spider)
+- [Attic Blocks](/casebook/interesting/camp_cabin/#blocks)
+- [Energy Pyramid](/casebook/energy_pyramids/#known-locations)

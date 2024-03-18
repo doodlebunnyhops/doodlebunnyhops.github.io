@@ -12,22 +12,26 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+The Brookhaven Grave yard, place to remember those once here... or maybe visit the growling Agency Creator underneath...
 
 ![view of Cemetery](/images/maps/cemetery.jpg)
 
-{{< svg "static/images/maps/cemetery.svg" >}}
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
 
-<!-- <hr style="background-color: #28b44c" size=8>
+## Map View
+
+![Location of Cemetery](/images/maps/cemetery.png)
+
+
+<hr style="background-color: #28b44c" size=8>
 
 ### CaseBook Items
 
-- [URL](/)
+- [Greed](/casebook/museum/greed/)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Quests
 
-- [URL](/) -->
+- [Ghostly Sighting](/lore/quests/#ghostly-sighting)

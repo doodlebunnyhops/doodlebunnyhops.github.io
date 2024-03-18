@@ -21,7 +21,7 @@ draft: false
 ![view of Hidden Valley](/images/maps/hidden_valley_cave.jpg)
 {{< /column >}}
 
-{{< svg "static/images/maps/hidden-valley.svg" >}}
+![Location of Hidden Valley](/images/maps/hidden-valley.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 

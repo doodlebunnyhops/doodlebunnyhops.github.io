@@ -12,22 +12,28 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+Mr.Brookhaven's picture is hidden inside a coffin in the church along with an energy pyramid in the attic. What is Mr.Brookhaven trying to tell us? And why does ringing the church bell summon doves?
 
 ![view of Church](/images/maps/church.jpg)
 
-{{< svg "static/images/maps/church.svg" >}}
+<hr style="background-color: #28b44c" size=8>
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Map View
 
-<!-- <hr style="background-color: #28b44c" size=8>
+![Location of Church](/images/maps/church.png)
+
+
+<hr style="background-color: #28b44c" size=8>
 
 ### CaseBook Items
 
-- [URL](/)
+- [Bakery Note](/casebook/notes/other/#bakery)
+- [Energy Ring Panels](/casebook/interesting/observations/#energy-ring-panels)
+- [Energy Pyramids](/casebook/energy_pyramids/)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Quests
 
-- [URL](/) -->
+- [Connect Laptop](/lore/tools/#connect-laptop)
+- [How to get an Energy Pyramid](/lore/special_tools/#energy-pyramid)

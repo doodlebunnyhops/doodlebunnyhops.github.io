@@ -16,7 +16,7 @@ draft: false
 
 ![view of Town Hall](/images/maps/school.jpg)
 
-{{< svg "static/images/maps/school.svg" >}}
+![Location of School](/images/maps/school.png)
 
 ![Under Construction Warning, Page not complete](/images/under_construction.png)
 
