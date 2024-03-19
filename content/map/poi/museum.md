@@ -3,7 +3,7 @@ title: "Museum"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Museum location view and related secrets"
-image: maps/museum.jpg
+image: images/maps/museum.jpg
 images:
 - images/maps/museum.jpg
 Categories: ["point of interest","map"]

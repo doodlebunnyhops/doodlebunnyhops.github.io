@@ -4,6 +4,9 @@ weight: 6
 description: "How to guide to submit requests to this site for Brookhaven RP Secrets and mysteries or ask questions about this site."
 aliases:
 - /other
+image: images/git/which_issue.png
+images: 
+- images/git/which_issue.png
 ---
 <hr style="background-color: #28b44c" size=8>
 

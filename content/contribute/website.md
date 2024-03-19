@@ -8,6 +8,9 @@ aliases:
 - /other/how_to
 - /other/select
 - /other/submit
+image: images/git/which_issue.png
+images: 
+- images/git/which_issue.png
 --- 
 
 In github we are taking in "issues" to submit your request to add something, point out a mistake in the website, or questions about the website.

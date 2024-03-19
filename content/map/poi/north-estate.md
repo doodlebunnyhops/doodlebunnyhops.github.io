@@ -3,7 +3,7 @@ title: "North Estate"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven North Estate location view and related secrets"
-image: maps/north_estate.jpg
+image: images/maps/north_estate.jpg
 images:
 - images/maps/north_estate.jpg
 Categories: ["point of interest","map"]

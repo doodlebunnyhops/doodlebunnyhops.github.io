@@ -3,7 +3,7 @@ title: "Arch by Barn"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Arch by Barn location view and related secrets"
-image: maps/arch2.jpg
+image: images/maps/arch2.jpg
 images:
 - images/maps/arch2.jpg
 Categories: ["point of interest","map"]

@@ -3,7 +3,7 @@ title: "Mall"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Mall location view and related secrets"
-image: maps/mall.jpg
+image: images/maps/mall.jpg
 images:
 - images/maps/mall.jpg
 Categories: ["point of interest","map"]

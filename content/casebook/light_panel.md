@@ -2,6 +2,10 @@
 title: "Agency Light Panel"
 weight: 1
 description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
+image: images/bh/agency_panel_bloomin.jpg
+images: 
+- images/bh/panel.jpg
+- images/bh/agency_panel_bloomin.jpg
 aliases:
 - /light_panel
 - /light_panel/a01
@@ -56,7 +60,7 @@ aliases:
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
 
-It's located inside the Agency Bunker.
+It's located inside the Agency Bunker. [See the map here](/map/poi/agency-bunker).
 
 Here is an image of the panel with no lights activated.
 

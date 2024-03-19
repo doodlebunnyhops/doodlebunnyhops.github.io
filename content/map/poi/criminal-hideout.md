@@ -3,7 +3,7 @@ title: "Criminal Hideout"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Criminal Hideout location view and related secrets"
-image: maps/criminal_hideout.jpg
+image: images/maps/criminal_hideout.jpg
 images:
 - images/maps/criminal_hideout.jpg
 Categories: ["point of interest","map"]

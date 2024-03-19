@@ -3,7 +3,7 @@ title: "Horse Stable"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Horse Stable location view and related secrets"
-image: maps/horse_stables.jpg
+image: images/maps/horse_stables.jpg
 images:
 - images/maps/horse_stables.jpg
 Categories: ["point of interest","map"]

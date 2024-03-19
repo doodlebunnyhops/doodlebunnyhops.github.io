@@ -3,7 +3,7 @@ title: "Spawn"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Spawn location view and related secrets"
-image: maps/spawn.jpg
+image: images/maps/spawn.jpg
 images:
 - images/maps/spawn.jpg
 Categories: ["point of interest","map"]
