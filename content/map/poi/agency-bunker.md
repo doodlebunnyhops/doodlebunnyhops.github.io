@@ -3,10 +3,10 @@ title: "Agency Bunker"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Agency Bunker location and related details"
-image: maps/agency_bunker_inside.jpg
+image: images/maps/agency_bunker_inside.jpg
 images:
 - images/maps/agency_bunker_inside.jpg
-- maps/agency_bunker.jpg
+- images/maps/agency_bunker.jpg
 Categories: ["point of interest","map"]
 Tags: ["Agency Bunker"]
 draft: false

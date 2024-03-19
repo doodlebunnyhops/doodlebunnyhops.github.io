@@ -1,5 +1,5 @@
 ---
-title: "Discord"
+title: "Chat on Discord"
 weight: 2
 description: "Discord Channel for Brookhaven RP Secrets and Mysteries by Wolfpaq"
 ---

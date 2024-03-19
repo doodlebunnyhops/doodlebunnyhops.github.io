@@ -4,7 +4,9 @@ weight: 1
 description: "Common tools used in Brookhaven RP Secrets and Mysteries and how to get them."
 aliases:
 - /tools
-image: bh/collage.png
+image: images/bh/a05-complete.jpg
+images:
+- images/bh/a05-complete.jpg
 ---
 
 These are steps to grab a few items that will help reveal hints.
@@ -14,8 +16,8 @@ It's also recommended to have the following in your inventory at some point:
 - Ladder
 - Shovel
 - Hammer
-- [Laptop](#connect-laptop) *
-- [Binoculars](#binoculars) *
+- [How to Connect Laptop](#connect-laptop) *
+- [Binoculars from Military RolePlay House](#binoculars) *
 
 <hr style="background-color: #28b44c" size=8>
 

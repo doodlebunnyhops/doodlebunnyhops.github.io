@@ -3,7 +3,7 @@ title: "Paradise Falls"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Town Hall location view and related secrets"
-image: maps/paradise_falls.jpg
+image: images/maps/paradise_falls.jpg
 images:
 - images/maps/paradise_falls.jpg
 Categories: ["point of interest","map"]

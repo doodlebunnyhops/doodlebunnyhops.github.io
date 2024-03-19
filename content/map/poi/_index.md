@@ -3,9 +3,9 @@ title: "Points of Interest"
 weight: 1
 description: "Brookhaven RP interactive map of locations with details."
 Categories: ["point of interest","map"]
+image: images/maps/top_full_cropped.jpg
 images: 
 - images/maps/top_full_cropped.jpg
-image: maps/top_full_cropped.jpg
 date: 2024-01-01
 toc: false
 # draft: false

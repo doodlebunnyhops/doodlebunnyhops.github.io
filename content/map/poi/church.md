@@ -3,7 +3,7 @@ title: "Church"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Church location view and related secrets"
-image: maps/church.jpg
+image: images/maps/church.jpg
 images:
 - images/maps/church.jpg
 Categories: ["point of interest","map"]

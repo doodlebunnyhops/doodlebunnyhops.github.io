@@ -3,7 +3,7 @@ title: "School"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven School location view and related secrets"
-image: maps/school.jpg
+image: images/maps/school.jpg
 images:
 - images/maps/school.jpg
 Categories: ["point of interest","map"]

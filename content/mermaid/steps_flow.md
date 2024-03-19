@@ -1,6 +1,9 @@
 ---
 title: "Lore Steps Visual"
 description: "A visual flow of how all the quests in Brookhaven RP come together in solving secrets and mysteries."
+image: images/bh/collage.png
+images: 
+- images/bh/collage.png
 ---
 
 Want to see a better view of this diagram, check it out [here](/images/bh/mermaid-diagram-2023-05-24-083839.svg)

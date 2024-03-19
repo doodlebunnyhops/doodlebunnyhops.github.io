@@ -3,7 +3,7 @@
     {{- if or (hasPrefix .Params.image "http") (hasPrefix .Params.image "www.") }}
         {{- $img = .Params.image }}
     {{- else }}
-        {{- $img = (printf "%s%s" "images/" .Params.image) | absURL}}
+        {{- $img = (printf "%s%s" "/" .Params.image) | absURL}}
     {{- end }}
 {{- end }}
 {{- if or ( .IsHome ) ( not .Description ) -}}<script type="application/ld+json">{"@context": "https://schema.org/","@type": "WebSite","url": "{{.Permalink}}","name": "{{ .Site.Title }}","author": "{{.Site.Params.author.name}}","thumbnailUrl": {"@type": "URL","@id": "{{ $img }}","@url": "{{ $img }}"},"description": "{{.Params.description}}"}</script>
