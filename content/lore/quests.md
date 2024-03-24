@@ -49,21 +49,6 @@ We are an a quest to find 7 crystals!
 
 
 
-<!-- ---
-<img id="zoom-default" src="http://bh.local:1313/images/bh/bloomin_energy_pyramid_fireplace4.jpg" alt="Zoom with margin" class=" medium-zoom-image" loading="lazy">
----
-
-
-<img id="zoom-default" src="http://bh.local:1313/images/bh/bloomin_energy_pyramid_fireplace4.jpg" alt="Zoom with margin" class=" medium-zoom-image" loading="lazy">
----
-I need a way to setup the script for pages that care and also generates appropriate classes where I want them...
-{{< column "grid-2" >}}
-{{< zoom id="zoom-default" src="/images/bh/bloomin_energy_pyramid_fireplace4.jpg" alt="Bloomindaisy holding energy Pyramid">}}
-
-{{< zoom id="zoom-default" src="/images/bh/a19-collect-bend.jpg" alt="a19-collect-bend">}}
-{{< /column >}} -->
-
-
 
 {{< tip >}}
 
@@ -75,8 +60,6 @@ Down the small brown patch on the left next to Blackhawk Community Sign. Near ho
 
 {{< zoom id="zoom-default" src="/images/bh/a19-collect-bend.jpg" alt="Crystal at black">}}
 
-<!-- ![Crystal at black](/images/bh/a19-collect-bend.jpg) -->
-
 
 {{< /tab >}}
 
@@ -85,7 +68,6 @@ Facing front of North Estate, go to the left hand side that’s just over the tu
 
 {{< zoom id="zoom-default" src="/images/bh/a19-collect-northestate.jpg" alt="Crystal at black">}}
 
-<!-- ![Crystal at black](/images/bh/a19-collect-northestate.jpg) -->
 {{< /tab >}}
 {{< /tabs >}}
 
