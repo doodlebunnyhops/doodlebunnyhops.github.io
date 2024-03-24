@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tinacms/cli": "^1.5.14",
+    "@tinacms/cli": "^1.5.42",
     "medium-zoom": "^1.1.0",
     "tinacms": "^1.5.6"
   }
