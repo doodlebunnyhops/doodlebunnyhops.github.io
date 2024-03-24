@@ -22,16 +22,16 @@ The Brookhaven Stables is possibly the first site Mr. Brookhaven built years ago
 
 {{< zoom id="zoom-default" src="/images/maps/horse-stable.png" alt="Location of Horse Stables" >}}
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
-
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Energy Pyramid Spawns Nearby](/casebook/energy_pyramids/#known-locations)
+- [A20 Awaiting Power](/casebook/light_panel/#a20)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Quest to get Energy Pyramid](/lore/special_tools/#energy-pyramid)
+- [Crystal hidden in horse stable](/lore/quests/#find-7-crystals)

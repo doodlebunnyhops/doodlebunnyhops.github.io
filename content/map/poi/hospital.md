@@ -36,16 +36,23 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 {{< zoom id="zoom-default" src="/images/maps/hospital.png" alt="Location of Hospital" >}}
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [X01 Light Panel](/casebook/light_panel/#x01)
+- [Note from Mr. Brookhaven](/casebook/notes/mrbrookhaven/#crystals-for-good-or-bad)
+- [Note from Medical Officer Avid](/casebook/notes/other/#military-rp-home)
+- [Quantum Room](/casebook/quantum/)
+- [Operation READRIVER Note](/casebook/notes/other/#operation-redriver)
+- Computer Messages:
+    1. [No Expermienting!](/casebook/computer/agency/#no-experimenting)
+    1. [Agency Knows What's Best](/casebook/computer/agency/#agency-knows-whats-best)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [The Red Book](/lore/special_tools/#the-red-book)
+- [Mystery Alien](/lore/quests/#mystery-alien)

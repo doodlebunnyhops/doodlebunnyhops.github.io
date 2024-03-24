@@ -28,16 +28,14 @@ It's a quaint little nook, perfect for a quiet home. But something is hiding ins
 
 {{< zoom id="zoom-default" src="/images/maps/hidden-valley.png" alt="Location of Hidden Valley" >}}
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
-
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [What we know so far](/casebook/interesting/hidden_valley_cave/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Related Quests
+<!-- ### Related Quests
 
 - [URL](/) -->

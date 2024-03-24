@@ -21,16 +21,14 @@ Behind the Barn where the fence is, several crows come and go early in the morni
 
 {{< zoom id="zoom-default" src="/images/maps/crows.png" alt="Location of Crows" >}}
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
-
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [A15 Light Panel](/casebook/light_panel/#a15)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Obtain Green Access Key Card](/lore/special_tools/#green-key-card)
