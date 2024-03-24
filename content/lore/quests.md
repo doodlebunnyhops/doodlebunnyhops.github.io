@@ -6,7 +6,8 @@ aliases:
 - /quests
 image: bh/collage.png
 ---
- 
+
+
 Ahh yes, here is the heart of our investigation. These are quests that have led us to find/unlock more clues or secrets the town of Brookhaven holds.
 
 Sometimes tools, special tools, or other quests are required to complete a quest and will be listed in the `requirements` section.
@@ -46,6 +47,9 @@ We are an a quest to find 7 crystals!
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
 	2. [A20](casebook/light_panel#a20) now activated
 
+
+
+
 {{< tip >}}
 
 Helpful Images
@@ -54,16 +58,19 @@ Helpful Images
 {{< tab "Location #4" >}}
 Down the small brown patch on the left next to Blackhawk Community Sign. Near houses #13 and #14
 
-![Crystal at black](/images/bh/a19-collect-bend.jpg)
+{{< zoom id="zoom-default" src="/images/bh/a19-collect-bend.jpg" alt="Crystal at black">}}
+
+
 {{< /tab >}}
 
 {{< tab "Location #6" >}}
 Facing front of North Estate, go to the left hand side that’s just over the tunnel - in the brown dirt.
 
-![Crystal at black](/images/bh/a19-collect-northestate.jpg)
-{{< /tab >}}
+{{< zoom id="zoom-default" src="/images/bh/a19-collect-northestate.jpg" alt="Crystal at black">}}
 
+{{< /tab >}}
 {{< /tabs >}}
+
 {{< /tip >}}
 
 {{< tip >}}	

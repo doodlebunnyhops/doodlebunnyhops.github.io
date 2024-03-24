@@ -56,6 +56,30 @@ aliases:
 - /light_panel/x07
 - /light_panel/x08
 - /light_panel/x09
+
+dataset1:
+  fileLink: content/casebook/lights.csv
+  colors:
+    - '#ef7f1a'
+    - '#627c62'
+    - '#11819b'
+    - '#4e1154'
+  columnTitles:
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+  baseChartOn: 3
+  title: Projects
+
 ---
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
@@ -77,14 +101,9 @@ _The exception here is [X22](#x22) - we have a hint about it but no steps to act
 If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
 {{< /tip >}}
 
-|||||||||||||
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [A01](#a01) | [A02](#a02) | [A03](#a03) | [A04](#a04) | [A05](#a05) | [A06](#a06) | [A07](#a07) | [A08](#a08) | [A09](#a09) | A10 | A11 | A12 |
-| A13 | [A14](#a14) | [A15](#a15) | [A16](#a16) | [A17](#a17) | [A18](#a18) | [A19](#a19) | [A20](#a20) | [A21](#a21) | [A22](#a22) | [A23](#a23) | [A24](#a24) |
-| [A25](#a25) | [A26](#a26) | [A27](#a27) | A28 | A29 | A30 | A31 | A32 | A33 | A34 | A35 | A36 |
-| [H02](#h02) | [H03](#h03) | [H04](#h04) | H05 | [H06](#h06) | [H07](#h07) | [H08](#h08) | [V08](#v08) | V09 | V10 | V11 | V12 |
-| [X01](#x01) | [X02](#x02) | X03 | X04 | X05 | X06 | X07 | X08 | X09 | X10 | X11 | X12 |
-| X13 | X14 | X15 | X16 | X17 | X18 | X19 | X20 | X21 | [X22](#x22) | X23 | X24 |
+{{< grid "3" >}}
+  {{< myTable "dataset1" "table,noFilter" >}}
+{{< /grid >}}
 
 ---
 

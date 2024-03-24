@@ -1,0 +1,54 @@
+{{- $datasetKey := .Get 0 }}
+{{- $charts := .Get 1 }}
+{{- $data := index $.Page.Params $datasetKey }}
+{{- $dataURL := $data.fileLink }}
+{{- $separator := "," }}
+{{- $dataFile := getCSV $separator $dataURL }}
+
+{{- $dataCompactData := dict -}}
+{{- $activeColumn := sub $data.baseChartOn 1 }}
+{{- with .Get 2 }}
+  {{- $activeColumn = sub (int .) 1 }}
+{{- end }}
+{{- range $dataFile -}}
+  {{- $value := trim (index . $activeColumn) " " -}}
+  {{- with index $dataCompactData $value -}}
+    {{- $dataCompactData = merge $dataCompactData (dict $value (add 1 .)) -}}
+  {{- else -}}
+    {{- $dataCompactData = merge $dataCompactData (dict $value 1) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $labels := slice }}
+{{- range $key, $value := $dataCompactData }}
+  {{- $labels = append $key $labels }}
+{{- end }}
+
+{{- if in $charts "table" }}
+<script src = '{{ absURL "js/w3.js" }}'></script>
+<div class="table_wrap">
+  {{- if not (in $charts "noFilter") }}
+  <p>
+    <input class="form_search search_field forminput" placeholder="Filter Table Values">
+  </p>
+  {{- end }}
+  <table id="chartTable">
+    <thead>
+      {{- range $index, $title := $data.columnTitles }}
+      <th>{{ $title }}</th>
+      {{- end }}
+    </thead>
+
+    {{- range $dataFile }}
+      {{- $entry := . }}
+    <tr class="row">
+      {{- range $index, $_ := $data.columnTitles }}
+      <td>{{ index $entry $index | markdownify }}</td>
+      {{- end }}
+    </tr>
+    {{- end }}
+  </table>
+</div>
+{{- end }}
+
+

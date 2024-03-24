@@ -7,9 +7,9 @@
 		<picture data-lit="{{ $litPath }}" data-dark="{{ $darkPath }}">
 			<img src="{{ $litPath }}" alt="{{ site.Title }} Logo">
 		</picture>
-		<label class="nav_toggle toggle" title='{{ T "site_menu" }}' role="button">
-			{{ partial "sprite" (dict "icon" "harmburger") }}
-		</label>
+		<div class="nav_toggle toggle" title='{{ T "site_menu" }}'>
+			{{- partial "sprite" (dict "icon" "harmburger") }}
+		</div>
 	</a>
 	<ul class="nav_body">
 		<li class="nav-item">
@@ -28,6 +28,24 @@
 			{{- end }}
 			<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ T .Identifier | default .Name }}</span></a>
 		</li>
+		{{/*  Working on nested Menu  */}}
+		{{/*  <li class="nav-item navdropdown">
+			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
+			{{- with .Page }}
+			{{- $active = or $active ( $.IsDescendant .)  }}
+			{{- end }}
+			{{- $url := absLangURL .URL }}
+			{{- if or (hasPrefix .URL "http") (hasPrefix .URL "www.") }}
+				{{- $url = .URL }}
+			{{- end }}
+			<p class="navdropbtn"><span{{if $active }} class="active"{{end}}>{{ T .Identifier | default .Name }}</span></p>
+			<div class="navdropdown-content">
+				<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ T .Identifier | default .Name }}</span></a>	
+			  <a href="#">Link 1</a>
+			  <a href="#">Link 2</a>
+			  <a href="#">Link 3</a>
+			</div>
+		</li>  */}}
 		{{- end }}
 		{{- $repo := $config.source }}
 		{{- range $config.source }}

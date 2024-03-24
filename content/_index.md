@@ -12,7 +12,6 @@ Tags: ["Secrets and Mysteries","Lore","Detective"]
 ---
 
 
-
 # Can you solve the **Mystery** of Brookhaven?
 
 This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
@@ -22,9 +21,20 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
+
 ---
 
 ## Not sure where to get started?
+
+Checkout Our table of contents!
+
+{{< expand "Table Of Contents" >}} 
+{{< children sort="Weight" showhidden=false description="true" cust="none" style="h3" block=true />}}
+{{< /expand >}}
+
+---
+
+#### Here are some suggestions!
 
 - [Lore](/lore/) for steps uncovering secrets already found!
 - [CaseBook](/casebook/) contains notes and observations found during investigations
