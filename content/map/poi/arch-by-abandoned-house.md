@@ -12,17 +12,17 @@ draft: false
 --- 
 
 
-The arch by the abandoned house is hiding a movie code underneath one of it's bases!
+The arch by the abandoned house hides a movie code underneath one of its bases!
 
-![view of Arch by Abandoned House](/images/maps/arch1.jpg)
+{{< zoom id="zoom-default" src="/images/maps/arch1.jpg" alt="view of Arch by Abandoned House" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-![Location of Arch by Abandoned House](/images/maps/arch-by-abandoned-house.png)
+{{< zoom id="zoom-default" src="/images/maps/arch-by-abandoned-house.png" alt="Location of Arch by Abandoned House" >}}
 <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [Movie Code](/casebook/movie_codes/#eagle-view-arch-code)

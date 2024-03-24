@@ -11,25 +11,25 @@ Tags: ["Barn"]
 draft: false
 --- 
 
-The Brookhaven Barn is hiding a note and a mysterious crystal. 
+The Brookhaven Barn, located next to the Horse Stables, hides a note and a mysterious crystal. 
 
-![view of Barn](/images/maps/barn.jpg)
+{{< zoom id="zoom-default" src="/images/maps/barn.jpg" alt="view of Barn" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-![Location of Barn](/images/maps/barn.png)
+{{< zoom id="zoom-default" src="/images/maps/barn.png" alt="Location of Barn" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [Barn Note](/casebook/notes/mrb/#barn)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [TS Level 1](/lore/special_tools/#ts-level-1)
 - [Find 7 Crystals](/lore/quests/#find-7-crystals)

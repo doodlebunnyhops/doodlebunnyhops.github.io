@@ -12,26 +12,26 @@ draft: false
 --- 
 
 
-The Brookhaven Grave yard, place to remember those once here... or maybe visit the growling Agency Creator underneath...
+The Brookhaven Graveyard is a place to remember those once here or maybe visit the growling Agency Creator underneath. Oh my!
 
-![view of Cemetery](/images/maps/cemetery.jpg)
+{{< zoom id="zoom-default" src="/images/maps/cemetery.jpg" alt="view of Cemetery" >}}
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-![Location of Cemetery](/images/maps/cemetery.png)
+{{< zoom id="zoom-default" src="/images/maps/cemetery.png" alt="Location of Cemetery" >}}
 
 
 <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [Greed](/casebook/museum/greed/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [Ghostly Sighting](/lore/quests/#ghostly-sighting)

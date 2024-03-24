@@ -11,23 +11,31 @@ Tags: ["Criminal Hideout"]
 draft: false
 --- 
 
+You will find a hidden entrance behind Starbrooks and Mail & Packages, which could be an Agency or Criminal Hideout. Once inside, you will find another trapdoor that opens when you click on the light bulb above. You will see a stash of weapons and a surveillance system—spying on the townspeople?
 
-<!-- ![LOC PIC]() -->
+{{< column "grid-2" >}}
 
-![view of Criminal Hideout](/images/maps/criminal_hideout.jpg)
 
-![Location of Crimnal Hideout](/images/maps/criminal-hideout.png)
+{{< zoom id="zoom-default" src="/images/maps/criminal_hideout.jpg" alt="Outside view of Criminal Hideout showing hidden wall that opens to get inside" >}}
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_to_trap_door.gif" alt="Criminal Hideout and where the trap door is" >}}
 
-<!-- <hr style="background-color: #28b44c" size=8>
+{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_click_trap_door.gif" alt="Clicking secrete passage to open trap door to get to Criminal Hideout" >}}
 
-### CaseBook Items
+{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_inside.jpg" alt="Inside view of Criminal Hideout showing computer parts and surveillance system" >}}
 
-- [URL](/)
+{{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+## Map View
 
-- [URL](/) -->
+{{< zoom id="zoom-default" src="/images/maps/criminal-hideout.png" alt="Location of Criminal Hideout" >}}
+
+
+<hr style="background-color: #28b44c" size=8>
+
+
+### Related Quests
+
+- [Destroy Carbon Block](/lore/quests/#destroy-carbon-blocks)

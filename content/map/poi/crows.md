@@ -11,23 +11,26 @@ Tags: ["Crows"]
 draft: false
 --- 
 
+Behind the Barn where the fence is, several crows come and go early in the morning. There's something they are leading you to beneath the ground!
 
-<!-- ![LOC PIC]() -->
+{{< zoom id="zoom-default" src="/images/maps/crows.jpg" alt="view of Crows" >}}
 
-![view of Crows](/images/maps/crows.jpg)
+<hr style="background-color: #28b44c" size=8>
 
-![Location of Crows](/images/maps/crows.png)
+## Map View
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+{{< zoom id="zoom-default" src="/images/maps/crows.png" alt="Location of Crows" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

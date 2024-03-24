@@ -12,25 +12,32 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
-{{< column "grid-2" >}}
-![View of Entrance to Portal](/images/maps/portal_1.jpg)
+The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookhaven. Oh, you wanted to know what lies beneath Eagle View? My apologies. Deep underground lies a mysterious portal, or at least we concluded it to be a portal. Built from boxes and poof, we have this odd giant portal. Be careful not to step on the glowing bits on the platform; you'll be temporarily blinded!
 
-![view of built Portal](/images/maps/portal-built.jpg)
+{{< column "grid-2" >}}
+
+{{< zoom id="zoom-default" src="/images/maps/portal_1.jpg" alt="View of Entrance to Portal under Eagle View estate" >}}
+
+{{< zoom id="zoom-default" src="/images/maps/portal-built.jpg" alt="view of built Portal" >}}
 {{< /column >}}
 
-![Location of Portal](/images/maps/portal.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/portal.png" alt="Location of Portal" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

@@ -12,22 +12,27 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+The agency has planted a hidden camera near Lake Madison to monitor Mr. Brookhaven and his family. Why are they watching? And why do we need to click on this camera for the Destroy Carbon Blocks quest?
 
-![view of Hidden Camera](/images/maps/hidden_camera.jpg)
+{{< zoom id="zoom-default" src="/images/maps/hidden_camera.jpg" alt="view of Hidden Camera" >}}
 
-![Location of Hidden Camera](/images/maps/hidden-camera.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/hidden-camera.png" alt="Location of Hidden Camera" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

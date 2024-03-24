@@ -11,21 +11,20 @@ Tags: ["Museum"]
 draft: false
 --- 
 
+Introduced in the Feb. 2023 Update, the Brookhaven Museum gives us a glimpse of Mr. Brookhaven and Madison's humble beginnings and some exciting secrets. We see artifacts from The Agency and Mr.Brookhaven, along with four paintings named Greed, Fear, Brave, and Kind.
 
-Introduced in Feb. 2023 Update, the Brookhaven Museum gives us a glimpse of Mr. Brookhaven and Madison's humble beginnings along with some interesting secrets found inside.
-
-![View of Museum Store Front](/images/maps/museum.jpg)
+{{< zoom id="zoom-default" src="/images/maps/museum.jpg" alt="View of Museum Store Front" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Different Store Fronts
 
-The location of the Museum can also be a dealership or a restruant called "The Brick". You can change the store front by going inside and clicking which front you would like to have.
+The museum can also be changed into a dealership or a restaurant called "The Brick." You can change the storefront by going inside and clicking which font you would like to have.
 
 {{< column "grid-3" >}}
-![How to change Store Front, select Dealership, Restraunt, or Museum](/images/maps/store-select.jpg)
-![View of Dealership Store Front](/images/maps/dealership.jpg)
-![View of restaurant, The Brick, Store Front](/images/maps/the-brick.jpg)
+{{< zoom id="zoom-default" src="/images/maps/store-select.jpg" alt="How to change Store Front, select Dealership, Restraunt, or Museum" >}}
+{{< zoom id="zoom-default" src="/images/maps/dealership.jpg" alt="View of Dealership Store Front" >}}
+{{< zoom id="zoom-default" src="/images/maps/the-brick.jpg" alt="View of restaurant, The Brick, Store Front" >}}
 
 {{< /column >}}
 
@@ -33,16 +32,16 @@ The location of the Museum can also be a dealership or a restruant called "The B
 
 ## Map View
 
-![Location of Museum](/images/maps/museum.png)
+{{< zoom id="zoom-default" src="/images/maps/museum.png" alt="Location of Museum" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

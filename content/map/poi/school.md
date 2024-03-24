@@ -11,23 +11,31 @@ Tags: ["School"]
 draft: false
 --- 
 
+Bright young minds are engaged by the teachings provided at Brookhaven School of the Dogecoin! As the English teacher says, 
 
-<!-- ![LOC PIC]() -->
+"_You'll never get bored when you try something new. There's really no limit to what you can do._". 
 
-![view of Town Hall](/images/maps/school.jpg)
+I wish the teachers here would tell me what the glowing orb is above the theater; it is suspicious!
 
-![Location of School](/images/maps/school.png)
+{{< zoom id="zoom-default" src="/images/maps/school.jpg" alt="view of Town Hall" >}}
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/school.png" alt="Location of School" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

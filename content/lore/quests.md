@@ -233,10 +233,10 @@ Example: `Low voltage. Mainframe unavailable...`
 	{{< tabs "tabsID" >}}
 
 {{< tab "Location #1" >}}
-Criminal Base behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
+Criminal Hideout behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
 Use a sleeping bag to look past the back wall.
 
-![Carbon Block Criminal Base](/images/bh/carbon_block_criminal_base.jpg)
+![Carbon Block hidden behind a wall in the Criminal Hideout](/images/bh/carbon_block_criminal_base.jpg)
 {{< /tab >}}
 
 {{< tab "Location #4" >}}

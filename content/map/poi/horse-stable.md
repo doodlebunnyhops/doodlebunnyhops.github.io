@@ -11,23 +11,27 @@ Tags: ["Horse Stable"]
 draft: false
 --- 
 
+The Brookhaven Stables is possibly the first site Mr. Brookhaven built years ago. You can practice running and jumping with your horse nearby. But be careful not to feed your horse a crystal accidentally! There's one lurking in the hay.
 
-<!-- ![LOC PIC]() -->
+{{< zoom id="zoom-default" src="/images/maps/horse_stables.jpg" alt="view of Horse Stables" >}}
 
-![view of Horse Stables](/images/maps/horse_stables.jpg)
 
-![Location of Horse Stables](/images/maps/horse-stable.png)
+<hr style="background-color: #28b44c" size=8>
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/horse-stable.png" alt="Location of Horse Stables" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->
