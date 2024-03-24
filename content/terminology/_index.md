@@ -77,6 +77,6 @@ List of definitions as some names for places/things does differ.
 ### Agency Experimentation Site
 >Room above the Hospital that looks old and Abandoned. There are 2 chairs, a Surgery Table, and an Operations Room in this area.
 ---
-### Hideout Bunker
-> Hideout behind Starbrooks through a hidden door. You will see a light that can be clicked and opens a passageway. Aslo referred to as Criminal Base.
+### Criminal Hideout
+> Hideout behind Starbrooks through a hidden door. You will see a light that can be clicked and opens a passageway. Also referred to as Criminal Base.
 ---

@@ -12,22 +12,27 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+If you visit Brookhaven, there's a great Motel next to the airport and a restaurant across the way for easy dining. But be cautious of the room that's from 2028; by then, it seems the motel will have shut down.
 
-![view of Motel](/images/maps/motel.jpg)
+{{< zoom id="zoom-default" src="/images/maps/motel.jpg" alt="view of Motel" >}}
 
-![Location of Motel](/images/maps/motel.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/motel.png" alt="Location of Motel" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

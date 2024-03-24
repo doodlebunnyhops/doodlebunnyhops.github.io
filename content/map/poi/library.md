@@ -11,23 +11,27 @@ Tags: ["Library"]
 draft: false
 --- 
 
+Your local community Library in Brookhaven has books to read for days! Visit and find that next book you can't put down, or perhaps an evil red book that will guide you to where we don't know.
 
-<!-- ![LOC PIC]() -->
+{{< zoom id="zoom-default" src="/images/maps/library.jpg" alt="view of Library" >}}
 
-![view of Library](/images/maps/library.jpg)
 
-![Location of Library](/images/maps/library.png)
+<hr style="background-color: #28b44c" size=8>
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/library.png" alt="Location of Library" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->

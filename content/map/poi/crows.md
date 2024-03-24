@@ -11,23 +11,24 @@ Tags: ["Crows"]
 draft: false
 --- 
 
+Behind the Barn where the fence is, several crows come and go early in the morning. There's something they are leading you to beneath the ground!
 
-<!-- ![LOC PIC]() -->
-
-![view of Crows](/images/maps/crows.jpg)
-
-![Location of Crows](/images/maps/crows.png)
-
-![Under Construction Warning, Page not complete](/images/under_construction.png)
-
-<!-- <hr style="background-color: #28b44c" size=8>
-
-### CaseBook Items
-
-- [URL](/)
+{{< zoom id="zoom-default" src="/images/maps/crows.jpg" alt="view of Crows" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+## Map View
 
-- [URL](/) -->
+{{< zoom id="zoom-default" src="/images/maps/crows.png" alt="Location of Crows" >}}
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related CaseBook Items
+
+- [A15 Light Panel](/casebook/light_panel/#a15)
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related Quests
+
+- [Obtain Green Access Key Card](/lore/special_tools/#green-key-card)

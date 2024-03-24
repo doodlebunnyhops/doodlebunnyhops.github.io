@@ -12,22 +12,47 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+Brookhaven'ts esteemed Hospital has exceptional doctors and surgeons. It's also the site of an experimentation site operated by The Agency. Why was the experimentation site abandoned?
 
-![view of Hospital](/images/maps/hospital.jpg)
+{{< zoom id="zoom-default" src="/images/maps/hospital.jpg" alt="view of Hospital" >}}
 
-![Location of Hospital](/images/maps/hospital.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+## Experimentation Site
 
-<!-- <hr style="background-color: #28b44c" size=8>
+Medical Officer Avid once worked at the Experimentation Site, but after seeing the Agency's practices, he resigned. The site is above the hospital, and you can get inside through a broken window outside or a broken wall in the hospital's main lobby.
 
-### CaseBook Items
+{{< column "grid-2" >}}
+{{< zoom id="zoom-default" src="/images/maps/experimentation_site.jpg" alt="Inside Experimentation Site with the Agency Logo on the wall and 2 chairs with the word Experimental written above them" >}}
 
-- [URL](/)
+{{< zoom id="zoom-default" src="/images/maps/experimentation_site2.jpg" alt="Inside Experimentation Site with furniture turned over, rusted dirty walls, and a broken window where you can come in." >}}
+
+{{< zoom id="zoom-default" src="/images/maps/experimentation_site3.jpg" alt="Inside Observation room at Experimentation Site. We see a green body in a capsule and agency folder" >}}
+{{< /column >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+## Map View
 
-- [URL](/) -->
+{{< zoom id="zoom-default" src="/images/maps/hospital.png" alt="Location of Hospital" >}}
+
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related CaseBook Items
+
+- [X01 Light Panel](/casebook/light_panel/#x01)
+- [Note from Mr. Brookhaven](/casebook/notes/mrbrookhaven/#crystals-for-good-or-bad)
+- [Note from Medical Officer Avid](/casebook/notes/other/#military-rp-home)
+- [Quantum Room](/casebook/quantum/)
+- [Operation READRIVER Note](/casebook/notes/other/#operation-redriver)
+- Computer Messages:
+    1. [No Expermienting!](/casebook/computer/agency/#no-experimenting)
+    1. [Agency Knows What's Best](/casebook/computer/agency/#agency-knows-whats-best)
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related Quests
+
+- [The Red Book](/lore/special_tools/#the-red-book)
+- [Mystery Alien](/lore/quests/#mystery-alien)

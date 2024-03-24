@@ -12,13 +12,16 @@ Tags: ["Agency Bunker"]
 draft: false
 --- 
 
-The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. The question is who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
+The Agency Bunker is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. Who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
 
 {{< column "grid-2" >}}
 
-![Agency Bunker Entrance](/images/maps/agency_bunker.jpg)
+{{< zoom id="zoom-default" src="/images/maps/agency_bunker.jpg" alt="Agency Bunker Entrance" >}}
 
-![Agency Bunker Inside](/images/maps/agency_bunker_inside.jpg)
+{{< zoom id="zoom-default" src="/images/maps/agency_bunker_inside.jpg" alt="Agency Bunker Inside" >}}
+
+{{< zoom id="zoom-default" src="/images/maps/agency_logo.jpg" alt="Agency Logo found in Agency Bunker" >}}
+
 
 {{< /column >}}
 
@@ -26,11 +29,11 @@ The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten 
 
 ## Map View
 
-![Location of Agency Bunker](/images/maps/agency-bunker.png)
+{{< zoom id="zoom-default" src="/images/maps/agency-bunker.png" alt="Location of Agency Bunker" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [Agency Light Panel](/casebook/light_panel/)
 - [Movie Codes](/casebook/movie_codes/)
@@ -38,7 +41,7 @@ The Agency Bunkger is hidden under a hill with a secret entrance next to Rotten 
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [Build Portal](/lore/quests/#build-portal)
 - [Green Card](/lore/special_tools/#green-key-card)

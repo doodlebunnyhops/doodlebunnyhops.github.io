@@ -12,22 +12,30 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+The agency has planted a hidden camera near Lake Madison to monitor Mr. Brookhaven and his family. Why are they watching? And why do we need to click on this camera for the Destroy Carbon Blocks quest?
 
-![view of Hidden Camera](/images/maps/hidden_camera.jpg)
+{{< zoom id="zoom-default" src="/images/maps/hidden_camera.jpg" alt="view of Hidden Camera" >}}
 
-![Location of Hidden Camera](/images/maps/hidden-camera.png)
-
-![Under Construction Warning, Page not complete](/images/under_construction.png)
-
-<!-- <hr style="background-color: #28b44c" size=8>
-
-### CaseBook Items
-
-- [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+## Map View
 
-- [URL](/) -->
+{{< zoom id="zoom-default" src="/images/maps/hidden-camera.png" alt="Location of Hidden Camera" >}}
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related CaseBook Items
+
+- [Quantum Room Window Message](/casebook/quantum/window_messages/#lake-madison-camera)
+- Quantum Room Message Board:
+    1. [Backdoor Camera Slot Found](/casebook/quantum/message_board/#backdoor-camera-slot-found)
+    2. [Power Online](/casebook/quantum/message_board/#power-online)
+- [Observations with Electric and Water](/casebook/interesting/observations/#linked-electric--water)
+- [A19 SQL Injection Complete](/casebook/light_panel/#a19)
+
+<hr style="background-color: #28b44c" size=8>
+
+### Related Quests
+
+- [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)

@@ -12,20 +12,20 @@ draft: false
 --- 
 
 
-Mr.Brookhaven's picture is hidden inside a coffin in the church along with an energy pyramid in the attic. What is Mr.Brookhaven trying to tell us? And why does ringing the church bell summon doves?
+Mr.Brookhaven's picture is hidden inside a coffin in the church, along with an energy pyramid in the attic. What is Mr.Brookhaven trying to tell us? And why does ringing the church bell summon doves?
 
-![view of Church](/images/maps/church.jpg)
+{{< zoom id="zoom-default" src="/images/maps/church.jpg" alt="view of Church" >}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-![Location of Church](/images/maps/church.png)
+{{< zoom id="zoom-default" src="/images/maps/church.png" alt="Location of Church" >}}
 
 
 <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [Bakery Note](/casebook/notes/other/#bakery)
 - [Energy Ring Panels](/casebook/interesting/observations/#energy-ring-panels)
@@ -33,7 +33,7 @@ Mr.Brookhaven's picture is hidden inside a coffin in the church along with an en
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [Connect Laptop](/lore/tools/#connect-laptop)
 - [How to get an Energy Pyramid](/lore/special_tools/#energy-pyramid)

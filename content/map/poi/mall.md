@@ -12,22 +12,27 @@ draft: false
 --- 
 
 
-<!-- ![LOC PIC]() -->
+There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot for dining, movies, fashion shows, and even the local news station! What can't you do? You can't use the bathroom here because there isn't one! tehe
 
-![view of Mall](/images/maps/mall.jpg)
+{{< zoom id="zoom-default" src="/images/maps/mall.jpg" alt="view of Mall" >}}
 
-![Location of Mall](/images/maps/mall.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+<hr style="background-color: #28b44c" size=8>
+
+## Map View
+
+{{< zoom id="zoom-default" src="/images/maps/mall.png" alt="Location of Mall" >}}
+
+{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
-### CaseBook Items
+### Related CaseBook Items
 
 - [URL](/)
 
 <hr style="background-color: #28b44c" size=8>
 
-### Quests
+### Related Quests
 
 - [URL](/) -->
