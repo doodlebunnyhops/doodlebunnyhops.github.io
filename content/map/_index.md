@@ -1,6 +1,6 @@
 ---
 title: "Map"
-weight: 1
+weight: 3
 description: "Interactive Maps of Brookhaven"
 tags: ["map"]
 image: images/maps/poi.svg
@@ -15,6 +15,12 @@ Navigating all the places around Brookhaven can be a challenge if you don't know
 
 This section has broken down the map for easier traveling during your investigation. 
 
+
+{{< expand "Table Of Contents" >}} 
+{{< children depth=5 sort="Weight"/>}}
+{{< /expand >}}
+
+<hr style="background-color: #28b44c" size=8>
 
 ## Map Types
 

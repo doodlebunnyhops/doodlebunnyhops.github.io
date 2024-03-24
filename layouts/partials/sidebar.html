@@ -1,6 +1,6 @@
 <aside class="aside menu">
   <div>
-    <label class="aside_toggle toggle" title='{{ T "docs_menu" }}' role="button">{{ .FirstSection.Title }} Menu{{ partial "sprite" (dict "icon" "carly") }}</label>
+    <label class="aside_toggle toggle" title='{{ T "docs_menu" }}' role="button">{{ .FirstSection.Title }} Menu{{ partial "sprite" (dict "icon" "harmburger") }}</label>
   </div>
   {{- template "tree" (dict "page" . "section" .FirstSection)  }}
   {{- define "tree" }}
@@ -9,23 +9,36 @@
   {{- $permalink := $page.RelPermalink }}
   <section class="section aside_inner">
     <hr style="background-color: #28b44c">
-    <h2 class="section_title{{ if eq $section.RelPermalink $permalink }} active{{ end }}"><a  href="{{ $section.Permalink }}" class="group">{{ $section.Title }}</a></h2>
+    {{/*  <h2 class="section_title{{ if eq $section.RelPermalink $permalink }} active{{ end }}"><a  href="{{ $section.Permalink }}" class="group">{{ $section.Title }}</a></h2>  */}}
+      
+    {{- with $section }}
+        <section class="" id="docs-{{ anchorize $section.Title }}">
+          <h2 class="section_title{{ if eq $section.RelPermalink $permalink }} active{{ end }}"><a  href="{{ $section.Permalink }}" class="group">{{ $section.Title }}</a></h2>
+            
+        {{/*  <h3 class="section_link{{ if eq .RelPermalink $permalink }} active{{ end }}"><a id="docs-{{ anchorize .Title }}" href="{{ .Permalink }}">{{ .Title }}</a></h3>  */}}
+        {{ $toc_id := printf "toc-%s" (replace (urlize .Title) "." "-") }}
+        {{-  safeHTML (replace .TableOfContents "TableOfContents" $toc_id) }}
+      </section>
+      {{- end }}
+
+
       {{- $pages := $section.Pages }}
-      {{- with $pages }}
+    {{- with $pages }}
       <section class="" id="docs-{{ anchorize $section.Title }}">
-        {{- range . }}
+      {{- range . }}
         {{- if .IsPage }}
         <h3 class="section_link{{ if eq .RelPermalink $permalink }} active{{ end }}"><a id="docs-{{ anchorize .Title }}" href="{{ .Permalink }}">{{ .Title }}</a></h3>
           {{ $toc_id := printf "toc-%s" (replace (urlize .Title) "." "-") }}
-        {{- if ne (print .TableOfContents) ""}}
-          {{-  safeHTML (replace .TableOfContents "TableOfContents" $toc_id) }}
-        {{- end }}
+          {{/*  <h2>{{ $toc_id }}</h2>  */}}
+          {{- if ne (print .TableOfContents) ""}}
+            {{-  safeHTML (replace .TableOfContents "TableOfContents" $toc_id) }}
+          {{- end }}
         {{- else }}
-        {{- template "tree" (dict "page" $page "section" .) }}
+          {{- template "tree" (dict "page" $page "section" .) }}
         {{- end }}
-        {{- end }}
-      </section>
       {{- end }}
-        </section>
-  {{- end }}
+      </section>
+    {{- end }}
+</section>
+{{- end }}
 </aside>

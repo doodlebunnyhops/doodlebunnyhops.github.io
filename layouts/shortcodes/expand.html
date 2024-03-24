@@ -1,0 +1,40 @@
+
+<div class="expand">
+    <div class="expand-label off button" onclick="toggleTOC()">
+    	<i></i>
+    	<span >
+    	{{ if .IsNamedParams }}
+    	{{.Get "default" | default "Expand me..."}}
+    	{{else}}
+    	{{.Get 0 | default "Expand me..."}}
+    	{{end}}
+    	</span>
+		<svg class="icon icon_harmburger" style="color: white;">
+			<use href="#harmburger"></use>
+		  </svg>
+    </div>
+    <div class="expand-content">
+{{- .Inner | safeHTML}}
+    </div>
+<script>
+	function toggleTOC()
+	{
+		const content = document.getElementsByClassName('expand-content'); 
+		const label = document.getElementsByClassName('expand-label');
+		const classes = label[0].classList;
+
+		for (const className of classes) {
+			if (className == "on"){
+				/*turn off list*/
+				content[0].style.display = 'none';
+				label[0].classList.replace("on", "off")
+			}else if(className == "off"){
+				/*turn on list*/
+				content[0].style.display = 'block';
+				label[0].classList.replace("off", "on")
+			}
+
+		  }
+	}
+</script>
+</div>

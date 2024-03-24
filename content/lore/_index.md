@@ -16,6 +16,10 @@ We started out with a few hints around the Town of Brookhaven. A movie clip, som
 We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 
+{{< expand "Table Of Contents" >}} 
+{{< children depth=5 sort="Weight"/>}}
+{{< /expand >}}
+
 <hr style="background-color: #28b44c" size=8>
 
 ### Where to get started

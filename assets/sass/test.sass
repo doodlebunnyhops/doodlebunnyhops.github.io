@@ -1,0 +1,135 @@
+//This is a basic working version
+.dropbtn
+  background-color: var(--theme)
+  color: var(--light)
+  padding: 0.75rem 1.25rem
+  font-size: 16px
+  border-radius: 0.25rem
+  &:hover
+    opacity: 0.84
+  & + &
+    background-color: var(--haze)
+    color: var(--dark)
+
+.dropdown
+  position: relative
+  display: inline-block
+
+.dropdown:hover
+  .dropdown-content
+    display: block
+
+
+.dropdown-content
+  display: none
+  position: absolute
+  background-color: #f1f1f1
+  min-width: 160px
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2)
+  z-index: 1
+
+  a
+    color: black
+    padding: 12px 16px
+    text-decoration: none
+    display: block
+
+    &:hover
+      background-color: #ddd
+      opacity: 1
+
+
+//Working on nested Menu WIP
+
+.dropbtn
+  background-color: var(--theme)
+  color: var(--light)
+  border-color: var(--theme) transparent
+  padding: 0.75rem 1.25rem
+  font-size: 16px
+  border-radius: 0.25rem
+  &:hover
+    opacity: 0.84
+  & + &
+    background-color: var(--haze)
+    color: var(--dark)
+
+.dropdown
+  position: relative
+  display: inline-block
+
+.dropdown:hover
+  .dropdown-content
+      display: flex
+      flex-direction: column
+      align-items: flex-start
+
+
+.dropdown-content
+  display: none
+  position: absolute
+  background-color: var(--bg)
+  min-width: 160px
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2)
+  border-radius: 0.25rem
+  z-index: 1
+
+  a
+    color: black
+    padding: 12px 16px
+    text-decoration: none
+    display: block
+
+    &:hover
+      background-color: var(--haze)
+      opacity: 1
+
+
+.navdropbtn
+  display: grid
+  grid-gap: 1rem
+  padding: 0 1.5rem !important
+  align-items: center
+  background-color: var(--bg)
+  &:hover
+    opacity: 0.84
+  & + &
+    background-color: var(--haze)
+    color: var(--dark)
+
+.navdropdown
+  position: relative
+  //display: inline-block
+
+.navdropdown:hover
+  .navdropdown-content
+      display: flex
+      // margin-left: 50%
+      flex-direction: column
+      align-items: center
+      // position: absolute
+      min-width: max-content
+
+
+.navdropdown-content
+  display: none
+  // position: absolute
+  background-color: var(--bg)
+  // min-width: 160px
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2)
+  border-radius: 0.25rem
+  z-index: 1
+
+  a
+    color: black
+    padding: 12px 16px
+    text-decoration: none
+    display: block
+
+    &:hover
+      background-color: var(--haze)
+      opacity: 1
+
+.nav_body
+  &.show &_body
+    overflow-y: unset
