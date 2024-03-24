@@ -12,6 +12,6 @@
   "dependencies": {
     "@tinacms/cli": "^1.5.14",
     "medium-zoom": "^1.1.0",
-    "tinacms": "^1.5.6"
+    "tinacms": "^1.6.0"
   }
 }
