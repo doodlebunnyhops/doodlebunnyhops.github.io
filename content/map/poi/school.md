@@ -26,16 +26,15 @@ I wish the teachers here would tell me what the glowing orb is above the theater
 
 {{< zoom id="zoom-default" src="/images/maps/school.png" alt="Location of School" >}}
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Note from Mr.B](/casebook/notes/mrb/#school-base)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Unlock the Secret School Base](/lore/quests/#school-base)
