@@ -22,23 +22,32 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
 
----
+<!-- ---
 
 ## Not sure where to get started?
 
-Checkout Our table of contents!
+Checkout Our table of contents! -->
 
-{{< expand "Table Of Contents" >}} 
+<!-- {{< expand "Table Of Contents" >}} 
 {{< children sort="Weight" showhidden=false description="true" cust="none" style="h3" block=true />}}
-{{< /expand >}}
+{{< /expand >}} -->
 
 ---
 
 #### Here are some suggestions!
 
-- [Lore](/lore/) for steps uncovering secrets already found!
-- [CaseBook](/casebook/) contains notes and observations found during investigations
-- [Map](/map) for an interactive map to see where all the go to places are and info on that location.
+<div class="expand-li">
+{{< button "/lore/" "Lore" >}} for steps uncovering secrets already found!
+</div>
+
+
+<div class="expand-li">
+{{< button "/casebook/" "CaseBook" >}} contains notes and observations found during investigations
+</div>
+
+<div class="expand-li">
+{{< button "/pap/" "Map" >}} for an interactive map to see where all the go to places are and info on that location.
+</div>
 
 {{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)

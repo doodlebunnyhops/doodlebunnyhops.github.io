@@ -7,13 +7,39 @@ images:
 - images/bh/collage.png
 ---
 
+This is a walkthrough guide for Brookhaven's Lore. While each quest can be completed in no particular order, the requirements for tools, special tools, and, in some cases, another quest will be listed. 
+
+Check the Lore Menu, either on your left or on top, for walkthrough guides.
+
+**Menu View:**
+{{< tabs "tabsId" >}}
+
+{{< tab "Left">}}
+If your screen size is big enough, the menu will show automatically on the left.
+
+Each of the sub-pages, Tools, Special Tools, and Quests will direct you to that sub-page.
+{{< zoom id="zoom-default" src="/images/bh/left-side-lore-menu.jpg" alt="View of Lore Menu on the Left of screen" >}}
+{{< /tab >}}
+
+{{< tab "Top">}}
+If your screen size is smaller, you will see the menu as a bar on top like this.
+
+Note you see to hamburger menus. The one with the red arrow is the menu for the section you are in, Lore. The top menu is considered the Home Menu.
+{{< zoom id="zoom-default" src="/images/bh/top-lore-menu-arrow.jpg" alt="View of Lore Menu on the Top of screen" >}}
+{{< /tab >}}
+
+{{< tab "Top Expanded">}}
+The expanded top lore menu looks just like it would if seen on the left of your screen.
+{{< zoom id="zoom-default" src="/images/bh/top-lore-menu-expanded.jpg" alt="View of Lore Menu on the Top of screen" >}}
+{{< /tab >}}
+{{< /tabs >}}
 
 
 ### What is the Lore of Brookhaven RP?
 
-We started out with a few hints around the Town of Brookhaven. A movie clip, some notes, a strange experimentation room above the hospital. But what does it all mean?
+Mr. Brookhaven found a strange glowing pyramid years ago before he developed what we now know as The Town of Brookhaven. But now, Mr. Brookhaven is on the run and trying to slow the Agency from using it out of greed! 
 
-We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
+As players in the game, we find notes and secrets from both sides, but what is the Agency trying to use this unknown power for? 
 
 
 {{< expand "Table Of Contents" >}} 
