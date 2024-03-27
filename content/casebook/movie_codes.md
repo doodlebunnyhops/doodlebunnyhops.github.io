@@ -30,7 +30,7 @@ Note that switch **3** is missing... do we need to find it?
 **Steps:**
 
 1. Unlock hidden Movie Codes.
-    1. Go to the Agency Switch Board, also known as [Bunker Switch Board](../../terminology/words#bunker-switch-board) inside of the [Agency Bunker](/map/poi/agency-bunker/).
+    1. Go to the Agency Switch Board, also known as [Bunker Switch Board](../../terminology#bunker-switch-board) inside of the [Agency Bunker](/map/poi/agency-bunker/).
     2. To turn on a switch just click it and it will turn yellow when it's on. Picture above shows each switch is currently off.
 1. Each _hidden_ movie code can now be found. Currently there are 3 hidden by the switch, and 1 that is always visible. Click or scroll down to see where to find each movie code.
     - [Police State](#police-station-code): Hidden by Switch 2
@@ -149,7 +149,7 @@ This movie is what will be playing in the theater when a new server is started, 
 <hr style="background-color: #28b44c" size=8>
 
 ## Special Lights
-You will notice that after watching a movie clip, that some dots on the Agency [Bunker Board ](../../terminology/words#bunker-board)will turn green.
+You will notice that after watching a movie clip, that some dots on the Agency [Bunker Board ](../../terminology#bunker-board)will turn green.
 
 There is one action that is not movie related so it may seem other things can turn these lights on but have yet to be discovered.
 
