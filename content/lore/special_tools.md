@@ -23,7 +23,7 @@ These special items/tasks are needed for other quests.
 
 **Steps:**
 
-1. Go to [X-ray Hideout](../../terminology/words#x-ray-hideout)
+1. Go to [X-ray Hideout](../../terminology#x-ray-hideout)
 	1. Press on the white stack of papers
 	2. Message Board in Agency Bunker now says:
 	
