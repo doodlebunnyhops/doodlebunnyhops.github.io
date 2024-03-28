@@ -2,9 +2,10 @@
 title: "Lore"
 weight: 1
 description: "Walkthrough guide to unlocking all the currently known secrets and mysteries found in Brookhaven RP."
-image: images/bh/collage.png
+image: images/bh/bloomin_energy_pyramid_fireplace4.jpg
 images: 
 - images/bh/collage.png
+- images/bh/agency_greed_desk_1_button.jpg
 ---
 
 
@@ -16,9 +17,13 @@ We started out with a few hints around the Town of Brookhaven. A movie clip, som
 We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 
-{{< expand "Table Of Contents" >}} 
+{{< button "./quests/" "Get Started!" "mb-1" >}}
+
+---
+
+{{< expand default="Table Of Contents" icon="&#9776;" >}} 
 {{< children depth=5 sort="Weight"/>}}
-{{< /expand >}}
+{{< /expand >}} 
 
 <hr style="background-color: #28b44c" size=8>
 

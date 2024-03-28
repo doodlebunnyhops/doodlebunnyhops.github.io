@@ -11,8 +11,7 @@ toc: false
 # draft: false
 --- 
 
-
-This is an interactive map showing points of interest in the Town of Brookhaven. 
+This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location. 
 
 {{< tip >}}
 You can click them to find out more details about that location!.

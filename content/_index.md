@@ -24,21 +24,12 @@ This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.
 
 ---
 
-## Not sure where to get started?
+## Things to see in this site!
 
-Checkout Our table of contents!
 
-{{< expand "Table Of Contents" >}} 
-{{< children sort="Weight" showhidden=false description="true" cust="none" style="h3" block=true />}}
-{{< /expand >}}
-
----
-
-#### Here are some suggestions!
-
-- [Lore](/lore/) for steps uncovering secrets already found!
-- [CaseBook](/casebook/) contains notes and observations found during investigations
-- [Map](/map) for an interactive map to see where all the go to places are and info on that location.
+<div class="expand-content" style="display: block;">
+{{< children sort="Weight" showhidden=false description="true" cust="expand-li" style="h2" block=true img=true />}}
+</div>
 
 {{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)
