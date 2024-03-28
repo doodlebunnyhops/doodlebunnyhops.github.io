@@ -58,7 +58,7 @@
 					{{- if $.img }}
 						{{- if .Params.Image }}
 							<div class="image-container">
-								<a href="{{ .Permalink }}" ><img src="{{ .Params.Image}}" alt="Picture of {{ .Title }} page" loading="lazy" >
+								<a href="{{ .RelPermalink }}" ><img src="{{ .Params.Image}}" alt="Picture of {{ .Title }} page" loading="lazy" >
 							<div class="overlay-text">
 								&#x2B62; {{ .Title }}
 							</div></a></div>

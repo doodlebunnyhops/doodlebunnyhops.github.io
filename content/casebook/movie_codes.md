@@ -12,7 +12,7 @@ images:
 Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are **locked** until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.
 
 
-![Bloomindaisy watching the movie First Contact](/images/bh/watching_movie.jpg)
+{{< zoom id="zoom-default" src="/images/bh/watching_movie.jpg" alt="Bloomindaisy watching the movie First Contact" >}}
 
 {{< tip >}}
 Note that movie codes change every server you are on! Any listed here are for examples only and may not work for you! Follow along to see how to find the movie codes.
@@ -22,7 +22,7 @@ Note that movie codes change every server you are on! Any listed here are for ex
 
 ## How to Find Movie Codes
 
-![Agency Switch Board](/images/bh/agency_switch_board_200.jpg)
+{{< zoom id="zoom-default" src="/images/bh/agency_switch_board_200.jpg" alt="Agency Switch Board" >}}
 {{< tip >}}
 Note that switch **3** is missing... do we need to find it?
 {{< /tip >}}
@@ -40,17 +40,11 @@ Note that switch **3** is missing... do we need to find it?
 
         Example of what a movie code on a reel looks like: 
 {{< column "grid-2" >}}
-![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
+{{< zoom id="zoom-default" src="/images/bh/eagle-view-arch-code-inside.png" alt="Eagle View Arch Movie Reel" >}}
 {{< /column >}}
-1. Once you have found a movie code, you can play the movie at the mall.
-    - Inside the [mall](/map/poi/mall/) to the right is the movie theater.
-    - As you're going into the movie theater section, you should see a door on your left, and in that room you can click on the movie projector to put in the code you found.
-{{< column "grid-2" >}}
-![Put Movie Code into Projector](/images/bh/input_movie_code.jpg)
-![New movie is playing through view window](/images/bh/movie_theater.jpg)
-{{< /column >}}
-
-
+    {{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+    {{< /tip >}}
 
 
 
@@ -67,13 +61,17 @@ Note that switch **3** is missing... do we need to find it?
 
 **Steps:**
 
-1. In the Police Station go up the ladder in the lobby halfway - there’s a room with a code inside. Example: 69452
-1. Use this code in the Movie Theater to watch it
+1. In the Police Station go up the ladder in the lobby halfway - there’s a room with a code inside. 
+1. Use the code you find at the Movie Theater to watch it.
 
 {{< column "grid-2" >}}
-![Police Station Movie Reel Ladder to reel](/images/bh/movie_police.jpg)
-![Police Station Movie Reel](/images/bh/movie_poice_code.jpg)
+{{< zoom id="zoom-default" src="/images/bh/movie_police.jpg" alt="Police Station Movie Reel Ladder to reel" >}}
+{{< zoom id="zoom-default" src="/images/bh/movie_poice_code.jpg" alt="Police Station Movie Reel" >}}
 {{< /column >}}
+
+{{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{< /tip >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -88,12 +86,16 @@ Note that switch **3** is missing... do we need to find it?
 
 **Steps:**
 
-1. Inside of the Abandoned House under a Receded Window in what looks like a black box, there is a code inside. Example: 78522
-1. Use this code in the Movie Theater to watch 
+1. Inside of the Abandoned House under a Receded Window in what looks like a black box, there is a code inside. 
+1. Use the code you find at the Movie Theater to watch it.
 
 {{< column "grid-2" >}}
-![Abandoned House Movie Reel Location](/images/bh/movie_abanoned_house_code.jpg)
+{{< zoom id="zoom-default" src="/images/bh/movie_abanoned_house_code.jpg" alt="Abandoned House Movie Reel Location" >}}
 {{< /column >}}
+
+{{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{< /tip >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -109,12 +111,16 @@ Note that switch **3** is missing... do we need to find it?
 **Steps:**
 
 1. Go to the Arch by Eagle View, when facing the Abandoned House it’s on the Left Hand Side, there will be a fall through floor. There is a code underground.
-1. Use this code in the Movie Theater to watch : Example: 27542
+1. Use the code you find at the Movie Theater to watch it. 
 
 {{< column "grid-2" >}}
-![Eagle View Arch Location](/images/bh/movie_arch_location.jpg)
-![Eagle View Arch Movie Reel](/images/bh/movie_arch_code.jpg)
+{{< zoom id="zoom-default" src="/images/bh/movie_arch_location.jpg" alt="Eagle View Arch Location" >}}
+{{< zoom id="zoom-default" src="/images/bh/movie_arch_code.jpg" alt="Eagle View Arch Movie Reel" >}}
 {{< /column >}}
+
+{{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{< /tip >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -136,9 +142,12 @@ This movie is what will be playing in the theater when a new server is started, 
 1. In the movie theater where you can purchase popcorn, look under the monitor and you should see a 5 digit movie code.
 
 {{< column "grid-2" >}}
-![Movie Theater Reel Location](/images/bh/movie_code.jpg)
+{{< zoom id="zoom-default" src="/images/bh/movie_code.jpg" alt="Movie Theater Reel Location" >}}
 {{< /column >}}
 
+{{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{< /tip >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -148,12 +157,29 @@ This movie is what will be playing in the theater when a new server is started, 
 
 <hr style="background-color: #28b44c" size=8>
 
+## How to use a Movie Code
+
+
+1. Once you have found a movie code, you can play the movie at the mall.
+    - Inside the [mall](/map/poi/mall/) to the right is the movie theater.
+    - As you're going into the movie theater section, you should see a door on your left, and in that room you can click on the movie projector to put in the code you found.
+{{< column "grid-2" >}}
+{{< zoom id="zoom-default" src="/images/bh/input_movie_code.jpg" alt="Put Movie Code into Projector" >}}
+{{< zoom id="zoom-default" src="/images/bh/movie_theater.jpg" alt="New movie is playing through view window" >}}
+{{< /column >}}
+
+{{< tip "alert" >}}
+**NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{< /tip >}}
+
+<hr style="background-color: #28b44c" size=8>
+
 ## Special Lights
 You will notice that after watching a movie clip, that some dots on the Agency [Bunker Board ](../../terminology#bunker-board)will turn green.
 
 There is one action that is not movie related so it may seem other things can turn these lights on but have yet to be discovered.
 
-![Agency Bunker Message Panel](/images/bh/bunker_message_panel.jpg)
+{{< zoom id="zoom-default" src="/images/bh/bunker_message_panel.jpg" alt="Agency Bunker Message Panel" >}}
 
 From left to right we know the following triggers:
 
