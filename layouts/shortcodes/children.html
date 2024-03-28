@@ -5,6 +5,7 @@
 {{- $sortTerm :=  .Get "sort" | default "Weight" }}
 {{- $custStyle := .Get "cust" | default "disclosure-closed" }}
 {{- $block := .Get "block" | default false }}
+{{- $img := .Get "img" | default false }}
 
 {{- .Scratch.Set "current" .Page }}
 
@@ -24,17 +25,17 @@
     {{- end}}
     {{- $pages := (.Scratch.Get "pages") }}
 	{{- if eq $sortTerm "Weight"}}
-		{{- template "childs" dict "menu" $pages.ByWeight "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages.ByWeight "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- else if eq $sortTerm "Name"}}
-		{{- template "childs" dict "menu" $pages.ByTitle "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages.ByTitle "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- else if eq $sortTerm "PublishDate"}}
-		{{- template "childs" dict "menu" $pages.ByPublishDate "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages.ByPublishDate "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- else if eq $sortTerm "Date"}}
-		{{- template "childs" dict "menu" $pages.ByDate "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages.ByDate "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- else if eq $sortTerm "Length"}}
-		{{- template "childs" dict "menu" $pages.ByLength "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages.ByLength "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- else}}
-		{{- template "childs" dict "menu" $pages "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block }}
+		{{- template "childs" dict "menu" $pages "style" $style "showhidden" $showhidden "count" 1 "depth" $depth "pages" .Site.Pages "description" $withDescription "sortTerm" $sortTerm "custStyle" $custStyle "block" $block "img" $img}}
 	{{- end}}
 	</ul>
 
@@ -54,7 +55,19 @@
 				{{- $numn := add $num $.count }}
 
 				{{- (printf "<h%s>" $numn)|safeHTML }}
-				<a href="{{ .RelPermalink }}" >{{ .Title }}</a>
+					{{- if $.img }}
+						{{- if .Params.Image }}
+							<div class="image-container">
+								<a href="{{ .Permalink }}" ><img src="{{ .Params.Image}}" alt="Picture of {{ .Title }} page" loading="lazy" >
+							<div class="overlay-text">
+								&#x2B62; {{ .Title }}
+							</div></a></div>
+						{{- else }}
+						<a href="{{ .RelPermalink }}" class="button" >&#x2B62; {{ .Title }}</a>
+						{{- end }}
+					{{- else }}
+						<a href="{{ .RelPermalink }}" >{{ .Title }}</a>
+					{{- end }}
 				{{- (printf "</h%s>" $numn)|safeHTML}}
 
 			{{- else}}
@@ -93,17 +106,17 @@
 
 				{{- $pages := (.Scratch.Get "pages") }}
 				{{- if eq $.sortTerm "Weight"}}
-					{{- template "childs" dict "menu" $pages.ByWeight  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages.ByWeight  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- else if eq $.sortTerm "Name"}}
-					{{- template "childs" dict "menu" $pages.ByTitle  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages.ByTitle  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- else if eq $.sortTerm "PublishDate"}}
-					{{- template "childs" dict "menu" $pages.ByPublishDate  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages.ByPublishDate  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- else if eq $.sortTerm "Date"}}
-					{{- template "childs" dict "menu" $pages.ByDate  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages.ByDate  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- else if eq $.sortTerm "Length"}}
-					{{- template "childs" dict "menu" $pages.ByLength  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages.ByLength  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- else}}
-					{{- template "childs" dict "menu" $pages  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block }}
+					{{- template "childs" dict "menu" $pages  "style" $.style "showhidden" $.showhidden "count" (add $.count 1) "depth" $.depth "pages" $.pages "description" $.description "sortTerm" $.sortTerm "custStyle" $.custStyle "block" $.block "img" $.img }}
 				{{- end}}
 				{{- if eq $.style "li"}}
 				</ul>

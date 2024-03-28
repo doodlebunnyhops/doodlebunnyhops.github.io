@@ -16,6 +16,10 @@ Navigating all the places around Brookhaven can be a challenge if you don't know
 This section has broken down the map for easier traveling during your investigation. 
 
 
+{{< button "poi" "View Map" >}}
+
+---
+
 {{< expand "Table Of Contents" >}} 
 {{< children depth=5 sort="Weight"/>}}
 {{< /expand >}}
@@ -27,31 +31,26 @@ This section has broken down the map for easier traveling during your investigat
 {{< tabs "tabsId" >}}
 
 {{< tab "Points of Interest" >}}
-This map provides many locations used throughout quests
+This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location.
 
 {{< button "poi" "Points of Interest" >}}
 {{< /tab >}}
 
-{{< tab "Carbon Blocks" >}}
-See where all the Carbon Blocks are located.
+{{< tab "More to Come!" >}}
 
 {{< tip "warning" >}}
-Coming soon
-{{< /tip >}}
-
-{{< /tab >}}
-
-{{< /tabs >}}
-
-{{< tip "warning" >}}
-More map types to come!
-
 Coming soon: 
 
 - Carbon Block Locations
 - Crystal Locations
 - Dove Locations
 {{< /tip >}}
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
+<hr style="background-color: #28b44c" size=8>
 
 ## Using these Maps
 

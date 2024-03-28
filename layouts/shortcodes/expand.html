@@ -9,9 +9,14 @@
     	{{.Get 0 | default "Expand me..."}}
     	{{end}}
     	</span>
-		<svg class="icon icon_harmburger" style="color: white;">
+    	{{ if .IsNamedParams }}
+    	{{.Get "icon" | default "" | safeHTML}}
+    	{{else}}
+    	{{.Get 1 | default "" | safeHTML }}
+    	{{end}}
+		{{/*  <svg class="icon icon_harmburger" style="color: white;">
 			<use href="#harmburger"></use>
-		  </svg>
+		  </svg>  */}}
     </div>
     <div class="expand-content">
 {{- .Inner | safeHTML}}

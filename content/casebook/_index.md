@@ -3,7 +3,7 @@ title: "CaseBook"
 weight: 2
 date: 2024-01-02
 description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."
-image: bh/collage.png
+image: images/bh/collage.png
 images: 
 - images/bh/collage.png
 - images/bh/follow_the_book_comp_message.png
@@ -16,7 +16,7 @@ Tags: ["notes","observations"]
 
 Notes and observations found during investigations.
 
-{{< expand "Table Of Contents" >}} 
+{{< expand default="Explore Files" icon="&#128188;" >}} 
 {{< children depth=2 sort="Weight" />}}
 {{< /expand >}}
 

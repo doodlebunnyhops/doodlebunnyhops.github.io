@@ -8,7 +8,7 @@ image: bh/collage.png
 ---
 
 
-Ahh yes, here is the heart of our investigation. These are quests that have led us to find/unlock more clues or secrets the town of Brookhaven holds.
+This is a walkthrough of quests that have led us to find/unlock more clues or secrets the town of Brookhaven holds.
 
 Sometimes tools, special tools, or other quests are required to complete a quest and will be listed in the `requirements` section.
 
