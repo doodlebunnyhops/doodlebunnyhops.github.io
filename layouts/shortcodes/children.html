@@ -57,13 +57,27 @@
 				{{- (printf "<h%s>" $numn)|safeHTML }}
 					{{- if $.img }}
 						{{- if .Params.Image }}
+							{{- $image_type_arr := split .Params.Image "." }}
+							{{- $image_ext := index $image_type_arr 1 }}
+
+							{{- if eq $image_ext "svg" }}
+
+							<div class="image-container">
+								<a href="{{ .RelPermalink }}" ><img src="{{ .Params.Image}}" alt="Picture of {{ .Title }} page" loading="lazy" style="width: 100%;">
+							<div class="overlay-text">
+								<i class="fa-solid fa-arrow-right"></i> {{ .Title }}
+							</div></a></div>
+
+							{{- else }}
+
 							<div class="image-container">
 								<a href="{{ .RelPermalink }}" ><img src="{{ .Params.Image}}" alt="Picture of {{ .Title }} page" loading="lazy" >
 							<div class="overlay-text">
-								&#x2B62; {{ .Title }}
+								<i class="fa-solid fa-arrow-right"></i> {{ .Title }}
 							</div></a></div>
+							{{- end }}
 						{{- else }}
-						<a href="{{ .RelPermalink }}" class="button" >&#x2B62; {{ .Title }}</a>
+						<a href="{{ .RelPermalink }}" class="button" ><i class="fa-solid fa-arrow-right"></i> {{ .Title }}</a>
 						{{- end }}
 					{{- else }}
 						<a href="{{ .RelPermalink }}" >{{ .Title }}</a>
