@@ -23,8 +23,9 @@ It's also recommended to have the following in your inventory at some point:
 
 ## Connect Laptop
 
-Connecting the laptop to.... _who_ we aren't exactly sure. Pretty positive it's connecting to the **agency**.
-We do this because sometimes the laptop will give us messages, hints/tips along the way.
+Connecting the laptop will allow you to see important messages from The Agency and Mr. Brookhaven throughout quests and casebook items. 
+
+Interestingly, on connecting, the [Agency Light Panel](/casebook/light_panel/#a05) message shows the Arch Main Power has been inverted, but why?
 
 {{< liteyoutube videoid="6b_tvg4R4YA" >}}
 
