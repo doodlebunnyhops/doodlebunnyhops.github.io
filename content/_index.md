@@ -14,6 +14,19 @@ Tags: ["Secrets and Mysteries","Lore","Detective"]
 
 # Can you solve the **Mystery** of Brookhaven?
 
+![image of Daisy Approved message the mystery has been solved, APRIL FOOLS!](/images/blog/mystery_solved_tp.png)
+
+{{< tip "alert" >}}
+<sub>UPDATE: April 1st, 2024</sub>
+
+**In an unexpected turn of events it seems there was a secret in the last update and someone has found it in the school leading to finding Mr. Brookhaven!**
+{{< /tip >}}
+
+<sub style="font-size:5px">🤫 April fools 🤭</sub>
+
+<hr style="background-color: #28b44c" size=8>
+
+
 This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
 
@@ -52,5 +65,4 @@ Want to connect? Checkout my twitter and reddit
     <img src="images/Reddit_Mark_OnWhite@2x.png" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
 </picture>				
 </a>
-
 
