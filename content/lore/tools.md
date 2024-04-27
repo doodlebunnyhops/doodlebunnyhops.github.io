@@ -94,6 +94,11 @@ If you did not teleport, check that you have the crystal in your inventory and t
 - The crystal in the blue apartment (penthouse game-pass) can also be clicked but does not unlock the button on top of the Church Roof.
 {{< /tip >}}
 
+{{< tip >}}
+
+Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, `chess piece #2` specifically for calling out better verbiage for connect laptop!
+
+{{< /tip >}}
 
 <hr style="background-color: #28b44c" size=8>
 

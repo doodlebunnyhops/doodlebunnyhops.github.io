@@ -39,7 +39,9 @@ But what does the steam mean, and why does it only happen when Monoliths appear?
 	1. When steam stops and the floor flashes black, a new monolith has spawned.
 
 {{< tip >}}
-Thank you to the [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community for helping me get the proper steps here!
+
+Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, PhD_socrates specifically for sharing my steps were a little off :D
+
 {{< /tip >}}
 
 

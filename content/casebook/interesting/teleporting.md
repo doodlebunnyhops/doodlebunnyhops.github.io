@@ -37,6 +37,7 @@ Darzeth’s Youtube vid for better idea of where to stand:
 ## Quantum Room Teleport Spots
 Whenever you teleport out of the Quantum Room, you usually get teleported by the Yacht. Sometimes that is not the case...
 
+---
 
 ### Paradise Falls
 
@@ -48,6 +49,8 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 1. After completing Find 7 Crystals with your hand glowing.
 1. Head to quantum room and then leave.
 1. You possibly could teleport to Paradise Falls.
+
+---
 
 ### Portal Entrance
 
