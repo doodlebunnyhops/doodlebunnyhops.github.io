@@ -8,31 +8,31 @@
 #   weight = 4
 #   url = "blog/"
 
-#[[main]]
-#  name = "Lore"
-#  weight = 1
-#  url = "lore/"
-#[[main]]
-#  name = "CaseBook"
-#  weight = 2
-#  url = "casebook/"
-#[[main]]
-#  name = "Map"
-#  weight = 3
-#  url = "map/"
-#[[main]]
-#  name = "Terminology"
-#  weight = 4
-#  url = "terminology"
-#[[main]]
-#  name = "Blog"
-#  weight = 5
-#  url = "blog/"
-#[[main]]
-#  name = "Contribute"
-#  weight = 6
-#  url = "contribute/"
-#[[main]]
-#  name = "About"
-#  weight = 7
-#  url = "about/"
+[[main]]
+  name = "Lore"
+  weight = 1
+  url = "lore/"
+[[main]]
+  name = "CaseBook"
+  weight = 2
+  url = "casebook/"
+[[main]]
+  name = "Map"
+  weight = 3
+  url = "map/"
+[[main]]
+  name = "Terminology"
+  weight = 4
+  url = "terminology"
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"
+[[main]]
+  name = "Contribute"
+  weight = 6
+  url = "contribute/"
+[[main]]
+  name = "About"
+  weight = 7
+  url = "about/"
