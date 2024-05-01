@@ -12,12 +12,45 @@ Tags: ["Secrets and Mysteries","Lore","Detective"]
 ---
 
 
-UPDATE: 05/01/2024
+# Can you solve the **Mystery** of Brookhaven?
 
-Here’s the deal BH Secrets and Mystery Discord Community… _I will **not** tolerate bullying_. The vibe has been really back and forth in recent months and my patience to continue working on the website is really spread thin when others attack members who are genuinely invested. 
+This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
-Will the docs and website come back? Yes, once I see that the group is actually working together and not against one another.
 
-💔BloominDaisy
+
+
+> Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
+
+
+---
+
+## Things to see in this site!
+
+
+<div class="expand-content" style="display: block;">
+{{< children sort="Weight" showhidden=false description="true" cust="expand-li" style="h2" block=true img=true />}}
+</div>
+
+{{< column >}}
+![Portal Thumbnail](/images/thumbnails/portal_update.png)
+{{< /column >}}
+
+---
+
+Want to connect? Checkout my twitter and reddit
+
+
+<a class="nav-link" href="https://x.com/SolveBHMystery" target="_blank" rel="noopener" >
+<picture data-lit="images/XMarkLight.svg" data-dark="images/XMarkDark.svg">
+    <img src="images/XMarkLight.svg" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
+</picture>				
+</a>
+
+
+<a class="nav-link" href="https://www.reddit.com/r/BrookhavenRPSecrets/" target="_blank" rel="noopener" > 
+<picture data-lit="images/Reddit_Mark_OnWhite@2x.png" data-dark="images/Reddit_Mark_OnWhite@2x.png">
+    <img src="images/Reddit_Mark_OnWhite@2x.png" alt="GitHub Repo" loading="lazy" height="50" width="50"> 
+</picture>				
+</a>
 
 
