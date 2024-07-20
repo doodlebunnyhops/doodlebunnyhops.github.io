@@ -9,7 +9,7 @@ description: "Brookhaven Update: Lots of new pets have been added to props in ad
 draft: false
 ---
 
-Missing the need to fill your home with pets? Now you can! With 34 new props AND we can color customize the majoirty of props.
+Missing the need to fill your home with pets? Now you can! With 34 new props AND we can color customize the majority of props.
 
 ---
 
