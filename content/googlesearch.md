@@ -1,7 +1,7 @@
 ---
-title: Search
+title: Google Search
 authorbox: false
 sidebar: false
 pager: false
-type: search
+type: googlesearch
 ---

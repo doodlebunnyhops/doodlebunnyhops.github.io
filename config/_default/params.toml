@@ -24,15 +24,7 @@ enableCopyright = false
 numberOfTagsShown = 14
 otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
-# search
-[search]
-on = true
-global = true # turn to `true` to enable global search
-[search.algolia]
-enable = false # if false search will default to fusejs
-id = "none" # Application ID
-index = "none" # Index name
-key = "none" # Search-Only API Key
+enableSearch = false
 
 # Site logo
 [logo]

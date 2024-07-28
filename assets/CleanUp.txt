@@ -1,0 +1,8 @@
+^Cashley@bh:~/test-site/doodlebunnyhops.github.io $ hugo server  --bind "0.0.0.0" --baseURL=http://bh.local/ --disableFastRender --logLevel debug
+
+INFO  deprecated: resources.ToCSS was deprecated in Hugo v0.128.0 and will be removed in a future release. Use css.SASS.
+INFO  deprecated: PageSize was deprecated in Hugo v0.128.0 and will be removed in a future release. Use PagerSize instead.
+
+WARN  deprecated: data.GetCSV was deprecated in Hugo v0.123.0 and will be removed in a future release. use resources.Get or resources.GetRemote with transform.Unmarshal.
+
+INFO  deprecated: .Site.Author was deprecated in Hugo v0.124.0 and will be removed in a future release. Use taxonomies instead.

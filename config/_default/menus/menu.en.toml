@@ -29,10 +29,14 @@
   weight = 5
   url = "blog/"
 [[main]]
-  name = "Contribute"
+  name = "Search Site"
   weight = 6
+  url = "googlesearch/"
+[[main]]
+  name = "Contribute"
+  weight = 7
   url = "contribute/"
 [[main]]
   name = "About"
-  weight = 7
+  weight = 8
   url = "about/"
