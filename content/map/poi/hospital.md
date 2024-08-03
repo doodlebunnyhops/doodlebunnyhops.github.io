@@ -3,7 +3,7 @@ title: "Hospital"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Hospital location view and related secrets"
-image: images/maps/hospital.jpg
+
 images:
 - images/maps/hospital.jpg
 Categories: ["point of interest","map"]
@@ -21,13 +21,13 @@ Brookhaven'ts esteemed Hospital has exceptional doctors and surgeons. It's also 
 
 Medical Officer Avid once worked at the Experimentation Site, but after seeing the Agency's practices, he resigned. The site is above the hospital, and you can get inside through a broken window outside or a broken wall in the hospital's main lobby.
 
-{{< column "grid-2" >}}
+
 {{< zoom id="zoom-default" src="/images/maps/experimentation_site.jpg" alt="Inside Experimentation Site with the Agency Logo on the wall and 2 chairs with the word Experimental written above them" >}}
 
 {{< zoom id="zoom-default" src="/images/maps/experimentation_site2.jpg" alt="Inside Experimentation Site with furniture turned over, rusted dirty walls, and a broken window where you can come in." >}}
 
 {{< zoom id="zoom-default" src="/images/maps/experimentation_site3.jpg" alt="Inside Observation room at Experimentation Site. We see a green body in a capsule and agency folder" >}}
-{{< /column >}}
+
 
 
 <hr style="background-color: #28b44c" size=8>

@@ -18,9 +18,9 @@ There are 2 message boards in the quantum room. The first is always present, and
 ## Room Activated
 _But why does the room need to be activated?_
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [H06](/casebook/light_panel#h06) Plat Quantum saved
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -37,9 +37,9 @@ _But why does the room need to be activated?_
 ## Backdoor Camera Slot Found
 _What computer are we connected to?_
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -55,9 +55,9 @@ _What computer are we connected to?_
 ## Algorithm Generated
 _Is this related to the code we see in the Experimentation Site above the hospital?_
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -74,9 +74,9 @@ _Is this related to the code we see in the Experimentation Site above the hospit
 ## Carbon Burn Commencing
 _Carbon Blocks have appeared..._
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Steps 1-3 of [Destroy Carbon Blocks](/lore/quests#destroy-carbon-blocks)
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -92,9 +92,9 @@ _Carbon Blocks have appeared..._
 ## Power Online
 _Power the Quantum Room_
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Part of [Destroy Carbon Blocks](../../../lore/quests#destroy-carbon-blocks) quest, steps below.
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -117,9 +117,9 @@ _Power the Quantum Room_
 ## First Messages
 Before any secrets are done these are the first messages you will see rotating periodically in the Quantum Room.
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**

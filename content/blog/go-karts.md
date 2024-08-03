@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2024-07-08
 title: "GoKarts and Vehicle Props"
-image: https://tr.rbxcdn.com/ba49a4ba1506523895e2ead36d322edc/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/ba49a4ba1506523895e2ead36d322edc/768/432/Image/Png
 description: "Brookhaven Update: Several new go karts and prop placement on owned vehicles"
 draft: false
 ---

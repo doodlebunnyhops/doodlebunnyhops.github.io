@@ -1,6 +1,0 @@
-{{- $image := .Get 0 }}
-{{- $alt := .Get 1 }}
-{{- $imagePath := absURL (printf "images/%s" $image) }}
-<picture data-lit="{{ $imagePath }}" data-dark="{{ $imagePath }}">
-  <img src="{{ $imagePath }}" alt="{{ $alt }}">
-</picture>

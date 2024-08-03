@@ -3,7 +3,7 @@ title: "Agency Bunker"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Agency Bunker location and related details"
-image: images/maps/agency_bunker_inside.jpg
+
 images:
 - images/maps/agency_bunker_inside.jpg
 - images/maps/agency_bunker.jpg
@@ -14,7 +14,7 @@ draft: false
 
 The Agency Bunker is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. Who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
 
-{{< column "grid-2" >}}
+
 
 {{< zoom id="zoom-default" src="/images/maps/agency_bunker.jpg" alt="Agency Bunker Entrance" >}}
 
@@ -23,7 +23,7 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 {{< zoom id="zoom-default" src="/images/maps/agency_logo.jpg" alt="Agency Logo found in Agency Bunker" >}}
 
 
-{{< /column >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 

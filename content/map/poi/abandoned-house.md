@@ -3,7 +3,7 @@ title: "Abandoned House"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Abandoned House location and related details"
-image: images/maps/abandoned_house.jpg
+
 images:
 - images/maps/abandoned_house.jpg
 Categories: ["point of interest","map"]

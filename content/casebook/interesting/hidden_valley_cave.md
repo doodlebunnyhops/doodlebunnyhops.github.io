@@ -28,18 +28,18 @@ Confirming, not only are we going to see a secret update in the future, but this
 
 ### Getting to Secret Cave
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to the Hidden Valley Plot.
 1. There will be a small access into the mountain in the back left side. 
 1. Walk a little ways to the right and you will come across a Rock Door that will open when you approach it
 
-{{< tip >}}
+{{% notice style="tip" %}}
 You can also access this area from Paradise Falls
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -52,9 +52,9 @@ I took a timelapse to see what time the light appears and how it moves, checkout
 Notice how at one point it looks like a flag, and then morphs into a triangle, as if it's trying to point us to something. What do you think the secret will be?
 
 {{< expand default="Timelines" icon="🕘" >}} 
-{{< column "grid-2" >}}
 
-{{< column >}}
+
+
 **Day**
 
 Light Appears: 9:10am
@@ -69,9 +69,9 @@ Flag Shape: 1:27pm - 1:45pm
 
 Triangle: 2pm - 2:55pm
 
-{{< /column >}}
 
-{{< column >}}
+
+
 
 **Night**
 
@@ -86,8 +86,8 @@ Triangle Shape: 12:25am - 1:26am
 Flag Shape: 1:27am - 1:45am
 
 Triangle: 2am - 2:55am
-{{< /column >}}
-{{< /column >}}
+
+
 {{< /expand >}}
 
 ---
@@ -116,11 +116,11 @@ Triangle: 2am - 2:55am
 
 {{< /tabs >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, dripmus and PhD_socrates specifically for calling out better times and that this also happens at night!
 
-{{< /tip >}}
+{{% /notice %}}
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -131,12 +131,12 @@ I noticed while taking pictures and observing times that the shape of the lighti
 
 What do you think?
 
-{{< tip >}}
+{{% notice style="tip" %}}
 You can click on an image to enlarge it.
-{{< /tip>}}
+{{% /notice %}}
 
-{{< block "post-block-dot" >}}
-{{< column "grid-4" >}}
+
+
 
 
 {{< zoom id="zoom-default" src="/images/bh/secrets-button-hidden-room-xray.jpg" alt="Secret button under a table in a room behind xray.">}}
@@ -148,5 +148,4 @@ You can click on an image to enlarge it.
 {{< zoom id="zoom-default" src="/images/bh/secrets-button-agency-bunker.jpg" alt="Secret button under table in Agency Bunker">}}
 
 {{< zoom id="zoom-default" src="/images/bh/secrets-button-farm.jpg" alt="Secret button on Post found at the Barn.">}}
-{{< /column >}}
-{{< /block >}}
+

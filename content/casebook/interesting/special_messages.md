@@ -11,9 +11,9 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 ## Contributors
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to the [Abandoned House](/map/poi/abandoned-house/)
@@ -27,9 +27,9 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 ## Memoir of Rosie, O1G's Cat
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)
@@ -44,9 +44,9 @@ What a special way to give your condolences Wolfpaq :heart: Our thoughts are wit
 
 ## Special Thanks
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to [Town Hall](/map/poi/town-hall/)
@@ -59,9 +59,9 @@ What a special way to give your condolences Wolfpaq :heart: Our thoughts are wit
 
 ## Buggstra was here
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)
@@ -75,9 +75,9 @@ What a special way to give your condolences Wolfpaq :heart: Our thoughts are wit
 
 ## Wolfpaq was here
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The Lake Madison, near the [Camp Cabin](/map/poi/camp-cabin/)

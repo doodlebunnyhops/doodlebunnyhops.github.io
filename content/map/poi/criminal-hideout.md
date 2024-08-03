@@ -3,7 +3,7 @@ title: "Criminal Hideout"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Criminal Hideout location view and related secrets"
-image: images/maps/criminal_hideout.jpg
+
 images:
 - images/maps/criminal_hideout.jpg
 Categories: ["point of interest","map"]
@@ -13,7 +13,7 @@ draft: false
 
 You will find a hidden entrance behind Starbrooks and Mail & Packages, which could be an Agency or Criminal Hideout. Once inside, you will find another trapdoor that opens when you click on the light bulb above. You will see a stash of weapons and a surveillance system—spying on the townspeople?
 
-{{< column "grid-2" >}}
+
 
 
 {{< zoom id="zoom-default" src="/images/maps/criminal_hideout.jpg" alt="Outside view of Criminal Hideout showing hidden wall that opens to get inside" >}}
@@ -24,7 +24,7 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 {{< zoom id="zoom-default" src="/images/maps/criminal_hideout_inside.jpg" alt="Inside view of Criminal Hideout showing computer parts and surveillance system" >}}
 
-{{< /column >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 

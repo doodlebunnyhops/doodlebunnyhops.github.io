@@ -4,7 +4,7 @@ weight: 1
 description: "Common tools used in Brookhaven RP Secrets and Mysteries and how to get them."
 aliases:
 - /tools
-image: images/bh/a05-complete.jpg
+
 images:
 - images/bh/a05-complete.jpg
 ---
@@ -30,13 +30,13 @@ Interestingly, on connecting, the [Agency Light Panel](/casebook/light_panel/#a0
 {{< liteyoutube videoid="6b_tvg4R4YA" >}}
 
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
 
 **Items Needed** : 
 - Laptop
 - Ladder (to get on roof of church)
-{{< /tip >}}
+{{% /notice %}}
 
 {{< tabs "tabID" >}}
 
@@ -84,7 +84,7 @@ If you did not teleport, check that you have the crystal in your inventory and t
 
 
 
-{{< tip >}}
+{{% notice style="tip" %}}
 #### Notes
 
 - Crystal by Paradise Falls appears after collecting the crystal in the attic.
@@ -92,13 +92,13 @@ If you did not teleport, check that you have the crystal in your inventory and t
 	![Paradise Falls Crystal](/images/bh/paradise-falls-crystal-2in.jpg)
 
 - The crystal in the blue apartment (penthouse game-pass) can also be clicked but does not unlock the button on top of the Church Roof.
-{{< /tip >}}
+{{% /notice %}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, `chess piece #2` specifically for calling out better verbiage for connect laptop!
 
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -107,9 +107,9 @@ Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, `chess
 While the binoculars are already available to us in inventory, it's important to note that grabbing a specific pair actually turns on one of the lights in the [Agency Light Panel](../../casebook/light_panel/).
 We don't know if this pair of binoculars are needed, but having them helps us find clues during the investigation.
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**

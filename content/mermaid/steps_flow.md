@@ -1,7 +1,7 @@
 ---
 title: "Lore Steps Visual"
 description: "A visual flow of how all the quests in Brookhaven RP come together in solving secrets and mysteries."
-image: images/bh/collage.png
+
 images: 
 - images/bh/collage.png
 hidden: true
@@ -9,13 +9,13 @@ hidden: true
 
 Want to see a better view of this diagram, check it out [here](/images/bh/mermaid-diagram-2023-05-24-083839.svg)
 
-{{< tip >}}
+{{% notice style="tip" %}}
 This is an interactive Diagram! You can click on a light number to go to its steps
 
 You can also zoom in to make it easier to see each step, don't worry zooming in doesn't lose quality... there's a lot here! 
 
 _Works best on mobile_
-{{< /tip >}}
+{{% /notice %}}
 
 {{< mermaid >}}
 flowchart LR
@@ -194,4 +194,4 @@ flowchart LR
     click A27 href "../../casebook/light_panel/#a27" "A27 Details"
 {{< /mermaid >}}
 
-{{< button "../../lore/" "Back to Lore" "mb-1" >}}
+{{% button href="../../lore/" %}}"Back to Lore"{{% /button %}}

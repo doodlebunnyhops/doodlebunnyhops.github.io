@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2024-06-07
 title: "Pets and Props"
-image: /images/blog/prop-pets.png
+images:
+- /images/blog/prop-pets.png
 images: 
 - /images/blog/prop-pets.png
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"

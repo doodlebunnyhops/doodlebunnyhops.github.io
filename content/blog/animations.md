@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2023-07-21
 title: "New Animations and more!"
-image: https://tr.rbxcdn.com/4c65b0da08b7cb59c2ef416e0fe1086b/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/4c65b0da08b7cb59c2ef416e0fe1086b/768/432/Image/Png
 description: "Brookhaven Update: New Animations"
 ---
 
@@ -21,8 +22,6 @@ New Street Sweeper Vehicle
 20 New Animations!!!
 
 A settings button that allows mobile users to _finally_ sprint! And add a baby in a car seat when you load your vehicle. :D
-
-[Pics of all the fun new things!]({{< ref "slides/update_animations" >}})
 
 Or watch a recap by Darzeth right here!
 {{< youtube "dL5yXMcnI74" >}}

@@ -7,7 +7,7 @@ tags: ["Computer Messages"]
 images: 
 - images/bh/agency_greed_comp_message.jpg
 - images/bh/follow_the_book_comp_message.png
-image: bh/agency_greed_comp_message.jpg
+
 date: 2024-01-01
 ---
 

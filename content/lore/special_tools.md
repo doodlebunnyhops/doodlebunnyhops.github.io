@@ -2,7 +2,7 @@
 title: "Special Tools"
 weight: 2
 description: "Tools not found in inventory of Brookhaven RP used in Secrets and Mysteries and how to get them."
-image: bh/collage.png
+
 ---
 
 Special tools are items that aren't in normal inventory and can only be obtained from doing specific steps or is a task to unlock something that doesn't turn on a light in the [Agency Light Panel](../../casebook/light_panel/) nor give you an item.
@@ -16,10 +16,10 @@ These special items/tasks are needed for other quests.
 
 {{< youtube "ukzcdoPx1g8" >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -44,9 +44,9 @@ This blue key card gives us access to **Brookhaven Electric**
 
 {{< youtube "nAO-DwNWq-g" >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -87,10 +87,10 @@ Blue Key Card is behind the cabinet.
 
 {{< youtube "ifqY497Y61k" >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 **Requirements** : [X01](../../casebook/light_panel#x01) Burn the Agency Folder in the Second Floor of the Hospital
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -133,9 +133,9 @@ An interesting glowing pyramid object believed to have energy within it.
 
 >**Requirements** : None
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Did you know when viewing home cams, if the church bell has never been rung, looking at the Gold Ranch view will show the bush area next to the barn. When you ring the church bells, it will move the camera for home cams to look at the stables \<- which makes it really easy to see if the Energy Pyramid has spawned there.
-{{< /tip >}}
+{{% /notice %}}
 
 <h3>Steps:</h3>
 
@@ -158,7 +158,7 @@ Did you know when viewing home cams, if the church bell has never been rung, loo
 >**Laptop Message** After the Energy Pyramid is obtained:
 >_The crystal will help you see through deception. (Mr. B)_
 
-Want more details on Energy Crystals? There's a [casebook]({{< ref "/casebook/energy_pyramids" >}})!
+Want more details on Energy Crystals? There's a [casebook](/casebook/energy_pyramids)!
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -168,10 +168,10 @@ Find the hidden password
 
 {{< youtube "Mecnd2D7cWA?t=376" >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
-**Requirements** : [Energy Pyramid]({{< ref "#energy-pyramid" >}})
-{{< /tip >}}
+**Requirements** : [Energy Pyramid](#energy-pyramid)
+{{% /notice %}}
 
 
 **Steps:**
@@ -193,11 +193,11 @@ The green card does _something_...
 
 
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
 
 **Items Needed** : Shovel
-{{< /tip >}}
+{{% /notice %}}
 
 >Note you don't need to be present to see all of the crows. So long as you are by the fence between 8:30am - 9am in game you can dig for the green card.
 

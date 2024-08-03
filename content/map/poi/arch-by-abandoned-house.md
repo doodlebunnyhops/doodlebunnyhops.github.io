@@ -3,7 +3,7 @@ title: "Arch by Abandoned House "
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Arch by Abandoned House location view and related secrets"
-image: images/maps/arch1.jpg
+
 images:
 - images/maps/arch1.jpg
 Categories: ["point of interest","map"]

@@ -9,9 +9,9 @@ description: "How to get under the fountain in Brookhaven RP at spawn."
 <hr style="background-color: #28b44c" size=8>
 
 ## How to get under fountain
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Head to the Subway Station at the Spawn.

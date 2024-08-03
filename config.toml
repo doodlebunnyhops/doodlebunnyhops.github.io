@@ -1,11 +1,13 @@
 baseURL = "https://solve.bhmystery.com/"
 title = "Brookhaven Secrets and Mysteries"
 enableRobotsTXT = true
+relativeURLs = true
 
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 #theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
- theme = ["compose","reveal-hugo"]
+# theme = ["compose","reveal-hugo"]
+theme = ["hugo-theme-relearn"]
 enableGitInfo = true
 enableEmoji = true
 canonifyURLs = true
@@ -20,7 +22,9 @@ disableKinds = ['taxonomy', 'term']
 #  filename = "content/sitemap.xml"
 
 [outputs]
-  home = ["HTML", "RSS","JSON"]
+  home = ["HTML", "RSS","search","searchpage"]
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']
   
 #[markup.goldmark.renderer]
 [markup]
@@ -37,11 +41,6 @@ isHTML = true
 
 twitter = "@SolveBHMystery"
 largeTwitterCard = true
-
-[author]
-  name = "Bloomindaisy"
-
-  numberOfTagsShown = 5
 
 [privacy]
   [privacy.disqus]
@@ -64,3 +63,14 @@ largeTwitterCard = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
+
+[params]
+  [params.imageEffects]
+    border = false
+    lazy = true
+    lightbox = true
+    shadow = false

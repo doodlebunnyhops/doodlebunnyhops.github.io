@@ -13,9 +13,9 @@ aliases:
 ## Lake Madison Camera
 _We met in secret_
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -31,9 +31,9 @@ _We met in secret_
 ## Plant RP House Book
 _The bottom of a hill..._
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**
@@ -50,9 +50,9 @@ _The bottom of a hill..._
 ## Military RP Binoculars
 _Within the green..._
  
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 
 **Steps:**

@@ -14,9 +14,9 @@ aliases:
 
 ## Crystals for Good or Bad
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Start of [Find 7 Crystals](/lore/quests/#find-7-crystals) quest.
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
