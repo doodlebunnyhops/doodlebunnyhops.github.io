@@ -12,9 +12,9 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 
 ## School Base
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Complete part of School Base](/lore/quests/#school-base)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -26,9 +26,9 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 
 ## Barn
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

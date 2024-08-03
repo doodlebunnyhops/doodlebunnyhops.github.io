@@ -2,7 +2,7 @@
 title: "Lore"
 weight: 1
 description: "Walkthrough guide to unlocking all the currently known secrets and mysteries found in Brookhaven RP."
-image: images/bh/bloomin_energy_pyramid_fireplace4.jpg
+
 images: 
 - images/bh/collage.png
 - images/bh/agency_greed_desk_1_button.jpg
@@ -17,12 +17,12 @@ We started out with a few hints around the Town of Brookhaven. A movie clip, som
 We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 
-{{< button "./quests/" "Get Started!" "mb-1" >}}
+{{% button href="./quests/" hint="Click Me" %}}Get Started!{{% /button %}}
 
 ---
 
 {{< expand default="Table Of Contents" icon="&#9776;" >}} 
-{{< children depth=5 sort="Weight"/>}}
+{{% children depth=5 sort="Weight" %}}
 {{< /expand >}} 
 
 <hr style="background-color: #28b44c" size=8>
@@ -32,16 +32,16 @@ We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools#connect-laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests/). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
 
 If you're pretty familiar or want to look at a specific thing, each tool, special tool, and quest will list requirements they have so you can easily decide where you would like to start!
-{{< tip >}}
+{{% notice style="tip" %}}
 Keep in mind, maybe there are steps we shouldn't do, though commonly the community feels all steps and lights in the [Agency Light Panel](../../casebook/light_panel/) should be done to solve the mystery.
-{{< /tip >}}
+{{% /notice %}}
 
 
-{{< button "./tools/" "Tools" "mb-1" >}}
+{{% button href="./tools/" %}}"Tools"{{% /button %}}
 
-{{< button "./special_tools/" "Special Tools" "mb-1" >}}
+{{% button href="./special_tools/" %}}"Special Tools"{{% /button %}}
 
-{{< button "./quests/" "Quests" "mb-1" >}}
+{{% button href="./quests/" %}}"Quests"{{% /button %}}
 
 
 <hr style="background-color: #28b44c" size=8>

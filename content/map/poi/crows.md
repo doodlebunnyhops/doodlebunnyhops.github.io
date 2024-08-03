@@ -3,7 +3,7 @@ title: "Crows"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Crows location view and related secrets"
-image: images/maps/crows.jpg
+
 images:
 - images/maps/crows.jpg
 Categories: ["point of interest","map"]

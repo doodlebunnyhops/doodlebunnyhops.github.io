@@ -8,7 +8,7 @@ aliases:
 - /other/how_to
 - /other/select
 - /other/submit
-image: images/git/which_issue.png
+
 images: 
 - images/git/which_issue.png
 --- 

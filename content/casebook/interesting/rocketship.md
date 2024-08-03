@@ -9,9 +9,9 @@ Unclear if this has anything to do with the Brookhaven Mystery, but it is a Fun 
 
 <hr style="background-color: #28b44c" size=8>
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

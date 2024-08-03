@@ -3,7 +3,7 @@ title: "Museum"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Museum location view and related secrets"
-image: images/maps/museum.jpg
+
 images:
 - images/maps/museum.jpg
 Categories: ["point of interest","map"]
@@ -21,12 +21,12 @@ Introduced in the Feb. 2023 Update, the Brookhaven Museum gives us a glimpse of 
 
 The museum can also be changed into a dealership or a restaurant called "The Brick." You can change the storefront by going inside and clicking which font you would like to have.
 
-{{< column "grid-3" >}}
+
 {{< zoom id="zoom-default" src="/images/maps/store-select.jpg" alt="How to change Store Front, select Dealership, Restraunt, or Museum" >}}
 {{< zoom id="zoom-default" src="/images/maps/dealership.jpg" alt="View of Dealership Store Front" >}}
 {{< zoom id="zoom-default" src="/images/maps/the-brick.jpg" alt="View of restaurant, The Brick, Store Front" >}}
 
-{{< /column >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 

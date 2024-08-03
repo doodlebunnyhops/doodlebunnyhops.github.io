@@ -3,7 +3,7 @@ title: "Brookhaven Electric"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Electric location view and related secrets"
-image: images/maps/brookhaven_electric.jpg
+
 images:
 - images/maps/brookhaven_electric.jpg
 Categories: ["point of interest","map"]

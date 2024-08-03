@@ -9,7 +9,7 @@ Every 1 hour - 4 hours in game time a monolith will spawn somewhere in Brookhave
 
 We learned that the Monolith Message Boards found outside of the Agency Bunker and behind the Future Hotel Room lead us to the Monolith's location.
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 Location and picture of each Monolith
 {{< tabs "tabsId" >}}
@@ -84,4 +84,4 @@ Code: `..(){}(){}>>>{}(){}..`
 {{< /tab >}}
 
 {{< /tabs >}}
-{{< /tip >}}
+{{% /notice %}}

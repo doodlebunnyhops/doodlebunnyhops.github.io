@@ -7,7 +7,7 @@ tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - images/bh/follow_the_book_comp_message.png
 - images/bh/useful_soldier_comp_message.jpg
-image: bh/useful_soldier_comp_message.jpg
+
 ---
 
 
@@ -15,9 +15,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Follow The Book
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -31,9 +31,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Power of The Book
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -49,9 +49,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Useful Soldier
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -65,9 +65,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Circle The Monoliths
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Monoliths](/lore/quests/#monoliths)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -81,9 +81,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## No Experimenting
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -99,9 +99,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Agency Knows What's Best
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -122,9 +122,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Money is everything!
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Part of [Agency Greed](/lore/quests/#agency-greed)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

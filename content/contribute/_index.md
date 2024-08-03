@@ -4,7 +4,7 @@ weight: 6
 description: "How to guide to submit requests to this site for Brookhaven RP Secrets and mysteries or ask questions about this site."
 aliases:
 - /other
-image: images/git/which_issue.png
+
 images: 
 - images/git/which_issue.png
 hidden: true
@@ -17,9 +17,9 @@ I'm so happy you want to assist! We have setup the site to be hosted on github s
 
 Continue on to the [website](/contribute/website/) section for more details
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Please do not submit leaks, this site only offers secrets actively in the game!
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 

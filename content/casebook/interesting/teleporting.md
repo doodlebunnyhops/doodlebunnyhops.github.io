@@ -9,9 +9,9 @@ description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
 <hr style="background-color: #28b44c" size=8>
 
 ## Hidden Valley Teleport Spot
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : 2 players
-{{< /tip >}}
+{{% /notice %}}
 
 
 {{< tabs "tabID" >}}
@@ -27,10 +27,10 @@ description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
 {{< /tab>}}
 {{< /tabs >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Darzeth’s Youtube vid for better idea of where to stand:
 {{< youtube "O4s7pI_jzW0" >}}
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -41,9 +41,9 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 
 ### Paradise Falls
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. After completing Find 7 Crystals with your hand glowing.
@@ -54,9 +54,9 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 
 ### Portal Entrance
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
-{{< /tip >}}
+{{% /notice %}}
 
 1. After completing Destroy Carbon Blocks with your hand glowing.
 1. Head to quantum room and then leave.

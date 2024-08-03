@@ -7,7 +7,7 @@ description: "Brookhaven RP content on interesting findings in the game that may
 images: 
 - images/bh/no_light_source.jpg
 - images/bh/flag.jpg
-image: bh/no_light_source.jpg
+
 tags: ["Interesting Findings"]
 ---
 

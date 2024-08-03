@@ -3,7 +3,7 @@ title: "Motel"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Hotel or Motel location view and related secrets"
-image: images/maps/motel.jpg
+
 images:
 - images/maps/motel.jpg
 Categories: ["point of interest","map"]

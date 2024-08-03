@@ -9,9 +9,9 @@ description: "Observations found in the Brookhaven RP Secrets and Mysteries. May
 
 ## Linked Electric & Water
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Refer to Quest: [Electric Building](/lore/quests/#electric-building) to access the building.
-{{< /tip >}}
+{{% /notice %}}
 
 ### Notes
 
@@ -27,9 +27,9 @@ Electricity Building and Water Pipes in Town Hall, and Camera at Madison Lake ar
 
 ## Paradise Falls Crystal
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 {{< tabs "tabID" >}}
 
@@ -49,9 +49,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 <hr style="background-color: #28b44c" size=8>
 
 ## TS LVL3 Plaque
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go inside of the Agency Bunker and then place down a Sleeping Bag in this wall to see the TS LVL3 Plaque
@@ -61,9 +61,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 <hr style="background-color: #28b44c" size=8>
 
 ## Energy Ring Panels
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -77,9 +77,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 ## Orange Button
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Green Key Card](/lore/special_tools/#green-key-card)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

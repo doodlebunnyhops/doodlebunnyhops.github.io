@@ -10,9 +10,9 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 
 ## Sync Failed
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : Laptop NOT Connected
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -28,9 +28,9 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 
 ## You’re connected!
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [Connect Laptop](/lore/tools/#connect-laptop)
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -43,9 +43,9 @@ description: "Brookhaven RP Laptop Messages found as part of Secrets and Mysteri
 
 ## Frat House
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

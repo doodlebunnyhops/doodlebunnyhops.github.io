@@ -1,7 +1,0 @@
-{{$svg := .Get 0}}
-{{ with $svg }}
-    {{ $svg := . | readFile }}
-    {{ $class_attr := `class="rectClass"` }}
-    {{ $svg = replaceRE `(<rect)\s+([^>]+?>)` (printf `${1} %s ${2}` $class_attr) $svg }}
-    {{ $svg | safeHTML }}
-{{ end }}

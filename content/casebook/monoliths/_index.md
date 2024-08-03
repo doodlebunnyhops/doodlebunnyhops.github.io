@@ -5,7 +5,7 @@ date: 2023-05-31
 description: "Monoliths appear throughout the town of Brookhaven"
 images: 
 - images/bh/monolith_main.jpg
-image: bh/monolith_main.jpg
+
 tags: ["Monolith Details"]
 ---
 
