@@ -13,13 +13,13 @@ draft: false
 
 Located on the outskirts of Brookhaven, just past the airport, this run-down house has many hidden secrets and is a pivotal place for Mr.Brookhaven.
 
-{{< zoom id="zoom-default" src="/images/maps/abandoned_house.jpg" alt="Abandoned House" >}}
+![Abandoned House](/images/maps/abandoned_house.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/abandoned-house.png" alt="Location of Abandoned House" >}}
+![Location of Abandoned House](/images/maps/abandoned-house.png)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -35,5 +35,5 @@ Located on the outskirts of Brookhaven, just past the airport, this run-down hou
 
 ### Related Quests
 
-- [Find 7 Crystals](/lore/quests/#find-7-crystals)
-- [Glowing Chair](/lore/quests/#glowing-chair)
+- [Find 7 Crystals](/lore/quests/find_7_crystals)
+- [Glowing Chair](/lore/quests/glowing_chair)

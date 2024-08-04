@@ -2,8 +2,7 @@
 author: "BloominDaisy"
 date: 2023-07-21
 title: "New Animations and more!"
-images:
-- https://tr.rbxcdn.com/4c65b0da08b7cb59c2ef416e0fe1086b/768/432/Image/Png
+imagec:  https://tr.rbxcdn.com/4c65b0da08b7cb59c2ef416e0fe1086b/768/432/Image/Png
 description: "Brookhaven Update: New Animations"
 ---
 

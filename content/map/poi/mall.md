@@ -14,16 +14,16 @@ draft: false
 
 There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot for dining, movies, fashion shows, and even the local news station! What can't you do? You can't use the bathroom here because there isn't one! tehe
 
-{{< zoom id="zoom-default" src="/images/maps/mall.jpg" alt="view of Mall" >}}
+![view of Mall](/images/maps/mall.jpg)
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/mall.png" alt="Location of Mall" >}}
+![Location of Mall](/images/maps/mall.png)
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
+![Under Construction Warning, Page not complete](/images/under_construction.png)
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

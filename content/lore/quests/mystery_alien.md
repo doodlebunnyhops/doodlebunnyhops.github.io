@@ -1,17 +1,13 @@
 ---
 title: "Mystery Alien"
 weight: 3
-description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
-aliases:
-- /quests
-
+description: "Electrocute the green man in the experimental site of the hospital."
 ---
 
 {{< youtube "Ez6vK6Ve2Wc?t=19" >}}
 
-{{% notice style="tip" %}}
-
-**Requirements** : [TS LVL 1](/lore/special_tools#ts-level-1)
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quest** : [TS LVL 1](/lore/special_tools/ts_level_1)
 
 **Items Needed** : Sleeping bag
 {{% /notice %}}
@@ -29,17 +25,16 @@ aliases:
 		1. This activates [A27](/casebook/light_panel#a27)
 		1. Laptop
 		
-			`Please do as you are told, the Agency knows what's best for you! (Agency)`
+			==Please do as you are told, the Agency knows what's best for you! (Agency)==
 		2. Bunker Message:
 		
-			`In darkness: [A27]activated`
+			==In darkness: [A27]activated==
 4. Back at Agency Experimentation Site you can now Electrocute the Alien in the Tube
 
 {{% notice style="tip" %}}
 Turning the switch off in the hidden room behind the TV Station in the mall from earlier will deactivate [A27](/casebook/light_panel#a27)!
 	
-Bunker Message:
-`See-through / (Crystal) :A27`
+Bunker Message: ==See-through / (Crystal) :A27==
 		
 {{% /notice %}}
 

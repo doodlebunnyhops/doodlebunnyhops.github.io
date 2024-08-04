@@ -15,9 +15,9 @@ Tags: ["notes","observations"]
 
 
 Notes and observations found during investigations.
+{{% icon icon="fa-solid fa-briefcase" %}}
 
-{{< expand default="Explore Files" icon="&#128188;" >}} 
-{{% children depth=2 sort="Weight"  %}}
-{{< /expand >}}
+{{% children depth=2 sort="Weight" description=true %}}
+
 
 <!-- ![Collage of notes](/images/bh/collage.png) -->

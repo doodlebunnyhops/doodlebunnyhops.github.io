@@ -2,8 +2,7 @@
 author: "BloominDaisy"
 date: 2023-07-15
 title: "Battle of the most visited!"
-images:
-- https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
+imagec:  https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
 description: "Congrats WolfPaq Brookhaven most visited experience!"
 ---
 

@@ -2,7 +2,7 @@
 title: "Mr.B"
 weight: 2
 draft: false
-description: "All Notes and how to find them that are signed by Mr. B in Brookhaven RP Secrets and Mysteries."
+description: "All Notes and how to find them that are signed as Mr. B"
 ---
 
 
@@ -13,7 +13,7 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 ## School Base
 
 {{% notice style="tip" %}}
-**Requirements** : [Complete part of School Base](/lore/quests/#school-base)
+**Requirements** : [Complete part of School Base](/lore/quests/school_base)
 {{% /notice %}}
 
 **Steps:**
@@ -27,7 +27,7 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 ## Barn
 
 {{% notice style="tip" %}}
-**Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
+**Requirements** : [Find 7 Crystals](/lore/quests/find_7_crystals)
 {{% /notice %}}
 
 **Steps:**

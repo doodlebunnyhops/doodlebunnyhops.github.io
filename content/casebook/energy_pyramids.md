@@ -9,7 +9,7 @@ images:
 ---
 
 Energy Pyramids can be found all throughout Brookhaven after triggering them to spawn. 
-It's considered a [special tool](/lore/special_tools.md#energy-pyramid) since it's not available in inventory and can only be obtained after ringing the church bell and then looking for it in one of many locations.
+It's considered a [special tool](/lore/special_tools/energy_pyramid) since it's not available in inventory and can only be obtained after ringing the church bell and then looking for it in one of many locations.
 
 Always a pair of doves will call near the energy pyramid to help guide you to the energy crystal's location. 
 

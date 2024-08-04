@@ -22,5 +22,5 @@ Here's what we _know_...
 
 ### Related Quest's involving the Museum
 
-- [Ghostly Sighting](/lore/quests/#ghostly-sighting)
-- [Glowing Chair](/lore/quests/#glowing-chair)
+- [Ghostly Sighting](/lore/quests/ghostly_sighting)
+- [Glowing Chair](/lore/quests/glowing_chair)

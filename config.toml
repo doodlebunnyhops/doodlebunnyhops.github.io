@@ -1,6 +1,5 @@
-baseURL = "https://solve.bhmystery.com/"
-title = "Brookhaven Secrets and Mysteries"
-enableRobotsTXT = true
+baseURL = "https://solve.bhmystery.com/testsite/"
+enableRobotsTXT = false
 relativeURLs = true
 
 # this example loads the theme as hugo module
@@ -11,6 +10,8 @@ theme = ["hugo-theme-relearn"]
 enableGitInfo = true
 enableEmoji = true
 canonifyURLs = true
+alwaysopen = false
+showVisitedLinks = false
 
 paginate = 40
 
@@ -24,15 +25,68 @@ disableKinds = ['taxonomy', 'term']
 [outputs]
   home = ["HTML", "RSS","search","searchpage"]
   page = ['html', 'rss', 'print']
-  section = ['html', 'rss', 'print']
+  section = ['html', 'rss']
   
-#[markup.goldmark.renderer]
 [markup]
   [markup.goldmark]
     duplicateResourceFiles = false
     [markup.goldmark.extensions]
-      #table = false
-#unsafe = false
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      [markup.goldmark.extensions.cjk]
+        eastAsianLineBreaks = false
+        eastAsianLineBreaksStyle = 'simple'
+        enable = false
+        escapedSpace = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.delete]
+          enable = false
+        [markup.goldmark.extensions.extras.insert]
+          enable = false
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+        [markup.goldmark.extensions.extras.subscript]
+          enable = false
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+      [markup.goldmark.extensions.passthrough]
+        enable = false
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = []
+          inline = []
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '&ldquo;'
+        leftSingleQuote = '&lsquo;'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '&rdquo;'
+        rightSingleQuote = '&rsquo;'
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = false
+      [markup.goldmark.renderHooks.link]
+        enableDefault = false
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
 
 [outputFormats.Reveal]
 baseName = "reveal"
@@ -66,9 +120,13 @@ largeTwitterCard = true
 
 [module]
   [[module.imports]]
-    path = 'github.com/McShelby/hugo-theme-relearn'
+    path = 'hugo-theme-relearn'
 
 [params]
+ # [params.relearn]
+  #  [params.relearn.dependencies]
+ #     [params.relearn.dependencies.uptop]
+#        name = 'Uptop'
   [params.imageEffects]
     border = false
     lazy = true

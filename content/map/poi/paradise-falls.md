@@ -13,16 +13,16 @@ draft: false
 
 Brookhaven's Paradise Falls offers beautiful scenery. Clear mountain water flows down the mountain into Madison Lake, but the waterfall has a secret behind it. Dare to adventure to see what lies in darkness.
 
-{{< zoom id="zoom-default" src="/images/maps/paradise_falls.jpg" alt="view of Paradise Falls" >}}
+![view of Paradise Falls](/images/maps/paradise_falls.jpg)
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/paradise-falls.png" alt="Location of Paradise Falls" >}}
+![Location of Paradise Falls](/images/maps/paradise-falls.png)
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
+![Under Construction Warning, Page not complete](/images/under_construction.png)
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

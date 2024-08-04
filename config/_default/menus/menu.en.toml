@@ -14,3 +14,8 @@
   name = "<i class='fa-brands fa-square-reddit'></i> Reddit"
   url = 'https://www.reddit.com/r/BrookhavenRPSecrets/'
   weight = 12
+
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"

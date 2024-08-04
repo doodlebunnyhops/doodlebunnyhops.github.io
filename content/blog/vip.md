@@ -2,8 +2,7 @@
 author: "BloominDaisy"
 date: 2024-07-26
 title: "VIP & 130 Props!"
-images:
-- https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
+imagec:  https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
 description: "Brookhaven Update: New VIP Pass and 130 more Props"
 draft: false
 ---
@@ -81,7 +80,7 @@ VIP gets an additional 5 props to place both on the map and in a house.
 
 ## Secrets
 
-It's certainly been quiet for the Lore seekers :thinking: but we know some things will be coming eventually. Like the [second book](/lore/quests/#knight-of-the-castle) and a [secret in the cave](/casebook/interesting/hidden_valley_cave/#wolfpaq-confirms) :eyes: that Wolfpaq confirmed for us previously. 
+It's certainly been quiet for the Lore seekers :thinking: but we know some things will be coming eventually. Like the [second book](/lore/quests/knight_of_the_castle) and a [secret in the cave](/casebook/interesting/hidden_valley_cave/#wolfpaq-confirms) :eyes: that Wolfpaq confirmed for us previously. 
 
 Stay tuned!
 :heart:

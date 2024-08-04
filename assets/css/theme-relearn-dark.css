@@ -1,0 +1,304 @@
+:root {
+    --PRIMARY-color: rgba( 125, 201, 3, 1 ); /* brand primary color */
+    --SECONDARY-color: rgba( 108, 140, 227, 1 ); /* brand secondary color */
+    --ACCENT-color: rgb( 255, 102, 78, 1 ); /* brand accent color, used for search highlights */
+
+    --MAIN-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of content and h1 titles */
+    --MAIN-LINK-HOVER-color: rgba( 147, 176, 255, 1 ); /* hovered link color of content */
+    --MAIN-BG-color: rgba( 32, 32, 32, 1 ); /* background color of content */
+    --MAIN-TITLES-TEXT-color: rgba( 255, 255, 255, 1 ); /* text color of h2-h6 titles and transparent box titles */
+
+    --CODE-theme: relearn-dark; /* name of the chroma stylesheet file */
+    --CODE-BLOCK-color: rgba( 248, 248, 242, 1 ); /* fallback text color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BG-color: rgba( 43, 43, 43, 1 ); /* fallback background color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BORDER-color: rgba( 71, 71, 71, 1 ); /* border color of block code */
+    --CODE-INLINE-color: rgba( 130, 229, 80, 1 ); /* text color of inline code */
+    --CODE-INLINE-BG-color: rgba( 45, 45, 45, 1 ); /* background color of inline code */
+    --CODE-INLINE-BORDER-color: rgba( 70, 70, 70, 1 ); /* border color of inline code */
+
+    --BROWSER-theme: dark; /* name of the theme for browser scrollbars of the main section */
+    --MERMAID-theme: dark; /* name of the default Mermaid theme for this variant, can be overridden in hugo.toml */
+    --OPENAPI-theme: dark; /* name of the default OpenAPI theme for this variant, can be overridden in hugo.toml */
+    --OPENAPI-CODE-theme: obsidian; /* name of the default OpenAPI code theme for this variant, can be overridden in hugo.toml */
+
+    --MENU-HOME-LINK-color: rgba( 64, 64, 64, 1 ); /* home button color if configured */
+    --MENU-HOME-LINK-HOVER-color: rgba( 0, 0, 0, 1 ); /* hovered home button color if configured */
+
+    --MENU-SEARCH-color: rgba( 224, 224, 224, 1 ); /* text and icon color of search box */
+    --MENU-SEARCH-BG-color: rgba( 50, 50, 50, 1 ); /* background color of search box */
+    --MENU-SEARCH-BORDER-color: rgba( 224, 224, 224, 1 ); /* border color of search box */
+
+    --MENU-SECTIONS-BG-color: rgba( 43, 43, 43, 1 ); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+    --MENU-SECTIONS-LINK-color: rgba( 186, 186, 186, 1 ); /* link color of menu topics */
+    --MENU-SECTIONS-LINK-HOVER-color: rgba( 255, 255, 255, 1 ); /* hovered link color of menu topics */
+    --MENU-SECTIONS-ACTIVE-BG-color: rgba( 50, 50, 50, 1 ); /* background color of the active menu section */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: rgba( 130, 229, 80, 1 ); /* text color of the displayed menu topic */
+    --MENU-SECTION-SEPARATOR-color: rgba( 96, 96, 96, 1 ); /* separator color between menu sections and menu footer */
+
+    --MENU-VISITED-color: rgba( 72, 106, 201, 1 ); /* icon color of visited menu topics if configured */
+
+    --BOX-CAPTION-color: rgba( 240, 240, 240, 1 ); /* text color of colored box titles */
+    --BOX-BG-color: rgba( 20, 20, 20, 1 ); /* background color of colored boxes */
+    --BOX-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of colored box content */
+}
+
+
+rect.rectClass {
+    stroke: red;
+    stroke-width: 4px;
+    fill: white;
+    fill-opacity: 0; }
+  
+  circle.circleClass {
+    stroke: #006600;
+    fill: #cc0000; }
+  
+  rect.rectClass:hover {
+    fill: red;
+    fill-opacity: .3; }
+  
+  .tip::before {
+    z-index: unset; }
+
+
+
+    .post {
+        margin: 0 auto;
+        width: 100%; }
+        .post p, .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post blockquote, .post ol, .post ul, .post .highlight_wrap, .post hr {
+          max-width: 840px !important;
+          margin-left: auto;
+          margin-right: auto; }
+        @media screen and (min-width: 1025px) {
+          .post img:not(.icon) {
+            display: block;
+            width: 100vw;
+            max-width: 1024px;
+            margin-left: auto;
+            margin-right: auto; } }
+        .post h2, .post h3, .post h4 {
+          margin: 0.5rem auto;
+          text-align: left;
+          padding: 5px 0 0 0; }
+        .post p {
+          padding-bottom: 0.5rem;
+          padding-top: 0.5rem;
+          font-size: 1.05rem; }
+        .posts {
+          display: flex;
+          justify-content: space-between;
+          flex-flow: row wrap;
+          width: 100%;
+          align-items: stretch; }
+        .posts:not(.aside) {
+          padding: 0 30px; }
+        .post ol {
+          padding: 1rem 1.25rem; }
+        .post_body img {
+          width: 100%;
+          max-width: 100%; }
+        .post_inner a {
+          color: var(--theme);
+          transition: all 0.3s; }
+          .post_inner a:hover {
+            opacity: 0.8;
+            text-decoration: underline; }
+        .post_inner img:not(.icon) {
+          margin-bottom: 2rem;
+          box-shadow: 0 1.5rem 1rem -1rem rgba(0, 0, 0, 0.25); }
+          .post_inner img:not(.icon) ~ h1, .post_inner img:not(.icon) ~ h2, .post_inner img:not(.icon) ~ h3, .post_inner img:not(.icon) ~ h4 {
+            margin-top: 0;
+            padding-top: 0; }
+        .post .icon {
+          margin-top: 0;
+          margin-bottom: 0; }
+        .post_date {
+          color: var(--theme); }
+        .post_copy {
+          opacity: 0;
+          transition: opacity 0.3s ease-out; }
+        .post_item {
+          box-shadow: 0 0 3rem rgba(0, 0, 0, 0.17);
+          margin: 1.25rem 0;
+          border-radius: 10px;
+          overflow: hidden;
+          width: 100%; }
+          .post_item:hover {
+            box-shadow: 0 0 5rem rgba(0, 0, 0, 0.255); }
+          @media screen and (min-width: 667px) {
+            .post_item {
+              width: 47%; } }
+        .post_item:hover .post_copy {
+          opacity: 1; }
+        .post_link {
+          padding: 2.5px 0;
+          font-size: 1.25em;
+          margin: 2.5px 0;
+          text-align: left; }
+        .post_meta {
+          overflow: hidden;
+          opacity: 0.8;
+          font-size: 0.84rem;
+          font-weight: 500;
+          display: inline-grid;
+          grid-template-columns: auto 1fr;
+          background-color: var(--light);
+          padding: 0;
+          align-items: center;
+          border-radius: 0.3rem;
+          color: var(--dark);
+          text-transform: capitalize; }
+          .post_meta a:hover {
+            color: var(--theme);
+            text-decoration: underline;
+            opacity: 0.9; }
+        .post_extra {
+          display: flex;
+          justify-content: flex-end; }
+        .post_tag {
+          font-size: 0.75rem !important;
+          font-weight: 500;
+          background: var(--theme);
+          color: var(--light);
+          padding: 0.25rem 0.67rem !important;
+          text-transform: uppercase;
+          display: inline-flex;
+          border-radius: 5px; }
+        .post_title {
+          margin: 1.75rem 0 1rem; }
+        .post_time {
+          background: var(--theme);
+          display: inline-grid;
+          padding: 0.2rem 0.75rem;
+          color: var(--light); }
+        .post_thumbnail {
+          width: 100%;
+          margin: 0; }
+        .post_nav {
+          padding: 3rem 1.5rem;
+          display: grid;
+          margin: 2.25rem auto 1rem;
+          text-align: center;
+          color: var(--theme);
+          text-transform: uppercase; }
+          .post_nav, .post_nav span {
+            position: relative;
+            z-index: 3; }
+          .post_nav::before {
+            content: "";
+            position: absolute;
+            background: var(--accent);
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            z-index: 1;
+            border-radius: 1rem; }
+        .post_next {
+          display: inline-grid;
+          margin: 0 auto;
+          width: 10rem;
+          grid-template-columns: 1fr 1.33rem; }
+          .post_next::after {
+            content: "";
+            background-image: var(--next-icon-path);
+            background-repeat: repeat no-repeat;
+            background-size: 0.8rem;
+            background-position: center right; }
+      
+      .excerpt {
+        padding: 0 10px 1.5rem 10px;
+        position: relative;
+        z-index: 1; }
+        .excerpt_meta {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          transform: translateY(-2.5rem);
+          position: relative;
+          z-index: 5; }
+      
+      .archive_item {
+        display: grid;
+        padding: 1.5rem 0; }
+      
+      .archive_title {
+        margin: 0; }
+      
+      .article {
+        box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.12);
+        overflow: hidden;
+        border-radius: 0.5rem; }
+        .article_title {
+          margin: 0; }
+        .article_excerpt {
+          transition: height 0.5s, opacity 0.5s; }
+          .article_excerpt:not(.visible) {
+            height: 0;
+            opacity: 0; }
+        .article_excerpt, .article_meta {
+          transform-origin: bottom; }
+        .article_meta {
+          padding: 10px 1.25rem 1.25rem;
+          color: var(--text);
+          position: relative;
+          z-index: 2;
+          transition: margin-top 0.5s;
+          background: var(--bg); }
+          .article_meta.center_y {
+            transform-origin: center;
+            transition: transform 0.5s;
+            display: flex;
+            flex-direction: column;
+            justify-content: center; }
+            @media screen and (min-width: 42rem) {
+              .article_meta.center_y {
+                left: -2rem; } }
+        .article_thumb {
+          display: grid;
+          position: relative;
+          z-index: 0;
+          overflow: hidden;
+          height: 15rem;
+          background-size: cover;
+          background-position: 50% 50%; }
+          @media screen and (min-width: 35rem) {
+            .article_thumb {
+              height: 22.5rem; } }
+          .article_thumb img {
+            transition: transform 0.5s, opacity 0.5s; }
+          .article_thumb::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            bottom: 0;
+            z-index: 1;
+            background: var(--bg);
+            opacity: 0;
+            transition: opacity 0.1s ease-out; }
+        .article_showcase .article_thumb {
+          height: 15rem; }
+        .article_showcase .article_meta {
+          padding-top: 1.5rem; }
+        .article:hover .article_thumb img {
+          transform: scale(1.1); }
+        .article:hover .article_thumb::after {
+          transition: opacity 0.1s ease-out;
+          opacity: 0.5; }
+        .article:hover .article_excerpt:not(.visible) {
+          height: 75px;
+          opacity: 1; }
+        .article:hover .article_meta:not(.center_y) {
+          margin-top: -75px; }
+        @media screen and (min-width: 769px) {
+          .article:hover .article_meta.center_y {
+            transform: translateX(-3rem); } }
+        .article:hover {
+          box-shadow: 0 1.5rem 6rem rgba(0, 0, 0, 0.17); }
+          .article:hover a {
+            color: initial !important; }
+        .article_hidden {
+          display: none; }
+      

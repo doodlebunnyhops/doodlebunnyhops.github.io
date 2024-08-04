@@ -2,8 +2,7 @@
 author: "BloominDaisy"
 date: 2023-08-04
 title: "Avatar Quality of Life"
-images:
-- https://tr.rbxcdn.com/f7c29dbb75c12f60c83379aa76c24984/768/432/Image/Png
+imagec:  https://tr.rbxcdn.com/f7c29dbb75c12f60c83379aa76c24984/768/432/Image/Png
 description: "Brookhaven Update: New Avatar Features"
 draft: false
 ---

@@ -28,15 +28,15 @@ This section has broken down the map for easier traveling during your investigat
 
 ## Map Types
 
-{{< tabs "tabsId" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "Points of Interest" >}}
+{{% tab title="Points of Interest" %}}
 This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location.
 
 {{% button href="poi" %}}Points of Interest{{% /button %}}
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "More to Come!" >}}
+{{% tab title="More to Come!" %}}
 
 {{% notice style="warning" %}}
 Coming soon: 
@@ -46,7 +46,7 @@ Coming soon:
 - Dove Locations
 {{% /notice %}}
 
-{{< /tab >}}
+{{% /tab %}}
 
 {{< /tabs >}}
 

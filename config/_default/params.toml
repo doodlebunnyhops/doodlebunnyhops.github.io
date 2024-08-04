@@ -5,8 +5,17 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 
 disableSearch = false
 disableSearchHiddenPages = false
-themeVariant = ['auto','relearn-light','relearn-dark']
+themeVariant = ['auto','relearn-light','relearn-dark','red','green']
 disableExplicitIndexURLs = true
+collapsibleMenu = true
+disableInlineCopyToClipBoard = true
+disableLandingPageButton = false
+
+alwaysopen = false
+showVisitedLinks = false
+
+
+blogDir = "blog"
 
 # Site logo
 [logo]

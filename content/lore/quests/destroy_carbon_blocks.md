@@ -1,18 +1,15 @@
 ---
 title: "Destroy Carbon Blocks"
 weight: 6
-description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
-aliases:
-- /quests
+description: "Find and destroy 7 carbon blocks of life."
 
 ---
 
 
 {{< youtube "3ZVlAgJNryE" >}}
 
-{{% notice style="tip" %}}
-
-**Requirements** : [Electric Building](/lore/quests#electric-building  )
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quest** : [Electric Building](/lore/quests/electric_building)
 
 **Items Needed** : Sleeping bag, Ladder
 {{% /notice %}}
@@ -31,31 +28,32 @@ aliases:
 	1. Click on the blue button underneath the table
 	1. Quantum Message Board 1 - Bottom Section: 
 			
-		`Power Online`
+		==Power Online==
 	1. Quantum Message Board 2: 
 			
-		`TS LVL 2 [Mirrored Successfully] Carbon burn commencing`
-1. Destroy the blocks: 
-	{{< tabs "tabsID" >}}
+		==TS LVL 2 [Mirrored Successfully] Carbon burn commencing==
 
-{{< tab "Location #1" >}}
+1. Destroy the blocks: 
+	{{< tabs title="Click Tab ->" >}}
+
+{{% tab title="Location #1" %}}
 Criminal Hideout behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
 Use a sleeping bag to look past the back wall.
 
 ![Carbon Block hidden behind a wall in the Criminal Hideout](/images/bh/carbon_block_criminal_base.jpg)
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "Location #4" >}}
+{{% tab title="Location #4" %}}
 Inside of the roof at the church. Go on top of the Church and place down a Sleeping Bag, or go inside and place the sleeping bag on the ceiling.
  
 ![Crystal at black](/images/bh/carbon_block_church_roof.jpg)
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "Location #5" >}}
+{{% tab title="Location #5" %}}
 Near the Grocery Store, place a sleeping bag near the grass wall
  
 ![Crystal at black](/images/bh/carbon_block_green_wall.jpg)
-{{< /tab >}}
+{{% /tab %}}
 
 	{{< /tabs >}}
 	1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
@@ -68,7 +66,7 @@ Near the Grocery Store, place a sleeping bag near the grass wall
 1. On completion you will teleport to the Arch by the Barn and your Right Hand will glow Black
 	1. Laptop:
 	
-		`You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)`
+		==You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)==
 	2. Activates [A21](/casebook/light_panel#a21)
 
 

@@ -18,8 +18,8 @@ There are 2 message boards in the quantum room. The first is always present, and
 ## Room Activated
 _But why does the room need to be activated?_
  
-{{% notice style="tip" %}}
-**Requirements** : [H06](/casebook/light_panel#h06) Plat Quantum saved
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quests** : [H06](/casebook/light_panel#h06) Plat Quantum saved
 {{% /notice %}}
 
 
@@ -36,11 +36,6 @@ _But why does the room need to be activated?_
 
 ## Backdoor Camera Slot Found
 _What computer are we connected to?_
- 
-{{% notice style="tip" %}}
-**Requirements** : None
-{{% /notice %}}
-
 
 **Steps:**
 
@@ -55,10 +50,6 @@ _What computer are we connected to?_
 ## Algorithm Generated
 _Is this related to the code we see in the Experimentation Site above the hospital?_
  
-{{% notice style="tip" %}}
-**Requirements** : None
-{{% /notice %}}
-
 
 **Steps:**
 
@@ -74,8 +65,8 @@ _Is this related to the code we see in the Experimentation Site above the hospit
 ## Carbon Burn Commencing
 _Carbon Blocks have appeared..._
  
-{{% notice style="tip" %}}
-**Requirements** : Steps 1-3 of [Destroy Carbon Blocks](/lore/quests#destroy-carbon-blocks)
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quests** : Steps 1-3 of [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 {{% /notice %}}
 
 
@@ -92,8 +83,8 @@ _Carbon Blocks have appeared..._
 ## Power Online
 _Power the Quantum Room_
  
-{{% notice style="tip" %}}
-**Requirements** : Part of [Destroy Carbon Blocks](../../../lore/quests#destroy-carbon-blocks) quest, steps below.
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quests** : Part of [Destroy Carbon Blocks](../../../lore/quests/destroy_carbon_blocks) quest, steps below.
 {{% /notice %}}
 
 
@@ -117,29 +108,38 @@ _Power the Quantum Room_
 ## First Messages
 Before any secrets are done these are the first messages you will see rotating periodically in the Quantum Room.
 
-{{% notice style="tip" %}}
-**Requirements** : None
-{{% /notice %}}
-
-
 **Steps:**
 
 1. Head to the secret X-Ray Room in the Hospital.
 1. Click on button under table to transport to Quantum Room.
 1. You will observe the Quantum Message Board changing periodically between these messages.
 
+{{< tabs title="Click Tab ->" >}}
 
-![Quantum Window Message from clicking Camera](/images/bh/declination-offline.jpg)
+{{% tab title="Declination Offline" %}}
+![Quantum Room Message: Declination Offline](/images/bh/declination-offline.jpg)
+{{% /tab %}}
 
-![Quantum Window Message from clicking Camera](/images/bh/rebooting-mainframe.png)
+{{% tab title="Rebooting Mainframe" %}}
+![Quantum Room Message: Rebooting Mainframe](/images/bh/rebooting-mainframe.png)
+{{% /tab %}}
 
-![Quantum Window Message from clicking Camera](/images/bh/service-disruption.jpg)
+{{% tab title="Service Disruption" %}}
+![Quantum Room Message: Service Disruption](/images/bh/service-disruption.jpg)
+{{% /tab %}}
 
-![Quantum Window Message from clicking Camera](/images/bh/time-dilation-failed.jpg)
+{{% tab title="Time dilation: Failed" %}}
+![Quantum Room Message: Time dilation: Failed](/images/bh/time-dilation-failed.jpg)
+{{% /tab %}}
 
-![Quantum Window Message from clicking Camera](/images/bh/quantum-gravity-failed.jpg)
+{{% tab title="Quantum Gravity: Failed" %}}
+![Quantum Room Message: Quantum Gravity: Failed](/images/bh/quantum-gravity-failed.jpg)
+{{% /tab %}}
 
-![Quantum Window Message from clicking Camera](/images/bh/gravitational-time-dilation-ua.jpg)
- 
+{{% tab title="Gravitational Time Dilation: Unavailable" %}}
+![Quantum Room Message: Gravitational Time Dilation: Unavailable](/images/bh/gravitational-time-dilation-ua.jpg)
+{{% /tab %}}
+
+{{< /tabs >}}
 
 <hr style="background-color: #28b44c" size=8>

@@ -2,8 +2,7 @@
 author: "BloominDaisy"
 date: 2023-06-02
 title: "Cops and Robbers"
-images:
-- https://tr.rbxcdn.com/f20c8a61b7467a2ae153958ea65f08d5/768/432/Image/Png
+imagec:  https://tr.rbxcdn.com/f20c8a61b7467a2ae153958ea65f08d5/768/432/Image/Png
 description: "Brookhaven Update: Cops and Robbers"
 ---
 
