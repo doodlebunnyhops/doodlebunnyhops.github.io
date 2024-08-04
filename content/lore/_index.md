@@ -17,19 +17,13 @@ We started out with a few hints around the Town of Brookhaven. A movie clip, som
 We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 
-{{% button href="./quests/" hint="Click Me" %}}Get Started!{{% /button %}}
-
----
-
-{{< expand default="Table Of Contents" icon="&#9776;" >}} 
-{{% children depth=5 sort="Weight" %}}
-{{< /expand >}} 
+{{% button href="./quests/" hint="Click Me"  style="green" %}}Get Started!{{% /button %}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Where to get started
 
-If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools#connect-laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests/). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
+If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools/connect_laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests/). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
 
 If you're pretty familiar or want to look at a specific thing, each tool, special tool, and quest will list requirements they have so you can easily decide where you would like to start!
 {{% notice style="tip" %}}
@@ -37,11 +31,11 @@ Keep in mind, maybe there are steps we shouldn't do, though commonly the communi
 {{% /notice %}}
 
 
-{{% button href="./tools/" %}}"Tools"{{% /button %}}
 
-{{% button href="./special_tools/" %}}"Special Tools"{{% /button %}}
 
-{{% button href="./quests/" %}}"Quests"{{% /button %}}
+
+
+
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -52,11 +46,11 @@ The flow of investigating can be... chaotic. But I have identified there are too
 
 
 
-**Tools**: These are items that give us hints along the way of our investigation.
+{{% button href="./tools/" style="green" %}}Tools{{% /button %}}: These are items that give us hints along the way of our investigation.
 
-**Special Tools**: These are items not available in inventory and are needed for other quests.
+{{% button href="./special_tools/" style="green" %}}Special Tools{{% /button %}}: These are items not available in inventory and are needed for other quests.
 
-**Quests**: These are considered main story line quests, they may unlock, build, or show us new hints. Since this is an ever updating game, we don't know if a quest is ever really complete. 
+{{% button href="./quests/" style="green" %}}Quests{{% /button %}}: These are considered main story line quests, they may unlock, build, or show us new hints. Since this is an ever updating game, we don't know if a quest is ever really complete. 
 
 
 

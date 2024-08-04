@@ -7,7 +7,7 @@ aliases:
 
 images: 
 - images/git/which_issue.png
-hidden: true
+hidden: false
 ---
 <hr style="background-color: #28b44c" size=8>
 

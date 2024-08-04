@@ -2,7 +2,7 @@
 title: "Teleporting"
 weight: 6
 draft: false
-description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
+description: "How to trigger teleporting."
 ---
 
 
@@ -14,15 +14,15 @@ description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
 {{% /notice %}}
 
 
-{{< tabs "tabID" >}}
-{{< tab "Player 1 Steps" >}}
+{{< tabs title="Click Tab ->" >}}
+{{% tab title="Player 1 Steps" %}}
 
 1. Stand at the spot under eagle view where the portal will be generated
 {{< /tab>}}
 
-{{< tab "Player 2 Steps" >}}
+{{% tab title="Player 2 Steps" %}}
 
-1. Work on the [Build Portal](/lore/quests/#build-portal) quest.
+1. Work on the [Build Portal](/lore/quests/build_portal) quest.
 1. When you finish hammering on the boxes in that quest, player 1 will teleport to Hidden Valley.
 {{< /tab>}}
 {{< /tabs >}}
@@ -42,7 +42,7 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 ### Paradise Falls
 
 {{% notice style="tip" %}}
-**Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
+**Requirements** : [Find 7 Crystals](/lore/quests/find_7_crystals)
 {{% /notice %}}
 
 **Steps:**
@@ -55,11 +55,11 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 ### Portal Entrance
 
 {{% notice style="tip" %}}
-**Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
+**Requirements** : [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 {{% /notice %}}
 
 1. After completing Destroy Carbon Blocks with your hand glowing.
 1. Head to quantum room and then leave.
-1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/#build-portal).
+1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/build_portal).
 
 <hr style="background-color: #28b44c" size=8>

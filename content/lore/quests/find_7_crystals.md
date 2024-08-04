@@ -1,10 +1,7 @@
 ---
 title: "Find 7 Crystals"
 weight: 1
-description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
-aliases:
-- /quests
-
+description: "Find and collect 7 crystals throughout Brookhaven."
 ---
 
 We are an a quest to find 7 crystals!
@@ -12,10 +9,9 @@ We are an a quest to find 7 crystals!
 {{< youtube "O2qx41jY-tI" >}}
 
 
-{{% notice style="tip" %}}
-**Requirements** : [TS LVL 1](/lore/special_tools#ts-level-1)
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Side Quest** : [TS LVL 1](/lore/special_tools/ts_level_1)
 {{% /notice %}}
-
 
 **Steps:**
 
@@ -24,7 +20,7 @@ We are an a quest to find 7 crystals!
 	1. _7 Crystals Released_: [A19](/casebook/light_panel#a19) Activated
 	2. Laptop:
 	
-		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
+		==The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)==
 3. Collect the crystals in this order: 
 	1. The Crystal on top of the Hospital Roof
 	2. Inside the Church behind a plant
@@ -40,25 +36,24 @@ We are an a quest to find 7 crystals!
 
 
 
-{{% notice style="tip" %}}
+{{% notice style="transparent" title="Helpful Images" icon="fa-regular fa-image" %}}
 
-Helpful Images
-{{< tabs "tabsId" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "Location #4" >}}
+{{% tab title="Location #4" %}}
 Down the small brown patch on the left next to Blackhawk Community Sign. Near houses #13 and #14
 
-{{< zoom id="zoom-default" src="/images/bh/a19-collect-bend.jpg" alt="Crystal at black">}}
+![Crystal at black](/images/bh/a19-collect-bend.jpg)
 
 
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "Location #6" >}}
+{{% tab title="Location #6" %}}
 Facing front of North Estate, go to the left hand side that’s just over the tunnel - in the brown dirt.
 
-{{< zoom id="zoom-default" src="/images/bh/a19-collect-northestate.jpg" alt="Crystal at black">}}
+![Crystal at black](/images/bh/a19-collect-northestate.jpg)
 
-{{< /tab >}}
+{{% /tab %}}
 {{< /tabs >}}
 
 {{% /notice %}}

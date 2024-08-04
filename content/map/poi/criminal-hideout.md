@@ -16,13 +16,13 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 
 
-{{< zoom id="zoom-default" src="/images/maps/criminal_hideout.jpg" alt="Outside view of Criminal Hideout showing hidden wall that opens to get inside" >}}
+![Outside view of Criminal Hideout showing hidden wall that opens to get inside](/images/maps/criminal_hideout.jpg)
 
-{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_to_trap_door.gif" alt="Criminal Hideout and where the trap door is" >}}
+![Criminal Hideout and where the trap door is](/images/maps/criminal_hideout_to_trap_door.gif)
 
-{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_click_trap_door.gif" alt="Clicking secrete passage to open trap door to get to Criminal Hideout" >}}
+![Clicking secrete passage to open trap door to get to Criminal Hideout](/images/maps/criminal_hideout_click_trap_door.gif)
 
-{{< zoom id="zoom-default" src="/images/maps/criminal_hideout_inside.jpg" alt="Inside view of Criminal Hideout showing computer parts and surveillance system" >}}
+![Inside view of Criminal Hideout showing computer parts and surveillance system](/images/maps/criminal_hideout_inside.jpg)
 
 
 
@@ -30,7 +30,7 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/criminal-hideout.png" alt="Location of Criminal Hideout" >}}
+![Location of Criminal Hideout](/images/maps/criminal-hideout.png)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -38,4 +38,4 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 ### Related Quests
 
-- [Destroy Carbon Block](/lore/quests/#destroy-carbon-blocks)
+- [Destroy Carbon Block](/lore/quests/destroy_carbon_blocks)

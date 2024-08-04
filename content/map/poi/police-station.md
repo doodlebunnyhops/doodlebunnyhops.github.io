@@ -15,16 +15,16 @@ draft: false
 The protectors of Brookhaven have a fantastic set of resources to ensure your safety to ~~spy~~, I mean monitor, for your protection! The SWAT and Police are all stationed here. However, someone from the FBI might be hiding something in the attic.
 
 
-{{< zoom id="zoom-default" src="/images/maps/police.jpg" alt="view of Police Station" >}}
+![view of Police Station](/images/maps/police.jpg)
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/police-station.png" alt="Location of Police Station" >}}
+![Location of Police Station](/images/maps/police-station.png)
 
-{{< zoom id="zoom-default" src="/images/under_construction.png" alt="Under Construction Warning, Page not complete" >}}
+![Under Construction Warning, Page not complete](/images/under_construction.png)
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

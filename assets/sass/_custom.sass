@@ -88,3 +88,23 @@
     display: flex
     align-items: center
     padding: 0.75rem 1.25rem
+
+
+// SVG 
+rect.rectClass
+  stroke: rgb(255, 0, 0)
+  stroke-width: 4px
+  fill: rgb(255, 255, 255)
+  fill-opacity: 0
+
+circle.circleClass
+  stroke: #006600
+  fill: #cc0000
+
+rect.rectClass:hover
+  fill: red
+  fill-opacity: .3
+
+// Fix for medium zoom to fade element
+.tip::before
+  z-index: unset

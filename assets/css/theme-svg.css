@@ -1,0 +1,17 @@
+rect.rectClass {
+    stroke: red;
+    stroke-width: 4px;
+    fill: white;
+    fill-opacity: 0; }
+  
+  circle.circleClass {
+    stroke: #006600;
+    fill: #cc0000; }
+  
+  rect.rectClass:hover {
+    fill: red;
+    fill-opacity: .3; }
+  
+  .tip::before {
+    z-index: unset; }
+  

@@ -2,7 +2,7 @@
 title: "Marcus"
 weight: 2
 draft: false
-description: "All Notes and how to find them that are signed by Mr. B in Brookhaven RP Secrets and Mysteries."
+description: "All Notes and how to find them that are signed by Marcus"
 ---
 
 
@@ -15,7 +15,7 @@ Marcus, Mr.Brookhaven's son has left only one note signed by him. Does this mean
 {{% notice style="tip" %}}
 **Requirements** : None
 
-Part of [Criminal Lair](/lore/quests/#criminal-lair)
+Part of [Criminal Lair](/lore/quests/agency_greed/#criminal-lair)
 {{% /notice %}}
 
 **Steps:**

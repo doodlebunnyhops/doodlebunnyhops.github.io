@@ -27,7 +27,7 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 ## Barn
 
 {{% notice style="tip" %}}
-**Requirements** : [TS Level 1](/lore/special_tools/#ts-level-1)
+**Requirements** : [TS Level 1](/lore/special_tools/ts_level_1)
 {{% /notice %}}
 
 **Steps:**

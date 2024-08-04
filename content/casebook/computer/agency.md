@@ -2,7 +2,7 @@
 title: "Agency"
 weight: 1
 draft: false
-description: "All Messages provided on the laptop from the Agency in Brookhaven RP Secrets and Mysteries."
+description: "Messages on the laptop from the Agency."
 tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - images/bh/follow_the_book_comp_message.png
@@ -16,7 +16,7 @@ images:
 ## Follow The Book
 
 {{% notice style="tip" %}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
 {{% /notice %}}
 
 **Steps:**
@@ -32,13 +32,13 @@ images:
 ## Power of The Book
 
 {{% notice style="tip" %}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
 {{% /notice %}}
 
 **Steps:**
 
 1. Go to the hotel and grab a room.
-2. Follow the same steps as [Build Portal](/lore/quests/#build-portal) - but check your laptop before leaving the hotel room!
+2. Follow the same steps as [Build Portal](/lore/quests/build_portal) - but check your laptop before leaving the hotel room!
 
 
 
@@ -50,7 +50,7 @@ images:
 ## Useful Soldier
 
 {{% notice style="tip" %}}
-**Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
+**Requirements** : [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 {{% /notice %}}
 
 **Steps:**
@@ -66,7 +66,7 @@ images:
 ## Circle The Monoliths
 
 {{% notice style="tip" %}}
-**Requirements** : [Monoliths](/lore/quests/#monoliths)
+**Requirements** : [Monoliths](/lore/quests/monoliths)
 {{% /notice %}}
 
 **Steps:**
@@ -82,7 +82,7 @@ images:
 ## No Experimenting
 
 {{% notice style="tip" %}}
-**Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
+**Requirements** : Part of [Mystery Alien](/lore/quests/mystery_alien)
 {{% /notice %}}
 
 **Steps:**
@@ -100,7 +100,7 @@ images:
 ## Agency Knows What's Best
 
 {{% notice style="tip" %}}
-**Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
+**Requirements** : Part of [Mystery Alien](/lore/quests/mystery_alien)
 {{% /notice %}}
 
 **Steps:**
@@ -123,7 +123,7 @@ images:
 ## Money is everything!
 
 {{% notice style="tip" %}}
-**Requirements** : Part of [Agency Greed](/lore/quests/#agency-greed)
+**Requirements** : Part of [Agency Greed](/lore/quests/agency_greed)
 {{% /notice %}}
 
 **Steps:**

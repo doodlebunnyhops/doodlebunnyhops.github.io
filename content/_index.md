@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 date: 2023-05-19
 description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."
 images: 
@@ -8,6 +8,9 @@ images:
 Categories: ["Brookhaven RP","Brookhaven Mystery", "Roblox"]
 Tags: ["Secrets and Mysteries","Lore","Detective"]
 ---
+
+
+<hr style="background-color: #28b44c" size=8>
 
 # Can you solve the **Mystery** of Brookhaven?
 

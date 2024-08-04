@@ -44,7 +44,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 ## Future Hotel Picture
 
 {{% notice style="tip" %}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
 {{% /notice %}}
 
 **Steps:**
@@ -58,7 +58,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 ## Bakery
 
 {{% notice style="tip" %}}
-**Requirements** : Part of [Rod Under Arch](/lore/special_tools/#rod-under-the-arch) special tool quest.
+**Requirements** : Part of [Rod Under Arch](/lore/special_tools/rod_under_arch) special tool quest.
 {{% /notice %}}
 
 **Steps:**
