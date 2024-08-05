@@ -63,7 +63,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://solve.bhmystery.com/testsite/" \
-            -d ./public/testsite
+            -d $HOME/public/testsite
       - name: Checkout Main
         uses: actions/checkout@v4
         with:
@@ -90,11 +90,13 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://solve.bhmystery.com/" \
-            -d ./public
+            -d $HOME/public
+      - name: Clean up robot.txt
+        run: "cat $HOME/public/testsite/robots.txt >> $HOME/public/robot.txt "
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: $HOME/public
 
   # Deployment job
   deploy:
