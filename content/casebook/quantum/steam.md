@@ -1,5 +1,6 @@
 ---
 title: "Mysterious Steam"
+noindex: true
 weight: 3
 description: "The quantum room in Brookhaven RP occasionally has steam coming from one of the rooms, see how to activate it and how it relates to monoliths."
 ---

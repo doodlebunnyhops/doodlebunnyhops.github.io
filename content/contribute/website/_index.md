@@ -1,5 +1,6 @@
 ---
 title: "Contribute to Website"
+noindex: true
 weight: 1
 description: "How to contribute updates to this website through GitHub."
 aliases:

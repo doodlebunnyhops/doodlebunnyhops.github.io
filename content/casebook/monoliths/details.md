@@ -1,5 +1,6 @@
 ---
 title: "Details"
+noindex: true
 weight: 1
 description: "Notes and observations about Monoliths, aka black rectangular object with red lettering on the side."
 ---

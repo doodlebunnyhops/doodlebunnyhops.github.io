@@ -1,5 +1,6 @@
 ---
 title: "Computer"
+noindex: true
 weight: 60
 draft: false
 description: "Computer messages that appear on your laptop in Brookhaven RP by the Agency, Mr. B, and other sources."

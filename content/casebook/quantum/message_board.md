@@ -1,5 +1,6 @@
 ---
 title: "Message Board"
+noindex: true
 weight: 2
 description: "All Messages seen on the Message Board in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
 aliases:

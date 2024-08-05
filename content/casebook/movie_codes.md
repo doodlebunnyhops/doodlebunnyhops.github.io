@@ -1,5 +1,6 @@
 ---
 title: "Movie Codes"
+noindex: true
 weight: 3
 description: "Movie codes and how to find them in Brookhaven RP, with video of the movie. Part of Brookhaven Secrets and Mysteries."
 aliases:

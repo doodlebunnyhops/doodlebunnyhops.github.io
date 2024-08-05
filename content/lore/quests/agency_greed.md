@@ -1,5 +1,6 @@
 ---
 title: "Agency Greed"
+noindex: true
 weight: 16
 description: "Steps to find Agency's secret lair in the warehouse."
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Observations"
+noindex: true
 weight: 1
 draft: false
 description: "Observations around Brookhaven."

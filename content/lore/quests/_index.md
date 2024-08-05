@@ -1,5 +1,6 @@
 ---
 title: "Quests"
+noindex: true
 weight: 3
 description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
 aliases:

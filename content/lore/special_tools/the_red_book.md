@@ -1,5 +1,6 @@
 ---
 title: "The Red Book"
+noindex: true
 weight: 4
 description: "How to obtain the hidden red book in the library."
 ---

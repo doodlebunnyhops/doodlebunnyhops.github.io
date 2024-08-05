@@ -1,5 +1,6 @@
 ---
 title: "Other"
+noindex: true
 weight: 3
 draft: false
 description: "Laptop Messages that are unsigned. Picture of message provided."

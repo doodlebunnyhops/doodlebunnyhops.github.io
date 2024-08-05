@@ -1,5 +1,6 @@
 ---
 title: "Plant House"
+noindex: true
 weight: 14
 description: "How to reveal a message in the Quantum Room."
 ---

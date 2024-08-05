@@ -1,5 +1,6 @@
 ---
 title: "Lore Steps Visual"
+noindex: true
 description: "A visual flow of how all the quests in Brookhaven RP come together in solving secrets and mysteries."
 
 images: 

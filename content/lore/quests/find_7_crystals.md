@@ -1,5 +1,6 @@
 ---
 title: "Find 7 Crystals"
+noindex: true
 weight: 1
 description: "Find and collect 7 crystals throughout Brookhaven."
 ---
