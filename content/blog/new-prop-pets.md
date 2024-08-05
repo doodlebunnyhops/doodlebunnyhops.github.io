@@ -1,6 +1,7 @@
 ---
 author: "BloominDaisy"
 date: 2024-06-07
+hidden: true
 title: "Pets and Props"
 images:
 -  /images/blog/prop-pets.png

@@ -14,12 +14,9 @@ toc: false
 This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location. 
 
 {{% notice style="tip" %}}
-You can click them to find out more details about that location!.
+You can click the highlighted areas in the image to find out more details about that location!.
 {{% /notice %}}
 
-{{% notice style="tip" %}}
-You may find it easier to zoom in and out on the image to get a better view
-{{% /notice %}}
 
 {{< svg "static/images/maps/poi.svg" >}}
 

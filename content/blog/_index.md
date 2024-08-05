@@ -5,4 +5,4 @@ weight: 5
 description: "Blogs about Brookhaven RP Updates, exiting news, and new findings"
 ---
 
-{{% children sort="date" %}}
+{{% children sort="date" showhidden="true" %}}

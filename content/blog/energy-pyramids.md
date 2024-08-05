@@ -1,6 +1,7 @@
 ---
 author: "BloominDaisy"
 date: 2023-07-15
+hidden: true
 title: "Where are all these Energy Crystals?"
 images:
 -  https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png

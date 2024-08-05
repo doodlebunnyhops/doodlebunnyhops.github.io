@@ -42,7 +42,4 @@ numberOfTagsShown = 14
 [author]
   name = "Bloomindaisy"
 
-
-
-
-
+allowRobot = false

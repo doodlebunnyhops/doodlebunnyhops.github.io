@@ -1,0 +1,8 @@
+{{- partial "tags.html" . }}
+{{- $Date := "" }}
+{{- with .Params.date }}
+  {{- $Date = . | time.Format ":date_medium" }}
+{{- end }}
+{{- with $Date }}
+            <i class='fa-fw fas fa-calendar'></i> Published {{ . }}
+{{- end }}

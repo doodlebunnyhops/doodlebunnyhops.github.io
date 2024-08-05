@@ -16,13 +16,7 @@ Navigating all the places around Brookhaven can be a challenge if you don't know
 This section has broken down the map for easier traveling during your investigation. 
 
 
-{{% button href="poi" %}}View Map{{% /button %}}
-
----
-
-{{< expand "Table Of Contents" >}} 
-{{% children depth=5 sort="Weight" %}}
-{{< /expand >}}
+{{% button href="poi" style="green" %}}View Map{{% /button %}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -33,7 +27,7 @@ This section has broken down the map for easier traveling during your investigat
 {{% tab title="Points of Interest" %}}
 This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location.
 
-{{% button href="poi" %}}Points of Interest{{% /button %}}
+{{% button href="poi" style="green" %}}Points of Interest{{% /button %}}
 {{% /tab %}}
 
 {{% tab title="More to Come!" %}}
