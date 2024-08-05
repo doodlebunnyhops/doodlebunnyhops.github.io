@@ -118,10 +118,6 @@ largeTwitterCard = true
     disable = false
     privacyEnhanced = true
 
-[module]
-  [[module.imports]]
-    path = 'hugo-theme-relearn'
-
 [params]
  # [params.relearn]
   #  [params.relearn.dependencies]

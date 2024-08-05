@@ -2,8 +2,10 @@
 author: "BloominDaisy"
 date: 2024-04-12
 title: "Hackers"
-imagec:  https://tr.rbxcdn.com/7825e1cc6e636d0ba2daafa631ce665c/768/432/Image/Png
-imagec:  https://tr.rbxcdn.com/7825e1cc6e636d0ba2daafa631ce665c/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/7825e1cc6e636d0ba2daafa631ce665c/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/7825e1cc6e636d0ba2daafa631ce665c/768/432/Image/Png
 description: "Brookhaven Update: New Hacker Role Play house with secret rooms and Pop wheelies on motorcycles!"
 draft: false
 ---
@@ -29,11 +31,10 @@ Pop a wheelie on your motorcycle!
 
 ---
 
-{{< column "grid-2 post-vid" >}}
-{{< column "grid-1" >}}
-**O1G: Secrets, Wheelies, and more!** {{< liteyoutube "fCKUzxumDqo" >}}
-{{< /column>}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
+
+**O1G: Secrets, Wheelies, and more!** <div class="grid-1">{{< youtube id=fCKUzxumDqo loading=lazy >}}</div>
+</div>
 
 
 <hr style="background-color: #28b44c" size=8 class="post-block">
@@ -45,11 +46,11 @@ Pop a wheelie on your motorcycle!
 This is just really hard to explain! There are so many entry points into the maze that gets you to the safe, but lets watch a video :D
 
 
-{{< column "grid-2 post-vid" >}}
-{{< column "grid-1" >}}
-**Checkout Darzeth's vid for details!** {{< liteyoutube "u-kmbkd1HSc" >}}
-{{< /column>}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
+
+**Checkout Darzeth's vid for details!** <div class="grid-1">{{< youtube id=u-kmbkd1HSc loading=lazy >}}</div>
+</div>
+
 
 <hr style="background-color: #28b44c" size=8 class="post-block">
 

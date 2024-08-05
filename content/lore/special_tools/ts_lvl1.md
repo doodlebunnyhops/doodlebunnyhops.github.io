@@ -6,7 +6,7 @@ description: "How to get TS LVL 1 acess granted."
 
 You need access!
 
-{{< youtube "ukzcdoPx1g8" >}}
+{{< youtube id=ukzcdoPx1g8 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : None

@@ -4,7 +4,7 @@ weight: 3
 description: "Electrocute the green man in the experimental site of the hospital."
 ---
 
-{{< youtube "Ez6vK6Ve2Wc?t=19" >}}
+{{< youtube id=Ez6vK6Ve2Wc?t=19 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quest** : [TS LVL 1](/lore/special_tools/ts_level_1)

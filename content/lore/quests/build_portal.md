@@ -7,7 +7,7 @@ description: "How to build the portal beneath Eagle View."
 
 
 Lets build stuff!
-{{< youtube "Mecnd2D7cWA" >}}
+{{< youtube id=Mecnd2D7cWA loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quest** : [The Red Book](/lore/special_tools/the_red_book)

@@ -7,7 +7,7 @@ description: "How to get blue key card to get into Brookhaven Electric."
 
 This blue key card gives us access to **Brookhaven Electric**
 
-{{< youtube "nAO-DwNWq-g" >}}
+{{< youtube id=nAO-DwNWq-g loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : None

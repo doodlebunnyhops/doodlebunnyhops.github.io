@@ -6,7 +6,7 @@ description: "How to reveal a message in the Quantum Room."
 
 There's something special that reveals a hidden message
 
-{{< youtube "Ez6vK6Ve2Wc?t=227" >}}
+{{< youtube id=Ez6vK6Ve2Wc?t=227 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : None

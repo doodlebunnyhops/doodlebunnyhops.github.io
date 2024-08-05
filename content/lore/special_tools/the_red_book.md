@@ -6,7 +6,7 @@ description: "How to obtain the hidden red book in the library."
 
 _Follow the book_
 
-{{< youtube "ifqY497Y61k" >}}
+{{< youtube id=ifqY497Y61k loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : [X01](../../casebook/light_panel#x01) Burn the Agency Folder in the Second Floor of the Hospital

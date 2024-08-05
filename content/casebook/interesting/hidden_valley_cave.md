@@ -45,7 +45,7 @@ You can also access this area from Paradise Falls
 
 ### Light Timing 
 
-{{< liteyoutube "nmyaBHSIpPs" >}}
+{{< youtube id=nmyaBHSIpPs loading=lazy >}}
 
 I took a timelapse to see what time the light appears and how it moves, checkout the vid above!
 

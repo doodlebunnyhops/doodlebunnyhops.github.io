@@ -160,7 +160,7 @@ This movie is what will be playing in the theater when a new server is started, 
 
 ### YT Clip of all Movies
 
-{{< youtube "IwpmmT6N3Lg" >}}
+{{< youtube id=IwpmmT6N3Lg loading=lazy >}}
 
 <hr style="background-color: #28b44c" size=8>
 

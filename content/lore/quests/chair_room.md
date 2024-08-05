@@ -6,7 +6,7 @@ description: "Unlock the hidden chair room at the Agency Bunker."
 
 There's a secret room behind the Agency Base... what's it for?
 
-{{< youtube "Mecnd2D7cWA?t=376" >}}
+{{< youtube id=Mecnd2D7cWA?t=376 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : 

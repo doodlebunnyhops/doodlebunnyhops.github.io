@@ -5,7 +5,7 @@ description: "Make monoliths spawn throughout Brookhaven."
 
 ---
 
-{{< youtube "Ez6vK6Ve2Wc?t=150" >}}
+{{< youtube id=Ez6vK6Ve2Wc?t=150 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : [The Red Book](/lore/special_tools/the_red_book  )

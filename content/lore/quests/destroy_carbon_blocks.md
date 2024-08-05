@@ -6,7 +6,7 @@ description: "Find and destroy 7 carbon blocks of life."
 ---
 
 
-{{< youtube "3ZVlAgJNryE" >}}
+{{< youtube id=3ZVlAgJNryE loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quest** : [Electric Building](/lore/quests/electric_building)

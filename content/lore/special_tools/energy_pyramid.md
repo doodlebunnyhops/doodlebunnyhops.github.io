@@ -6,7 +6,7 @@ description: "Get the Energy Pyramid from the doves."
 
 An interesting glowing pyramid object believed to have energy within it.
 
-{{< youtube "Od4GhfXB-bU" >}}
+{{< youtube id=Od4GhfXB-bU loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : None

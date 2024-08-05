@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2023-05-19
 title: "Farm Update"
-imagec:  https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png
 description: "Brookhaven Update: New Farm Role Play House"
 ---
 
@@ -17,7 +18,7 @@ The number of things you can do on the farm rp house was super fun to find!
 
 Wanna see a youtube review? Check it out here :D
 
-{{< youtube "SioOqQux0tQ" >}}
+{{< youtube id=SioOqQux0tQ loading=lazy >}}
 
 ## Secrets
 
