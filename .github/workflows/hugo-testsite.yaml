@@ -92,7 +92,7 @@ jobs:
             --baseURL "https://solve.bhmystery.com/" \
             -d $HOME/public
       - name: Clean up robot.txt
-        run: "ls $HOME && cat $HOME/public/testsite/robots.txt >> $HOME/public/robot.txt"
+        run: "cat $HOME/public/testsite/robots.txt >> $HOME/public/robot.txt && cd $HOME && ls -ltr public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
