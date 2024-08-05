@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - testsite
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -41,12 +42,36 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
+      - name: Checkout testsite
         uses: actions/checkout@v4
         with:
+          ref: testsite
           submodules: recursive
           fetch-depth: 0
-      - name: Setup Pages
+      - name: Setup Test Site Pages
+        id: testsitepages
+        uses: actions/configure-pages@v5
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build Test Site with Hugo
+        env:
+          # For maximum backward compatibility with Hugo modules
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+          TEMP: ${{ runner.temp }}
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "https://solve.bhmystery.com/testsite/" \
+            -d $TEMP/public/testsite
+      - name: Checkout Main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Main Site Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
@@ -56,20 +81,26 @@ jobs:
           INDEXNOW: ${{ secrets.INDEXNOW }}
         run: |
           echo -n "$INDEXNOW" > content/$INDEXNOW.txt
-      - name: Build with Hugo
+      - name: Build Main Site with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          TEMP: ${{ runner.temp }}
         run: |
           hugo \
             --gc \
             --minify \
-            --baseURL "https://solve.bhmystery.com/"          
+            --baseURL "https://solve.bhmystery.com/" \
+            -d $TEMP/public
+      - name: Clean up robot.txt
+        env:
+          TEMP: ${{ runner.temp }}
+        run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ${{ runner.temp }}/public
 
   # Deployment job
   deploy:
