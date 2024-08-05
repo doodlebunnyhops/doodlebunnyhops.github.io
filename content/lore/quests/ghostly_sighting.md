@@ -7,7 +7,7 @@ description: "How to see the ghost of greed in the museum."
 
 There's a ghost in the museum!
 
-{{< youtube "QYFuIAZ9VFY" >}}
+{{< youtube id=QYFuIAZ9VFY loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : [The Red Book](/lore/special_tools/the_red_book)

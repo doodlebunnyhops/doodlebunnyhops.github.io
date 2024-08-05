@@ -7,10 +7,10 @@ description: "Steps to find Agency's secret lair in the warehouse."
 Clips by O1G and Darzeth
 
 
-{{< youtube "8im2fwJwLZ0" >}}
+{{< youtube id=8im2fwJwLZ0 loading=lazy >}}
 
 
-{{< youtube "fjTC_KEqEZc" >}}
+{{< youtube id=fjTC_KEqEZc loading=lazy >}}
 
 
 {{% notice style="tip" %}}

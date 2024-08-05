@@ -6,7 +6,7 @@ description: "Find and collect 7 crystals throughout Brookhaven."
 
 We are an a quest to find 7 crystals!
 
-{{< youtube "O2qx41jY-tI" >}}
+{{< youtube id=O2qx41jY-tI loading=lazy >}}
 
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}

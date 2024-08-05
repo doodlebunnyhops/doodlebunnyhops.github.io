@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2023-06-02
 title: "Cops and Robbers"
-imagec:  https://tr.rbxcdn.com/f20c8a61b7467a2ae153958ea65f08d5/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/f20c8a61b7467a2ae153958ea65f08d5/768/432/Image/Png
 description: "Brookhaven Update: Cops and Robbers"
 ---
 
@@ -18,7 +19,7 @@ But do not fear good citizens of Brookhaven, there's a new Police Station alarm 
 
 Looking for a more detailed review? Check out [XdarzethX](https://www.youtube.com/@XdarzethX)'s youtube clip :D
 
-{{< youtube "NYDUP-KxiNQ" >}}
+{{< youtube id=NYDUP-KxiNQ loading=lazy >}}
 
 ---
 

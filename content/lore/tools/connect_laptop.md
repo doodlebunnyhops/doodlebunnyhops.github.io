@@ -8,7 +8,7 @@ Connecting the laptop will allow you to see important messages from The Agency a
 
 Interestingly, on connecting, the [Agency Light Panel](/casebook/light_panel/#a05) message shows the Arch Main Power has been inverted, but why?
 
-{{< liteyoutube videoid="6b_tvg4R4YA" >}}
+{{< youtube id=6b_tvg4R4YA loading=lazy >}}
 
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}

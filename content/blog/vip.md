@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2024-07-26
 title: "VIP & 130 Props!"
-imagec:  https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
 description: "Brookhaven Update: New VIP Pass and 130 more Props"
 draft: false
 ---
@@ -23,7 +24,9 @@ This update came with so many new props both Free and for the new VIP Pass that 
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_no_wait_time_to_spawn_house.png" loading="lazy" style="width: auto; height: 100px;">No Wait to load new houses for VIP
+<img src="/images/blog/vip_no_wait_time_to_spawn_house.png" loading="lazy" style="width: auto; height: 100px;">
+
+<p>No Wait to load new houses for VIP</p>
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
@@ -60,17 +63,16 @@ VIP gets an additional 5 props to place both on the map and in a house.
 
 ## Sweet Vids!
 
-{{< column "grid-2 post-vid-dot" >}}
 
-{{< column "grid-1" >}}
-**[Darzeth](https://www.youtube.com/@XdarzethX) : Review of Update** {{< liteyoutube "yIbIM4j5s_o" >}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
 
-{{< column "grid-1" >}}
-**[O1G](https://www.youtube.com/@Only1Gam3r): Review of Update** {{< liteyoutube "FyVSLr2V9O4" >}}
-{{< /column>}}
 
-{{< /column>}}
+**[O1G](https://www.youtube.com/@Only1Gam3r): Review of Update** <div class="grid-1">{{< youtube id=FyVSLr2V9O4 loading=lazy >}}</div>
+
+
+**[Darzeth](https://www.youtube.com/@XdarzethX) : Review of Update** <div class="grid-1">{{< youtube id=yIbIM4j5s_o loading=lazy loading=lazy >}}</div>
+
+</div>
 
 ---
 

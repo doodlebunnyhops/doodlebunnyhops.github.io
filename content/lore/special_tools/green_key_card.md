@@ -6,7 +6,7 @@ description: "How to get the Green Key Card and where to use it in the Agency Bu
 
 The green card does _something_...
 
-{{< youtube "47yimxPrOvE" >}}
+{{< youtube id=47yimxPrOvE loading=lazy >}}
 
 
 

@@ -6,7 +6,7 @@ description: "How to activate glowing chair in the abandoned house."
 
 A glowing figure appears in the abandoned house!
 
-{{< youtube "QYFuIAZ9VFY" >}}
+{{< youtube id=QYFuIAZ9VFY loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : [Rod Under the Arch](/lore/special_tools/rod_under_arch)

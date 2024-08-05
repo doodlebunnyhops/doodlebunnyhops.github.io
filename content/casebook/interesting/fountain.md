@@ -18,7 +18,7 @@ description: "How to get under the fountain in Brookhaven at spawn."
 1. Click on the logo above the bench.
 1. There’s now a false wall to the right that you can walk through and get Under the Fountain!
 
-{{< youtube "7EsrkJeRgrQ" >}}
+{{< youtube id=7EsrkJeRgrQ loading=lazy >}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -26,4 +26,4 @@ description: "How to get under the fountain in Brookhaven at spawn."
 
 In the December 8th 2023 Holiday Update, Wolfpaq added a secret present location that can be found by going under the fountain!
 
-{{< youtube "3GcOFIw7O5A" >}}
+{{< youtube id=3GcOFIw7O5A loading=lazy >}}

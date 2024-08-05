@@ -43,7 +43,7 @@ So far I haven't identified any pattern. Though some locations seem to get the d
 
 I have personally set out to test secrets and findings. These are locations I've seen first hand.
 
-{{< youtube "W3tRmp_qnuI" >}}
+{{< youtube id=W3tRmp_qnuI loading=lazy >}}
 
 1. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
 2. **Hotel**: Spawns in the Storage Closet in the office. 

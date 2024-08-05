@@ -9,6 +9,9 @@ images:
 - images/git/which_issue.png
 hidden: false
 ---
+
+There's a couple of different ways you can assist! Are you a detective and want to chat? or perhaps you found something on the site that you want to call out :happy:
+
 <hr style="background-color: #28b44c" size=8>
 
 ## Found something to add or a mistake?

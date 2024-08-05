@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2023-08-04
 title: "Avatar Quality of Life"
-imagec:  https://tr.rbxcdn.com/f7c29dbb75c12f60c83379aa76c24984/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/f7c29dbb75c12f60c83379aa76c24984/768/432/Image/Png
 description: "Brookhaven Update: New Avatar Features"
 draft: false
 ---
@@ -35,4 +36,4 @@ _**Bloomindaisy**_ <span class="nowrap"><span class="emojify">💕</span>
 
 ### Check out Darzeth's Review!
 
-{{< youtube "iOw8Hv-sw78" >}}
+{{< youtube id=iOw8Hv-sw78 loading=lazy >}}

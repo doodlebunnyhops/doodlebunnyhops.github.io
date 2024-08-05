@@ -8,7 +8,7 @@ Unlocks the Blue Keypad in the Agency Bunker
 
 ==Recommended starting the video at 1m:17sec==
 
-{{< liteyoutube videoid="gysIfNUKpbw" params="start=77" >}}
+{{< youtube id=gysIfNUKpbw start=77 loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : None

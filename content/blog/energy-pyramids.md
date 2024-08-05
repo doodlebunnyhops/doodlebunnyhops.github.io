@@ -2,7 +2,8 @@
 author: "BloominDaisy"
 date: 2023-07-15
 title: "Where are all these Energy Crystals?"
-imagec:  https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
 description: "Brookhaven Update"
 draft: true
 ---
@@ -16,14 +17,14 @@ Alert your followers and start "streaming" in your new Content Creator's RP Hous
 A long awaited RP house for content creators! This amazing house has A TON to offer. From a changing backdrop, to flashing lights, a couple of gamers desks and more!
 
 Checkout this recap here :D
-{{< youtube "eUvAhpJ1QWs" >}}
+{{< youtube id=eUvAhpJ1QWs loading=lazy >}}
 
 
 ### **Summer Slide**: 
 
 It's back! You know what that means? It's officially summer in Brookhaven, and the timing couldn't be better! Just like last years slide, you have different slide options to enhance the fun!
 
-{{< youtube "_TccoPnuMrk" >}}
+{{< youtube id=_TccoPnuMrk loading=lazy >}}
 
 
 ## Secrets

@@ -6,7 +6,7 @@ description: "How to find the password to the panel in the agency bunker."
 
 Find the hidden password
 
-{{< youtube "Mecnd2D7cWA?t=376" >}}
+{{< youtube id=Mecnd2D7cWA loading=lazy start=376 >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests** : [Energy Pyramid](/energy_pyramid)

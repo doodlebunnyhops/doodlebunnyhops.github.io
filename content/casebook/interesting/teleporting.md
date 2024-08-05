@@ -29,7 +29,7 @@ description: "How to trigger teleporting."
 
 {{% notice style="tip" %}}
 Darzeth’s Youtube vid for better idea of where to stand:
-{{< youtube "O4s7pI_jzW0" >}}
+{{< youtube id=O4s7pI_jzW0 loading=lazy >}}
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>

@@ -6,7 +6,7 @@ description: "How to get the hidden rod."
 
 There's a white bent rod hidden, what does it do?
 
-{{< youtube "Fi7kt9ZhQ2Y" >}}
+{{< youtube id=Fi7kt9ZhQ2Y loading=lazy >}}
 
 >**Requirements** : None
 

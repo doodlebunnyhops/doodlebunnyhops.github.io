@@ -54,7 +54,7 @@ Right after the steam stops and the floor flashes black, this means a new Monoli
 
 Checkout locations of [Monoliths](/lore/quests/monoliths).
 
-{{< liteyoutube "yoVHGsPnZPA" >}}
+{{< youtube id=yoVHGsPnZPA loading=lazy >}}
 
 
 

@@ -4,4 +4,5 @@ title: Blog
 weight: 5
 description: "Blogs about Brookhaven RP Updates, exiting news, and new findings"
 ---
-Place holder
+
+{{% children sort="date" %}}
