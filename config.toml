@@ -1,5 +1,5 @@
 baseURL = "https://solve.bhmystery.com/testsite/"
-enableRobotsTXT = false
+enableRobotsTXT = true
 relativeURLs = true
 
 # this example loads the theme as hugo module

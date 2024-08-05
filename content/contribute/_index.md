@@ -7,7 +7,6 @@ aliases:
 
 images: 
 - images/git/which_issue.png
-hidden: false
 ---
 
 There's a couple of different ways you can assist! Are you a detective and want to chat? or perhaps you found something on the site that you want to call out :happy:
@@ -28,6 +27,8 @@ Please do not submit leaks, this site only offers secrets actively in the game!
 
 ## Community Discussion
 
-Wanna chat about the secrets and mysteries in the game? Come on over to [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) channel #secrets-and-mysteries 
+Wanna chat about the secrets and mysteries in the game? 
+
+Checkout deets on where we hang in [discord](discord)
 
 <sub>*Make sure to read the rules there and looking forward to chatting!</sub>

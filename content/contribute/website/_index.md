@@ -11,6 +11,7 @@ aliases:
 
 images: 
 - images/git/which_issue.png
+hidden: true
 --- 
 
 In github we are taking in "issues" to submit your request to add something, point out a mistake in the website, or questions about the website.

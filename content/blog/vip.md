@@ -1,6 +1,7 @@
 ---
 author: "BloominDaisy"
 date: 2024-07-26
+hidden: true
 title: "VIP & 130 Props!"
 images:
 -  https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png

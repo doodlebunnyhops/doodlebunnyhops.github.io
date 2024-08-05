@@ -1,0 +1,8 @@
+User-agent: *
+{{- range .Pages }}
+    {{- if ( eq .Params.allowRobot true )}}
+Allow: {{ .RelPermalink }}
+    {{- else }}
+Disallow: /testsite{{ .RelPermalink }}
+    {{- end }}
+{{- end }}
