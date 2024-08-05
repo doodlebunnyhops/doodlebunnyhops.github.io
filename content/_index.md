@@ -11,12 +11,20 @@ Categories: ["Brookhaven RP","Brookhaven Mystery", "Roblox"]
 Tags: ["Secrets and Mysteries","Lore","Detective"]
 ---
 
-
 # Can you solve the **Mystery** of Brookhaven?
 
 This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
+{{< column "post-vid-dot" >}}
+{{< tip "warning" >}}
+Try out our new look [here](https://solve.bhmystery.com/testsite/) ... video below to see what's new!
+{{< /tip >}}
+[https://solve.bhmystery.com/testsite/](https://solve.bhmystery.com/testsite/)
+{{< shortyt id=fxXEby2M3cI >}}
+{{< /column >}}
 
+
+---
 
 
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
