@@ -15,7 +15,10 @@ Tags: ["Secrets and Mysteries","Lore","Detective"]
 
 This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
 
-{{< column "post-vid-dot" >}}
+
+
+{{< column "grid-2 post-vid-dot" >}}
+{{< column "grid-1" >}}
 {{< tip "warning" >}}
 Try out our new look [here](https://solve.bhmystery.com/testsite/) ... video below to see what's new!
 {{< /tip >}}
@@ -23,6 +26,17 @@ Try out our new look [here](https://solve.bhmystery.com/testsite/) ... video bel
 {{< shortyt id=fxXEby2M3cI >}}
 {{< /column >}}
 
+
+{{< column "grid-1" >}}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsXk1NY5J9xfxXdIc247d2uNEds1GTqXliiBdkAs3nKsmuwQ/viewform?embedded=true" display="block" style="
+    padding: 5px;
+    width: 100%;
+    min-height: 800px;
+    height: auto;
+    margin: 0 auto;">Loading…</iframe>
+{{< /column >}}
+
+{{< /column >}}
 
 ---
 

@@ -1,13 +1,12 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 # Check https://gohugo.io/hosting-and-deployment/hosting-on-github/ for updates
-name: Deploy Hugo site to Pages
+name: Main Branch Deploy
 
 on:
   # Runs on pushes targeting the default branch
   push:
     branches:
       - main
-      - testsite
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -53,6 +52,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Set IndexNow Test Site
+        env: 
+          INDEXNOW: ${{ secrets.INDEXNOW }}
+        run: |
+          echo -n "$INDEXNOW" > content/$INDEXNOW.txt
       - name: Build Test Site with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -93,10 +97,15 @@ jobs:
             --minify \
             --baseURL "https://solve.bhmystery.com/" \
             -d $TEMP/public
-      - name: Clean up robot.txt
+      # - name: Clean up robot.txt
+      #   env:
+      #     TEMP: ${{ runner.temp }}
+      #   run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
+      - name: Check Index
         env:
           TEMP: ${{ runner.temp }}
-        run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
+          INDEXNOW: ${{ secrets.INDEXNOW }}
+        run: "cp $TEMP/public/$INDEXNOW.txt $TEMP/public/testsite/$INDEXNOW.txt"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
