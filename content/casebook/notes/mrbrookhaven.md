@@ -1,5 +1,6 @@
 ---
 title: "Mr.Brookhaven"
+noindex: true
 weight: 3
 draft: false
 description: "All Notes and how to find them that are signed by Mr. Brookhaven."

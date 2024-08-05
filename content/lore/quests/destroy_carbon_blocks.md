@@ -1,5 +1,6 @@
 ---
 title: "Destroy Carbon Blocks"
+noindex: true
 weight: 6
 description: "Find and destroy 7 carbon blocks of life."
 

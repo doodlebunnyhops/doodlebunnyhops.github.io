@@ -3,6 +3,7 @@ author: "BloominDaisy"
 date: 2024-05-24
 hidden: true
 title: "Golfers Retreat"
+noindex: true
 images:
 -  https://tr.rbxcdn.com/cfcc18f30dc351fb613633b2c926520f/768/432/Image/Png
 images:

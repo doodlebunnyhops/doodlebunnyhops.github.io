@@ -1,5 +1,6 @@
 ---
 title: "Terminology"
+noindex: true
 weight: 4
 description: "Word definitions used throughout this guide for Brookhaven RP secrets and mysteries."
 # aliases:

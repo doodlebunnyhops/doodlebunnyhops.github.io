@@ -1,5 +1,6 @@
 ---
 title: "Build Portal"
+noindex: true
 weight: 7
 description: "How to build the portal beneath Eagle View."
 

@@ -1,5 +1,6 @@
 ---
 title: "Green Key Card"
+noindex: true
 weight: 8
 description: "How to get the Green Key Card and where to use it in the Agency Bunker."
 ---
