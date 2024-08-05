@@ -102,6 +102,11 @@ jobs:
       #   env:
       #     TEMP: ${{ runner.temp }}
       #   run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
+      - name: Check Index
+        env:
+          TEMP: ${{ runner.temp }}
+          INDEXNOW: ${{ secrets.INDEXNOW }}
+        run: "cp $TEMP/public/$INDEXNOW.txt $TEMP/public/testsite/$INDEXNOW.txt"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
