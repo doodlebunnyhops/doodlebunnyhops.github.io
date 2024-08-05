@@ -44,8 +44,8 @@ jobs:
         run: sudo snap install dart-sass
       - name: Checkout testsite
         uses: actions/checkout@v4
-        ref: testsite
         with:
+          ref: testsite
           submodules: recursive
           fetch-depth: 0
       - name: Setup Test Site Pages
@@ -66,8 +66,8 @@ jobs:
             -d ./public/testsite
       - name: Checkout Main
         uses: actions/checkout@v4
-        ref: main
         with:
+          ref: main
           submodules: recursive
           fetch-depth: 0
       - name: Setup Main Site Pages
