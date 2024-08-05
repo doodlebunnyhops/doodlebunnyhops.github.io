@@ -1,8 +1,10 @@
 ---
 author: "BloominDaisy"
 date: 2023-04-14
+hidden: true
 title: "Survival Update"
-image: https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
 description: "Brookhaven Update: Survival Role Play"
 ---
 
@@ -21,7 +23,7 @@ A note has been found under the stairs and it's... from Madison!
 
 Want to see how to get to the safe and the note from Madison? Here's a clip from [XdarzethX](https://www.youtube.com/@XdarzethX)
 
-{{< youtube "fDlhailroCs" >}}
+{{< youtube id=fDlhailroCs loading=lazy >}}
 
 Time for me to hide out hehe
 

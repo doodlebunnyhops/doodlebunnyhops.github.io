@@ -3,7 +3,7 @@ title: "Church"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Church location view and related secrets"
-image: images/maps/church.jpg
+
 images:
 - images/maps/church.jpg
 Categories: ["point of interest","map"]
@@ -14,13 +14,13 @@ draft: false
 
 Mr.Brookhaven's picture is hidden inside a coffin in the church, along with an energy pyramid in the attic. What is Mr.Brookhaven trying to tell us? And why does ringing the church bell summon doves?
 
-{{< zoom id="zoom-default" src="/images/maps/church.jpg" alt="view of Church" >}}
+![view of Church](/images/maps/church.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/church.png" alt="Location of Church" >}}
+![Location of Church](/images/maps/church.png)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -35,5 +35,5 @@ Mr.Brookhaven's picture is hidden inside a coffin in the church, along with an e
 
 ### Related Quests
 
-- [Connect Laptop](/lore/tools/#connect-laptop)
-- [How to get an Energy Pyramid](/lore/special_tools/#energy-pyramid)
+- [Connect Laptop](/lore/tools/connect_laptop)
+- [How to get an Energy Pyramid](/lore/special_tools/energy_pyramid)

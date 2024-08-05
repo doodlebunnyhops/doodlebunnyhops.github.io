@@ -1,8 +1,10 @@
 ---
 author: "BloominDaisy"
 date: 2023-06-23
+hidden: true
 title: "Military Estate and more!"
-image: https://tr.rbxcdn.com/12205ae2bd08d5682a2f8b8978d774a3/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/12205ae2bd08d5682a2f8b8978d774a3/768/432/Image/Png
 description: "Brookhaven Update: New Estate Pass Military Base "
 ---
 
@@ -14,14 +16,14 @@ Premium users rejoice! There are some new paid content on Brookhaven...and a jet
 
 New House! with a hidden room <span class="nowrap"><span class="emojify">💕</span>
 
-{{< youtube "Eeo1bu2tt-k" >}}
+{{< youtube id=Eeo1bu2tt-k loading=lazy >}}
 
 
 ### **Estate Pass**: 
 
 Military Base, with rockets that launch and a safe location that took the community some time to break into but they got there. Here's how to get into the safe and back out :D
 
-{{< youtube "DmI_978Poz0" >}}
+{{< youtube id=DmI_978Poz0 loading=lazy >}}
 
 
 

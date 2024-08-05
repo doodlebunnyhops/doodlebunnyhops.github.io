@@ -11,9 +11,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Survival RP House
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -26,9 +26,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Barn
 
-{{< tip >}}
-**Requirements** : [TS Level 1](/lore/special_tools/#ts-level-1)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [TS Level 1](/lore/special_tools/ts_level_1)
+{{% /notice %}}
 
 **Steps:**
 
@@ -40,9 +40,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Abandoned House
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 

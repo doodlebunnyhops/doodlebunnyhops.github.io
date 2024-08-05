@@ -13,11 +13,6 @@ aliases:
 ## Lake Madison Camera
 _We met in secret_
 
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
-
 **Steps:**
 
 1. Click on the Camera on the mountain near Lake Madison. 
@@ -31,11 +26,6 @@ _We met in secret_
 ## Plant RP House Book
 _The bottom of a hill..._
  
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
-
 **Steps:**
 
 1. Spawn the Plant House
@@ -50,11 +40,6 @@ _The bottom of a hill..._
 ## Military RP Binoculars
 _Within the green..._
  
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
-
 **Steps:**
 
 1. Spawn the Military RP House

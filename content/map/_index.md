@@ -3,7 +3,7 @@ title: "Map"
 weight: 3
 description: "Interactive Maps of Brookhaven"
 tags: ["map"]
-image: images/maps/poi.svg
+
 images:
 - images/maps/poi.svg
 date: 2024-01-01
@@ -16,37 +16,31 @@ Navigating all the places around Brookhaven can be a challenge if you don't know
 This section has broken down the map for easier traveling during your investigation. 
 
 
-{{< button "poi" "View Map" >}}
-
----
-
-{{< expand "Table Of Contents" >}} 
-{{< children depth=5 sort="Weight"/>}}
-{{< /expand >}}
+{{% button href="poi" style="green" %}}View Map{{% /button %}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map Types
 
-{{< tabs "tabsId" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "Points of Interest" >}}
+{{% tab title="Points of Interest" %}}
 This map provides an arial view of locations used throughout quests along with related quests or casebook items found at that location.
 
-{{< button "poi" "Points of Interest" >}}
-{{< /tab >}}
+{{% button href="poi" style="green" %}}Points of Interest{{% /button %}}
+{{% /tab %}}
 
-{{< tab "More to Come!" >}}
+{{% tab title="More to Come!" %}}
 
-{{< tip "warning" >}}
+{{% notice style="warning" %}}
 Coming soon: 
 
 - Carbon Block Locations
 - Crystal Locations
 - Dove Locations
-{{< /tip >}}
+{{% /notice %}}
 
-{{< /tab >}}
+{{% /tab %}}
 
 {{< /tabs >}}
 
@@ -56,8 +50,8 @@ Coming soon:
 
 These maps are interactive, you can click on areas that are outlined to see more details about that location.
 
-{{< tip "warning" >}}
+{{% notice style="warning" %}}
 There are a lot of locations to cover, keep in mind only a couple of locations have details right now. Thanks for your patience!
-{{< /tip >}}
+{{% /notice %}}
 
 ---

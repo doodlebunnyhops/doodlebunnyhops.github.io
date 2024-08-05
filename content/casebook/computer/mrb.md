@@ -2,7 +2,7 @@
 title: "Mr. B"
 weight: 2
 draft: false
-description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Secrets and Mysteries."
+description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."
 ---
 
 
@@ -10,9 +10,9 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 
 ## Use This Key Wisely
 
-{{< tip >}}
-**Requirements** : [Green Key Card ](/lore/special_tools/#green-key-card)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Green Key Card ](/lore/special_tools/green_key_card)
+{{% /notice %}}
 
 **Steps:**
 
@@ -26,9 +26,9 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 
 ## Crystal Hunt Begins
 
-{{< tip >}}
-**Requirements** : Start [Find 7 Crystals](/lore/quests/#find-7-crystals)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Start [Find 7 Crystals](/lore/quests/find_7_crystals)
+{{% /notice %}}
 
 **Steps:**
 
@@ -42,9 +42,9 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 
 ## Crystal Guidance
 
-{{< tip >}}
-**Requirements** : [Energy Pyramid](/lore/special_tools/#energy-pyramid)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Energy Pyramid](/lore/special_tools/energy_pyramid)
+{{% /notice %}}
 
 **Steps:**
 
@@ -58,9 +58,9 @@ description: "All Messages provided on the laptop from Mr. B in Brookhaven RP Se
 
 ## Future Double Agent
 
-{{< tip >}}
-**Requirements** : [Chair Room](/lore/quests/#chair-room)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Chair Room](/lore/quests/chair_room)
+{{% /notice %}}
 
 **Steps:**
 

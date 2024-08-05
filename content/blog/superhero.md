@@ -1,10 +1,12 @@
 ---
 author: "BloominDaisy"
 date: 2024-04-26
+hidden: true
 title: "Superhero"
-image: https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
-images: 
-- https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
 description: "Brookhaven Update: New Superhero Role Play house"
 draft: false
 ---
@@ -32,16 +34,13 @@ Calling all Superhero's of Brookahven! We need your alliance in keeping us safe 
 ### YouTube Reviews 
 Both offer how to get to the Safe Location.
 
-{{< column "grid-2 post-vid" >}}
-{{< column "grid-1" >}}
-**Darzeth:** {{< liteyoutube "_SwUgwe1VtM" >}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
+
+**Darzeth:** <div class="grid-1">{{< youtube id=_SwUgwe1VtM loading=lazy >}}</div>
 
 
-{{< column "grid-1" >}}
-**O1G:** {{< liteyoutube "gHcjrasgClY" >}}
-{{< /column>}}
-{{< /column>}}
+**O1G:** <div class="grid-1">{{< youtube id=gHcjrasgClY loading=lazy >}}</div>
+</div>
 
 <hr style="background-color: #28b44c" size=8 class="post-block">
 

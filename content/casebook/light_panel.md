@@ -2,7 +2,7 @@
 title: "Agency Light Panel"
 weight: 1
 description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
-image: images/bh/agency_panel_bloomin.jpg
+
 images: 
 - images/bh/panel.jpg
 - images/bh/agency_panel_bloomin.jpg
@@ -79,8 +79,10 @@ dataset1:
     -  
   baseChartOn: 3
   title: Projects
+draft: false
 
 ---
+
 
 The **Agency Light Panel** is commonly looked at during investigations to see if a new light has been triggered which would reveal steps needed to activate that light.
 
@@ -97,13 +99,13 @@ This table shows us what we do know so far. If a light has a link in it, we have
 
 _The exception here is [X22](#x22) - we have a hint about it but no steps to activate it._
 
-{{< tip "warning" >}}
+{{% notice style="warning" %}}
 If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
-{{< /tip >}}
+{{% /notice %}}
 
-{{< grid "3" >}}
+
   {{< myTable "dataset1" "table,noFilter" >}}
-{{< /grid >}}
+
 
 ---
 
@@ -126,8 +128,8 @@ Turning the High Voltage lever on in Town Hall will activate this light.
 
 >Part of following:
 >
->- [Destroy Carbon Blocks]({{< ref "lore/quests#destroy-carbon-blocks" >}})
->- [School Base]({{< ref "lore/quests#school-base" >}})
+>- [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
+>- [School Base](/lore/quests/school_base)
 
 >**Requirements** : None
 
@@ -147,9 +149,9 @@ Put password in the Brookhaven Electric password panel
 
 >Part of following:
 >
->- [Electric Building]({{< ref "lore/quests#electric-building" >}})
+>- [Electric Building](/lore/quests/electric_building)
 
->**Requirements** : [Blue Key Card]({{< ref "lore/special_tools#blue-key-card" >}})
+>**Requirements** : [Blue Key Card](/lore/special_tools/blue_key_card)
 
 **Steps:**
 
@@ -170,7 +172,7 @@ Flip a switch
 
 >Part of following:
 >
->- [Electric Building]({{< ref "lore/quests#electric-building" >}})
+>- [Electric Building](/lore/quests/electric_building)
 
 >**Requirements** : [A02](#a02)
 
@@ -180,11 +182,11 @@ Flip a switch
 2. Turn on the right switch: Activates A03
 	1. Bunker Message now reads:
 	
-		`Brookhaven Electric main power on`
+		==Brookhaven Electric main power on==
 
-{{< tip "warning" >}}
+{{% notice style="warning" %}}
 if town hall power switches have been touched the message in Brookhaven Electric it could be different!
-{{< /tip >}}
+{{% /notice %}}
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -194,7 +196,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [Connect Laptop]({{< ref "lore/tools#connect-laptop" >}})
+>- [Connect Laptop](/lore/tools/connect_laptop)
 
 >**Requirements** : [H04](#h04)
 
@@ -211,7 +213,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [Connect Laptop]({{< ref "lore/tools#connect-laptop" >}})
+>- [Connect Laptop](/lore/tools/connect_laptop)
 
 >**Requirements** : [A04](#a04)
 
@@ -229,7 +231,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [School Base]({{< ref "lore/quests#school-base" >}})
+>- [School Base](/lore/quests/school_base)
 
 >**Requirements** : None
 
@@ -245,7 +247,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 **Insignia Unlocked**
 
 
->[Rod in Police Station]({{< ref "lore/quests#rod-in-the-police-station" >}}) goes through same steps.
+>[Rod in Police Station](/lore/quests/rod_in_police_station) goes through same steps.
 
 >**Requirements** : None
 
@@ -255,11 +257,11 @@ if town hall power switches have been touched the message in Brookhaven Electric
 	1. There is a button underneath one of the beds on the Second Floor, click on it
 1. Ring the bell at the Church: Activates [A22](#a22)
 	1. In the Bakery House: where the vault room is, there should be a note now. If you can see the note, now you can find the rod.
-	1. **This step is not required:** At this point you can collect the [Rod Under The Arch]({{< ref "lore/special_tools#rod-under-the-arch" >}}) which activates [H07](#h07).
+	1. **This step is not required:** At this point you can collect the [Rod Under The Arch](/lore/special_tools/rod_under_arch) which activates [H07](#h07).
 1. Go to the Hidden Room in the Jail Cells on the top of the Bunk-bed and through the vent and on the right side in the Police Station.
 1. You should now be able to click on the Rod on the shelf and see a message saying
 
-	`Power Expired`	
+	==Power Expired==	
 	1. Activates A07
 
 <hr style="background-color: #28b44c" size=8>
@@ -269,7 +271,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [Chair Room]({{< ref "lore/quests#chair-room" >}})
+>- [Chair Room](/lore/quests/chair_room)
 
 >**Requirements** : None
 
@@ -288,7 +290,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [Destroy Carbon Blocks]({{< ref "lore/quests#destroy-carbon-blocks" >}})
+>- [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 
 >**Requirements** : None
 
@@ -306,7 +308,7 @@ if town hall power switches have been touched the message in Brookhaven Electric
 
 >Part of following:
 >
->- [School Base]({{< ref "lore/quests#school-base" >}})
+>- [School Base](/lore/quests/school_base)
 
 >**Requirements** : [A17](#a17)
 
@@ -333,7 +335,7 @@ A15 will only activate between 7am-9:37am
 
 >Part of following:
 >
->- Time based event to obtain [Green Key Card]({{< ref "lore/special_tools#green-key-card" >}})
+>- Time based event to obtain [Green Key Card](/lore/special_tools/green_key_card)
 
 
 >**Requirements** : None
@@ -353,7 +355,7 @@ Build a Portal
 
 >Part of following:
 >
->- [Build Portal]({{< ref "lore/quests#build-portal" >}})
+>- [Build Portal](/lore/quests/build_portal)
 
 >**Requirements** : [X02](#x02)
 
@@ -364,7 +366,7 @@ Build a Portal
 	2. When complete you will briefly see an Orb
 		1. Bunker Message: \*note excelerator is misspelled should it be accelerator?\*
  
-			`Hydrogen beam excelerator complete: A16 activated`
+			==Hydrogen beam excelerator complete: A16 activated==
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -376,7 +378,7 @@ Unlocks the Door to the Secret Room on the Roof of the School
 
 >Part of following:
 >
->- [School Base]({{< ref "lore/quests#school-base" >}})
+>- [School Base](/lore/quests/school_base)
 
 >**Requirements:** Order of completion does not matter
 >
@@ -398,7 +400,7 @@ Sit down!
 
 >Part of following:
 >
->- [Monoliths]({{< ref "lore/quests#monoliths" >}})
+>- [Monoliths](/lore/quests/monoliths)
 
 >**Requirements** :
 >
@@ -414,7 +416,7 @@ Sit down!
 	1. Notice interesting script on the guillotine
 	2. Laptop
 	
-		`We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)`
+		==We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)==
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -426,9 +428,9 @@ Hidden Crystals are now Find-able
 
 >Part of following:
 >
->- [Find 7 Crystals]({{< ref "lore/quests#find-7-crystals" >}})
+>- [Find 7 Crystals](/lore/quests/find_7_crystals)
 
->**Requirements** :[TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}})
+>**Requirements** :[TS LVL 1](/lore/special_tools/ts_level_1)
 
 **Steps:**
 
@@ -437,7 +439,7 @@ Hidden Crystals are now Find-able
 	1. _7 Crystals Released_: A19 Activated
 	2. Laptop:
 	
-		`The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)`
+		==The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)==
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -449,7 +451,7 @@ Collecting the crystals to power something
 
 >Part of following:
 >
->- [Find 7 Crystals]({{< ref "lore/quests#find-7-crystals" >}})
+>- [Find 7 Crystals](/lore/quests/find_7_crystals)
 
 >**Requirements** : [A19](#a19)
 
@@ -476,7 +478,7 @@ Unlocks TS LVL 2
 
 >Part of following:
 >
->- To see entire quest go to [Destroy Carbon Blocks]({{< ref "lore/quests#destroy-carbon-blocks" >}})
+>- To see entire quest go to [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 
 >**Requirements** :
 >
@@ -502,7 +504,7 @@ Unlocks TS LVL 2
 2. On completion you will teleport to the Arch by Barn and right hand will glow black
 	1. Laptop:
 	
-		`You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)`
+		==You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)==
 	2. Activates A21
 
 
@@ -513,8 +515,8 @@ Unlocks TS LVL 2
 
 >Part of following:
 >
->- [Rod Under The Arch]({{< ref "lore/special_tools#rod-under-the-arch" >}})
->- [Energy Pyramid]({{< ref "lore/special_tools#energy-pyramid" >}})
+>- [Rod Under The Arch](/lore/special_tools/rod_under_arch)
+>- [Energy Pyramid](/lore/special_tools/energy_pyramid)
 
 >**Requirements** : None
 
@@ -580,7 +582,7 @@ No known Quest uses this trigger
 
 >Part of following:
 >
->- Unlocks secret [Chair Room]({{< ref "lore/quests#chair-room" >}}) in agency bunker
+>- Unlocks secret [Chair Room](/lore/quests/chair_room) in agency bunker
 
 >**Requirements** :
 >
@@ -591,7 +593,7 @@ No known Quest uses this trigger
 
 1. Make sure the Agency Base lights are off
 2. Put the Password in the Base Keypad. The password is **Marcus Brookhaven**
-	1. There is a way to find the password, if curious follow "[What's the password]({{< ref "lore/special_tools#whats-the-password" >}})"
+	1. There is a way to find the password, if curious follow "[What's the password](/lore/special_tools/what_is_the_password)"
 	2. Opens door to the Chair Room, notice the power is off
 	3. Bunker Message now reads:
 		"Inferential delusion mechanism available: A26 activated"
@@ -600,7 +602,7 @@ No known Quest uses this trigger
  New room in Agency Bunker, the "Chair Room" is unlocked.
 1. If Bunker Message reads:
  
-	`Signal disruption: A08 needed to unlock mechanism`
+	==Signal disruption: A08 needed to unlock mechanism==
 	1. Then turn off the Agency Base lights and type the Password again
 
 1. You can turn the lights back on as needed.
@@ -614,9 +616,9 @@ Unlocks ability to Electrocute the Alien
 
 >Part of following:
 >
->- [Mystery Alien]({{< ref "lore/quests#mystery-alien" >}})
+>- [Mystery Alien](/lore/quests/mystery_alien)
 
->**Requirements** : [TS LVL 1]({{< ref "lore/special_tools#ts-level-1" >}})
+>**Requirements** : [TS LVL 1](/lore/special_tools/ts_level_1)
 
 <h3>Activating</h3>
 
@@ -631,10 +633,10 @@ Unlocks ability to Electrocute the Alien
 	1. Turn left switch in TV Station (behind the wall use a Sleeping Bag)
 		1. Laptop
 		
-			`Please do as you are told, the Agency knows what's best for you! (Agency)`
+			==Please do as you are told, the Agency knows what's best for you! (Agency)==
 		2. Bunker Message:
  
-			`In darkness: A27 activated`
+			==In darkness: A27 activated==
 4. Back at [Agency Experimentation Site]() you can now Electrocute the Alien in the tube
 
 <h3>Deactivating</h3>
@@ -644,7 +646,7 @@ Unlocks ability to Electrocute the Alien
 1. Turn the switch off in the hidden room behind the TV Station in the mall from earlier.
 	1. Bunker Message:
 	
-		`See-through / (Crystal) :A27`
+		==See-through / (Crystal) :A27==
 		
 		![See-Through Crystal A27 deactivated](/images/bh/a27_deactivated.jpg)
 
@@ -658,7 +660,7 @@ Reveals a hidden room in the Frat House
 
 >Part of following:
 >
->- [Frat House]({{< ref "lore/quests#frat-house" >}})
+>- [Frat House](/lore/quests/frat_house)
 
 >**Requirements** : None
 
@@ -679,7 +681,7 @@ Unlocks Blue Keypad in the Agency Bunker
 
 >Part of following:
 >
->- [Frat House]({{< ref "lore/quests#frat-house" >}})
+>- [Frat House](/lore/quests/frat_house)
 
 >**Requirements** : [H02](#h02)
 
@@ -698,7 +700,7 @@ Unlocks Blue Keypad in the Agency Bunker
 
 >Part of following:
 >
->- [Connect Laptop]({{< ref "lore/tools#connect-laptop" >}})
+>- [Connect Laptop](/lore/tools/connect_laptop)
 
 >**Requirements** : None
 
@@ -728,11 +730,11 @@ Reveals secret message in Quantum Room
 	1. Activates H06
 	1. Bunker Message:
  
-		`Plant Quantum Saved: [H06]`
+		==Plant Quantum Saved: [H06]==
 		
 3. Quantum Room has new message on one of the "windows":
 
-	`Seek the bottom of a hill to find the dirt that once was filled`
+	==Seek the bottom of a hill to find the dirt that once was filled==
 
 
 
@@ -779,7 +781,7 @@ Gotta cool off the power supply
 
 >Part of following:
 >
->- [Destroy Carbon Blocks]({{< ref "lore/quests#destroy-carbon-blocks" >}})
+>- [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 
 >**Requirements** : None
 
@@ -802,8 +804,8 @@ Burn the evidence
 
 >Part of following:
 >
->- [Build Portal]({{< ref "lore/quests#build-portal" >}})
->- [Ghostly Sighting]({{< ref "lore/quests#ghostly-sighting" >}})
+>- [Build Portal](/lore/quests/build_portal)
+>- [Ghostly Sighting](/lore/quests/ghostly_sighting)
 
 >**Requirements** : None
 
@@ -813,7 +815,7 @@ Burn the evidence
 	1. Unlocks the Hidden Book in Library
 	2. Bunker Message
 	
-		`Agency Knowledge released. [Caution]; [X01] activated`
+		==Agency Knowledge released. [Caution]; [X01] activated==
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -825,7 +827,7 @@ Travel to the past by the power of a book!
 
 >Part of following:
 >
->- [Build Portal]({{< ref "lore/quests#build-portal" >}})
+>- [Build Portal](/lore/quests/build_portal)
 
 >**Requirements** : [X01](#x01)
 
@@ -837,10 +839,10 @@ Travel to the past by the power of a book!
 	3. Click on the Button found behind the Bedside Table
 		1. Laptop
  
-			`The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}`
+			==The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}==
 		1. Bunker Message
  
-			`The Book power unveiled [Follow]: X02 activated`
+			==The Book power unveiled [Follow]: X02 activated==
 
 
 <hr style="background-color: #28b44c" size=8>

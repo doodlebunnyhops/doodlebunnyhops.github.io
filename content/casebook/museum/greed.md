@@ -11,8 +11,8 @@ Is it possible he's still alive and trapped at the grave site?
 
 <h3>Related Quest's involving Greed</h3>
 
-- [Ghostly Sighting](/lore/quests/#ghostly-sighting)
-- [Agency Greed](/lore/quests/#agency-greed)
+- [Ghostly Sighting](/lore/quests/ghostly_sighting)
+- [Agency Greed](/lore/quests/agency_greed)
 
 
 <hr style="background-color: #28b44c" size=8>

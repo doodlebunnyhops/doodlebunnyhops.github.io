@@ -10,9 +10,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Agency Bunker
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [A08](/casebook/light_panel/#a08): Turn Agency Bunker lights off.
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -25,9 +25,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Military RP Home
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -43,9 +43,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Future Hotel Picture
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
@@ -57,9 +57,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Bakery
 
-{{< tip >}}
-**Requirements** : Part of [Rod Under Arch](/lore/special_tools/#rod-under-the-arch) special tool quest.
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Part of [Rod Under Arch](/lore/special_tools/rod_under_arch) special tool quest.
+{{% /notice %}}
 
 **Steps:**
 
@@ -73,9 +73,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Operation REDRIVER
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -83,10 +83,10 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Note in Secret XRAY Room reads Operation REDRIVER Terminated](/images/bh/operation_red_river_note.jpg) 
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Is it pronounced `red river` or `re driver`?
 [Officially](https://discord.com/channels/482308357248647177/870010373976236052/1105193056317218856) it is pronounced Red River
 ![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.jpg)
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>

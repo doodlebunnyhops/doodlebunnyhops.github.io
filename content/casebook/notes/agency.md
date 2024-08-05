@@ -2,11 +2,11 @@
 title: "Agency"
 weight: 1
 draft: false
-description: "All Notes and how to find them that are signed by the Agency in Brookhaven RP Secrets and Mysteries."
+description: "All Notes and how to find them that are signed by the Agency."
 images: 
 - images/bh/agency_greed_comp_message.jpg
 - images/bh/follow_the_book_comp_message.png
-image: bh/agency_greed_comp_message.jpg
+
 ---
 
 Clearly marked with their signature logo with AGENCY written on it, it's clear agents would communicate with notes mostly hidden.
@@ -15,9 +15,9 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 ## Hotel from the Future: Closet
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
@@ -33,9 +33,9 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 While this note doesn't have an Agency stamp on it, it's been widely accepted by the community as a secret message by the Agency.
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
@@ -49,9 +49,9 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 ## Quantum Room
 
-{{< tip >}}
-**Requirements** : [Complete part of Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks) (Get the 7 Carbon Blocks to spawn.)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Complete part of Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks) (Get the 7 Carbon Blocks to spawn.)
+{{% /notice %}}
 
 **Steps:**
 
@@ -64,9 +64,9 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 ## Experimentation Site
 
-{{< tip >}}
-**Requirements** : [TS Level 1](/lore/special_tools/#ts-level-1)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [TS Level 1](/lore/special_tools/ts_level_1)
+{{% /notice %}}
 
 **Steps:**
 

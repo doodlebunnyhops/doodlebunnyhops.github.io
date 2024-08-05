@@ -14,20 +14,19 @@ But what does the steam mean, and why does it only happen when Monoliths appear?
 
 ### Create Steam
 
-{{< tip >}}
-**Requirements** : 
-- Collect: [The Red Book](/lore/special_tools/#the-red-book)
-- Complete: [Monoliths](/lore/quests#monoliths) 
-- Complete: [Electric Building](/lore/quests/#electric-building)
-- Part of [Destroy Carbon Blocks](/lore/quests#destroy-carbon-blocks), described in steps
-{{< /tip >}}
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+- Collect: [The Red Book](/lore/special_tools/the_red_book)
+- Complete: [Monoliths](/lore/quests/monoliths) 
+- Complete: [Electric Building](/lore/quests/electric_building)
+- Part of [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks), described in steps
+{{% /notice %}}
 
 **Steps:**
 
-1. Click on the Camera on the mountain near Madison Lake: Activates [A09](casebook/light_panel#a09)
+1. Click on the Camera on the mountain near Madison Lake: Activates [A09](/casebook/light_panel#a09)
 1. Go to the Town Hall
-	1. Turn on the Danger switch Activates [A01](casebook/light_panel#a01) and make sure High Voltage is off
-	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](casebook/light_panel#v08). Brookhaven Electric will read the following, this is needed! 
+	1. Turn on the Danger switch Activates [A01](/casebook/light_panel#a01) and make sure High Voltage is off
+	2. Turn Water Valve 2,3 and 4 (where counting 1-5 from left to right): Activates: [V08](/casebook/light_panel#v08). Brookhaven Electric will read the following, this is needed! 
 	
 	`Coolers running at 54% capacity`
 1. Go to the Secret X-ray Hideout Room in the Hospital. 
@@ -38,53 +37,51 @@ But what does the steam mean, and why does it only happen when Monoliths appear?
 	1. Steam starts after a Monolith has despawned.
 	1. When steam stops and the floor flashes black, a new monolith has spawned.
 
-{{< tip >}}
+{{% notice style="note" title="Shout Out!" %}}
 
 Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, PhD_socrates specifically for sharing my steps were a little off :D
 
-{{< /tip >}}
+{{% /notice %}}
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related To Monoliths
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Right after the steam stops and the floor flashes black, this means a new Monolith has spawned!
-{{< /tip >}}
+{{% /notice %}}
 
-Checkout locations of [Monoliths](/lore/quests#monoliths).
+Checkout locations of [Monoliths](/lore/quests/monoliths).
 
-{{< liteyoutube "yoVHGsPnZPA" >}}
+{{< youtube id=yoVHGsPnZPA loading=lazy >}}
 
 
-{{< tip >}}
 
-{{< tabs "tabsId" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "Monolith" >}}
+{{% tab title="Monolith" %}}
 When a Monolith Despawns, this is when steam starts in the quantum room.
 
-{{< zoom id="zoom-default" src="/images/bh/monolith-despawning.jpg" alt="Monolith actively despawning, fading away">}}
+![Monolith actively despawning, fading away](/images/bh/monolith-despawning.jpg)
 
 
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "Steam" >}}
+{{% tab title="Steam" %}}
 Why do Monoliths cause steam in here? Is it because of energy building up to create another monolith?
 
-{{< zoom id="zoom-default" src="/images/bh/steam-in-quantum-room.jpg" alt="Steam in Quantum Room after a monolith despawns.">}}
+![Steam in Quantum Room after a monolith despawns.](/images/bh/steam-in-quantum-room.jpg)
 
-{{< /tab >}}
+{{% /tab %}}
 
 
-{{< tab "Floor Flashes" >}}
+{{% tab title="Floor Flashes" %}}
 Once a new monolith has spawned, the floor where steam once was will flash black. 
 
-{{< zoom id="zoom-default" src="/images/bh/quantum-room-floor-flash-black.jpg" alt="Quantum Room Floor Flashes Black when a new Monolith has spawned.">}}
+![Quantum Room Floor Flashes Black when a new Monolith has spawned.](/images/bh/quantum-room-floor-flash-black.jpg)
 
-{{< /tab >}}
+{{% /tab %}}
 {{< /tabs >}}
 
-{{< /tip >}}
 

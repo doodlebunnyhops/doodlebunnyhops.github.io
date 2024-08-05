@@ -28,33 +28,33 @@ Confirming, not only are we going to see a secret update in the future, but this
 
 ### Getting to Secret Cave
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to the Hidden Valley Plot.
 1. There will be a small access into the mountain in the back left side. 
 1. Walk a little ways to the right and you will come across a Rock Door that will open when you approach it
 
-{{< tip >}}
+{{% notice style="tip" %}}
 You can also access this area from Paradise Falls
-{{< /tip >}}
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Light Timing 
 
-{{< liteyoutube "nmyaBHSIpPs" >}}
+{{< youtube id=nmyaBHSIpPs loading=lazy >}}
 
 I took a timelapse to see what time the light appears and how it moves, checkout the vid above!
 
 Notice how at one point it looks like a flag, and then morphs into a triangle, as if it's trying to point us to something. What do you think the secret will be?
 
 {{< expand default="Timelines" icon="🕘" >}} 
-{{< column "grid-2" >}}
 
-{{< column >}}
+
+
 **Day**
 
 Light Appears: 9:10am
@@ -69,9 +69,9 @@ Flag Shape: 1:27pm - 1:45pm
 
 Triangle: 2pm - 2:55pm
 
-{{< /column >}}
 
-{{< column >}}
+
+
 
 **Night**
 
@@ -86,41 +86,41 @@ Triangle Shape: 12:25am - 1:26am
 Flag Shape: 1:27am - 1:45am
 
 Triangle: 2am - 2:55am
-{{< /column >}}
-{{< /column >}}
+
+
 {{< /expand >}}
 
 ---
 
-{{< tabs "tabsId" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "Flag 11:55" >}}
-{{< zoom id="zoom-default" src="/images/bh/cave-light-flag-shape-11_55.jpg" alt="View of Cave Light at 11:55 that resembles the shape of a 1 or flag.">}}
-{{< /tab >}}
+{{% tab title="Flag 11:55" %}}
+![View of Cave Light at 11:55 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-11_55.jpg)
+{{% /tab %}}
 
-{{< tab "Flag 12:16" >}}
-{{< zoom id="zoom-default" src="/images/bh/cave-light-flag-shape-12_16.jpg" alt="View of Cave Light at 12:16 that resembles the shape of a 1 or flag.">}}
-{{< /tab >}}
+{{% tab title="Flag 12:16" %}}
+![View of Cave Light at 12:16 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-12_16.jpg)
+{{% /tab %}}
 
-{{< tab "Triangle 1:10" >}}
-{{< zoom id="zoom-default" src="/images/bh/cave-light-triangle-shape-1_10.jpg" alt="View of Cave Light at 1:10 that resembles the shape of a triangle.">}}
-{{< /tab >}}
+{{% tab title="Triangle 1:10" %}}
+![View of Cave Light at 1:10 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-1_10.jpg)
+{{% /tab %}}
 
-{{< tab "Flag 1:40" >}}
-{{< zoom id="zoom-default" src="/images/bh/cave-light-flag-shape-1_40.jpg" alt="View of Cave Light at 1:40 that resembles the shape of a 1 or flag.">}}
-{{< /tab >}}
+{{% tab title="Flag 1:40" %}}
+![View of Cave Light at 1:40 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-1_40.jpg)
+{{% /tab %}}
 
-{{< tab "Triangle 2:32" >}}
-{{< zoom id="zoom-default" src="/images/bh/cave-light-triangle-shape-2_30.jpg" alt="View of Cave Light at 2:32 that resembles the shape of a triangle.">}}
-{{< /tab >}}
+{{% tab title="Triangle 2:32" %}}
+![View of Cave Light at 2:32 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-2_30.jpg)
+{{% /tab %}}
 
 {{< /tabs >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 
 Thank you [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) community, dripmus and PhD_socrates specifically for calling out better times and that this also happens at night!
 
-{{< /tip >}}
+{{% /notice %}}
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -131,22 +131,21 @@ I noticed while taking pictures and observing times that the shape of the lighti
 
 What do you think?
 
-{{< tip >}}
+{{% notice style="tip" %}}
 You can click on an image to enlarge it.
-{{< /tip>}}
-
-{{< block "post-block-dot" >}}
-{{< column "grid-4" >}}
+{{% /notice %}}
 
 
-{{< zoom id="zoom-default" src="/images/bh/secrets-button-hidden-room-xray.jpg" alt="Secret button under a table in a room behind xray.">}}
 
-{{< zoom id="zoom-default" src="/images/bh/secrets-button-quantum-room-stool.jpg" alt="Secret button under a stool in the Quantum Room">}}
 
-{{< zoom id="zoom-default" src="/images/bh/secrets-button-madison-lake.jpg" alt="Island at Madison Lake resembles Secret Button Shape.">}}
 
-{{< zoom id="zoom-default" src="/images/bh/secrets-button-agency-bunker.jpg" alt="Secret button under table in Agency Bunker">}}
+![Secret button under a table in a room behind xray.](/images/bh/secrets-button-hidden-room-xray.jpg)
 
-{{< zoom id="zoom-default" src="/images/bh/secrets-button-farm.jpg" alt="Secret button on Post found at the Barn.">}}
-{{< /column >}}
-{{< /block >}}
+![Secret button under a stool in the Quantum Room](/images/bh/secrets-button-quantum-room-stool.jpg)
+
+![Island at Madison Lake resembles Secret Button Shape.](/images/bh/secrets-button-madison-lake.jpg)
+
+![Secret button under table in Agency Bunker](/images/bh/secrets-button-agency-bunker.jpg)
+
+![Secret button on Post found at the Barn.](/images/bh/secrets-button-farm.jpg)
+

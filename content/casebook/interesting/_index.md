@@ -7,15 +7,11 @@ description: "Brookhaven RP content on interesting findings in the game that may
 images: 
 - images/bh/no_light_source.jpg
 - images/bh/flag.jpg
-image: bh/no_light_source.jpg
+
 tags: ["Interesting Findings"]
 ---
 
 Interesting findings and observations. Some may not be apart of the lore but there's no way to really know...
 
-- [Observations](observations/)
-- [Under the Fountain](fountain/)
-- [Rocketship](rocketship/)
-- [Camp Cabin](camp_cabin/)
-- [Hidden Valley Cave](hidden_valley_cave/)
-- [Teleporting](teleporting/)
+---
+{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}

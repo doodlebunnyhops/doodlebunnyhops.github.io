@@ -3,7 +3,7 @@ title: "Camp Cabin"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Camp Cabin location view and related secrets"
-image: images/maps/camp_cabin.jpg
+
 images:
 - images/maps/camp_cabin.jpg
 Categories: ["point of interest","map"]
@@ -13,14 +13,14 @@ draft: false
 
 The Camp Cabin is a lovely summer getaway with beach access to Lake Madison and a seasonal slide atop the mountain. But this cabin is a known location for an [Energy Pyramid](/casebook/energy_pyramids/#known-locations) to spawn and a _very_ creepy attic.
 
-{{< zoom id="zoom-default" src="/images/maps/camp_cabin.jpg" alt="view of Camp Cabin" >}}
+![view of Camp Cabin](/images/maps/camp_cabin.jpg)
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/camp-cabin.png" alt="Location of Camp Cabin" >}}
+![Location of Camp Cabin](/images/maps/camp-cabin.png)
 
 <hr style="background-color: #28b44c" size=8>
 

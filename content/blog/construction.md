@@ -1,8 +1,10 @@
 ---
 author: "BloominDaisy"
 date: 2023-08-25
+hidden: true
 title: "Construction Update"
-image: https://tr.rbxcdn.com/4038691457a0a105f2880afbd4198ca4/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/4038691457a0a105f2880afbd4198ca4/768/432/Image/Png
 description: "Brookhaven Update: Construction!"
 draft: false
 ---
@@ -50,4 +52,4 @@ _**Bloomindaisy**_ <span class="nowrap"><span class="emojify">💕</span>
 
 ### Checkout Darzeth's Review here!
 
-{{< youtube "Cybkwfi-b5g" >}}
+{{< youtube id=Cybkwfi-b5g loading=lazy >}}

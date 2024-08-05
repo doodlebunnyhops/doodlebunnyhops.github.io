@@ -1,8 +1,10 @@
 ---
 author: "BloominDaisy"
 date: 2024-06-21
+hidden: true
 title: "Pirates Ahoy!"
-image: https://tr.rbxcdn.com/5c43e8641b9883a17bfa6912e4b6acbb/768/432/Image/Png
+images:
+-  https://tr.rbxcdn.com/5c43e8641b9883a17bfa6912e4b6acbb/768/432/Image/Png
 description: "Brookhaven Update: New Pirate Ships and a new Veterinarian Hospital & Animal Rescue."
 draft: false
 ---
@@ -43,16 +45,13 @@ With 2 new awesome ships we also got some pet updates :D.
 
 ## Sweet Vids!
 
-{{< column "grid-2 post-vid-dot" >}}
-{{< column "grid-1" >}}
-**O1G** {{< liteyoutube "sztzoB9N3OQ" >}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
 
-{{< column "grid-1" >}}
-**Darzeth** {{< liteyoutube "_PvMtMIVjkE" >}}
-{{< /column>}}
+**O1G** <div class="grid-1">{{< youtube id=sztzoB9N3OQ loading=lazy >}}</div>
 
-{{< /column>}}
+
+**Darzeth** <div class="grid-1">{{< youtube id=_PvMtMIVjkE loading=lazy >}}</div>
+</div>
 
 ---
 

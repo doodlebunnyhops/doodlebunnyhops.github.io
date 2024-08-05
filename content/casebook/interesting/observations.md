@@ -2,16 +2,16 @@
 title: "Observations"
 weight: 1
 draft: false
-description: "Observations found in the Brookhaven RP Secrets and Mysteries. May contain observations that haven't been determined as part of the Secrets and Mysteries lore."
+description: "Observations around Brookhaven."
 ---
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Linked Electric & Water
 
-{{< tip >}}
-Refer to Quest: [Electric Building](/lore/quests/#electric-building) to access the building.
-{{< /tip >}}
+{{% notice style="tip" %}}
+Refer to Quest: [Electric Building](/lore/quests/electric_building) to access the building.
+{{% /notice %}}
 
 ### Notes
 
@@ -19,26 +19,26 @@ Electricity Building and Water Pipes in Town Hall, and Camera at Madison Lake ar
 - With Electric Building accessed and right switch turned on:
     - When water levers 2-4 are turned on, the brookhaven electric room still reads “Mainframe unavailable”
     - Once the camera on the mountain near Lake Madison is clicked and Danger is turned on - then it reads “Coolers running at 54% capacity” in Brookhaven Electric
-        - This triggers the carbon blocks to spawn from [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks) quest
+        - This triggers the carbon blocks to spawn from [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks) quest
     - With the above done if you flip on one more water lever, doesn't matter which, then Electricity Building reads "Power Diverted"
-        - Power Diverted message when [Monoliths](/lore/quests/#monoliths) are spawning will trigger [Mysterious Steam](/casebook/quantum/steam/) in the quantum room.
+        - Power Diverted message when [Monoliths](/lore/quests/monoliths) are spawning will trigger [Mysterious Steam](/casebook/quantum/steam/) in the quantum room.
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Paradise Falls Crystal
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
-{{< tabs "tabID" >}}
+{{< tabs title="Click Tab ->" >}}
 
-{{< tab "House to use" >}}
+{{% tab title="House to use" %}}
 This is the house you need to spawn. 
 Upstairs is an attic you can get to, this is where you'll find the crystal needed to attempt syncing your laptop.
 
 ![h04 house, grey 3 roofs](/images/bh/h04-house.jpg)
-{{< /tab >}}
+{{% /tab %}}
 {{< /tabs >}}
 
 **Steps:**
@@ -49,9 +49,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 <hr style="background-color: #28b44c" size=8>
 
 ## TS LVL3 Plaque
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go inside of the Agency Bunker and then place down a Sleeping Bag in this wall to see the TS LVL3 Plaque
@@ -61,9 +61,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 <hr style="background-color: #28b44c" size=8>
 
 ## Energy Ring Panels
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -77,9 +77,9 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 ## Orange Button
 
-{{< tip >}}
-**Requirements** : [Green Key Card](/lore/special_tools/#green-key-card)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Green Key Card](/lore/special_tools/green_key_card)
+{{% /notice %}}
 
 **Steps:**
 

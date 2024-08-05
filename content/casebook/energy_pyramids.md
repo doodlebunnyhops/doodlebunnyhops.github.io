@@ -2,14 +2,14 @@
 title: "Energy Pyramids"
 weight: 2
 description: "How to find Energy Pyramids in Brookhaven RP and what they are used for in Secrets and Mysteries."
-image: images/bh/bloomin_energy_pyramid_fireplace4.jpg
+
 images: 
 - images/bh/bloomin_energy_pyramid3.jpg
 - images/bh/bloomin_energy_pyramid_fireplace4.jpg
 ---
 
 Energy Pyramids can be found all throughout Brookhaven after triggering them to spawn. 
-It's considered a [special tool]({{< ref "/lore/special_tools.md#energy-pyramid" >}}) since it's not available in inventory and can only be obtained after ringing the church bell and then looking for it in one of many locations.
+It's considered a [special tool](/lore/special_tools/energy_pyramid) since it's not available in inventory and can only be obtained after ringing the church bell and then looking for it in one of many locations.
 
 Always a pair of doves will call near the energy pyramid to help guide you to the energy crystal's location. 
 
@@ -43,7 +43,7 @@ So far I haven't identified any pattern. Though some locations seem to get the d
 
 I have personally set out to test secrets and findings. These are locations I've seen first hand.
 
-{{< youtube "W3tRmp_qnuI" >}}
+{{< youtube id=W3tRmp_qnuI loading=lazy >}}
 
 1. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
 2. **Hotel**: Spawns in the Storage Closet in the office. 

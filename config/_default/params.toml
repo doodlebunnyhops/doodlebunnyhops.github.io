@@ -1,9 +1,20 @@
-# use the setting below to set multiple docs directories.
-docSections = ["casebook","interesting","terminology","lore","slides","tools","quests","contribute","map","about"]
+# By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
+# iconsPath = 'icons/'
+otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
-uniqueHomePage = true # change to false to add sidebar to homepage
+disableSearch = false
+disableSearchHiddenPages = false
+themeVariant = ['auto','relearn-light','relearn-dark']
+disableExplicitIndexURLs = true
+collapsibleMenu = true
+disableInlineCopyToClipBoard = true
+disableLandingPageButton = false
 
-blogDir = "blog" # can be posts, blog e.t.c
+alwaysopen = false
+showVisitedLinks = false
+
+### Compose
+blogDir = "blog"
 
 repo = "https://github.com/doodlebunnyhops/doodlebunnyhops.github.io"
 
@@ -22,48 +33,13 @@ enableCopyright = false
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
 numberOfTagsShown = 14
-otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
-
-# search
-[search]
-on = true
-global = true # turn to `true` to enable global search
-[search.algolia]
-enable = false # if false search will default to fusejs
-id = "none" # Application ID
-index = "none" # Index name
-key = "none" # Search-Only API Key
 
 # Site logo
 [logo]
-#  lightMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
-#  darkMode = "https://tr.rbxcdn.com/a603cf9abbda206941c2ec4c9a8d9dcf/75/75/Avatar/Png"
   lightMode = "/images/house-with-garden_5.png"
   darkMode = "/images/house-with-garden_5.png"
 
-[[source]]
-  name = "GitHub"
-  iconLight = "images/GitHubMarkLight.svg"
-  iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/doodlebunnyhops/doodlebunnyhops.github.io"
-
-[[source]]
-  iconLight = "images/XMarkLight.svg"
-  iconDark = "images/XMarkDark.svg"
-  name = "x"
-  url = "https://x.com/SolveBHMystery"
-
-[[source]]
-  iconLight = "images/Reddit_Mark_OnWhite@2x.png"
-  iconDark = "images/Reddit_Mark_OnWhite@2x.png"
-  name = "reddit"
-  url = "https://www.reddit.com/r/BrookhavenRPSecrets/"
-
-# optional
-# attribution. Feel free to delete this
 [author]
   name = "Bloomindaisy"
 
-
-
-
+allowRobot = false

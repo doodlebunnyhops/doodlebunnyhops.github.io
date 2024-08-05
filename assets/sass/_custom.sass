@@ -1,200 +1,60 @@
-//Makes Menu Items easier to distinguish
-.section
-  &_title
-    font-size: 1.25rem
-  &_link
-    font-size: 0.9rem
-    font-weight: 400
-
-//Fixes Table in Body Content breaking Aside Menu, or use myTable shortcode
-//.aside
-//  min-width: min-content
-
-// SVG 
-rect.rectClass
-  stroke: rgb(255, 0, 0)
-  stroke-width: 4px
-  fill: rgb(255, 255, 255)
-  fill-opacity: 0
-
-circle.circleClass
-  stroke: #006600
-  fill: #cc0000
-
-rect.rectClass:hover
-  fill: red
-  fill-opacity: .3
-
-// Fix for medium zoom to fade element
-.tip::before
-  z-index: unset
-
-
-//Expand
-
-.expand-content
-  padding: 0.75rem 1.25rem
-  border-color: var(--theme)
-  border-style: solid
-  border-width: 2px
-  border-radius: 0.25rem
-  display: none
-  order: 2
-  width: fit-content
-  margin-top: 10px
-
-  div.expand-li
-    padding: 0.75rem 1.25rem
-    background: var(--haze)
-    border-style: none
-    border-width: 2px
-    border-radius: 0.25rem
-    display: block
-    order: 2
-    width: fit-content
-    padding: 1rem
-    quotes: "“" "”" "‘" "’"
-    margin: 0.75rem 0
-    background-repeat: no-repeat
-    background-size: 5rem
-    background-position: 50% 50%
-    position: relative
-    background-color: var(--accent)
-    overflow: hidden
-    &::before
-      content: ""
-      padding: 2px
-      position: absolute
-      top: 0
-      bottom: 0
-      left: 0
-      background: var(--theme)
-
-.image-container 
-  position: relative
-  display: inline-block
-  opacity: 100%
-  &:hover
-    opacity: 80%
-
-
-.image-container img 
-  width: auto
-  max-height: 150px
-  height: auto
-  border-radius: 0.25rem
-  border-style: dotted
-  display: inline-block
-  padding: 0.75rem 1.25rem
-
-
-.overlay-text 
-  position: absolute
-  left: 0
-  font-size: 20px
-
-  background-color: var(--theme)
-  color: var(--light)
-  border-radius: 0.25rem
-  display: inline-block
-  padding: 0.75rem 1.25rem
-  text-align: center
-
-//add alert tip
-
-.tip_alert
-  --theme: #b80b0b
-
-.tip_alert::before
-    transform: rotate(180deg)
-
-//tabs redo
-
-.tabs
-  display: flex
-  flex-wrap: wrap
-  margin: 2rem 0 2rem 0
-  position: relative
-  //@media  screen and (min-width: 557px)
-    //max-width: 25rem
-
-  &.tabs-left
-    justify-content: flex-start
-
-    label.tab-label
-      margin-right: 0.5rem
-
-    .tab-content
-      border-radius: 0px 6px 6px 6px
-
-  &.tabs-right
-    justify-content: flex-end
-
-    label.tab-label
-      margin-left: 0.5rem
-
-    .tab-content
-      border-radius: 6px 6px 6px 6px
-
-  input.tab-input
-    display: none
-
-  label.tab-label
-    background-color: var(--accent) transparent
-    border-color: var(--theme)
-    border-radius: 6px 6px 0px 0px
-    border-style: solid
-    border-bottom-style: hidden
-    border-width: 2px
-    cursor: pointer
-    display: inline-block
-    order: 1
-    padding: 0.75rem 1.25rem
-    position: relative
-    text-align: center
-    top: 2px
-    user-select: none
-    &:hover
-      opacity: 0.84
-    & + &
-      background-color: var(--haze)
-      color: var(--dark)
-    &_grid
-      display: grid
-      max-width: 15rem
-      grid-gap: 1rem
-      grid-template-columns: repeat( auto-fit, minmax(12rem, 1fr) )
-      @media  screen and (min-width: 557px)
-        max-width: 25rem
-
-  input.tab-input:checked + label.tab-label
-    background-color: var(--theme)
-    border-color: var(--theme)
-    color: var(--light)
-    border-radius: 0.25rem
-    display: inline-block
-    padding: 0.75rem 1.25rem
-    text-align: center
-    & + &
-      background-color: var(--haze)
-      color: var(--dark)
-    &_grid
-      display: grid
-      max-width: 15rem
-      grid-gap: 1rem
-      grid-template-columns: repeat( auto-fit, minmax(12rem, 1fr) )
-      @media  screen and (min-width: 557px)
-        max-width: 25rem
-
-  .tab-content
-    background-color: var(--accent)
-    border-color: var(--theme)
-    border-style: solid
-    border-width: 2px
-    display: none
-    order: 2
-    padding: 1rem
+.wrap
+  max-width: 1240px
+  @media screen and (min-width: 1640px)
+    max-width: 1600px
+  &, &
     width: 100%
+    padding: 0 25px
+    margin: 0 auto
+
+@for $i from 1 through 8
+  $size: $i * 1.5rem
+  $x-size: $size * 0.5
+  .pt-#{$i}
+    padding-top: $size
+
+  .pb-#{$i}
+    padding-bottom: $size
+
+  .mt-#{$i}
+    margin-top: $size
+
+  .mb-#{$i}
+    margin-bottom: $size
+    
+%grid
+  display: grid
+  grid-template-columns: 1fr
+
+[class*='grid-']
+  grid-gap: 2rem
+
+.grid-2, .grid-3, .grid-4, .grid-auto, .grid-reverse
+  @extend %grid
+
+@media screen and (min-width: 42rem)
+  .grid-auto
+    grid-template-columns: 2fr 5fr
+
+  .grid-reverse
+    grid-template-columns: 3fr 1fr
+
+  .grid-2
+    grid-template-columns: repeat(2, 1fr)
+
+  .grid-3
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr))
+
+  .grid-4
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr))
+
+
+.chart
+  display: grid
+  grid-gap: 1.5rem
+  min-width: 0
+  max-width: 98vw !important
+  max-height: 98vw !important
 
 
 //Fix Video in position
@@ -228,3 +88,23 @@ rect.rectClass:hover
     display: flex
     align-items: center
     padding: 0.75rem 1.25rem
+
+
+// SVG 
+rect.rectClass
+  stroke: rgb(255, 0, 0)
+  stroke-width: 4px
+  fill: rgb(255, 255, 255)
+  fill-opacity: 0
+
+circle.circleClass
+  stroke: #006600
+  fill: #cc0000
+
+rect.rectClass:hover
+  fill: red
+  fill-opacity: .3
+
+// Fix for medium zoom to fade element
+.tip::before
+  z-index: unset
