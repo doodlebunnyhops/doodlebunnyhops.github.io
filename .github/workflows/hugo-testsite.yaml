@@ -58,12 +58,13 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          TEMP: ${{ runner.temp }}
         run: |
           hugo \
             --gc \
             --minify \
             --baseURL "https://solve.bhmystery.com/testsite/" \
-            -d $HOME/public/testsite
+            -d $TEMP/public/testsite
       - name: Checkout Main
         uses: actions/checkout@v4
         with:
@@ -85,18 +86,21 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          TEMP: ${{ runner.temp }}
         run: |
           hugo \
             --gc \
             --minify \
             --baseURL "https://solve.bhmystery.com/" \
-            -d $HOME/public
+            -d $TEMP/public
       - name: Clean up robot.txt
-        run: "cat $HOME/public/testsite/robots.txt >> $HOME/public/robot.txt && cd $HOME && ls -ltr public"
+        env:
+          TEMP: ${{ runner.temp }}
+        run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ~/public
+          path: ${{ runner.temp }}/public
 
   # Deployment job
   deploy:
