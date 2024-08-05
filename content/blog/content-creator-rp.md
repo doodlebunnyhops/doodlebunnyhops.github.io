@@ -3,6 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-30
 hidden: true
 title: "Content Creator House!"
+noindex: true
 images:
 -  https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
 description: "Brookhaven Update: New Content Creator Role Play House"

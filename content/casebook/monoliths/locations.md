@@ -1,5 +1,6 @@
 ---
 title: "Locations"
+noindex: true
 weight: 1
 description: "Locations for all monoliths"
 ---

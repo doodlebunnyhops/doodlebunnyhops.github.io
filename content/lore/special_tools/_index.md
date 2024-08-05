@@ -1,5 +1,6 @@
 ---
 title: "Special Tools"
+noindex: true
 weight: 2
 description: "Tools not found in inventory of Brookhaven RP used in Secrets and Mysteries and how to get them."
 ---

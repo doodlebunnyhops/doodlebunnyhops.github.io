@@ -1,5 +1,6 @@
 ---
 title: "Rod Under the Arch"
+noindex: true
 weight: 5
 description: "How to get the hidden rod."
 ---

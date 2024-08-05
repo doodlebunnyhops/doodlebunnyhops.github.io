@@ -1,5 +1,6 @@
 ---
 title: "Library"
+noindex: true
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Library location view and related secrets"

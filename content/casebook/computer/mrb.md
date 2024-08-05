@@ -1,5 +1,6 @@
 ---
 title: "Mr. B"
+noindex: true
 weight: 2
 draft: false
 description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."

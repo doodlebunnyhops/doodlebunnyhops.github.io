@@ -1,5 +1,6 @@
 ---
 title: "Greed"
+noindex: true
 weight: 2
 description: "Greed is the Agency Creator, judge, and money hungry. possibly still alive in the grave."
 --- 

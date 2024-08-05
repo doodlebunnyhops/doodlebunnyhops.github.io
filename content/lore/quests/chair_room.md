@@ -1,5 +1,6 @@
 ---
 title: "Chair Room"
+noindex: true
 weight: 13
 description: "Unlock the hidden chair room at the Agency Bunker."
 ---

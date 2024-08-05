@@ -1,5 +1,6 @@
 ---
 title: "What's the Password"
+noindex: true
 weight: 7
 description: "How to find the password to the panel in the agency bunker."
 ---

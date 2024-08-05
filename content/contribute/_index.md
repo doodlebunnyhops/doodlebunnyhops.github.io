@@ -1,5 +1,6 @@
 ---
 title: "Contribute"
+noindex: true
 weight: 6
 description: "How to guide to submit requests to this site for Brookhaven RP Secrets and mysteries or ask questions about this site."
 aliases:

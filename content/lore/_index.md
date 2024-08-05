@@ -1,5 +1,6 @@
 ---
 title: "Lore"
+noindex: true
 weight: 1
 description: "Walkthrough guide to unlocking all the currently known secrets and mysteries found in Brookhaven RP."
 

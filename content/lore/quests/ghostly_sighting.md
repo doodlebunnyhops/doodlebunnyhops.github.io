@@ -1,5 +1,6 @@
 ---
 title: "Ghostly Sighting"
+noindex: true
 weight: 9
 description: "How to see the ghost of greed in the museum."
 

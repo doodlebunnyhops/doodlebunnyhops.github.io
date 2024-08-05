@@ -1,5 +1,6 @@
 ---
 title: "Other Special Messages"
+noindex: true
 weight: 10
 draft: false
 description: "Special Messages by Wolfpaq likely not to be related to lore in Brookhaven RP."

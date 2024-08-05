@@ -1,5 +1,6 @@
 ---
 title: "Knight of the Castle"
+noindex: true
 weight: 15
 description: "Find notes and a key inside the castle."
 ---

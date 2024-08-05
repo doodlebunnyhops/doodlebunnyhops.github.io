@@ -1,5 +1,6 @@
 ---
 title: "Horse Stable"
+noindex: true
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Horse Stable location view and related secrets"

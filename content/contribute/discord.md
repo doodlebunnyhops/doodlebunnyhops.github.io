@@ -1,5 +1,6 @@
 ---
 title: "Chat on Discord"
+noindex: true
 weight: 2
 description: "Discord Channel for Brookhaven RP Secrets and Mysteries by Wolfpaq"
 hidden: true

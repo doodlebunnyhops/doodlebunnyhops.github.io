@@ -3,6 +3,7 @@ author: "BloominDaisy"
 date: 2023-04-14
 hidden: true
 title: "Survival Update"
+noindex: true
 images:
 -  https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
 description: "Brookhaven Update: Survival Role Play"

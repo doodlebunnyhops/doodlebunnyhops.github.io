@@ -1,5 +1,6 @@
 ---
 title: "Teleporting"
+noindex: true
 weight: 6
 draft: false
 description: "How to trigger teleporting."

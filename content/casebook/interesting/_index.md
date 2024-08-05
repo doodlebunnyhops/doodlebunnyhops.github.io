@@ -1,5 +1,6 @@
 ---
 title: "Interesting Findings"
+noindex: true
 weight: 70
 draft: false
 date: 2023-05-31

@@ -1,5 +1,6 @@
 ---
 title: "Energy Pyramid"
+noindex: true
 weight: 6
 description: "Get the Energy Pyramid from the doves."
 ---

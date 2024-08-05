@@ -1,5 +1,6 @@
 ---
 title: "Madison"
+noindex: true
 weight: 4
 draft: false
 description: "All Notes and how to find them that are signed by Madison in Brookhaven RP Secrets and Mysteries."

@@ -93,10 +93,10 @@ jobs:
             --minify \
             --baseURL "https://solve.bhmystery.com/" \
             -d $TEMP/public
-      - name: Clean up robot.txt
-        env:
-          TEMP: ${{ runner.temp }}
-        run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
+      # - name: Clean up robot.txt
+      #   env:
+      #     TEMP: ${{ runner.temp }}
+      #   run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
