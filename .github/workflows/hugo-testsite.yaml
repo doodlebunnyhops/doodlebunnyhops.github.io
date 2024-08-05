@@ -1,6 +1,6 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 # Check https://gohugo.io/hosting-and-deployment/hosting-on-github/ for updates
-name: Deploy Hugo site to Pages
+name: TestSite Branch Deploy
 
 on:
   # Runs on pushes targeting the default branch
@@ -53,6 +53,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Set IndexNow Test Site
+        env: 
+          INDEXNOW: ${{ secrets.INDEXNOW }}
+        run: |
+          echo -n "$INDEXNOW" > content/$INDEXNOW.txt
       - name: Build Test Site with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
