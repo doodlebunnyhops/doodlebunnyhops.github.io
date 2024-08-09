@@ -11,7 +11,7 @@ We are an a quest to find 7 crystals!
 
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Side Quest** : [TS LVL 1](/lore/special_tools/ts_level_1)
+**Side Quest** : [TS LVL 1](/lore/special_tools/ts_lvl1)
 {{% /notice %}}
 
 **Steps:**

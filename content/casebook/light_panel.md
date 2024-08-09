@@ -432,7 +432,7 @@ Hidden Crystals are now Find-able
 >
 >- [Find 7 Crystals](/lore/quests/find_7_crystals)
 
->**Requirements** :[TS LVL 1](/lore/special_tools/ts_level_1)
+>**Requirements** :[TS LVL 1](/lore/special_tools/ts_lvl1)
 
 **Steps:**
 
@@ -620,7 +620,7 @@ Unlocks ability to Electrocute the Alien
 >
 >- [Mystery Alien](/lore/quests/mystery_alien)
 
->**Requirements** : [TS LVL 1](/lore/special_tools/ts_level_1)
+>**Requirements** : [TS LVL 1](/lore/special_tools/ts_lvl1)
 
 <h3>Activating</h3>
 

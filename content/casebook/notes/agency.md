@@ -66,7 +66,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 ## Experimentation Site
 
 {{% notice style="tip" %}}
-**Requirements** : [TS Level 1](/lore/special_tools/ts_level_1)
+**Requirements** : [TS Level 1](/lore/special_tools/ts_lvl1)
 {{% /notice %}}
 
 **Steps:**
