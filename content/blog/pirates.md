@@ -1,11 +1,11 @@
 ---
 author: "BloominDaisy"
 date: 2024-06-21
-hidden: true
 title: "Pirates Ahoy!"
 noindex: true
-images:
--  https://tr.rbxcdn.com/5c43e8641b9883a17bfa6912e4b6acbb/768/432/Image/Png
+archetype: "blog"
+hidden: true
+imagecust: https://tr.rbxcdn.com/5c43e8641b9883a17bfa6912e4b6acbb/768/432/Image/Png
 description: "Brookhaven Update: New Pirate Ships and a new Veterinarian Hospital & Animal Rescue."
 draft: false
 ---

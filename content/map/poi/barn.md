@@ -32,5 +32,5 @@ The Brookhaven Barn, located next to the Horse Stables, hides a note and a myste
 
 ### Related Quests
 
-- [TS Level 1](/lore/special_tools/ts_level_1)
+- [TS Level 1](/lore/special_tools/ts_lvl1)
 - [Find 7 Crystals](/lore/quests/find_7_crystals)

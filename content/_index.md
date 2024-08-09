@@ -8,20 +8,19 @@ images:
 - images/thumbnails/portal_update.png
 Categories: ["Brookhaven RP","Brookhaven Mystery", "Roblox"]
 Tags: ["Secrets and Mysteries","Lore","Detective"]
+archetype: "home"
 ---
-
-
-<hr style="background-color: #28b44c" size=8>
 
 # Can you solve the **Mystery** of Brookhaven?
 
-This is the unofficial guide to the ROBLOX game [Brookhaven 🏡RP](https://www.roblox.com/games/4924922222/Brookhaven-RP)'s secrets and mysteries.
+<hr style="background-color: #28b44c" size=8>
 
+This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/games/4924922222/Brookhaven-RP" ref="noopener">Brookhaven 🏡RP</a>'s secrets and mysteries.
 
 ---
 
 {{< column "grid-1 post-vid-dot" >}}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsXk1NY5J9xfxXdIc247d2uNEds1GTqXliiBdkAs3nKsmuwQ/viewform?embedded=true" display="block" style="
+<iframe title="Website Feedback Form" src="https://docs.google.com/forms/d/e/1FAIpQLSfsXk1NY5J9xfxXdIc247d2uNEds1GTqXliiBdkAs3nKsmuwQ/viewform?embedded=true" display="block" style="
     padding: 5px;
     width: 100%;
     min-height: 800px;
