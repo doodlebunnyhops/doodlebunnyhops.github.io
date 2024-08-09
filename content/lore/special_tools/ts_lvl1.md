@@ -1,8 +1,10 @@
 ---
 title: "TS Level 1"
-noindex: true
+noindex: false
 weight: 1
 description: "How to get TS LVL 1 acess granted."
+images:
+- images/maps/hospital.jpg
 ---
 
 You need access!

@@ -1,8 +1,10 @@
 ---
 title: "Rod Under the Arch"
-noindex: true
+noindex: false
 weight: 5
 description: "How to get the hidden rod."
+images:
+- images/maps/arches.jpg
 ---
 
 There's a white bent rod hidden, what does it do?

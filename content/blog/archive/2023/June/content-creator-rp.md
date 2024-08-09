@@ -2,7 +2,9 @@
 author: "BloominDaisy"
 date: 2023-06-30
 title: "Content Creator House!"
-noindex: true
+aliases:
+- /blog/content-creator-rp
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png

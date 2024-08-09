@@ -1,6 +1,6 @@
 ---
 title: "Mr.B"
-noindex: true
+noindex: false
 weight: 2
 draft: false
 description: "All Notes and how to find them that are signed as Mr. B"

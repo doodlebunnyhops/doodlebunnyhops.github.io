@@ -1,6 +1,6 @@
 ---
 title: "North Estate"
-noindex: true
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven North Estate location view and related secrets"

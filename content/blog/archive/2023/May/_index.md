@@ -1,10 +1,10 @@
 ---
 title: May
-noindex: true
+noindex: false
 description: Archived Blogs about Brookhaven RP Updates, exciting news, and new findings
 type: blog_archive
 images:
-- blog_splash.png
+- images/thumbnails/blog_splash.png
 ---
 
 

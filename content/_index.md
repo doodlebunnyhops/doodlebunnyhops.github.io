@@ -1,6 +1,6 @@
 ---
 title: "Home"
-noindex: true
+noindex: false
 date: 2023-05-19
 description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."
 images: 

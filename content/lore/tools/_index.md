@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-noindex: true
+noindex: false
 weight: 1
 description: "Common tools used in Brookhaven RP Secrets and Mysteries and how to get them."
 aliases:

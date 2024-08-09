@@ -1,8 +1,10 @@
 ---
 title: "Green Key Card"
-noindex: true
+noindex: false
 weight: 8
 description: "How to get the Green Key Card and where to use it in the Agency Bunker."
+images:
+- images/maps/agency_bunker_inside.jpg
 ---
 
 The green card does _something_...

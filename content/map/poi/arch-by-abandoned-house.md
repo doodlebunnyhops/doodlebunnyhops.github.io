@@ -1,6 +1,6 @@
 ---
 title: "Arch by Abandoned House "
-noindex: true
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Arch by Abandoned House location view and related secrets"

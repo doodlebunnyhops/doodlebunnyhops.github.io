@@ -1,6 +1,6 @@
 ---
 title: "Glowing Chair"
-noindex: true
+noindex: false
 weight: 10
 description: "How to activate glowing chair in the abandoned house."
 ---

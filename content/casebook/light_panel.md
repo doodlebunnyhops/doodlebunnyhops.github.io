@@ -1,6 +1,6 @@
 ---
 title: "Agency Light Panel"
-noindex: true
+noindex: false
 weight: 1
 description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
 
@@ -80,7 +80,6 @@ dataset1:
     -  
   baseChartOn: 3
   title: Projects
-noindex: true
 draft: false
 
 ---

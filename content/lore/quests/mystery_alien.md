@@ -1,6 +1,6 @@
 ---
 title: "Mystery Alien"
-noindex: true
+noindex: false
 weight: 3
 description: "Electrocute the green man in the experimental site of the hospital."
 ---

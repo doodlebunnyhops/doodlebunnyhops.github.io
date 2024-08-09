@@ -1,8 +1,10 @@
 ---
 title: "Blue Key Card"
-noindex: true
+noindex: false
 weight: 2
 description: "How to get blue key card to get into Brookhaven Electric."
+images:
+- images/maps/brookhaven_electric.jpg
 ---
 
 
