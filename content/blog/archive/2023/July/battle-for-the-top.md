@@ -6,6 +6,8 @@ noindex: true
 hidden: true
 archetype: "blog"
 imagecust: https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
+images:
+- https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
 description: "Congrats WolfPaq Brookhaven most visited experience!"
 ---
 

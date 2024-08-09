@@ -6,9 +6,7 @@
               {{- partial "content-header.html" . }}
             </header>
 {{ partial "heading-pre.html" . }}{{ partial "heading.html" . }}{{ partial "heading-post.html" . }}
-            
 
-<h1>article</h1>
 <div class="wrap mt post">
   <div>
 
@@ -23,7 +21,7 @@
         {{- if in . "https://" }}
           {{- $image = . }}
         {{- end }}
-        <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail">
+        <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail"/>
       {{- end }}
         {{ $content | safeHTML }}
       </div>

@@ -3,6 +3,8 @@ title: Archives
 noindex: true
 description: "Blogs about Brookhaven RP Updates, exciting news, and new findings"
 type: blog_archive
+images:
+- blog_splash.png
 ---
 
 
