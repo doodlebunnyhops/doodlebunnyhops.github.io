@@ -1,6 +1,6 @@
 ---
 title: "Frat House"
-noindex: true
+noindex: false
 weight: 12
 description: "How to get to the hidden laptop in the Frat House."
 ---

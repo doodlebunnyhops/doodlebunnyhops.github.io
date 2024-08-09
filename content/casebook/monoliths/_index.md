@@ -1,6 +1,6 @@
 ---
 title: "Monoliths"
-noindex: true
+noindex: false
 weight: 40
 date: 2023-05-31
 description: "Monoliths appear throughout the town of Brookhaven"

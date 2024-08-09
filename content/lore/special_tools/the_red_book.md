@@ -1,8 +1,10 @@
 ---
 title: "The Red Book"
-noindex: true
+noindex: false
 weight: 4
 description: "How to obtain the hidden red book in the library."
+images:
+- images/maps/library.jpg
 ---
 
 _Follow the book_

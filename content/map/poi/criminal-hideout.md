@@ -1,6 +1,6 @@
 ---
 title: "Criminal Hideout"
-noindex: true
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Criminal Hideout location view and related secrets"

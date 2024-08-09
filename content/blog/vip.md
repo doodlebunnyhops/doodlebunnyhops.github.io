@@ -2,10 +2,12 @@
 author: "BloominDaisy"
 date: 2024-07-26
 title: "VIP & 130 Props!"
-noindex: true
+noindex: false
 archetype: "blog"
 hidden: true
 imagecust: https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/bd11d7b247fcba13e73e10f47fca27bd/768/432/Image/Png
 description: "Brookhaven Update: New VIP Pass and 130 more Props"
 draft: false
 ---

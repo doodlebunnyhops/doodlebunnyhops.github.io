@@ -1,12 +1,14 @@
 ---
 title: "Lore"
-noindex: true
+noindex: false
 weight: 1
 description: "Walkthrough guide to unlocking all the currently known secrets and mysteries found in Brookhaven RP."
 
 images: 
 - images/bh/collage.png
 - images/bh/agency_greed_desk_1_button.jpg
+aliases:
+- /mermaid/steps_flow
 ---
 
 

@@ -1,8 +1,10 @@
 ---
 title: "Agency Greed"
-noindex: true
+noindex: false
 weight: 16
 description: "Steps to find Agency's secret lair in the warehouse."
+images:
+- images/bh/agency_greed_desk_1_button.jpg
 ---
 
 Clips by O1G and Darzeth
@@ -25,7 +27,7 @@ These steps are broken into 2 parts
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests**: None 
-**Optional**:  [Connect Laptop](/./tools/connect_laptop)
+**Optional**:  [Connect Laptop](lore/tools/connect_laptop)
 {{% /notice %}}
 
 #### Criminal Lair

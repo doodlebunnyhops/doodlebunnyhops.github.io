@@ -1,6 +1,6 @@
 ---
 title: "Camp Cabin"
-noindex: true
+noindex: false
 weight: 4
 draft: false
 description: "Interesting Spider in the Camp Cabin by lake Madison."

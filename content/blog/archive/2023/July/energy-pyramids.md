@@ -2,10 +2,14 @@
 author: "BloominDaisy"
 date: 2023-07-15
 title: "Where are all these Energy Crystals?"
-noindex: true
+aliases:
+- /blog/energy-pyramids
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/a6b9ae0d72fd549672512315affcb120/768/432/Image/Png
 description: "Brookhaven Update"
 draft: true
 ---

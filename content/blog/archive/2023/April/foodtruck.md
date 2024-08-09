@@ -2,10 +2,14 @@
 author: "BloominDaisy"
 date: 2023-04-28
 title: "Food Truck Update"
-noindex: true
+aliases:
+- /blog/foodtruck
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/beca0373c65820b9fd7534a1f8193f41/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/beca0373c65820b9fd7534a1f8193f41/768/432/Image/Png
 description: "Brookhaven Update: New Foodtruck and 70+ props!"
 ---
 

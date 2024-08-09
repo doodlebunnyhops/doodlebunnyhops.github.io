@@ -2,10 +2,12 @@
 author: "BloominDaisy"
 date: 2024-05-24
 title: "Golfers Retreat"
-noindex: true
+noindex: false
 archetype: "blog"
 hidden: true
 imagecust: https://tr.rbxcdn.com/cfcc18f30dc351fb613633b2c926520f/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/cfcc18f30dc351fb613633b2c926520f/768/432/Image/Png
 description: "Brookhaven Update: New Free and Premium Golf house and Prop limit raised to 5 more props on Public Servers."
 draft: false
 ---

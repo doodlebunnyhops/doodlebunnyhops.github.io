@@ -1,6 +1,6 @@
 ---
 title: "Agency Bunker"
-noindex: true
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Agency Bunker location and related details"

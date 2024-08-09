@@ -1,6 +1,6 @@
 ---
 title: "Admin Kate"
-noindex: true
+noindex: false
 weight: 11
 draft: false
 description: "Admin Kate from Wolfpaq discord and her help in discovering Secrets and Mysteries in Brookhaven"

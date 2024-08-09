@@ -1,6 +1,6 @@
 ---
 title: "School Base"
-noindex: true
+noindex: false
 weight: 2
 description: "How to get into the hidden base above the school."
 

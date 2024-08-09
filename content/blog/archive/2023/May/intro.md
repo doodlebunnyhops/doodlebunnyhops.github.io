@@ -2,10 +2,12 @@
 author: "BloominDaisy"
 date: 2023-05-31
 title: About this site
-noindex: true
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png
+images:
+- https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png
 description: "About Bloomindaisy, creator of this site"
 draft: true
 ---

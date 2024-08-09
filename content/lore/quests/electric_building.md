@@ -1,6 +1,6 @@
 ---
 title: "Electric Building"
-noindex: true
+noindex: false
 weight: 4
 description: "How to get inside Brookhaven Electric."
 

@@ -1,8 +1,10 @@
 ---
 title: "What's the Password"
-noindex: true
+noindex: false
 weight: 7
 description: "How to find the password to the panel in the agency bunker."
+images:
+- images/bh/agency_bunker_inside.jpg
 ---
 
 Find the hidden password
@@ -10,7 +12,7 @@ Find the hidden password
 {{< youtube id=Mecnd2D7cWA loading=lazy start=376 >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Side Quests** : [Energy Pyramid](/energy_pyramid)
+**Side Quests** : [Energy Pyramid](lore/special_tools/energy_pyramid)
 {{% /notice %}}
 
 

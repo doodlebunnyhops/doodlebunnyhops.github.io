@@ -1,8 +1,10 @@
 ---
 title: "Chair Room"
-noindex: true
+noindex: false
 weight: 13
 description: "Unlock the hidden chair room at the Agency Bunker."
+images:
+- images/maps/agency_bunker_inside.jpg
 ---
 
 There's a secret room behind the Agency Base... what's it for?
