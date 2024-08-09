@@ -10,7 +10,7 @@ Find the hidden password
 {{< youtube id=Mecnd2D7cWA loading=lazy start=376 >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Side Quests** : [Energy Pyramid](/energy_pyramid)
+**Side Quests** : [Energy Pyramid](lore/special_tools/energy_pyramid)
 {{% /notice %}}
 
 
