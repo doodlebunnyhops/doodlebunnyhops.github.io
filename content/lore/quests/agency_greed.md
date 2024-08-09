@@ -25,7 +25,7 @@ These steps are broken into 2 parts
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests**: None 
-**Optional**:  [Connect Laptop](/./tools/connect_laptop)
+**Optional**:  [Connect Laptop](lore/tools/connect_laptop)
 {{% /notice %}}
 
 #### Criminal Lair

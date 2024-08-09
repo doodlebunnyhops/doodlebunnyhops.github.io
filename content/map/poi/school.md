@@ -32,7 +32,7 @@ I wish the teachers here would tell me what the glowing orb is above the theater
 
 ### Related CaseBook Items
 
-- [Note from Mr.B](/casebook/notes/mrb/school_base)
+- [Note from Mr.B](/casebook/notes/mrb/#school-base)
 
 <hr style="background-color: #28b44c" size=8>
 
