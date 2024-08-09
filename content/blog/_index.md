@@ -1,9 +1,7 @@
 ---
-date: 2023-05-31
 title: Blog
 noindex: true
 weight: 5
-description: "Blogs about Brookhaven RP Updates, exiting news, and new findings"
+description: "Blogs about Brookhaven RP Updates, exciting news, and new findings"
+type: blog
 ---
-
-{{% children sort="date" showhidden="true" %}}

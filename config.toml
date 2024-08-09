@@ -119,10 +119,6 @@ largeTwitterCard = true
     privacyEnhanced = true
 
 [params]
- # [params.relearn]
-  #  [params.relearn.dependencies]
- #     [params.relearn.dependencies.uptop]
-#        name = 'Uptop'
   [params.imageEffects]
     border = false
     lazy = true
