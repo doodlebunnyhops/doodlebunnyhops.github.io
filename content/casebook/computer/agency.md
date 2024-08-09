@@ -1,6 +1,6 @@
 ---
 title: "Agency"
-noindex: true
+noindex: false
 weight: 1
 draft: false
 description: "Messages on the laptop from the Agency."

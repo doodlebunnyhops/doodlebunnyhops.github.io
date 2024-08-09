@@ -1,6 +1,6 @@
 ---
 title: "Map"
-noindex: true
+noindex: false
 weight: 3
 description: "Interactive Maps of Brookhaven"
 tags: ["map"]

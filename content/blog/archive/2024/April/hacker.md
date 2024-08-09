@@ -2,7 +2,9 @@
 author: "BloominDaisy"
 date: 2024-04-12
 title: "Hackers"
-noindex: true
+aliases:
+- /blog/hacker
+noindex: false
 archetype: "blog"
 hidden: true
 imagecust: https://tr.rbxcdn.com/7825e1cc6e636d0ba2daafa631ce665c/768/432/Image/Png

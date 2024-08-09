@@ -1,8 +1,10 @@
 ---
 title: "Build Portal"
-noindex: true
+noindex: false
 weight: 7
 description: "How to build the portal beneath Eagle View."
+images:
+- images/maps/portal-built.jpg
 
 ---
 

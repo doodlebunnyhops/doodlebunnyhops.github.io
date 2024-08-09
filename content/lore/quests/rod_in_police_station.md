@@ -1,6 +1,6 @@
 ---
 title: "Rod in the Police Station"
-noindex: true
+noindex: false
 weight: 11
 description: "How to click on the hidden rod in the police station."
 ---

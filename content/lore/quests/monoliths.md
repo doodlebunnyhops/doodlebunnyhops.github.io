@@ -1,6 +1,6 @@
 ---
 title: "Monoliths"
-noindex: true
+noindex: false
 weight: 8
 description: "Make monoliths spawn throughout Brookhaven."
 

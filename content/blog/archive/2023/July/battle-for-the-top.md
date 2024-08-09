@@ -2,7 +2,9 @@
 author: "BloominDaisy"
 date: 2023-07-15
 title: "Battle of the most visited!"
-noindex: true
+aliases:
+- /blog/battle-for-the-top
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg

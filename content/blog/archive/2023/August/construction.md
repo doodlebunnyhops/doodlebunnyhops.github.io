@@ -2,7 +2,9 @@
 author: "BloominDaisy"
 date: 2023-08-25
 title: "Construction Update"
-noindex: true
+aliases:
+- /blog/construction
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/4038691457a0a105f2880afbd4198ca4/768/432/Image/Png

@@ -2,7 +2,7 @@
 author: "BloominDaisy"
 date: 2024-06-07
 title: "Pets and Props"
-noindex: true
+noindex: false
 archetype: "blog"
 hidden: true
 imagecust: /images/blog/prop-pets.png

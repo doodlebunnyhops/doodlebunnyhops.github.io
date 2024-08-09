@@ -1,8 +1,10 @@
 ---
 title: "What's the Password"
-noindex: true
+noindex: false
 weight: 7
 description: "How to find the password to the panel in the agency bunker."
+images:
+- images/bh/agency_bunker_inside.jpg
 ---
 
 Find the hidden password

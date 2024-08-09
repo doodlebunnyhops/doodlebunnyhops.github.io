@@ -1,10 +1,12 @@
 ---
 title: "Quests"
-noindex: true
+noindex: false
 weight: 3
 description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
 aliases:
 - /quests
+images:
+- images/bh/agency_greed_desk_1_button.jpg
 
 ---
 

@@ -2,7 +2,9 @@
 author: "BloominDaisy"
 date: 2023-08-04
 title: "Avatar Quality of Life"
-noindex: true
+aliases:
+- /blog/avatar
+noindex: false
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/f7c29dbb75c12f60c83379aa76c24984/768/432/Image/Png

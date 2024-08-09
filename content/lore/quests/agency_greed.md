@@ -1,8 +1,10 @@
 ---
 title: "Agency Greed"
-noindex: true
+noindex: false
 weight: 16
 description: "Steps to find Agency's secret lair in the warehouse."
+images:
+- images/bh/agency_greed_desk_1_button.jpg
 ---
 
 Clips by O1G and Darzeth

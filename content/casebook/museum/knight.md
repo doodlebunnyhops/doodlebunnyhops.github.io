@@ -1,6 +1,6 @@
 ---
 title: "Brave"
-noindex: true
+noindex: false
 weight: 1
 description: "A knight from Brookhaven Museum has hidden notes throughout the castle."
 --- 
