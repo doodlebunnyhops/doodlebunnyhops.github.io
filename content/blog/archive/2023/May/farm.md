@@ -6,6 +6,8 @@ noindex: true
 hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/736a5319189d11940f1d0e7da240288c/768/432/Image/Png
 description: "Brookhaven Update: New Farm Role Play House"
 ---
 

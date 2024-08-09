@@ -6,6 +6,8 @@ noindex: true
 archetype: "blog"
 hidden: true
 imagecust: /images/blog/prop-pets.png
+images:
+- /images/blog/prop-pets.png
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
 draft: false
 ---

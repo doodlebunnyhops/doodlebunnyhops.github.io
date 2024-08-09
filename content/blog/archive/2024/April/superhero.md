@@ -6,6 +6,8 @@ noindex: true
 archetype: "blog"
 hidden: true
 imagecust: https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/21cf2571f5d35edd7b791f2bbeec6bf6/768/432/Image/Png
 description: "Brookhaven Update: New Superhero Role Play house"
 draft: false
 ---
