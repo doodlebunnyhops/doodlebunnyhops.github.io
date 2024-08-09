@@ -19,16 +19,6 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-{{< column "grid-1 post-vid-dot" >}}
-<iframe title="Website Feedback Form" src="https://docs.google.com/forms/d/e/1FAIpQLSfsXk1NY5J9xfxXdIc247d2uNEds1GTqXliiBdkAs3nKsmuwQ/viewform?embedded=true" display="block" style="
-    padding: 5px;
-    width: 100%;
-    min-height: 800px;
-    height: auto;
-    margin: 0 auto;">Loading…</iframe>
-{{< /column >}}
-
-
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
 
