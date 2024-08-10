@@ -16,11 +16,11 @@ draft: false
 
 It's a quaint little nook, perfect for a quiet home. But something is hiding inside the mountain just behind this lovely property. Will you dare to explore the hidden cave?
 
-
+{{< column "grid-2" >}}
 ![view of Hidden Valley](/images/maps/hidden_valley_1.jpg)
 ![view of Hidden Valley](/images/maps/hidden_valley_2.jpg)
 ![view of Hidden Valley](/images/maps/hidden_valley_cave.jpg)
-
+{{< /column >}}
 
 
 <hr style="background-color: #28b44c" size=8>

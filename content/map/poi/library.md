@@ -23,7 +23,7 @@ Your local community Library in Brookhaven has books to read for days! Visit and
 
 ![Location of Library](/images/maps/library.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

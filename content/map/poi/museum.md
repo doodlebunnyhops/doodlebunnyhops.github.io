@@ -22,12 +22,13 @@ Introduced in the Feb. 2023 Update, the Brookhaven Museum gives us a glimpse of 
 
 The museum can also be changed into a dealership or a restaurant called "The Brick." You can change the storefront by going inside and clicking which font you would like to have.
 
-
+{{< column "grid-3" >}}
 ![How to change Store Front, select Dealership, Restraunt, or Museum](/images/maps/store-select.jpg)
 ![View of Dealership Store Front](/images/maps/dealership.jpg)
 ![View of restaurant, The Brick, Store Front](/images/maps/the-brick.jpg)
 
 
+{{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>
 

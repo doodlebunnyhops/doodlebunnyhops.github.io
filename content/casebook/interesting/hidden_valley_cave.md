@@ -19,9 +19,15 @@ The BrookhavenRP community went back and forth if it could possibly mean somethi
 
 Someone had asked in [Wolfpaq's Discord](https://discord.com/channels/482308357248647177/870010373976236052/1162417286792102060) about a similar image to this one:
 
+
+{{< block "post-block-dot" >}}
+{{< column "grid-2" >}}
+
 ![hmm](/images/bh/flag.jpg)
 
 ![Wolfpaq confirms odd lighting in cave will be in a future secret update.](/images/bh/wolf.jpg)
+{{< /column >}}
+{{< /block >}}
 
 Confirming, not only are we going to see a secret update in the future, but this cave will be a part of the Secrets and Mysteries Lore!
 
@@ -52,10 +58,10 @@ I took a timelapse to see what time the light appears and how it moves, checkout
 
 Notice how at one point it looks like a flag, and then morphs into a triangle, as if it's trying to point us to something. What do you think the secret will be?
 
-{{< expand default="Timelines" icon="🕘" >}} 
+{{< expand default="Timelines" icon="🕘" title="Click to see times" >}} 
+{{< column "grid-2" >}}
 
-
-
+{{< column >}}
 **Day**
 
 Light Appears: 9:10am
@@ -70,9 +76,9 @@ Flag Shape: 1:27pm - 1:45pm
 
 Triangle: 2pm - 2:55pm
 
+{{< /column >}}
 
-
-
+{{< column >}}
 
 **Night**
 
@@ -87,8 +93,8 @@ Triangle Shape: 12:25am - 1:26am
 Flag Shape: 1:27am - 1:45am
 
 Triangle: 2am - 2:55am
-
-
+{{< /column >}}
+{{< /column >}}
 {{< /expand >}}
 
 ---
@@ -136,7 +142,8 @@ What do you think?
 You can click on an image to enlarge it.
 {{% /notice %}}
 
-
+{{< block "post-block-dot" >}}
+{{< column "grid-4" >}}
 
 
 
@@ -150,3 +157,5 @@ You can click on an image to enlarge it.
 
 ![Secret button on Post found at the Barn.](/images/bh/secrets-button-farm.jpg)
 
+{{< /column >}}
+{{< /block >}}

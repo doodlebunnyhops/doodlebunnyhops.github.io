@@ -31,9 +31,9 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 {{% children sort="Weight" showhidden=false description=true style="h2"  %}}
 </div>
 
-
+{{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)
-
+{{< /column >}}
 
 ---
 

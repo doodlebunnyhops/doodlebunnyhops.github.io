@@ -15,7 +15,7 @@ draft: false
 
 The Agency Bunker is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. Who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
 
-
+{{< column "grid-2" >}}
 
 ![Agency Bunker Entrance](/images/maps/agency_bunker.jpg)
 
@@ -23,8 +23,7 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 ![Agency Logo found in Agency Bunker](/images/maps/agency_logo.jpg)
 
-
-
+{{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>
 

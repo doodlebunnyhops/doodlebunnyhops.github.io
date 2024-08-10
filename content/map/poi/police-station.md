@@ -25,7 +25,7 @@ The protectors of Brookhaven have a fantastic set of resources to ensure your sa
 
 ![Location of Police Station](/images/maps/police-station.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
