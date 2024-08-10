@@ -24,7 +24,7 @@ There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot 
 
 ![Location of Mall](/images/maps/mall.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

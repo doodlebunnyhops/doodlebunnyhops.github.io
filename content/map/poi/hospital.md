@@ -22,13 +22,13 @@ Brookhaven'ts esteemed Hospital has exceptional doctors and surgeons. It's also 
 
 Medical Officer Avid once worked at the Experimentation Site, but after seeing the Agency's practices, he resigned. The site is above the hospital, and you can get inside through a broken window outside or a broken wall in the hospital's main lobby.
 
-
+{{< column "grid-2" >}}
 ![Inside Experimentation Site with the Agency Logo on the wall and 2 chairs with the word Experimental written above them](/images/maps/experimentation_site.jpg)
 
 ![Inside Experimentation Site with furniture turned over, rusted dirty walls, and a broken window where you can come in.](/images/maps/experimentation_site2.jpg)
 
 ![Inside Observation room at Experimentation Site. We see a green body in a capsule and agency folder](/images/maps/experimentation_site3.jpg)
-
+{{< /column >}}
 
 
 <hr style="background-color: #28b44c" size=8>

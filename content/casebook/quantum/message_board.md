@@ -10,6 +10,7 @@ aliases:
 - /casebook/quantum/content/backdoor_camera_slot_found
 - /casebook/quantum/content/first_messages
 - /casebook/quantum/content/algorithm_generated
+- /casebook/message_board
 --- 
 
 There are 2 message boards in the quantum room. The first is always present, and the second appears once [Power Online](#power-online) is activated.

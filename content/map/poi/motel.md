@@ -24,7 +24,7 @@ If you visit Brookhaven, there's a great Motel next to the airport and a restaur
 
 ![Location of Motel](/images/maps/motel.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 

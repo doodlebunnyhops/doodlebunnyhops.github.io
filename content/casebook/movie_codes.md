@@ -40,8 +40,9 @@ Note that switch **3** is missing... do we need to find it?
     - [Movie Theater](#movie-theater-code): Always Visible
 
         Example of what a movie code on a reel looks like: 
-
+{{< column "grid-2" >}}
 ![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
+{{< /column >}}
 
 {{% notice style="warning" %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
@@ -93,9 +94,9 @@ Note that switch **3** is missing... do we need to find it?
 1. Inside of the Abandoned House under a Receded Window in what looks like a black box, there is a code inside. 
 1. Use the code you find at the Movie Theater to watch it.
 
-
+{{< column "grid-2" >}}
 ![Abandoned House Movie Reel Location](/images/bh/movie_abanoned_house_code.jpg)
-
+{{< /column >}}
 
 {{% notice style="warning" %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!

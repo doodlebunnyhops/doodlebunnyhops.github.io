@@ -23,7 +23,7 @@ Brookhaven's Paradise Falls offers beautiful scenery. Clear mountain water flows
 
 ![Location of Paradise Falls](/images/maps/paradise-falls.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
