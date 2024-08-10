@@ -6,6 +6,8 @@ description: "Word definitions used throughout this guide for Brookhaven RP secr
 # aliases:
 # - /words
 toc: true
+aliases:
+- /terminology/words
 ---
 
 List of definitions as some names for places/things does differ. 

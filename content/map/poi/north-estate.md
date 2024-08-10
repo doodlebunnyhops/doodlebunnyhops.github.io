@@ -25,7 +25,7 @@ A higher-end estate location for those who wish to splurge on their residence wi
 
 ![Location of North Estate](/images/maps/north-estate.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 
 <!-- <hr style="background-color: #28b44c" size=8>

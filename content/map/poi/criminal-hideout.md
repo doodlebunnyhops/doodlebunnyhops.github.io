@@ -14,7 +14,7 @@ draft: false
 
 You will find a hidden entrance behind Starbrooks and Mail & Packages, which could be an Agency or Criminal Hideout. Once inside, you will find another trapdoor that opens when you click on the light bulb above. You will see a stash of weapons and a surveillance system—spying on the townspeople?
 
-
+{{< column "grid-2" >}}
 
 
 ![Outside view of Criminal Hideout showing hidden wall that opens to get inside](/images/maps/criminal_hideout.jpg)
@@ -26,6 +26,7 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 ![Inside view of Criminal Hideout showing computer parts and surveillance system](/images/maps/criminal_hideout_inside.jpg)
 
 
+{{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>
 

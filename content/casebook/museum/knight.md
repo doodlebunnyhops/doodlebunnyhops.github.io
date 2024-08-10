@@ -3,6 +3,8 @@ title: "Brave"
 noindex: false
 weight: 1
 description: "A knight from Brookhaven Museum has hidden notes throughout the castle."
+aliases:
+- /casebook/monoliths/knight
 --- 
 
 We know the Knight painting in the museum represents Bravery from the [Glowing Chair](/lore/quests/glowing_chair) quest, but was it him that left us notes in the Castle? Did brookhaven repeat the history from long ago?

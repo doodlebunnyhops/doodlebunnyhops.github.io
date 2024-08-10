@@ -24,7 +24,7 @@ Located across from the hospital just down the road from the police station is w
 
 ![Location of Town Hall](/images/maps/town-hall.png)
 
-![Under Construction Warning, Page not complete](/images/under_construction.png)
+---
 
 <!-- <hr style="background-color: #28b44c" size=8>
 
