@@ -17,7 +17,7 @@ archetype: "home"
 
 This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/games/4924922222/Brookhaven-RP" ref="noopener">Brookhaven 🏡RP</a>'s secrets and mysteries.
 
----
+
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -29,6 +29,8 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 GAME UPDATE WITH SECERTS!
 
+There is A TON to cover here - I'm still putting it all together with everyone else but be on the look out as I will be updating the site throughout the weekend :heart:
+
 {{< column "grid-2 post-block-dot" >}}
 
 ![purple orb secret](/images/bh/purple-orb.png)
@@ -39,8 +41,11 @@ GAME UPDATE WITH SECERTS!
 
 #### Come join the fun in daisy's [private server](https://www.roblox.com/share?code=fd11a12c87e409448f9e41981d88bf99&type=Server)
 
-### Youtube Creators:
 
+#### Chat in [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) in secrets and mysteries channel
+
+
+### Youtube Creators:
 
 
 <div class="grid-2 post-vid-dot">
@@ -52,7 +57,6 @@ GAME UPDATE WITH SECERTS!
 </div>
 
 
----
 
 <hr style="background-color: #28b44c" size=8>
 
