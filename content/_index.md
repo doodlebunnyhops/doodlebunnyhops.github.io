@@ -31,11 +31,16 @@ GAME UPDATE WITH SECRETS!
 
 There is A TON to cover here - I'm still putting it all together with everyone else but be on the look out as I will be updating the site throughout the weekend :heart:
 
+For live updates while I work out the steps you can check my [google doc](https://docs.google.com/document/d/1xIEoVSAsFoBpZYfg6fYfoWsWe6F7Pu-ARkPTVMRCTZk/edit?usp=sharing) 
+:wink: aka Daisy's Secret Notes 
+
 {{< column "grid-2 post-block-dot" >}}
 
 ![purple orb secret](/images/bh/purple-orb.png)
 
 ![purple orb in fear and greed room](/images/bh/fear-greed-room.png)
+
+![Wolfpaq hint showing him in the coffin room with carbon blocks](/images/bh/wolfpaq_in_coffin_room_with_carbon_blocks.PNG)
 
 {{< /column >}}
 
