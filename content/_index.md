@@ -23,7 +23,7 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-## Annoucnement!
+## Announcement!
 
 `August 10, 2024`
 
