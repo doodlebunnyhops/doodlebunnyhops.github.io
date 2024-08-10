@@ -27,7 +27,7 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 `August 10, 2024`
 
-GAME UPDATE WITH SECERTS!
+GAME UPDATE WITH SECRETS!
 
 There is A TON to cover here - I'm still putting it all together with everyone else but be on the look out as I will be updating the site throughout the weekend :heart:
 
