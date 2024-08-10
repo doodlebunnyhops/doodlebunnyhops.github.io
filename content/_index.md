@@ -19,6 +19,45 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
+<hr style="background-color: #28b44c" size=8>
+
+---
+
+## Annoucnement!
+
+`August 10, 2024`
+
+GAME UPDATE WITH SECERTS!
+
+{{< column "grid-2 post-block-dot" >}}
+
+![purple orb secret](/images/bh/purple-orb.png)
+
+![purple orb in fear and greed room](/images/bh/fear-greed-room.png)
+
+{{< /column >}}
+
+#### Come join the fun in daisy's [private server](https://www.roblox.com/share?code=fd11a12c87e409448f9e41981d88bf99&type=Server)
+
+### Youtube Creators:
+
+
+
+<div class="grid-2 post-vid-dot">
+
+**Darzeth's already posted some videos here!** <div class="grid-1">{{< youtube id=Je2ZE8F7bp8 >}}</div>
+
+
+**O1G is Live!** <div class="grid-1">{{< youtube id=rBomdwKBYlQ >}}</div>
+</div>
+
+
+---
+
+<hr style="background-color: #28b44c" size=8>
+
+---
+
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
 
