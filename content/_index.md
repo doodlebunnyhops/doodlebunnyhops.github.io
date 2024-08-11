@@ -29,10 +29,35 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 GAME UPDATE WITH SECRETS!
 
-There is A TON to cover here - I'm still putting it all together with everyone else but be on the look out as I will be updating the site throughout the weekend :heart:
+**SOLVED** Updates to the website will be coming in a couple of days :heart: - For now you can read the steps in my [google doc](https://docs.google.com/document/d/1xIEoVSAsFoBpZYfg6fYfoWsWe6F7Pu-ARkPTVMRCTZk/edit?usp=sharing). :wink: aka Daisy's Secret Notes
 
-For live updates while I work out the steps you can check my [google doc](https://docs.google.com/document/d/1xIEoVSAsFoBpZYfg6fYfoWsWe6F7Pu-ARkPTVMRCTZk/edit?usp=sharing) 
-:wink: aka Daisy's Secret Notes 
+
+There are a lot of awesome members that helped us get to the end - and I know I'm probably going to miss someone (sorry truly!) so let me just give a shout out to a few here: 
+
+
+{{< block "post-block-dot" >}}
+
+[Darzeth](https://www.youtube.com/@XdarzethX) :star: for always keeping it real and the group in your discord :heart:.
+{{< /block >}}
+
+---
+
+{{< block "post-block-dot" >}}
+
+[Mendi](https://www.youtube.com/@Mendire) :star: thank you so much for sharing the lab chair pattern! We were stumped here FOR HOURS! :wink: and special call out to Lea :P 
+
+{{< /block >}}
+
+---
+
+{{< block "post-block-dot" >}}
+Dripmus, Kai, WinAurora, Akari, Commander Colt, notusp_dog, CrimSun, GreenLandisgreen. 
+
+The whole voice chat was amazing!
+
+{{< /block >}}
+
+---
 
 {{< column "grid-2 post-block-dot" >}}
 
@@ -43,11 +68,6 @@ For live updates while I work out the steps you can check my [google doc](https:
 ![Wolfpaq hint showing him in the coffin room with carbon blocks](/images/bh/wolfpaq_in_coffin_room_with_carbon_blocks.PNG)
 
 {{< /column >}}
-
-#### Come join the fun in daisy's [private server](https://www.roblox.com/share?code=fd11a12c87e409448f9e41981d88bf99&type=Server)
-
-
-#### Chat in [Wolfpaq's Discord](https://discord.gg/wolfpaqgames) in secrets and mysteries channel
 
 
 ### Youtube Creators:
