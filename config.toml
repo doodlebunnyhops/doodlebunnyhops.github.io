@@ -15,7 +15,9 @@ showVisitedLinks = false
 
 paginate = 40
 
-googleAnalytics = 'G-LYV1YN0FYF'
+[services]
+  [services.googleAnalytics]
+  ID = 'G-LYV1YN0FYF'
 
 disableKinds = ['taxonomy', 'term']
 #disableKinds = ["sitemap"]
