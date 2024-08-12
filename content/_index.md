@@ -6,8 +6,6 @@ description: "A comprehensive guide to help solve the secrets and mysteries of B
 images: 
 - images/bh/collage.png
 - images/thumbnails/portal_update.png
-Categories: ["Brookhaven RP","Brookhaven Mystery", "Roblox"]
-Tags: ["Secrets and Mysteries","Lore","Detective"]
 archetype: "home"
 ---
 

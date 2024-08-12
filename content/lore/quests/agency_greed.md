@@ -9,11 +9,13 @@ images:
 
 Clips by O1G and Darzeth
 
+<div class="grid-2 post-vid-dot">
 
 {{< youtube id=8im2fwJwLZ0 loading=lazy >}}
 
-
 {{< youtube id=fjTC_KEqEZc loading=lazy >}}
+
+</div>
 
 
 {{% notice style="tip" %}}
@@ -26,7 +28,8 @@ These steps are broken into 2 parts
 {{% /notice %}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Side Quests**: None 
+**Side Quests**: None
+
 **Optional**:  [Connect Laptop](lore/tools/connect_laptop)
 {{% /notice %}}
 
