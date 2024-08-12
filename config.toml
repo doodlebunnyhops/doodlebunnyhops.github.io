@@ -14,6 +14,7 @@ alwaysopen = false
 showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
+
 paginate = 40
 
 [services]
