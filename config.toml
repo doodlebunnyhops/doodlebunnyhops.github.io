@@ -12,14 +12,15 @@ enableEmoji = true
 canonifyURLs = true
 alwaysopen = false
 showVisitedLinks = false
-
+disableTagHiddenPages = true
+disableTermBreadcrumbs = true
 paginate = 40
 
 [services]
   [services.googleAnalytics]
   ID = 'G-LYV1YN0FYF'
 
-disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
 #[sitemap]
 #  filename = "content/sitemap.xml"

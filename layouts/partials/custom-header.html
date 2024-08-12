@@ -16,3 +16,6 @@
 {{ if .Params.noindex }}
 <meta name="robots" content="noindex" /> 
 {{ end }}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex" /> 
+{{- end }}
