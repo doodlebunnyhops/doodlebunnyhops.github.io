@@ -12,6 +12,8 @@ enableEmoji = true
 canonifyURLs = true
 alwaysopen = false
 showVisitedLinks = false
+disableTagHiddenPages = true
+disableTermBreadcrumbs = true
 
 paginate = 40
 
