@@ -29,7 +29,7 @@ Psst - for our polish friends I've also included Mendi!
 
 <hr style="background-color: #28b44c" size=8>
 
-# Guide
+## Guide
 
 This quest is rather large so I wrote it out in a way many content creators have walked through. It's meant to go through each below starting at {{% button href="getting_started" style="green" %}}Getting Started{{% /button %}} - but you can still jump around if you like.
 
