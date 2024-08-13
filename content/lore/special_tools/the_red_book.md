@@ -5,7 +5,7 @@ weight: 4
 description: "How to obtain the hidden red book in the library."
 images:
 - images/maps/library.jpg
-Tags: ["Library", "Agency","Follow the book"]
+Tags: ["Library", "Agency Book","Follow the book"]
 ---
 
 _Follow the book_

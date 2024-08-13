@@ -11,10 +11,15 @@ Tags: ["Agency RP House"]
 ![Image of the Generator room in the Agency RP house](/images/agency_coffin_portal_quest/generator_room_w400px.png)
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Other Rooms**: Tachyon Button Requires Orb in [Fear & Greed's](fear_and_greed) room. **However** I have laid the steps out to jump between this easily.
+{{% /notice %}}
 
-**Number of Bars**: 4
+**Number of Bars**: `4`
 
 ### Steps:
+
+**Completes:** `3` bars
 1. Click the button on top of the left part of generator
     1. This unlocks the Master Code block.
 1. Input Master Code:

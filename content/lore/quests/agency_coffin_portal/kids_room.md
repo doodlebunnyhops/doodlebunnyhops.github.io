@@ -11,9 +11,13 @@ Tags: ["Agency RP House"]
 ![Image of the Kids room in the Agency RP house](/images/agency_coffin_portal_quest/kids_room_w400px.png)
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Other Rooms**: None
+{{% /notice %}}
 
-**Number of Bars**: 4
+**Number of Bars**: `4`
 
+**Completes:** `3` bars
 ### Steps:
 1. Sit in the yellow chair
 1. Click on the button behind the pillow

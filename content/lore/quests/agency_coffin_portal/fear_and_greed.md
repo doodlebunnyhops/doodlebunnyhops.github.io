@@ -11,10 +11,15 @@ Tags: ["Agency RP House"]
 ![Image of Fear and Greed's room in the Agency RP house](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png)
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Other Rooms**: None
+{{% /notice %}}
 
-**Number of Bars**: 6
+**Number of Bars**: `6`
 
 ### Steps
+
+**Completes:** `4` bars
 1. Change the name plaques under the pictures to “Greed” and “Fear”
     1. Click on the button under the table
     1. This unlocks 2 new teleports

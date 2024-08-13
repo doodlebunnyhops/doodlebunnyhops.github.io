@@ -14,6 +14,9 @@ Tags: ["Agency RP House"]
 Every room now as a hidden button that needs to be clicked. This will complete every rooms progress except for the portal.
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+- [Synced Code Entered](sync_codes) 
+{{% /notice %}}
 
 ## Steps
 
