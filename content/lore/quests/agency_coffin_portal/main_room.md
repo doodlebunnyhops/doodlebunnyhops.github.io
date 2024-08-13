@@ -7,7 +7,7 @@ images:
 - images/agency_coffin_portal_quest/main_room_w400px.png
 ---
 
-![Image of the cell room in the Agency RP house](/images/agency_coffin_portal_quest/main_room_w400px.png)
+![Image of the main room in the Agency RP house](/images/agency_coffin_portal_quest/main_room_w400px.png)
 
 
 This is the main or center room used to see progress of room completion.
