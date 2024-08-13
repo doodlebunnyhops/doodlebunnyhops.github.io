@@ -5,6 +5,7 @@ weight: 8
 description: "How to finish last progress bar in all rooms."
 images:
 - images/agency_coffin_portal_quest/last_bar_lab_capsules_room.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of completed rooms in the Agency RP house](/images/agency_coffin_portal_quest/last_bar_completed_check_2_w400px.png)

@@ -5,6 +5,7 @@ weight: 1
 description: "First steps to trigger the Agency RP house Quest."
 images:
 - images/agency_coffin_portal_quest/agency_rp_house.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of the Agency RP house](/images/agency_coffin_portal_quest/agency_rp_house_w400px.png)

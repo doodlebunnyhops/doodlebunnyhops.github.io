@@ -5,6 +5,7 @@ weight: 1
 description: "This is the main or center room used to see progress of room completion"
 images:
 - images/agency_coffin_portal_quest/main_room_w400px.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of the main room in the Agency RP house](/images/agency_coffin_portal_quest/main_room_w400px.png)

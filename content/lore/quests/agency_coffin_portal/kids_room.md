@@ -5,6 +5,7 @@ weight: 4
 description: "Find the child's hidden blocks."
 images:
 - images/agency_coffin_portal_quest/kids_room_w400px.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of the Kids room in the Agency RP house](/images/agency_coffin_portal_quest/kids_room_w400px.png)

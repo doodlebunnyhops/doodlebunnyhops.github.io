@@ -5,6 +5,7 @@ weight: 6
 description: "Get the Energy Pyramid from the doves."
 images:
 - images/maps/town_hall.jpg
+Tags: ["Energy", "Doves", "Church"]
 ---
 
 An interesting glowing pyramid object believed to have energy within it.

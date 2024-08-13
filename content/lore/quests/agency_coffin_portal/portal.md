@@ -5,7 +5,7 @@ weight: 8
 description: "Go through the portal surrounded by coffins."
 images:
 - images/agency_coffin_portal_quest/portal_room_w400px.png
-tags: ["portal room","portal"]
+Tags: ["Agency RP House","portal room","portal"]
 ---
 
 ![Image of the Portal room in the Agency RP house](/images/agency_coffin_portal_quest/portal_room_w400px.png)

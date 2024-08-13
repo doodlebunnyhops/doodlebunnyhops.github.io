@@ -5,6 +5,7 @@ weight: 5
 description: "Summon lightening and trigger the green laser."
 images:
 - images/agency_coffin_portal_quest/lab_room_green_lasers.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of the Lab and Capsules room in the Agency RP house](/images/agency_coffin_portal_quest/lab_room_w400px.png)
