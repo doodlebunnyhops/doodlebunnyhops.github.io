@@ -30,8 +30,10 @@ description: "How to trigger teleporting."
 
 {{% notice style="tip" %}}
 Darzeth’s Youtube vid for better idea of where to stand:
-{{< youtube id=O4s7pI_jzW0 loading=lazy >}}
 {{% /notice %}}
+
+{{< youtube id=O4s7pI_jzW0 loading=lazy >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 
