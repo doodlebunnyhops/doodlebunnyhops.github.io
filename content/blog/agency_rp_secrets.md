@@ -25,7 +25,7 @@ This was super exciting and _maybe_ a heads up - if  you spook easily :wink: you
 
 There are spiders, and either a spirit or some other entity that likes to watch you all while you are running around a dungeon - which occasionally losses power...Take a flashlight!
 
-{{% button href="/lore/quests/agency_coffin_portal/" %}}Agency Coffin Portal Quest{{% /button %}}
+{{% button href="/lore/quests/agency_coffin_portal/" %}}New Agency House Guide Here{{% /button %}}
 
 
 <hr style="background-color: #28b44c" size=8 class="post-block">
