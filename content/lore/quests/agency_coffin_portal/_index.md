@@ -8,7 +8,7 @@ images:
 - images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png
 - images/agency_coffin_portal_quest/generator_room_tachyon_button.png
 - images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png
-Tags: ["portal","Secret August 2024", "Agency RP House"]
+Tags: ["Portal","Secret August 2024", "Agency RP House","New Update"]
 Categories: ["Secret August 2024"]
 ---
 
