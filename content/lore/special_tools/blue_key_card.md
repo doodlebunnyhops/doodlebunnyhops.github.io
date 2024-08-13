@@ -5,6 +5,7 @@ weight: 2
 description: "How to get blue key card to get into Brookhaven Electric."
 images:
 - images/maps/brookhaven_electric.jpg
+Tags: ["Blue Key Card","Brookhaven Electric"]
 ---
 
 

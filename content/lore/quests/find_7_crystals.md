@@ -5,6 +5,7 @@ weight: 1
 description: "Find and collect 7 crystals throughout Brookhaven."
 images: 
 - images/bh/7_crystals_comp_message.jpg
+Tags: ["Abandoned House","7 Crystals"]
 ---
 
 We are an a quest to find 7 crystals!

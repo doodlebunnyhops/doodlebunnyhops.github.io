@@ -5,6 +5,7 @@ weight: 1
 description: "How to connect laptop to Agency and Mr. Brookhaven messages."
 images:
 - images/bh/a05-complete.jpg
+Tags: ["Laptop"]
 ---
 
 Connecting the laptop will allow you to see important messages from The Agency and Mr. Brookhaven throughout quests and casebook items. 

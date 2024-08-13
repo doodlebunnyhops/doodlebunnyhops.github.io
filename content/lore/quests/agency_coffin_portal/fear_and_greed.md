@@ -5,6 +5,7 @@ weight: 3
 description: "Fear and Greed's room steps to finish progress"
 images:
 - images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png
+Tags: ["Agency RP House"]
 ---
 
 ![Image of Fear and Greed's room in the Agency RP house](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png)

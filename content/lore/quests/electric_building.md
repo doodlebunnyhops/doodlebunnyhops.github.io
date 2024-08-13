@@ -3,7 +3,7 @@ title: "Electric Building"
 noindex: false
 weight: 4
 description: "How to get inside Brookhaven Electric."
-
+Tags: ["Brookhaven Electric","Key Card Access"]
 ---
 
 
