@@ -21,7 +21,7 @@ paginate = 40
   [services.googleAnalytics]
   ID = 'G-LYV1YN0FYF'
 
-disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
 #[sitemap]
 #  filename = "content/sitemap.xml"
