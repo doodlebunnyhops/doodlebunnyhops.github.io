@@ -3,7 +3,7 @@ title: "School Base"
 noindex: false
 weight: 2
 description: "How to get into the hidden base above the school."
-Tags: ["School", "Hidden Base"]
+Tags: ["School", "Hidden Base in School"]
 ---
 
 It's time to go to school! _And find the secret base_

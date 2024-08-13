@@ -25,7 +25,7 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 GAME UPDATE WITH SECRETS!
 
-See the guide here: {{% button href="/lore/quests/agency_coffin_portal/" %}}Agency Coffin Portal Quest{{% /button %}}
+See the guide here: {{% button href="/lore/quests/agency_coffin_portal/" %}}Agency RP House Secrets{{% /button %}}
 
 <hr style="background-color: #28b44c" size=8>
 

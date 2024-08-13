@@ -5,7 +5,7 @@ weight: 5
 description: "How to get the hidden rod."
 images:
 - images/maps/arches.jpg
-Tags: ["Bakery RP House", "Arch","Rod"]
+Tags: ["Bakery RP House", "Rod under Arch"]
 ---
 
 There's a white bent rod hidden, what does it do?

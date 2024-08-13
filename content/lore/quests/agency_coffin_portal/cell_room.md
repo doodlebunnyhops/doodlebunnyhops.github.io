@@ -12,10 +12,15 @@ Tags: ["Agency RP House"]
 ![Image of the cell room in the Agency RP house](/images/agency_coffin_portal_quest/cell_room_w400px.png)
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Other Rooms**: None
+{{% /notice %}}
 
-**Number of Bars**: 4
+**Number of Bars**: `4`
 
 ### Steps:
+
+**Completes:** `3` bars
 1. Place red book in stand
 1. Answer the questions correctly! 
     - Are you a part of The Agency? Yes
@@ -27,7 +32,7 @@ Tags: ["Agency RP House"]
 
 
 ### Helpful Pics
-{{< tabs title="Click Tab ->" >}}
+{{< tabs title="" >}}
 {{% tab title="Button Behind Podium" %}}
 
 {{< column "grid-2">}}

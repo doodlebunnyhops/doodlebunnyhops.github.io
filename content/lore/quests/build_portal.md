@@ -5,7 +5,7 @@ weight: 7
 description: "How to build the portal beneath Eagle View."
 images:
 - images/maps/portal-built.jpg
-Tags: ["Portal"]
+Tags: ["Build the Portal"]
 ---
 
 

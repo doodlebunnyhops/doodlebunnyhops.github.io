@@ -5,7 +5,7 @@ weight: 13
 description: "Unlock the hidden chair room at the Agency Bunker."
 images:
 - images/maps/agency_bunker_inside.jpg
-Tags: ["Agency Bunker", "Chair Room"]
+Tags: ["Agency Bunker", "Hidden Chair Room"]
 ---
 
 There's a secret room behind the Agency Base... what's it for?

@@ -5,7 +5,7 @@ weight: 8
 description: "How to get the Green Key Card and where to use it in the Agency Bunker."
 images:
 - images/maps/agency_bunker_inside.jpg
-Tags: ["Green Key Card", "Agency Bunker"]
+Tags: ["Green Key Card", "Agency Bunker Secret Panel"]
 ---
 
 The green card does _something_...
