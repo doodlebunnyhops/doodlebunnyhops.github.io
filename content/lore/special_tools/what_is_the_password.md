@@ -5,7 +5,7 @@ weight: 7
 description: "How to find the password to the panel in the agency bunker."
 images:
 - images/bh/agency_bunker_inside.jpg
-Tags: ["Marcus Brookhaven", "Agency Bunker"]
+Tags: ["Marcus Brookhaven", "Agency Bunker Password"]
 ---
 
 Find the hidden password

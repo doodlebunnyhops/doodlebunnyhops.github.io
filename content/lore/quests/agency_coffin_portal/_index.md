@@ -1,5 +1,5 @@
 ---
-title: "Agency Coffin Portal"
+title: "Agency RP House"
 noindex: false
 weight: 17
 description: "Steps to getting the Agency Portal working in the Agency RP house."
@@ -16,19 +16,22 @@ The agency is up to something with a portal and coffins hidden deep beneath the 
 
 _prefer a video walk through? here's who I suggest!_
 
+{{< expand title="Walkthrough Vids" >}}
+
 Psst - for our polish friends I've also included Mendi!
+
 <div class="grid-2 post-vid-dot">
 {{< youtube id=j_nZJpV3W5k loading=lazy >}}
 {{< youtube id=6nnnep1sBy4 loading=lazy >}}
 {{< youtube id=UWWGle15_1I loading=lazy >}}
-
 </div>
+{{< /expand >}}
 
 <hr style="background-color: #28b44c" size=8>
 
-# Walkthrough
+# Guide
 
-This quest is rather large so I wrote it out in a way many content creators have walked through. It's meant to go through each below starting at `1. Getting Started`
+This quest is rather large so I wrote it out in a way many content creators have walked through. It's meant to go through each below starting at {{% button href="getting_started" style="green" %}}Getting Started{{% /button %}} - but you can still jump around if you like.
 
 {{% notice style="tip" %}}
 All of these steps will be in the Agency RP house

@@ -11,12 +11,16 @@ Tags: ["Agency RP House"]
 ![Image of the Lab and Capsules room in the Agency RP house](/images/agency_coffin_portal_quest/lab_room_w400px.png)
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**Other Rooms**: None
+{{% /notice %}}
 
 
-
-**Number of Bars**: 3
+**Number of Bars**: `3`
 
 ### Steps:
+
+**Completes:** `2` bars
 1. Sit in numbered chairs in this order: `1, 2, 1, 2, 1`
     1. Green lightning should appear
 1. Turn lasers button on so it is green.

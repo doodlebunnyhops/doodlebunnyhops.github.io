@@ -13,13 +13,25 @@ Tags: ["Agency RP House","portal room","portal"]
 _An ominous room with 5 coffins in a circle with one of them under a stonehenge_
 
 <hr style="background-color: #28b44c" size=8>
+{{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
+**All Rooms have Completed Bars**
+- [Main Room](main_room)
+- [Generator](generator_room)
+- [Fear & Greed](fear_and_greed)
+- [Kid's Room](kids_room)
+- [Lab/Capsules](lab_room)
+- [Cell](cell_room)
+{{% /notice %}}
 
-**Number of Bars**: 4
+**Number of Bars**: `4`
 
 ### Steps:
-1. Click the button on the right
+
+**Completes:** `4`* bars, one is already done when we begin the quest.
+
+1. Click the button on the right of the stonehenge.
 1. Change the coffin colors.
-    1. The first one is under the stonehenge with the buttons is black, the ones on the left and right of black are red, and the last 2 are white
+    1. The first one is under the stonehenge with the buttons is black, the ones on the left and right of black are red, and the last 2 are white.
     1. Now change the coffin colors in Fear & Greed to Yellow
 1. Head to labs and flick the laser light off and then back on
     1. Lasers should be red
