@@ -23,8 +23,6 @@ paginate = 40
 
 disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
-#[sitemap]
-#  filename = "content/sitemap.xml"
 
 [outputs]
   home = ["HTML", "RSS","search","searchpage"]
