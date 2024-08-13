@@ -3,6 +3,7 @@ title: "Glowing Chair"
 noindex: false
 weight: 10
 description: "How to activate glowing chair in the abandoned house."
+Tags: ["Abandoned House", "Glowing Chair"]
 ---
 
 A glowing figure appears in the abandoned house!

@@ -7,6 +7,7 @@ aliases:
 - /quests
 images:
 - images/bh/agency_greed_desk_1_button.jpg
+Tags: ["Brookhaven Lore Quests"]
 
 ---
 

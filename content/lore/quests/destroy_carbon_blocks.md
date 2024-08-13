@@ -3,6 +3,7 @@ title: "Destroy Carbon Blocks"
 noindex: false
 weight: 6
 description: "Find and destroy 7 carbon blocks of life."
+Tags: ["Carbon Blocks", "Quantum Room"]
 ---
 
 
