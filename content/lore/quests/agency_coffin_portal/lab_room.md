@@ -1,7 +1,7 @@
 ---
 title: "Lab & Capsules Room"
 noindex: false
-weight: 5
+weight: 6
 description: "Summon lightening and trigger the green laser."
 images:
 - images/agency_coffin_portal_quest/lab_room_green_lasers.png
@@ -67,4 +67,4 @@ Tags: ["Agency RP House"]
 
 <hr style="background-color: #28b44c" size=8>
 
-<div align="center">{{% button href="../kids_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../cell_room/" style="green" %}}Next Step{{% /button %}}</div>
+<div align="center">{{% button href="../cell_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../sync_codes/" style="green" %}}Next Step{{% /button %}}</div>

@@ -1,7 +1,7 @@
 ---
 title: "Portal Room"
 noindex: false
-weight: 8
+weight: 9
 description: "Go through the portal surrounded by coffins."
 images:
 - images/agency_coffin_portal_quest/portal_room_w400px.png
