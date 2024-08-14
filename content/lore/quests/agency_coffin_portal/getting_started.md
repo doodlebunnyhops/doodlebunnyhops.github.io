@@ -25,6 +25,10 @@ Tags: ["Agency RP House"]
     1. You should now see pictures through out this room (lets call it this the Main Room)
         1. Notice there are multiple red bars above each room picture.
 
+### Tips
+
+It really helped me putting prop signs throughout the dungeon labeling rooms and which directions to go till I got familiar with my surroundings :heart:
+
 ### Helpful Pics
 {{< tabs title="Click Tab ->" >}}
 
