@@ -1,7 +1,7 @@
 ---
 title: "Main Room"
 noindex: false
-weight: 1
+weight: 2
 description: "This is the main or center room used to see progress of room completion"
 images:
 - images/agency_coffin_portal_quest/main_room_w400px.png

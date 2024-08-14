@@ -1,7 +1,7 @@
 ---
 title: "Generator Room"
 noindex: false
-weight: 2
+weight: 3
 description: "Unlock the Master Control board and get the orb in the generator."
 images:
 - images/agency_coffin_portal_quest/generator_room_w400px.png
@@ -28,7 +28,7 @@ Tags: ["Agency RP House"]
     1. Click on button that reads “Tachyon”
     1. You should see the orb in the generator now 😀
 1. Click on Code Button to turn it green.
-1. Proceed to {{% button href="../kids_room/" style="green" %}}Kids Room{{% /button %}}
+1. Proceed to {{% button href="../kids_room/" style="green" %}}Kid's Room{{% /button %}}
 
 ### Helpful Pics
 {{< tabs title="Click Tab ->" >}}
@@ -56,4 +56,5 @@ Tags: ["Agency RP House"]
 
 <hr style="background-color: #28b44c" size=8>
 
-<div align="center">{{% button href="../main_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../kids_room/" style="green" %}}Next Step{{% /button %}}</div>
+<div align="center">{{% button href="../main_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../fear_and_greed/" style="green" %}}Fear & Greed{{% /button %}} {{% button href="../kids_room/" style="green" %}}Kid's Room{{% /button %}}</div>
+
