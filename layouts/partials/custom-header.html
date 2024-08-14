@@ -3,6 +3,9 @@
    /* Custom css */
 </style>
 -->
+{{- $format := partial "get-format.hugo" . }}
+{{- $outputFormat := partial "output-format.hugo" (dict "page" . "format" $format) }}
+
 {{- if strings.Contains .Site.BaseURL "https://solve.bhmystery.com/" }}
 {{ partial "google_analytics.html" . }}
 <script type="text/javascript">
@@ -13,9 +16,7 @@
    })(window, document, "clarity", "script", "izbe6k616k");
 </script>
 {{- end}}
-{{ if .Params.noindex }}
-<meta name="robots" content="noindex" /> 
-{{ end }}
-{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq $outputFormat  "print") (.Params.noindex) }}
 <meta name="robots" content="noindex" /> 
 {{- end }}
