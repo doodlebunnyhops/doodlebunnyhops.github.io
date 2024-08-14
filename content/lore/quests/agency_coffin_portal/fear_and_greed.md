@@ -1,7 +1,7 @@
 ---
 title: "Fear & Greed's Room"
 noindex: false
-weight: 3
+weight: 4
 description: "Fear and Greed's room steps to finish progress"
 images:
 - images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png

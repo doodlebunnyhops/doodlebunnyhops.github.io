@@ -53,4 +53,4 @@ Tags: ["Agency RP House"]
 
 <hr style="background-color: #28b44c" size=8>
 
-<div align="center">{{% button href="../fear_and_greed/" style="green" %}}Previous Step{{% /button %}} {{% button href="../lab_room/" style="green" %}}Next Step{{% /button %}}</div>
+<div align="center">{{% button href="../fear_and_greed/" style="green" %}}Previous Step{{% /button %}} {{% button href="../cell_room/" style="green" %}}Next Step{{% /button %}}</div>

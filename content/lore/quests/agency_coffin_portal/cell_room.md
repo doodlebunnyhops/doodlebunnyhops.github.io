@@ -1,7 +1,7 @@
 ---
 title: "Cell Room"
 noindex: false
-weight: 6
+weight: 5
 description: "How to unlock the cell room by answering the correct questions."
 images:
 - images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png
@@ -17,6 +17,27 @@ Tags: ["Agency RP House"]
 {{% /notice %}}
 
 **Number of Bars**: `4`
+
+### Tips how to get inside:
+
+{{< expand title="Short Way" >}}
+
+- Go to the kids room and place a sleeping bag in the corner where the mirror is.
+
+{{< block "grid-2 post-vid-dot" >}}
+
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room.png)
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room_through_the_wall.png)
+{{< /block >}}
+
+{{< /expand >}}
+
+{{< expand title="Long Way" >}}
+Take a stroll through the dungeon!
+
+{{< youtube id=lN7cDoSIPpc loading=lazy >}}
+{{< /expand >}}
+
 
 ### Steps:
 
@@ -46,4 +67,4 @@ Tags: ["Agency RP House"]
 
 <hr style="background-color: #28b44c" size=8>
 
-<div align="center">{{% button href="../lab_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../sync_codes/" style="green" %}}Next Step{{% /button %}}</div>
+<div align="center">{{% button href="../kids_room/" style="green" %}}Previous Step{{% /button %}} {{% button href="../lab_room/" style="green" %}}Next Step{{% /button %}}</div>
