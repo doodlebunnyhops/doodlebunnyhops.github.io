@@ -57,11 +57,25 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 
 ### Portal Entrance
 
+#### Carbon Blocks Destroyed
+
 {{% notice style="tip" %}}
 **Requirements** : [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
 {{% /notice %}}
 
 1. After completing Destroy Carbon Blocks with your hand glowing.
+1. Head to quantum room and then leave.
+1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/build_portal).
+
+---
+
+#### Agency RP House
+
+{{% notice style="tip" %}}
+**Requirements** : [Agency RP House: Portal Room](/lore/quests/agency_coffin_portal/portal/)
+{{% /notice %}}
+
+1. After completing the entire [Agency RP House quest](/lore/quests/agency_coffin_portal/) when your hand glows red.
 1. Head to quantum room and then leave.
 1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/build_portal).
 

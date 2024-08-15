@@ -96,13 +96,10 @@ Here is an image of the panel with no lights activated.
 ---
 ### Interactive Lights Table
 
-This table shows us what we do know so far. If a light has a link in it, we have the steps to enable it.
+This table shows us what we do know so far. If it has a link in it, we have the steps to enable it.
 
 _The exception here is [X22](#x22) - we have a hint about it but no steps to activate it._
 
-{{% notice style="warning" %}}
-If you're having a hard time seeing the rest of the table, click anywhere on the table that isn't a link. This should allow you to move left and right
-{{% /notice %}}
 
 
   {{< myTable "dataset1" "table,noFilter" >}}
