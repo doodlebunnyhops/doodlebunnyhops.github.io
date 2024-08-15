@@ -1,5 +1,6 @@
 ---
 title: "Admin Kate"
+noindex: false
 weight: 11
 draft: false
 description: "Admin Kate from Wolfpaq discord and her help in discovering Secrets and Mysteries in Brookhaven"
@@ -18,4 +19,4 @@ Back in 2022, Kate sent a few notes of interest to Kreek on the power lines that
 
 It was also observed by a Wolfpack secrets and mystery community member that there was a room and perhaps this is real but has still yet to be discovered!
 
-{{< liteyoutube  videoid="9SLogHUaxIQ" params="start=3990"  >}}
+{{< youtube id=9SLogHUaxIQ start=3990 loading=lazy >}}

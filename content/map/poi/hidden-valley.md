@@ -1,9 +1,10 @@
 ---
 title: "Hidden Valley"
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Hidden Valley location view and related secrets"
-image: images/maps/hidden_valley_2.jpg
+
 images:
 - images/maps/hidden_valley_1.jpg
 - images/maps/hidden_valley_2.jpg
@@ -16,9 +17,9 @@ draft: false
 It's a quaint little nook, perfect for a quiet home. But something is hiding inside the mountain just behind this lovely property. Will you dare to explore the hidden cave?
 
 {{< column "grid-2" >}}
-{{< zoom id="zoom-default" src="/images/maps/hidden_valley_1.jpg" alt="view of Hidden Valley" >}}
-{{< zoom id="zoom-default" src="/images/maps/hidden_valley_2.jpg" alt="view of Hidden Valley" >}}
-{{< zoom id="zoom-default" src="/images/maps/hidden_valley_cave.jpg" alt="view of Hidden Valley" >}}
+![view of Hidden Valley](/images/maps/hidden_valley_1.jpg)
+![view of Hidden Valley](/images/maps/hidden_valley_2.jpg)
+![view of Hidden Valley](/images/maps/hidden_valley_cave.jpg)
 {{< /column >}}
 
 
@@ -26,7 +27,7 @@ It's a quaint little nook, perfect for a quiet home. But something is hiding ins
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/hidden-valley.png" alt="Location of Hidden Valley" >}}
+![Location of Hidden Valley](/images/maps/hidden-valley.png)
 
 <hr style="background-color: #28b44c" size=8>
 

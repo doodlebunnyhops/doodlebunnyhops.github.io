@@ -2,8 +2,11 @@
 author: "BloominDaisy"
 date: 2024-06-07
 title: "Pets and Props"
-image: /images/blog/prop-pets.png
-images: 
+noindex: false
+archetype: "blog"
+hidden: true
+imagecust: /images/blog/prop-pets.png
+images:
 - /images/blog/prop-pets.png
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
 draft: false
@@ -49,23 +52,20 @@ Most Props can be customized now! After placing a prop if you see a cog on the l
 
 ## Sweet Vids!
 
-{{< column "grid-2 post-vid-dot" >}}
-{{< column "grid-1" >}}
-**O1G: Prop Stacking** {{< liteyoutube "TPelg09tkIM" >}}
-{{< /column>}}
+<div class="grid-2 post-vid-dot">
 
-{{< column "grid-1" >}}
-**Darzeth: Prop Stacking, Colors, and Pets** {{< liteyoutube "7_oK_DpoTYc" >}}
-{{< /column>}}
+**O1G: Prop Stacking** <div class="grid-1">{{< youtube id=TPelg09tkIM loading=lazy >}}</div>
 
-{{< column "grid-1" >}}
-**O1G: Prop Colors** {{< liteyoutube "aAFmGbjOA0Q" >}}
-{{< /column>}}
 
-{{< column "grid-1" >}}
-**O1G: Pets** {{< liteyoutube "8PeBKcDw1vc" >}}
-{{< /column>}}
-{{< /column>}}
+**Darzeth: Prop Stacking, Colors, and Pets** <div class="grid-1">{{< youtube id=7_oK_DpoTYc loading=lazy >}}</div>
+
+
+**O1G: Prop Colors** <div class="grid-1">{{< youtube id=aAFmGbjOA0Q loading=lazy >}}</div>
+
+
+**O1G: Pets** <div class="grid-1">{{< youtube id=8PeBKcDw1vc loading=lazy >}}</div>
+</div>
+
 
 ---
 

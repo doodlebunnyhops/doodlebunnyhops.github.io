@@ -1,9 +1,10 @@
 ---
 title: "Brookhaven Electric"
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Electric location view and related secrets"
-image: images/maps/brookhaven_electric.jpg
+
 images:
 - images/maps/brookhaven_electric.jpg
 Categories: ["point of interest","map"]
@@ -13,13 +14,13 @@ draft: false
 
 Brookhaven Electric, the town's power source, is locked. To gain entrance, you need a special access key card, but why? What else could the facility be powering?
 
-{{< zoom id="zoom-default" src="/images/maps/brookhaven_electric.jpg" alt="view of Brookhaven Electric" >}}
+![view of Brookhaven Electric](/images/maps/brookhaven_electric.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/brookhaven-electric.png" alt="Location of Brookhaven Electric" >}}
+![Location of Brookhaven Electric](/images/maps/brookhaven-electric.png)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -32,4 +33,4 @@ Brookhaven Electric, the town's power source, is locked. To gain entrance, you n
 
 ### Related Quests
 
-- [Access Card](/lore/special_tools/#blue-key-card)
+- [Access Card](/lore/special_tools/blue_key_card)

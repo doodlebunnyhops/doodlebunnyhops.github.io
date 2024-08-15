@@ -1,9 +1,10 @@
 ---
 title: "Agency Bunker"
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Agency Bunker location and related details"
-image: images/maps/agency_bunker_inside.jpg
+
 images:
 - images/maps/agency_bunker_inside.jpg
 - images/maps/agency_bunker.jpg
@@ -16,12 +17,11 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 {{< column "grid-2" >}}
 
-{{< zoom id="zoom-default" src="/images/maps/agency_bunker.jpg" alt="Agency Bunker Entrance" >}}
+![Agency Bunker Entrance](/images/maps/agency_bunker.jpg)
 
-{{< zoom id="zoom-default" src="/images/maps/agency_bunker_inside.jpg" alt="Agency Bunker Inside" >}}
+![Agency Bunker Inside](/images/maps/agency_bunker_inside.jpg)
 
-{{< zoom id="zoom-default" src="/images/maps/agency_logo.jpg" alt="Agency Logo found in Agency Bunker" >}}
-
+![Agency Logo found in Agency Bunker](/images/maps/agency_logo.jpg)
 
 {{< /column >}}
 
@@ -29,7 +29,7 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/agency-bunker.png" alt="Location of Agency Bunker" >}}
+![Location of Agency Bunker](/images/maps/agency-bunker.png)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -43,6 +43,6 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 ### Related Quests
 
-- [Build Portal](/lore/quests/#build-portal)
-- [Green Card](/lore/special_tools/#green-key-card)
-- [Chair Room](/lore/quests/#chair-room)
+- [Build Portal](/lore/quests/build_portal)
+- [Green Card](/lore/special_tools/green_key_card)
+- [Chair Room](/lore/quests/chair_room)

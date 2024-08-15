@@ -2,7 +2,12 @@
 author: "BloominDaisy"
 date: 2024-07-08
 title: "GoKarts and Vehicle Props"
-image: https://tr.rbxcdn.com/ba49a4ba1506523895e2ead36d322edc/768/432/Image/Png
+noindex: false
+archetype: "blog"
+hidden: true
+imagecust: https://tr.rbxcdn.com/ba49a4ba1506523895e2ead36d322edc/768/432/Image/Png
+images:
+- https://tr.rbxcdn.com/ba49a4ba1506523895e2ead36d322edc/768/432/Image/Png
 description: "Brookhaven Update: Several new go karts and prop placement on owned vehicles"
 draft: false
 ---
@@ -42,21 +47,16 @@ Drivers, start your engines! It's time for a go kart championship in Brookhaven,
 
 ## Sweet Vids!
 
-{{< column "grid-2 post-vid-dot" >}}
+<div class="grid-2 post-vid-dot">
 
-{{< column "grid-1" >}}
-**Darzeth: Review of Update** {{< liteyoutube "0gnPyPjjwFM" >}}
-{{< /column>}}
+**Darzeth: Review of Update** <div class="grid-1">{{< youtube id=0gnPyPjjwFM loading=lazy >}}</div>
 
-{{< column "grid-1" >}}
-**Darzeth Races OddFox** {{< liteyoutube "qJ_O7GMoqWE" >}}
-{{< /column>}}
 
-{{< column "grid-1" >}}
-**O1G: Review of Update** {{< liteyoutube "ZybGAurJp7g" >}}
-{{< /column>}}
+**Darzeth Races OddFox** <div class="grid-1">{{< youtube id=qJ_O7GMoqWE loading=lazy >}}</div>
 
-{{< /column>}}
+
+**O1G: Review of Update** <div class="grid-1">{{< youtube id=ZybGAurJp7g loading=lazy >}}</div>
+</div>
 
 ---
 

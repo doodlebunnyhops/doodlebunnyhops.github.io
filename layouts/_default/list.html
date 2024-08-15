@@ -1,0 +1,7 @@
+
+{{- $page := . }}
+{{- if eq $page.Params.type "blog" }}
+  {{- partial "partials/archetypes/blog/list.html" . }}
+{{- else }}
+  {{- partial "_main.hugo" . }}
+{{- end}}

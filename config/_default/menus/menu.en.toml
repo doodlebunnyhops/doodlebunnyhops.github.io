@@ -1,38 +1,20 @@
-#[[main]]
-#  name = "Example"
-#  weight = 3
-#  url = "https://docs.neuralvibes.com"
+[[shortcuts]]
+  identifier = 'ds'
+  name = "<i class='fa-fw fab fa-github'></i> GitHub repo"
+  url = 'https://github.com/doodlebunnyhops/doodlebunnyhops.github.io'
+  weight = 10
 
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+[[shortcuts]]
+  name = "<i class='fa-brands fa-x-twitter'></i> Twitter/X"
+  url = 'https://x.com/SolveBHMystery'
+  weight = 11
 
-[[main]]
-  name = "Lore"
-  weight = 1
-  url = "lore/"
-[[main]]
-  name = "CaseBook"
-  weight = 2
-  url = "casebook/"
-[[main]]
-  name = "Map"
-  weight = 3
-  url = "map/"
-[[main]]
-  name = "Terminology"
-  weight = 4
-  url = "terminology"
+[[shortcuts]]
+  name = "<i class='fa-brands fa-square-reddit'></i> Reddit"
+  url = 'https://www.reddit.com/r/BrookhavenRPSecrets/'
+  weight = 12
+
 [[main]]
   name = "Blog"
   weight = 5
   url = "blog/"
-[[main]]
-  name = "Contribute"
-  weight = 6
-  url = "contribute/"
-[[main]]
-  name = "About"
-  weight = 7
-  url = "about/"

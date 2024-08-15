@@ -1,11 +1,9 @@
 ---
 title: "Details"
+noindex: false
 weight: 1
-description: "Locations for all monoliths"
+description: "Notes and observations about Monoliths, aka black rectangular object with red lettering on the side."
 ---
-
-
-Additional Notes on Monoliths
 
 ### Agency Bunker Message Board inside
 

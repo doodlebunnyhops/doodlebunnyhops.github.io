@@ -1,8 +1,9 @@
 ---
 title: "Mr.Brookhaven"
+noindex: false
 weight: 3
 draft: false
-description: "All Notes and how to find them that are signed by Mr. Brookhaven in Brookhaven RP Secrets and Mysteries."
+description: "All Notes and how to find them that are signed by Mr. Brookhaven."
 aliases:
 - /casebook/notes/mrbookhaven
 ---
@@ -14,9 +15,9 @@ aliases:
 
 ## Crystals for Good or Bad
 
-{{< tip >}}
-**Requirements** : Start of [Find 7 Crystals](/lore/quests/#find-7-crystals) quest.
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Start of [Find 7 Crystals](/lore/quests/find_7_crystals) quest.
+{{% /notice %}}
 
 **Steps:**
 

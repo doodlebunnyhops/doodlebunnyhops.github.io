@@ -1,10 +1,13 @@
 ---
 title: "Terminology"
+noindex: false
 weight: 4
 description: "Word definitions used throughout this guide for Brookhaven RP secrets and mysteries."
 # aliases:
 # - /words
 toc: true
+aliases:
+- /terminology/words
 ---
 
 List of definitions as some names for places/things does differ. 

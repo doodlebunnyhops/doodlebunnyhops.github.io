@@ -1,13 +1,14 @@
 ---
 title: "Agency"
+noindex: false
 weight: 1
 draft: false
-description: "All Messages provided on the laptop from the Agency in Brookhaven RP Secrets and Mysteries."
+description: "Messages on the laptop from the Agency."
 tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - images/bh/follow_the_book_comp_message.png
 - images/bh/useful_soldier_comp_message.jpg
-image: bh/useful_soldier_comp_message.jpg
+
 ---
 
 
@@ -15,9 +16,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Follow The Book
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
@@ -31,14 +32,14 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Power of The Book
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
 1. Go to the hotel and grab a room.
-2. Follow the same steps as [Build Portal](/lore/quests/#build-portal) - but check your laptop before leaving the hotel room!
+2. Follow the same steps as [Build Portal](/lore/quests/build_portal) - but check your laptop before leaving the hotel room!
 
 
 
@@ -49,9 +50,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Useful Soldier
 
-{{< tip >}}
-**Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
+{{% /notice %}}
 
 **Steps:**
 
@@ -65,9 +66,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Circle The Monoliths
 
-{{< tip >}}
-**Requirements** : [Monoliths](/lore/quests/#monoliths)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Monoliths](/lore/quests/monoliths)
+{{% /notice %}}
 
 **Steps:**
 
@@ -81,9 +82,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## No Experimenting
 
-{{< tip >}}
-**Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Part of [Mystery Alien](/lore/quests/mystery_alien)
+{{% /notice %}}
 
 **Steps:**
 
@@ -99,9 +100,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Agency Knows What's Best
 
-{{< tip >}}
-**Requirements** : Part of [Mystery Alien](/lore/quests/#mystery-alien)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Part of [Mystery Alien](/lore/quests/mystery_alien)
+{{% /notice %}}
 
 **Steps:**
 
@@ -122,9 +123,9 @@ image: bh/useful_soldier_comp_message.jpg
 
 ## Money is everything!
 
-{{< tip >}}
-**Requirements** : Part of [Agency Greed](/lore/quests/#agency-greed)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Part of [Agency Greed](/lore/quests/agency_greed)
+{{% /notice %}}
 
 **Steps:**
 

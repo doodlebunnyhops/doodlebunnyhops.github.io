@@ -1,34 +1,94 @@
-baseURL = "https://solve.bhmystery.com/"
-title = "Brookhaven Secrets and Mysteries"
+baseURL = "https://solve.bhmystery.com/testsite/"
 enableRobotsTXT = true
+relativeURLs = true
 
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 #theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
- theme = ["compose","reveal-hugo"]
+# theme = ["compose","reveal-hugo"]
+theme = ["hugo-theme-relearn"]
 enableGitInfo = true
 enableEmoji = true
 canonifyURLs = true
+alwaysopen = false
+showVisitedLinks = false
+disableTagHiddenPages = true
+disableTermBreadcrumbs = true
 
 paginate = 40
 
-googleAnalytics = 'G-LYV1YN0FYF'
+[services]
+  [services.googleAnalytics]
+  ID = 'G-LYV1YN0FYF'
 
-disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
-#[sitemap]
-#  filename = "content/sitemap.xml"
 
 [outputs]
-  home = ["HTML", "RSS","JSON"]
+  home = ["HTML", "RSS","search","searchpage"]
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss']
   
-#[markup.goldmark.renderer]
 [markup]
   [markup.goldmark]
     duplicateResourceFiles = false
     [markup.goldmark.extensions]
-      #table = false
-#unsafe = false
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      [markup.goldmark.extensions.cjk]
+        eastAsianLineBreaks = false
+        eastAsianLineBreaksStyle = 'simple'
+        enable = false
+        escapedSpace = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.delete]
+          enable = false
+        [markup.goldmark.extensions.extras.insert]
+          enable = false
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+        [markup.goldmark.extensions.extras.subscript]
+          enable = false
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+      [markup.goldmark.extensions.passthrough]
+        enable = false
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = []
+          inline = []
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '&ldquo;'
+        leftSingleQuote = '&lsquo;'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '&rdquo;'
+        rightSingleQuote = '&rsquo;'
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = false
+      [markup.goldmark.renderHooks.link]
+        enableDefault = false
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
 
 [outputFormats.Reveal]
 baseName = "reveal"
@@ -37,11 +97,6 @@ isHTML = true
 
 twitter = "@SolveBHMystery"
 largeTwitterCard = true
-
-[author]
-  name = "Bloomindaisy"
-
-  numberOfTagsShown = 5
 
 [privacy]
   [privacy.disqus]
@@ -64,3 +119,10 @@ largeTwitterCard = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[params]
+  [params.imageEffects]
+    border = false
+    lazy = true
+    lightbox = true
+    shadow = false

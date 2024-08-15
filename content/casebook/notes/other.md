@@ -1,5 +1,6 @@
 ---
 title: "Other"
+noindex: false
 weight: 5
 draft: false
 description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These Notes are not signed or only one note from the signer to appear. Picture of note provided."
@@ -10,9 +11,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Agency Bunker
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : [A08](/casebook/light_panel/#a08): Turn Agency Bunker lights off.
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -25,9 +26,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Military RP Home
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -43,9 +44,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Future Hotel Picture
 
-{{< tip >}}
-**Requirements** : [The Red Book](/lore/special_tools/#the-red-book)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+{{% /notice %}}
 
 **Steps:**
 
@@ -57,9 +58,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Bakery
 
-{{< tip >}}
-**Requirements** : Part of [Rod Under Arch](/lore/special_tools/#rod-under-the-arch) special tool quest.
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : Part of [Rod Under Arch](/lore/special_tools/rod_under_arch) special tool quest.
+{{% /notice %}}
 
 **Steps:**
 
@@ -73,9 +74,9 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ## Operation REDRIVER
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -83,10 +84,30 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 ![Note in Secret XRAY Room reads Operation REDRIVER Terminated](/images/bh/operation_red_river_note.jpg) 
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Is it pronounced `red river` or `re driver`?
 [Officially](https://discord.com/channels/482308357248647177/870010373976236052/1105193056317218856) it is pronounced Red River
 ![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.jpg)
-{{< /tip >}}
+{{% /notice %}}
+
+<hr style="background-color: #28b44c" size=8>
+
+## Agency House Kid's Room
+
+{{% notice style="tip" %}}
+**Requirements** : 
+- Inside Agency RP House
+- Steps 1 & 2 of [Kid's Room Quest](lore/quests/agency_coffin_portal/kids_room/#steps)
+	- Steps will be shown here
+{{% /notice %}}
+
+**Steps:**
+
+1. Sit in the yellow chair
+1. Click on the button behind the pillow
+	1. A note appears
+
+![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child_croped.png)
+
 
 <hr style="background-color: #28b44c" size=8>
