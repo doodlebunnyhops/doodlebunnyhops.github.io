@@ -91,3 +91,23 @@ Is it pronounced `red river` or `re driver`?
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
+
+## Agency House Kid's Room
+
+{{% notice style="tip" %}}
+**Requirements** : 
+- Inside Agency RP House
+- Steps 1 & 2 of [Kid's Room Quest](lore/quests/agency_coffin_portal/kids_room/#steps)
+	- Steps will be shown here
+{{% /notice %}}
+
+**Steps:**
+
+1. Sit in the yellow chair
+1. Click on the button behind the pillow
+	1. A note appears
+
+![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child_croped.png)
+
+
+<hr style="background-color: #28b44c" size=8>
