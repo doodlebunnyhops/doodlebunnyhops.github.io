@@ -1,9 +1,3 @@
-[submodule "themes/reveal-hugo"]
-	path = themes/reveal-hugo
-	url = https://github.com/dzello/reveal-hugo
-[submodule "themes/compose"]
-	path = themes/compose
-	url = https://github.com/onweru/compose/
-[submodule "themes/hugo-clarity"]
-	path = themes/hugo-clarity
-	url = https://github.com/chipzoller/hugo-clarity
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/McShelby/hugo-theme-relearn

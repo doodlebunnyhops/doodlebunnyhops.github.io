@@ -1,5 +1,6 @@
 ---
 title: "Museum"
+noindex: false
 weight: 30
 description: "Each displayed piece in the Brookhaven Museum holds a secret"
 date: 2023-05-31
@@ -22,5 +23,5 @@ Here's what we _know_...
 
 ### Related Quest's involving the Museum
 
-- [Ghostly Sighting](/lore/quests/#ghostly-sighting)
-- [Glowing Chair](/lore/quests/#glowing-chair)
+- [Ghostly Sighting](/lore/quests/ghostly_sighting)
+- [Glowing Chair](/lore/quests/glowing_chair)

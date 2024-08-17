@@ -1,0 +1,22 @@
+<!-- Partial intended to be overwritten to add custom headers, like CSS or any other info
+<style>
+   /* Custom css */
+</style>
+-->
+{{- $format := partial "get-format.hugo" . }}
+{{- $outputFormat := partial "output-format.hugo" (dict "page" . "format" $format) }}
+
+{{- if strings.Contains .Site.BaseURL "https://solve.bhmystery.com/" }}
+{{ partial "google_analytics.html" . }}
+<script type="text/javascript">
+   (function(c,l,a,r,i,t,y){
+       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+       t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+   })(window, document, "clarity", "script", "izbe6k616k");
+</script>
+{{- end}}
+
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq $outputFormat  "print") (.Params.noindex) }}
+<meta name="robots" content="noindex" /> 
+{{- end }}

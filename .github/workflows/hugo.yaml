@@ -4,7 +4,7 @@ name: Main Branch Deploy
 
 on:
   # Runs on pushes targeting the default branch
-  push:
+  # push:
     branches:
       - main
 
@@ -41,41 +41,12 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout testsite
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: testsite
           submodules: recursive
           fetch-depth: 0
-      - name: Setup Test Site Pages
-        id: testsitepages
-        uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Set IndexNow Test Site
-        env: 
-          INDEXNOW: ${{ secrets.INDEXNOW }}
-        run: |
-          echo -n "$INDEXNOW" > content/$INDEXNOW.txt
-      - name: Build Test Site with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-          TEMP: ${{ runner.temp }}
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "https://solve.bhmystery.com/testsite/" \
-            -d $TEMP/public/testsite
-      - name: Checkout Main
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          submodules: recursive
-          fetch-depth: 0
-      - name: Setup Main Site Pages
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
@@ -85,31 +56,20 @@ jobs:
           INDEXNOW: ${{ secrets.INDEXNOW }}
         run: |
           echo -n "$INDEXNOW" > content/$INDEXNOW.txt
-      - name: Build Main Site with Hugo
+      - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-          TEMP: ${{ runner.temp }}
         run: |
           hugo \
             --gc \
             --minify \
-            --baseURL "https://solve.bhmystery.com/" \
-            -d $TEMP/public
-      # - name: Clean up robot.txt
-      #   env:
-      #     TEMP: ${{ runner.temp }}
-      #   run: "env && cat $TEMP/public/testsite/robots.txt >> $TEMP/public/robot.txt && cd $TEMP && ls -ltr public"
-      - name: Check Index
-        env:
-          TEMP: ${{ runner.temp }}
-          INDEXNOW: ${{ secrets.INDEXNOW }}
-        run: "cp $TEMP/public/$INDEXNOW.txt $TEMP/public/testsite/$INDEXNOW.txt"
+            --baseURL "https://solve.bhmystery.com/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ runner.temp }}/public
+          path: ./public
 
   # Deployment job
   deploy:

@@ -1,5 +1,6 @@
 ---
 title: "Window Messages"
+noindex: false
 weight: 1
 description: "All Messages seen on the windows in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
 aliases:
@@ -12,11 +13,6 @@ aliases:
 
 ## Lake Madison Camera
 _We met in secret_
-
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
 
 **Steps:**
 
@@ -31,11 +27,6 @@ _We met in secret_
 ## Plant RP House Book
 _The bottom of a hill..._
  
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
-
 **Steps:**
 
 1. Spawn the Plant House
@@ -50,11 +41,6 @@ _The bottom of a hill..._
 ## Military RP Binoculars
 _Within the green..._
  
-{{< tip >}}
-**Requirements** : None
-{{< /tip >}}
-
-
 **Steps:**
 
 1. Spawn the Military RP House

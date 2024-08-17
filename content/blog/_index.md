@@ -1,10 +1,9 @@
 ---
-date: 2023-05-31
 title: Blog
+noindex: false
 weight: 5
-image: images/thumbnails/blog_splash.png
+description: "Blogs about Brookhaven RP Updates, exciting news, and new findings"
+type: blog
 images:
 - images/thumbnails/blog_splash.png
-description: "Blogs about Brookhaven RP Updates, exiting news, and new findings"
-Categories: ["blog"]
 ---

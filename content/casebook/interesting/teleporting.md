@@ -1,36 +1,39 @@
 ---
 title: "Teleporting"
+noindex: false
 weight: 6
 draft: false
-description: "How to trigger teleporting in Brookhaven RP Secrets and Mysteries"
+description: "How to trigger teleporting."
 ---
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Hidden Valley Teleport Spot
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : 2 players
-{{< /tip >}}
+{{% /notice %}}
 
 
-{{< tabs "tabID" >}}
-{{< tab "Player 1 Steps" >}}
+{{< tabs title="Click Tab ->" >}}
+{{% tab title="Player 1 Steps" %}}
 
 1. Stand at the spot under eagle view where the portal will be generated
 {{< /tab>}}
 
-{{< tab "Player 2 Steps" >}}
+{{% tab title="Player 2 Steps" %}}
 
-1. Work on the [Build Portal](/lore/quests/#build-portal) quest.
+1. Work on the [Build Portal](/lore/quests/build_portal) quest.
 1. When you finish hammering on the boxes in that quest, player 1 will teleport to Hidden Valley.
 {{< /tab>}}
 {{< /tabs >}}
 
-{{< tip >}}
+{{% notice style="tip" %}}
 Darzeth’s Youtube vid for better idea of where to stand:
-{{< youtube "O4s7pI_jzW0" >}}
-{{< /tip >}}
+{{% /notice %}}
+
+{{< youtube id=O4s7pI_jzW0 loading=lazy >}}
+
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -41,9 +44,9 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 
 ### Paradise Falls
 
-{{< tip >}}
-**Requirements** : [Find 7 Crystals](/lore/quests/#find-7-crystals)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [Find 7 Crystals](/lore/quests/find_7_crystals)
+{{% /notice %}}
 
 **Steps:**
 1. After completing Find 7 Crystals with your hand glowing.
@@ -54,12 +57,26 @@ Whenever you teleport out of the Quantum Room, you usually get teleported by the
 
 ### Portal Entrance
 
-{{< tip >}}
-**Requirements** : [Destroy Carbon Blocks](/lore/quests/#destroy-carbon-blocks)
-{{< /tip >}}
+#### Carbon Blocks Destroyed
+
+{{% notice style="tip" %}}
+**Requirements** : [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks)
+{{% /notice %}}
 
 1. After completing Destroy Carbon Blocks with your hand glowing.
 1. Head to quantum room and then leave.
-1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/#build-portal).
+1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/build_portal).
+
+---
+
+#### Agency RP House
+
+{{% notice style="tip" %}}
+**Requirements** : [Agency RP House: Portal Room](/lore/quests/agency_coffin_portal/portal/)
+{{% /notice %}}
+
+1. After completing the entire [Agency RP House quest](/lore/quests/agency_coffin_portal/) when your hand glows red.
+1. Head to quantum room and then leave.
+1. You possibly could teleport to the entrance where the [Portal is built](/lore/quests/build_portal).
 
 <hr style="background-color: #28b44c" size=8>

@@ -1,5 +1,6 @@
 ---
 title: "Other Special Messages"
+noindex: false
 weight: 10
 draft: false
 description: "Special Messages by Wolfpaq likely not to be related to lore in Brookhaven RP."
@@ -11,9 +12,9 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 ## Contributors
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to the [Abandoned House](/map/poi/abandoned-house/)
@@ -21,15 +22,15 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
     1. This will trigger the Contributors list to show on the roof by the tree.
     1. It will also trigger random lighting strikes inside the house and common sounds used in the lore.
 
-{{< zoom id="zoom-default" src="/images/blog/abandoned-house-lightening-roof-secret.png" alt="Hidden list of contributors to Brookhaven since the beginning and by type of contributions.">}}
+![Hidden list of contributors to Brookhaven since the beginning and by type of contributions.](/images/blog/abandoned-house-lightening-roof-secret.png)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Memoir of Rosie, O1G's Cat
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)
@@ -38,52 +39,52 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 What a special way to give your condolences Wolfpaq :heart: Our thoughts are with you O1G.
 
-{{< zoom id="zoom-default" src="/images/bh/rosie.png" alt="Visible image of Rosie, O1G's cat, from Wolfpaq behind Modeling Stage at the Mall.">}}
+![Visible image of Rosie, O1G's cat, from Wolfpaq behind Modeling Stage at the Mall.](/images/bh/rosie.png)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Special Thanks
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to [Town Hall](/map/poi/town-hall/)
 1. Turn off the light on the second floor
 1. Go into Mayor's Office to see `Special Thanks` from Wolfpaq.
 
-{{< zoom id="zoom-default" src="/images/bh/special_thanks.jpg" alt="Hidden thank you message from Wolfpaq in Mayors office at Town Hall.">}}
+![Hidden thank you message from Wolfpaq in Mayors office at Town Hall.](/images/bh/special_thanks.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Buggstra was here
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)
 1. Behind the Modeling Runway Stage, 
     1. On the right corner wall you will see `Buggstra was here` message.
 
-{{< zoom id="zoom-default" src="/images/bh/buggstra_was_here.png" alt="Visible message from Buggstra, putting their mark 'Buggstra was here' on the wall at the Modeling backstage area of the Mall.">}}
+![Visible message from Buggstra, putting their mark 'Buggstra was here' on the wall at the Modeling backstage area of the Mall.](/images/bh/buggstra_was_here.png)
 
 <hr style="background-color: #28b44c" size=8>
 
 
 ## Wolfpaq was here
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 1. Go to The Lake Madison, near the [Camp Cabin](/map/poi/camp-cabin/)
 1. On the backside of the Yacht, you can clip inside or if you're on a private owned server you can free cam in to see `Wolfpaq was here` message
 
-{{< zoom id="zoom-default" src="/images/bh/wolfpaq_was_here.png" alt="Hidden message from Wolfpaq, putting their mark 'Wolfpaq was here' inside the back part of the Yacht at Lake Madison">}}
+![Hidden message from Wolfpaq, putting their mark 'Wolfpaq was here' inside the back part of the Yacht at Lake Madison](/images/bh/wolfpaq_was_here.png)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -1,8 +1,9 @@
 ---
 title: "Camp Cabin"
+noindex: false
 weight: 4
 draft: false
-description: "Interesting Spider in the Camp Cabin at Brookhaven RP"
+description: "Interesting Spider in the Camp Cabin by lake Madison."
 ---
 
 

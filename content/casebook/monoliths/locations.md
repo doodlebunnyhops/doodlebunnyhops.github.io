@@ -1,5 +1,6 @@
 ---
 title: "Locations"
+noindex: false
 weight: 1
 description: "Locations for all monoliths"
 ---
@@ -9,79 +10,58 @@ Every 1 hour - 4 hours in game time a monolith will spawn somewhere in Brookhave
 
 We learned that the Monolith Message Boards found outside of the Agency Bunker and behind the Future Hotel Room lead us to the Monolith's location.
 
-{{< tip >}}
 
-Location and picture of each Monolith
-{{< tabs "tabsId" >}}
-{{< tab "1" >}}
-Abandoned House by airport
 
+`Location and picture of each Monolith`
+
+{{% expand title="Abandoned House by airport" %}}
 Code: `..()..()..()..()()..`
-![diy](/images/bh/monolith-location_abandoned_house.png)
-{{< /tab >}}
-{{< tab "2" >}}
-Next to billboard in Blackhawk Neighborhood
+![Monolith near Abandoned House by airport](/images/bh/monolith-location_abandoned_house.png)
+{{% /expand %}}
 
+{{% expand title="Next to billboard in Blackhawk Neighborhood" %}}
 Code: `..{{}}]]{{]]]{'['['['[}}}}..`
+![Monolith Next to billboard in Blackhawk Neighborhood"](/images/bh/monolith-location_balckhawk_billboard.png)
+{{% /expand %}}
 
-![diy](/images/bh/monolith-location_balckhawk_billboard.png)
-{{< /tab >}}
-
-{{< tab "3" >}}
-Behind Barn
-
+{{% expand title="Behind Barn" %}}
 Code: `..((({{)))}}____(){}..`
-![diy](/images/bh/monolith-location_behind_barn.png)
-{{< /tab >}}
+![Monolith Behind Barn](/images/bh/monolith-location_behind_barn.png)
+{{% /expand %}}
 
-{{< tab "4" >}}
-On hill by Eagle View Estate
-
+{{% expand title="On hill by Eagle View Estate" %}}
 Code: `..~~//~~///~..`
-![diy](/images/bh/monolith-location_hill_by_eagle_view.png)
-{{< /tab >}}
+![Monolith On hill by Eagle View Estate](/images/bh/monolith-location_hill_by_eagle_view.png)
+{{% /expand %}}
 
-{{< tab "5" >}}
-Near light post behind horse stables
-
+{{% expand title="Near light post behind horse stables" %}}
 Code: `..<<<{{}}>>>..`
-![diy](/images/bh/monolith-location_lightpost_behind_horse_stable.png)
-{{< /tab >}}
+![Monolith near light post behind horse stables](/images/bh/monolith-location_lightpost_behind_horse_stable.png)
+{{% /expand %}}
 
-{{< tab "6" >}}
-Top of a hill by Madison lake and South Estate
-
+{{% expand title="Top of a hill by Madison lake and South Estate" %}}
 Code: `..//[[]]//~~~~..`
-![diy](/images/bh/monolith-location_madison_lake_hill_top.png)
-{{< /tab >}}
+![Monolith on top of a hill by Madison lake and South Estate](/images/bh/monolith-location_madison_lake_hill_top.png)
+{{% /expand %}}
 
-{{< tab "7" >}}
-Near gas station
-
+{{% expand title="Near gas station" %}}
 Code: `..{}{}{}{}____..`
-![diy](/images/bh/monolith-location_near_gas_station.png)
-{{< /tab >}}
+![Monolith near gas station](/images/bh/monolith-location_near_gas_station.png)
+{{% /expand %}}
 
-{{< tab "8" >}}
-Underground just behind the Secret Agency Base
-
+{{% expand title="Underground just behind the Secret Agency Base" %}}
 Code: `..::::::}}}}}{{{{{::::::..`
-![diy](/images/bh/monolith-location_outside_of_agency_bunker.png)
-{{< /tab >}}
+![Monolith found underground just behind the Secret Agency Base](/images/bh/monolith-location_outside_of_agency_bunker.png)
+{{% /expand %}}
 
-{{< tab "9" >}}
-Top of the hill between house #23 and #24
+{{% expand title="Top of the hill between house #23 and #24" %}}
+
 
 Code: `..][][][.....][][][..`
-![diy](/images/bh/monolith-location_top_of_hill_between_house_23_and_24.png)
-{{< /tab >}}
+![Monolith on top of the hill between house #23 and #24](/images/bh/monolith-location_top_of_hill_between_house_23_and_24.png)
+{{% /expand %}}
 
-{{< tab "10" >}}
-Next to bridge underpass by Abandoned house
-
+{{% expand title="Next to bridge underpass by Abandoned house" %}}
 Code: `..(){}(){}>>>{}(){}..`
-![diy](/images/bh/monolith-location_underpass_by_abanoned_house.png)
-{{< /tab >}}
-
-{{< /tabs >}}
-{{< /tip >}}
+![Monolith found next to bridge underpass by Abandoned house](/images/bh/monolith-location_underpass_by_abanoned_house.png)
+{{% /expand %}}

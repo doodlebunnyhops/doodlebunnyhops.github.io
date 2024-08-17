@@ -1,9 +1,10 @@
 ---
 title: "Barn"
+noindex: false
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Barn location view and related secrets"
-image: images/maps/barn.jpg
+
 images:
 - images/maps/barn.jpg
 Categories: ["point of interest","map"]
@@ -13,13 +14,13 @@ draft: false
 
 The Brookhaven Barn, located next to the Horse Stables, hides a note and a mysterious crystal. 
 
-{{< zoom id="zoom-default" src="/images/maps/barn.jpg" alt="view of Barn" >}}
+![view of Barn](/images/maps/barn.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map View
 
-{{< zoom id="zoom-default" src="/images/maps/barn.png" alt="Location of Barn" >}}
+![Location of Barn](/images/maps/barn.png)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -31,5 +32,5 @@ The Brookhaven Barn, located next to the Horse Stables, hides a note and a myste
 
 ### Related Quests
 
-- [TS Level 1](/lore/special_tools/#ts-level-1)
-- [Find 7 Crystals](/lore/quests/#find-7-crystals)
+- [TS Level 1](/lore/special_tools/ts_lvl1)
+- [Find 7 Crystals](/lore/quests/find_7_crystals)

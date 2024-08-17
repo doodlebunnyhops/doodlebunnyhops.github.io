@@ -1,5 +1,6 @@
 ---
 title: "Madison"
+noindex: false
 weight: 4
 draft: false
 description: "All Notes and how to find them that are signed by Madison in Brookhaven RP Secrets and Mysteries."
@@ -11,9 +12,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Survival RP House
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
@@ -26,9 +27,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Barn
 
-{{< tip >}}
-**Requirements** : [TS Level 1](/lore/special_tools/#ts-level-1)
-{{< /tip >}}
+{{% notice style="tip" %}}
+**Requirements** : [TS Level 1](/lore/special_tools/ts_lvl1)
+{{% /notice %}}
 
 **Steps:**
 
@@ -40,9 +41,9 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 ## Abandoned House
 
-{{< tip >}}
+{{% notice style="tip" %}}
 **Requirements** : None
-{{< /tip >}}
+{{% /notice %}}
 
 **Steps:**
 
