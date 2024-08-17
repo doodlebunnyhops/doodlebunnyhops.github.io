@@ -1,12 +1,12 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 # Check https://gohugo.io/hosting-and-deployment/hosting-on-github/ for updates
-name: OG Deploy
+name: Test Site Deploy
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches:
-      - testsite
+  # push:
+  #   branches:
+  #     - testsite
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
