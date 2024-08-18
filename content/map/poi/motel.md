@@ -22,18 +22,25 @@ If you visit Brookhaven, there's a great Motel next to the airport and a restaur
 
 ## Map View
 
+{{% expand title="Outlined Location of Motel" %}}
+
 ![Location of Motel](/images/maps/motel.png)
+
+{{% /expand %}}
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Future Motel Room Notes](/casebook/notes/agency/)
+- [Computer Messages Triggered in Future Motel](/casebook/computer/agency/#power-of-the-book)
+- [Monolith Script in Motel](/casebook/monoliths/details/#future-motel-message-board)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Build Portal](/lore/quests/build_portal/)
+- [Energy Pyramid](/lore/special_tools/energy_pyramid/#known-locations-doves-appear-at)

@@ -8,7 +8,7 @@ description: "Locations for all monoliths"
 
 Every 1 hour - 4 hours in game time a monolith will spawn somewhere in Brookhaven with Similar Odd Scripture
 
-We learned that the Monolith Message Boards found outside of the Agency Bunker and behind the Future Hotel Room lead us to the Monolith's location.
+We learned that the Monolith Message Boards found outside of the Agency Bunker and behind the Future Motel Room lead us to the Monolith's location.
 
 
 

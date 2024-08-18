@@ -831,7 +831,7 @@ Travel to the past by the power of a book!
 
 **Steps:**
 
-1. After grabbing the Hidden Book in the Library, Go to the Hotel - it should look run down (it's from the future)
+1. After grabbing the Hidden Book in the Library, Go to the Motel - it should look run down (it's from the future)
 	1. Click on the Book underneath the Table
 	2. Click on the Frame of the Empty Picture by the Door
 	3. Click on the Button found behind the Bedside Table

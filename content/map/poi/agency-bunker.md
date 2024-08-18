@@ -29,7 +29,11 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 ## Map View
 
+{{% expand title="Outlined Location of Agency Bunker" %}}
+
 ![Location of Agency Bunker](/images/maps/agency-bunker.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -14,7 +14,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 <hr style="background-color: #28b44c" size=8>
 
-## Hotel from the Future: Closet
+## Motel from the Future: Closet
 
 {{% notice style="tip" %}}
 **Requirements** : [The Red Book](/lore/special_tools/the_red_book)
@@ -22,7 +22,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 **Steps:**
 
-1. Go to the hotel and grab a room.
+1. Go to the motel and grab a room.
 2. The note is hidden on the top of the closet. You can jump into the closet to see this note.
 
 ![Agency Note About Madison and Older Boy](/images/bh/future-hotel-note.jpg) 
@@ -30,7 +30,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 <hr style="background-color: #28b44c" size=8>
 
-## Hotel from the Future: Chair
+## Motel from the Future: Chair
 
 While this note doesn't have an Agency stamp on it, it's been widely accepted by the community as a secret message by the Agency.
 
@@ -40,7 +40,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 **Steps:**
 
-1. Go to the hotel and grab a room.
+1. Go to the motel and grab a room.
 2. Sit on the White Chair on the left when facing the Window or go behind the Chair
 
 ![Message behind chair to follow the book](/images/bh/future-hotel-chair-note.jpg) 

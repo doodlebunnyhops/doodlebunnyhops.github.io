@@ -38,8 +38,8 @@ images:
 
 **Steps:**
 
-1. Go to the hotel and grab a room.
-2. Follow the same steps as [Build Portal](/lore/quests/build_portal) - but check your laptop before leaving the hotel room!
+1. Go to the motel and grab a room.
+2. Follow the same steps as [Build Portal](/lore/quests/build_portal) - but check your laptop before leaving the motel room!
 
 
 

@@ -19,6 +19,6 @@ You can click the highlighted areas in the image to find out more details about 
 {{% /notice %}}
 
 
-{{< svg "static/images/maps/poi.svg" >}}
+{{< svg "assets/images/maps/poi.svg" >}}
 
 ---

@@ -21,7 +21,11 @@ The arch by the abandoned house hides a movie code underneath one of its bases!
 
 ## Map View
 
+{{% expand title="Outlined Location of Arch by Abandoned House" %}}
+
 ![Location of Arch by Abandoned House](/images/maps/arch-by-abandoned-house.png)
+
+{{% /expand %}}
 <hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items

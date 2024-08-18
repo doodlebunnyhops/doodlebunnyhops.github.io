@@ -34,16 +34,22 @@ The museum can also be changed into a dealership or a restaurant called "The Bri
 
 ## Map View
 
+{{% expand title="Outlined Location of Museum" %}}
+
 ![Location of Museum](/images/maps/museum.png)
 
-<!-- <hr style="background-color: #28b44c" size=8>
+{{% /expand %}}
+
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Museum Paintings](/casebook/museum/)
+    - [Knight](/casebook/museum/knight/)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Ghostly Sighting](/lore/quests/ghostly_sighting/)
+- [Glowing Chair](/lore/quests/glowing_chair/)

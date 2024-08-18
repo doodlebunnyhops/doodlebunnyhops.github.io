@@ -21,18 +21,25 @@ Brookhaven's Paradise Falls offers beautiful scenery. Clear mountain water flows
 
 ## Map View
 
+{{% expand title="Outlined Location of Paradise Falls" %}}
+
 ![Location of Paradise Falls](/images/maps/paradise-falls.png)
+
+{{% /expand %}}
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Teleport to Paradise Falls](/casebook/interesting/teleporting/#paradise-falls)
+- [Sync Computer with Crystal from Paradise Falls](/casebook/computer/other/#sync-failed)
+- [Crystal](/casebook/interesting/observations/#paradise-falls-crystal)
+- [How to enter Hidden Cave](/casebook/interesting/hidden_valley_cave/#getting-to-secret-cave)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Connect Laptop](/lore/tools/connect_laptop/)

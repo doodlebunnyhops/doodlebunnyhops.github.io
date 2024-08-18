@@ -23,19 +23,23 @@ A higher-end estate location for those who wish to splurge on their residence wi
 
 ## Map View
 
+{{% expand title="Outlined Location of North Estate" %}}
+
 ![Location of North Estate](/images/maps/north-estate.png)
+
+{{% /expand %}}
 
 ---
 
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- None
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Find 7 Crystals](lore/quests/find_7_crystals/)

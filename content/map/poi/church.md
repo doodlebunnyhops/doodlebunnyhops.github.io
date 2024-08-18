@@ -21,7 +21,11 @@ Mr.Brookhaven's picture is hidden inside a coffin in the church, along with an e
 
 ## Map View
 
+{{% expand title="Outlined Location of Church" %}}
+
 ![Location of Church](/images/maps/church.png)
+
+{{% /expand %}}
 
 
 <hr style="background-color: #28b44c" size=8>

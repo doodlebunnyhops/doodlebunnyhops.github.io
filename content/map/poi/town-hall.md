@@ -22,18 +22,27 @@ Located across from the hospital just down the road from the police station is w
 
 ## Map View
 
+{{% expand title="Outlined Location of Town Hall" %}}
+
 ![Location of Town Hall](/images/maps/town-hall.png)
+
+{{% /expand %}}
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Energy Pyramid Details](/casebook/energy_pyramids/#known-locations)
+- [Hidden Thank You Message](/casebook/interesting/special_messages/#special-thanks)
+- [Triggering Steam in Quantum Room](/casebook/quantum/steam/)
+- [How Town Hall and Brookhaven Electric are connected](/casebook/interesting/observations/#linked-electric--water)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Energy Pyramid](/lore/special_tools/energy_pyramid/)
+- [School Base](/lore/quests/school_base/)
+- [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks/)
