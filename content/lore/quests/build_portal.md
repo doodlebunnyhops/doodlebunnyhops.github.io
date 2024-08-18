@@ -21,7 +21,7 @@ Lets build stuff!
 
 **Steps:**
 
-1. Go to the hotel - it should look run down (it's from the future)
+1. Go to the motel - it should look run down (it's from the future)
 	1. Click on the book underneath the table
 	2. Click on the frame of the empty picture by the door
 	3. Click on the button found behind the bedside table
@@ -37,15 +37,15 @@ Lets build stuff!
 		3. Notice the device on the floor tells us what year we are in _Manufactured in Brookhaven: 2028_
 		{{< tabs title="Click Tab ->" >}}
 		{{% tab title="Device On Floor" %}}
-Device on the floor of the hotel in the future.
+Device on the floor of the motel in the future.
 
-![Device in Future Hotel Room](/images/bh/build_portal_manufactured.jpg)
+![Device in Future Motel Room](/images/bh/build_portal_manufactured.jpg)
 
 		{{% /tab %}}
 		{{% tab title="Close Up" %}}
 Closeup of the device, we can see it was manufactured in Brookhaven in the year 2028
 
-![Device in Future Hotel Room](/images/bh/build_portal_manufactured_closeup.jpg)
+![Device in Future Motel Room](/images/bh/build_portal_manufactured_closeup.jpg)
 		{{% /tab %}}
 		{{< /tabs >}}
 		4. There is a message behind the White Chair on the left side:

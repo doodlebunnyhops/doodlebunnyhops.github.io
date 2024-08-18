@@ -147,8 +147,8 @@ graph LR
 %% Build Portal
     red_book --> book_undertable
     book_undertable --> frame
-    frame --> hotel_button
-    hotel_button --> X02
+    frame --> motel_button
+    motel_button --> X02
     X02 --> A16
 
     red_book --> ghost
@@ -192,9 +192,9 @@ graph LR
     blue_keycard[Item: Blue Key Card]
 	green_keycard[Item: Green Key Card]
 	laptop_connected[Item: Laptop Connected]
-    book_undertable[Click: Book Under Table - Hotel]
-    frame[Click: Frame - Hotel]
-    hotel_button[Click: Hotel Button]
+    book_undertable[Click: Book Under Table - Motel]
+    frame[Click: Frame - Motel]
+    motel_button[Click: Motel Button]
     laptop[Item: Laptop, connected or not]
     sit[Action: Sit in chair]
     sit_hospital[Action: Sit in chair - Hospital]

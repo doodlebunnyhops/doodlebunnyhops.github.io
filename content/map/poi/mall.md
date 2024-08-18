@@ -30,14 +30,18 @@ There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot 
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Special Hidden Message](/casebook/interesting/special_messages/#memoir-of-rosie-o1gs-cat)
+- [Movie Codes](/casebook/movie_codes/)
+- [Energy Pyramids](/casebook/energy_pyramids/)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Mystery Alien](/lore/quests/mystery_alien/)
+- [Energy Pyramid](/lore/special_tools/energy_pyramid/)
+- [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks/)

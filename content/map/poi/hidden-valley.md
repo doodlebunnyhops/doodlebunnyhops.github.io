@@ -37,10 +37,11 @@ It's a quaint little nook, perfect for a quiet home. But something is hiding ins
 
 ### Related CaseBook Items
 
-- [What we know so far](/casebook/interesting/hidden_valley_cave/)
+- [Secret Cave](/casebook/interesting/hidden_valley_cave/)
+- [Teleporting in Hidden Valley](/casebook/interesting/teleporting/#hidden-valley-teleport-spot)
 
 <hr style="background-color: #28b44c" size=8>
 
-<!-- ### Related Quests
+### Related Quests
 
-- [URL](/) -->
+- NONE

@@ -45,15 +45,15 @@ Example:
 
 <hr style="background-color: #28b44c" size=8>
 
-### Future Hotel Message Board
+### Future Motel Message Board
 
-Also found Monolith Scripture behind the hotel wall, prepended with `<^^>`
+Also found Monolith Scripture behind the motel wall, prepended with `<^^>`
 
 Example:
 
 `..()..()..()..()()..<^^>`
 
-Hotel must be in the future state and will show behind the room that was first spawned into the future.
+Motel must be in the future state and will show behind the room that was first spawned into the future.
 
 
 

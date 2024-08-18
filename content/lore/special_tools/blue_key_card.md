@@ -37,13 +37,13 @@ Hidden wall to find a secret room above police station.
 
 Notice the avatar is halfway through the wall - this is the entrance to the hidden room.
 
-![Device in Future Hotel Room](/images/bh/blue-key-card-wall.jpg)
+![Device in Future Motel Room](/images/bh/blue-key-card-wall.jpg)
 {{% /tab %}}
 
 {{% tab title="Blue Key Card" %}}
 Blue Key Card is behind the cabinet.
 
-![Device in Future Hotel Room](/images/bh/blue-key-card-cabinet.jpg)
+![Device in Future Motel Room](/images/bh/blue-key-card-cabinet.jpg)
 
 {{% /tab %}}
 

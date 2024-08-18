@@ -29,14 +29,14 @@ Your local community Library in Brookhaven has books to read for days! Visit and
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- None
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [The Red Book](lore/special_tools/the_red_book/)
