@@ -52,7 +52,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 1. Upon getting the Red Book, head to the Motel Room and go near the picture when you first walk in and pull out your Binoculars.
 
-![Message on Picture frame in Motel Room. Says this room is from the future.](/images/bh/other_future_motel_picture_frame_note.jpg) 
+![Message on Picture frame in Motel Room. Says this room is from the future.](/images/bh/other_future_hotel_picture_frame_note.jpg) 
 
 <hr style="background-color: #28b44c" size=8>
 

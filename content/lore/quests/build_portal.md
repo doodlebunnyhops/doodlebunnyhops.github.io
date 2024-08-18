@@ -45,7 +45,7 @@ Device on the floor of the motel in the future.
 		{{% tab title="Close Up" %}}
 Closeup of the device, we can see it was manufactured in Brookhaven in the year 2028
 
-![Device in Future Motel Room](/images/bh/build_portal_manufactured_closeup.jpg)
+![Device in Future Motel Room close up showing manufactured in brookhaven 2028](/images/bh/build_portal_manufactured_closeup.jpg)
 		{{% /tab %}}
 		{{< /tabs >}}
 		4. There is a message behind the White Chair on the left side:

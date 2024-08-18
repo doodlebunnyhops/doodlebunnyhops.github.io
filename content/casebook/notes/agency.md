@@ -25,7 +25,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 1. Go to the motel and grab a room.
 2. The note is hidden on the top of the closet. You can jump into the closet to see this note.
 
-![Agency Note About Madison and Older Boy](/images/bh/future-motel-note.jpg) 
+![Agency Note About Madison and Older Boy](/images/bh/future-hotel-note.jpg) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -43,7 +43,7 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 1. Go to the motel and grab a room.
 2. Sit on the White Chair on the left when facing the Window or go behind the Chair
 
-![Message behind chair to follow the book](/images/bh/future-motel-chair-note.jpg) 
+![Message behind chair to follow the book](/images/bh/future-hotel-chair-note.jpg) 
 
 
 <hr style="background-color: #28b44c" size=8>
