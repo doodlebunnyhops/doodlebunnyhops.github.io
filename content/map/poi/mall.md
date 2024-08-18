@@ -22,7 +22,11 @@ There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot 
 
 ## Map View
 
+{{% expand title="Outlined Location of Mall" %}}
+
 ![Location of Mall](/images/maps/mall.png)
+
+{{% /expand %}}
 
 ---
 

@@ -25,7 +25,11 @@ Everyone spawns into Brookhaven RP at the fountain. At the heart and center of t
 
 ## Map View
 
+{{% expand title="Outlined Location of Spawn" %}}
+
 ![Location of Spawn](/images/maps/spawn.png)
+
+{{% /expand %}}
 
 
 ---

@@ -21,7 +21,11 @@ The Camp Cabin is a lovely summer getaway with beach access to Lake Madison and 
 
 ## Map View
 
+{{% expand title="Outlined Location of Camp Cabin" %}}
+
 ![Location of Camp Cabin](/images/maps/camp-cabin.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 

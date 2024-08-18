@@ -32,7 +32,11 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 ## Map View
 
+{{% expand title="Outlined Location of Criminal Hideout" %}}
+
 ![Location of Criminal Hideout](/images/maps/criminal-hideout.png)
+
+{{% /expand %}}
 
 
 <hr style="background-color: #28b44c" size=8>

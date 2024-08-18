@@ -22,7 +22,11 @@ The Brookhaven Graveyard is a place to remember those once here or maybe visit t
 
 ## Map View
 
+{{% expand title="Outlined Location of Cemetery" %}}
+
 ![Location of Cemetery](/images/maps/cemetery.png)
+
+{{% /expand %}}
 
 
 <hr style="background-color: #28b44c" size=8>

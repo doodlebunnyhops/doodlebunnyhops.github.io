@@ -23,7 +23,11 @@ The protectors of Brookhaven have a fantastic set of resources to ensure your sa
 
 ## Map View
 
+{{% expand title="Outlined Location of Police Station" %}}
+
 ![Location of Police Station](/images/maps/police-station.png)
+
+{{% /expand %}}
 
 ---
 

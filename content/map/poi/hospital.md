@@ -35,7 +35,11 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 ## Map View
 
+{{% expand title="Outlined Location of Hospital" %}}
+
 ![Location of Hospital](/images/maps/hospital.png)
+
+{{% /expand %}}
 
 
 <hr style="background-color: #28b44c" size=8>

@@ -27,7 +27,11 @@ It's a quaint little nook, perfect for a quiet home. But something is hiding ins
 
 ## Map View
 
+{{% expand title="Outlined Location of Hidden Valley" %}}
+
 ![Location of Hidden Valley](/images/maps/hidden-valley.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 

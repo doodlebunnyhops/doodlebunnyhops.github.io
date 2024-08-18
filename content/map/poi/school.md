@@ -25,7 +25,11 @@ I wish the teachers here would tell me what the glowing orb is above the theater
 
 ## Map View
 
+{{% expand title="Outlined Location of School" %}}
+
 ![Location of School](/images/maps/school.png)
+
+{{% /expand %}}
 
 
 <hr style="background-color: #28b44c" size=8>

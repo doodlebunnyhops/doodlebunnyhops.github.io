@@ -20,7 +20,11 @@ The Arch by the Barn has a hidden rod underneath its base! Why did Mr.Brookhaven
 
 ## Map View
 
+{{% expand title="Outlined Location of Arch by Barn" %}}
+
 ![Location of Arch by Barn](/images/maps/arch-by-barn.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 

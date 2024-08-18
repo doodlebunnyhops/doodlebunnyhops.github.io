@@ -22,7 +22,11 @@ If you visit Brookhaven, there's a great Motel next to the airport and a restaur
 
 ## Map View
 
+{{% expand title="Outlined Location of Motel" %}}
+
 ![Location of Motel](/images/maps/motel.png)
+
+{{% /expand %}}
 
 ---
 

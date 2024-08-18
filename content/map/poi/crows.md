@@ -20,7 +20,11 @@ Behind the Barn where the fence is, several crows come and go early in the morni
 
 ## Map View
 
+{{% expand title="Outlined Location of Crows" %}}
+
 ![Location of Crows](/images/maps/crows.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 

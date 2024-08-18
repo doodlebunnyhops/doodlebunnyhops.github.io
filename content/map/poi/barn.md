@@ -20,7 +20,11 @@ The Brookhaven Barn, located next to the Horse Stables, hides a note and a myste
 
 ## Map View
 
+{{% expand title="Outlined Location of Barn" %}}
+
 ![Location of Barn](/images/maps/barn.png)
+
+{{% /expand %}}
 
 <hr style="background-color: #28b44c" size=8>
 
