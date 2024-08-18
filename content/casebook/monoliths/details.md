@@ -47,7 +47,7 @@ Example:
 
 ### Future Motel Message Board
 
-Also found Monolith Scripture behind the motel wall, prepended with `<^^>`
+Also found Monolith code behind the motel wall, prepended with `<^^>`
 
 Example:
 
