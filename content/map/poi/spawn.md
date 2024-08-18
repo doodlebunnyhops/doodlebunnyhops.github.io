@@ -34,14 +34,15 @@ Everyone spawns into Brookhaven RP at the fountain. At the heart and center of t
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Energy Pyramid Details](/casebook/energy_pyramids/#known-locations)
+- [Under the Fountain](/casebook/interesting/fountain/)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Energy Pyramid](/lore/special_tools/energy_pyramid/)
