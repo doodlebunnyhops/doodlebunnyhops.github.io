@@ -24,7 +24,7 @@ Tags: ["Black Rectangles", "Monoliths", "Haunted House RP"]
 	- This Activates [A18](/casebook/light_panel#a18)
 	- Notice the interesting script on the Guillotine
 	
-		![monolith scripture](/images/bh/monolith_scripture.jpg)
+		![monolith scripture or code on side of black rectangular object](/images/bh/monolith_scripture.jpg)
 
 Location and picture of each Monolith
 

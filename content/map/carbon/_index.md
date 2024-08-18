@@ -8,12 +8,12 @@ images:
 - images/bh/agency_greed_comp_message.jpg
 - images/bh/follow_the_book_comp_message.png
 
-date: 2024-01-01
+date: 2024-08-18
 draft: true
 --- 
 
 
-This is an interactivemap showing all locations of Carbon Blocks in the Town of Brookhaven.
+This is an interactive map showing all locations of Carbon Blocks in the Town of Brookhaven.
 
 {{< svg "static/images/maps/carbon.svg" >}}
 
