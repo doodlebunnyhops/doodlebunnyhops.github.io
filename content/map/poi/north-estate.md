@@ -32,14 +32,14 @@ A higher-end estate location for those who wish to splurge on their residence wi
 ---
 
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- None
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Find 7 Crystals](lore/quests/find_7_crystals/)

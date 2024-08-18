@@ -31,14 +31,17 @@ The protectors of Brookhaven have a fantastic set of resources to ensure your sa
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [Police Station Movie Code](/casebook/movie_codes/#police-station-code)
+- [Location of Energy Pyramid](/casebook/energy_pyramids/#known-locations)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Rod in the Police Station](/lore/quests/rod_in_police_station/)
+- [Get the Blue Key Card](/lore/special_tools/blue_key_card/)
+- [Energy Pyramid](/lore/special_tools/energy_pyramid/)
