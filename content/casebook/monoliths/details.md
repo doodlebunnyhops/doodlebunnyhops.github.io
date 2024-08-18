@@ -2,7 +2,9 @@
 title: "Details"
 noindex: false
 weight: 1
-description: "Notes and observations about Monoliths, aka black rectangular object with red lettering on the side."
+description: "Notes and observations about Monoliths, black rectangular object with red lettering on the side."
+images: 
+- images/bh/monolith_main.jpg
 ---
 
 ### Agency Bunker Message Board inside
@@ -36,8 +38,9 @@ The monolith will remain there until the steam appears again.
 
 ### Agency Bunker Message Board outside
 
-Notice just outside of the Agency Bunker a new Message Board appears
-Message outside of Agency Bunker on the wall is always prepended with `***()***`. 
+Notice just outside of the Agency Bunker a new Message Board appears. 
+
+The message on the wall, it's always prepended with `***()***`. 
 
 Example:
 

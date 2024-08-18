@@ -4,13 +4,13 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Horse Stables Monolith location"
 images:
-- images/maps/horse_stables.jpg
+- images/bh/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["Horse Stable"]
+Tags: ["Horse Stable", "Monolith Location"]
 draft: false
 --- 
 
-The Brookhaven Stables is possibly the first site Mr. Brookhaven built years ago. You can practice running and jumping with your horse nearby. But be careful not to feed your horse a crystal accidentally! There's one lurking in the hay.
+A little bit behind Brookhaven Stables near a light post and tree is where this monolith sits. Again it is eerily close to where a known crystal appears. _Why..._
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..<<<{{}}>>>..">..<<<{{}}>>>..</code></span></center>
 

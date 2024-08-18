@@ -4,13 +4,13 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Crown Point House 23 Monolith location"
 images:
-- images/maps/abandoned_house.jpg
+- images/bh/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["Crown Point House 23"]
+Tags: ["Crown Point House 23", "Monolith Location"]
 draft: false
 --- 
 
-Located on the outskirts of Brookhaven, just past the airport, this run-down house has many hidden secrets and is a pivotal place for Mr.Brookhaven.
+This Monolith sits between plots #23 and #24 in Crown Point neighborhood. Is this monolith looking for a source of power from the Arch across the street?
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..][][][.....][][][..">..][][][.....][][][..</code></span></center>
 

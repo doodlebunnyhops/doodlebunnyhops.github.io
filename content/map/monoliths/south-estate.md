@@ -4,13 +4,13 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven South Estate Monolith location"
 images:
-- images/maps/abandoned_house.jpg
+- images/bh/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["South Estate"]
+Tags: ["South Estate", "Monolith Location"]
 draft: false
 --- 
 
-Located on the outskirts of Brookhaven, just past the airport, this run-down house has many hidden secrets and is a pivotal place for Mr.Brookhaven.
+Just on the outskirt property of South Estate is where this Monolith can be found. 
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..//[[]]//~~~~..">..//[[]]//~~~~..</code></span></center>
 

@@ -4,14 +4,14 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Abandoned House Monolith location"
 images:
+- images/bh/monolith_main.jpg
 - images/maps/abandoned_house.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["abandoned house"]
+Tags: ["abandoned house", "Monolith Location"]
 draft: false
 --- 
 
-Located on the outskirts of Brookhaven, just past the airport, this run-down house has many hidden secrets and is a pivotal place for Mr.Brookhaven.
-
+How fitting a monolith appears by the abandoned house, so much is happening in this little place - how much more can it take!
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..()..()..()..()()..">..()..()..()..()()..</code></span></center>
 

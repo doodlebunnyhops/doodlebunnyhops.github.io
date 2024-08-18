@@ -4,14 +4,14 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Eagle View Monolith location"
 images:
-- images/maps/abandoned_house.jpg
+- images/bh/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["Eagle View"]
+Tags: ["Eagle View", "Monolith Location"]
 draft: false
 --- 
 
 
-The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookhaven. Oh, you wanted to know what lies beneath Eagle View? My apologies. Deep underground lies a mysterious portal, or at least we concluded it to be a portal. Built from boxes and poof, we have this odd giant portal. Be careful not to step on the glowing bits on the platform; you'll be temporarily blinded!
+A lot of interesting things are lurking beneath Eagle View Estate, but a Monolith will appear just on the back hillside as if it's watching the Arch near the Abandoned house.  
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..~~//~~///~..">..~~//~~///~..</code></span></center>
 

@@ -14,15 +14,14 @@ date: 2024-01-01
 
 Navigating all the places around Brookhaven can be a challenge if you don't know where to find them. 
 
-This section has broken down the map for easier traveling during your investigation. 
+This section has broken down a couple of maps for easier traveling during your investigation. 
 
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Map Types
 
-
-<div align="center">{{% button href="/map/poi/" style="green" %}}Points of Interest{{% /button %}} {{% button href="/map/monoliths/" style="green" %}}Monoliths{{% /button %}}</div>
+{{% children sort="Weight" showhidden=false description=true style="h5"  %}}
 
 
 <hr style="background-color: #28b44c" size=8>

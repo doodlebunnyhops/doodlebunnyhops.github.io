@@ -4,14 +4,13 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Agency Bunker Monolith location"
 images:
-- images/maps/agency_bunker_inside.jpg
-- images/maps/agency_bunker.jpg
+- images/bh/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
-Tags: ["Agency Bunker"]
+Tags: ["Agency Bunker", "Monolith Location"]
 draft: false
 --- 
 
-The Agency Bunker is hidden under a hill with a secret entrance next to Rotten Robie's Food Mart. Who operates this odd location? Is it the Agency's? Did Marcus use it against the Agency? 
+If the monoliths are looking for a source of power why does one appear right next to the Agency Bunker? Does that mean the monoliths are operated by the Agency ... and what we've called "Agency Bunker" isn't operated by the agency after all???
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..::::::}}}}}{{{{{::::::..">..::::::}}}}}{{{{{::::::..</code></span></center>
 
