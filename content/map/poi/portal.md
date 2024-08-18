@@ -36,14 +36,15 @@ The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookh
 
 ---
 
-<!-- <hr style="background-color: #28b44c" size=8>
+<hr style="background-color: #28b44c" size=8>
 
 ### Related CaseBook Items
 
-- [URL](/)
+- [How to Teleport to Portal Entrance](/casebook/interesting/teleporting/#portal-entrance)
+- [Admin Kate hints to KreekCraft](/casebook/interesting/admin_kate/#message-to-kreekcraft)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
-- [URL](/) -->
+- [Build Portal](/lore/quests/build_portal/)
