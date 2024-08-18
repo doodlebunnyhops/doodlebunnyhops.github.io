@@ -32,14 +32,6 @@ Tags: ["Agency RP House"]
 
 ### Helpful Pics/Clips
 
-{{< expand title="Helpful Videos...Click to expand" >}} 
-<div class="grid-1 post-vid-dot">
-
-{{< youtube id=gKnPLrO4n9o >}}
-
-</div>
-{{< /expand >}}
-
 {{< tabs title="Click Tab ->" >}}
 
 {{% tab title="Lab Chairs" %}}
@@ -63,6 +55,12 @@ Tags: ["Agency RP House"]
 {{< /column >}}
 
 {{% /tab %}}
+
+{{< tab title="Youtube" >}}
+
+{{< youtube id=gKnPLrO4n9o loading=lazy >}}
+
+{{< /tab >}}
 {{< /tabs >}}
 
 <hr style="background-color: #28b44c" size=8>

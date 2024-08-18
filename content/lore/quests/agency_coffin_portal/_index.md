@@ -42,6 +42,17 @@ All of these steps will be in the Agency RP house
 
 <hr style="background-color: #28b44c" size=8>
 
+## Tips and Tricks
+
+When I first started this quest I labeled how to get to rooms with sign props - what a life saver! Here are some other tips :D by Darzeth :heart:
+
+
+<div class="grid-2 post-vid-dot">
+{{< youtube id=JAwNKm2itXs loading=lazy >}}
+</div>
+
+<hr style="background-color: #28b44c" size=8>
+
 {{< column "grid-2" >}}
 ![Portal room with coffins in the Agency RP house with hovering carbon blocks](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png)
 
