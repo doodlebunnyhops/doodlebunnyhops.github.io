@@ -49,6 +49,12 @@ Tags: ["Agency RP House"]
 
 {{% /tab %}}
 
+{{< tab title="Youtube" >}}
+
+{{< youtube id=TajyFs31TRw loading=lazy >}}
+
+{{< /tab >}}
+
 {{< /tabs >}}
 
 <hr style="background-color: #28b44c" size=8>

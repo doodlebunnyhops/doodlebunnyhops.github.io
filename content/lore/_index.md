@@ -24,6 +24,16 @@ We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
 
 <hr style="background-color: #28b44c" size=8>
 
+#### More of a Video Person?
+
+:heart: O1G made an entire walkthrough including the most recent Agency RP House secrets!
+
+<div class="grid-1 post-vid-dot">
+{{< youtube id=Exnr-wQ76Fs loading=lazy >}}
+</div>
+
+<hr style="background-color: #28b44c" size=8>
+
 ### Where to get started
 
 If  you're new to Secrets and Mysteries of Brookhaven, it's suggested starting out getting the [Connected Laptop](/lore/tools/connect_laptop) in the [Tools](/lore/tools) section and then following the [Quests](/lore/quests/). They are laid out in a way here to keep from jumping around too much, but they don't have to be done in any particular order.
