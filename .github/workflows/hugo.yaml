@@ -56,6 +56,12 @@ jobs:
           INDEXNOW: ${{ secrets.INDEXNOW }}
         run: |
           echo -n "$INDEXNOW" > content/$INDEXNOW.txt
+      - name: Set Pinterest
+        env: 
+          INDEXA: ${{ secrets.INDEXA }}
+          INDEXA_FILE: ${{ secrets.INDEXA_FILE }}
+        run: |
+          echo -n "$INDEXA" > content/$INDEXA_FILE.html
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
