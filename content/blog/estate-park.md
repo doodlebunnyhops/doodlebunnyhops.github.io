@@ -38,8 +38,6 @@ BrookhavenRP's update includes a new roleplay house for estate pass holders. Now
 
 ### More Park Actives!
 
-_Click on any image to enlarge it_ :wink:
-
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
@@ -83,9 +81,9 @@ _Click on any image to enlarge it_ :wink:
 We also got skins available to _all_ guns. To select your skin click on the icon on the top right when you're holding your weapon and then you will see lots of skins to choose from!
 
 {{< column "post-block-dot" >}}
-![ALT](/images/blog/gun_skins_selection_panel.png?height=100px)
+![Panel of additional weapons to select from including skins](/images/blog/gun_skins_selection_panel.png?height=100px)
 
-![ALT](/images/blog/gun_skins.png?height=100px)
+![Panel of a few skins you can select](/images/blog/gun_skins.png?height=100px)
 {{< /column>}}
 
 
