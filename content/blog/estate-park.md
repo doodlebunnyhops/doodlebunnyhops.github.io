@@ -12,14 +12,14 @@ images:
 - images/blog/park_bar_by_pool.png
 - images/blog/park_pool_with_playground.png
 - 
-description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
+description: "Brookhaven Update: New Park Role play set for estate pass holders"
 draft: false
 imageEffects:
     border: false
     lazy: true
     lightbox: false
     shadow: false
-
+Categories: ["Brookhaven RP Update"]
 ---
 
 Dip your toes in the water, play on the playground, gather at the arena for a concert, and so much more!
