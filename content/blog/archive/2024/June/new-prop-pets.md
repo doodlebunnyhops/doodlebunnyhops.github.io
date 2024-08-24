@@ -10,6 +10,13 @@ images:
 - /images/blog/prop-pets.png
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
 draft: false
+aliases:
+- /blog/new-prop-pets/
+imageEffects:
+    border: false
+    lazy: true
+    lightbox: false
+    shadow: false
 ---
 
 Missing the need to fill your home with pets? Now you can! With 34 new props AND we can color customize the majority of props.
@@ -37,7 +44,9 @@ Missing the need to fill your home with pets? Now you can! With 34 new props AND
 {{< column "post-block-dot" >}}
 
 Most Props can be customized now! After placing a prop if you see a cog on the left you can click it to edit Prop Color!
-<img src="/images/blog/prop_customize_color_feature.png" loading="lazy">
+
+![Prop Color Picker](/images/blog/prop_customize_color_feature.png)
+
 {{< /column>}}
 
 

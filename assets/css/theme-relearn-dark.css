@@ -204,6 +204,9 @@ mark {
     display: flex;
     align-items: center;
     padding: 0.75rem 1.25rem; }
+    .column {
+      flex-direction: column;
+    }
 
 rect.rectClass {
   stroke: red;
@@ -251,8 +254,7 @@ rect.rectClass:hover {
   @media screen and (min-width: 1025px) {
     .post img:not(.icon) {
       display: block;
-      width: 100vw;
-      max-width: 1024px;
+      /* width: 100vw; */
       margin-left: auto;
       margin-right: auto; } }
   .post h2, .post h3, .post h4 {
@@ -273,15 +275,15 @@ rect.rectClass:hover {
     padding: 0 30px; }
   .post ol {
     padding: 1rem 1.25rem; }
-  .post_body img {
+  /* .post_body img {
     width: 100%;
-    max-width: 100%; }
+    max-width: 100%; } */
   .post_inner a {
     color: var(--SECONDARY-color);
     transition: all 0.3s; }
     .post_inner a:hover {
       color: var(--MAIN-LINK-HOVER-color);
-      opacity: 0.8;
+      /* opacity: 0.8; */
       text-decoration: underline; }
   .post_inner img:not(.icon) {
     margin-bottom: 2rem;
