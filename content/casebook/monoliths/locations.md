@@ -3,6 +3,8 @@ title: "Locations"
 noindex: false
 weight: 1
 description: "Locations for all monoliths"
+images:
+- images/maps/monoliths.svg
 ---
 
 

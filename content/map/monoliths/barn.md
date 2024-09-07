@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Barn Monolith location"
 images:
-- images/bh/monolith_main.jpg
+- images/maps/monoliths/monolith_main.jpg
 Categories: ["Monolith Locations","map"]
 Tags: ["Barn", "Monolith Location"]
 draft: false
@@ -14,7 +14,7 @@ It seems Monoliths tend to appear where other secrets can be found, and we know 
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..((({{)))}}____(){}..">..((({{)))}}____(){}..</code></span></center>
 
-![Monolith Behind Barn](/images/bh/monolith_main_w400px.jpg)
+![Monolith Behind Barn](/images/maps/monoliths/monolith_main.jpg?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
