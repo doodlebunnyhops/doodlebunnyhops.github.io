@@ -67,13 +67,14 @@ images:
 ## Circle The Monoliths
 
 {{% notice style="tip" %}}
-**Requirements** : [Monoliths](/lore/quests/monoliths)
+**Requirements** : [Monoliths](/lore/quests/monoliths) Quest
 {{% /notice %}}
 
 **Steps:**
 
 1. After sitting on the blue chair in the haunted house (Step 2 of monoliths quest), Open your laptop and you should see this message.
 
+==We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)==
 
 ![DESC](/images/bh/circle_monotliths_comp_message.jpg) 
 

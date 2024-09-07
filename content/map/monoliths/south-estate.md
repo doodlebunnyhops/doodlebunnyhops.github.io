@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven South Estate Monolith location"
 images:
-- images/bh/monolith_main.jpg
+- images/maps/monoliths/monolith_south_estate.png
 Categories: ["Monolith Locations","map"]
 Tags: ["South Estate", "Monolith Location"]
 draft: false
@@ -14,7 +14,7 @@ Just on the outskirt property of South Estate is where this Monolith can be foun
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..//[[]]//~~~~..">..//[[]]//~~~~..</code></span></center>
 
-![Monolith on top of a hill by Madison lake and South Estate](/images/bh/monolith-location_madison_lake_hill_top.png)
+![Monolith on top of a hill by Madison lake and South Estate](/images/maps/monoliths/monolith_south_estate.png?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
