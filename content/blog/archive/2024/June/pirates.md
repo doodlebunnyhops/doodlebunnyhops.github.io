@@ -10,6 +10,8 @@ images:
 - https://tr.rbxcdn.com/5c43e8641b9883a17bfa6912e4b6acbb/768/432/Image/Png
 description: "Brookhaven Update: New Pirate Ships and a new Veterinarian Hospital & Animal Rescue."
 draft: false
+aliases:
+- /blog/pirates/
 ---
 
 Arrrgh, avast ye scallywags. Best scurry off me pirate ship and find capt'n some gold!
