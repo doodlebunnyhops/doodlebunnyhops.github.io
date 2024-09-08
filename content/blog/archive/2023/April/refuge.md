@@ -7,9 +7,9 @@ aliases:
 noindex: false
 hidden: true
 archetype: "blog"
-imagecust: https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
+imagecust: https://tr.rbxcdn.com/931851ec4185468ce9419592e06316a9/500/280/Image/Jpeg
 images:
-- https://tr.rbxcdn.com/6139a3a1e8cbe1ecc890b94c75c6013c/768/432/Image/Png
+- https://tr.rbxcdn.com/931851ec4185468ce9419592e06316a9/500/280/Image/Jpeg
 description: "Brookhaven Update: Survival Role Play"
 ---
 
