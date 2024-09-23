@@ -31,3 +31,7 @@ Behind the hay on the side where the ladder is.
 
 - [Point of Interest](/map/poi/barn)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+

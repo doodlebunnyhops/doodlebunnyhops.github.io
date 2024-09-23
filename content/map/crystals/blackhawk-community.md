@@ -29,6 +29,10 @@ Near the entrance by lot 13 and 14 just at the bend of the road is hidden a cryt
 
 <hr style="background-color: #28b44c" size=8>
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+
 <!-- ## Related Items
 
 ### Map

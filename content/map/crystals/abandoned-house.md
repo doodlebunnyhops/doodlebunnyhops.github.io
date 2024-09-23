@@ -32,3 +32,7 @@ Look closely by the wall and cabinet, it's not a critter ;)
 
 - [Point of Interest](/map/poi/abandoned-house)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+

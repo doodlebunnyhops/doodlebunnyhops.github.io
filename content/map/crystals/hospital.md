@@ -30,3 +30,7 @@ On the roof of the hospital tucked in bewtween a roofing section.
 
 - [Point of Interest](/map/poi/hospital)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+
