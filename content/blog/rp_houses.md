@@ -12,7 +12,7 @@ description: "Brookhaven Update: Change this RP House between police fire or she
 draft: false
 ---
 
-A new Brookhaven Goverement building is up, and what's this? The Agency has another base?!
+A new Brookhaven Government building is up, and what's this? The Agency has another base?!
 
 ---
 
