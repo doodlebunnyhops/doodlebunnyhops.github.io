@@ -1,7 +1,7 @@
 ---
 title: "Abandoned House"
 noindex: false
-date: 2024-09-12
+date: 2024-09-23
 description: "Brookhaven Abandoned House Crystal location"
 weight: 3
 images:
@@ -11,16 +11,18 @@ Tags: ["abandoned house", "Crystal Location"]
 draft: false
 --- 
 
-Words
 
-Image of Building/Area
-![Crystal near Abandoned House by airport](/images/maps/abandoned_house.jpg?width=400px)
+## Crystal Number 3 
+
+Ah yes, where the Crystal Quest began... but we're not done yet! There are still 4 more to collect!
+
+![Front view of Abandoned House in Brookhaven](/images/maps/abandoned_house.jpg?width=400px)
 
 ## Location of Crystal
 
-Instructions
+Look closely by the wall and cabinet, it's not a critter ;) 
 
-Picture of crystal
+![crystal 3 found at abandoned house between cabinet and wall](/images/maps/crystals/crystal_3_at_abandoned_house_between_cabinet_and_wall.png?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -6,16 +6,16 @@ description: "Brookhaven RP interactive map of Crystal locations with details."
 Categories: ["Crystal Locations","map"]
 Tags: ["Map of Crystal Locations"]
 images: 
-- images/bh/monolith_main.jpg
+- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
 
-date: 2024-08-18
+date: 2024-09-23
 draft: false
 --- 
 
 
 This is an interactive map showing all locations of Crystals in the Town of Brookhaven.
 
-![Monlith by Barn](/images/bh/monolith_main.jpg?width=400px)
+![daisy holding a crystal in abandoned house](/images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -26,9 +26,7 @@ This is an interactive map showing all locations of Crystals in the Town of Broo
 {{% notice style="tip" %}}
 You can click the outlined areas in the image to find out more details about that location!.
 
-- Red Square: Crystal Location
-- Yellow Rectangle: Special location in Motel
-- Magenta Rectangle: Special location in Agency Bunker
+- Each location is numbered in the order it must be collected.
 {{% /notice %}}
 
 {{< svg "static/images/maps/crystals/crystals.svg" >}}
@@ -36,5 +34,7 @@ You can click the outlined areas in the image to find out more details about tha
 {{< /expand >}}
 
 <hr style="background-color: #28b44c" size=8>
+
+Crystals must be collected in this order to complete [Find 7 Crystals](lore/quests/find_7_crystals) quest
 
 {{% children sort="Weight" showhidden=false description=false style="li" containerstyle="ol" %}}

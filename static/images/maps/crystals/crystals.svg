@@ -5,49 +5,49 @@
   </image>
   <g transform="matrix(1.849998950958252, 0, 0, 1.849998950958252, 567.9588012695312, -2107.178466796875)" style="shape-rendering: crispedges;">
     <title>1</title>
-    <a xlink:href="/map/crystals" >
+    <a xlink:href="/map/crystals/hospital" >
       <rect class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0); transform-box: fill-box; transform-origin: 50% 50%;" x="-147.825" y="1175.71" width="27.527" height="26.128" rx="6.486" ry="6.486"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" y="1198.441" x="-142.328">1<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>
   </g>
   <g transform="matrix(1.849094152451, 0, 0, 1.858386993408, 659.696269257947, -914.141832794537)" style="transform-origin: -66.659px 1256.07px;">
     <title>2</title>
-    <a xlink:href="/map/crystals">
+    <a xlink:href="/map/crystals/church">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441">2<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>
   </g>
   <g style="transform-origin: -66.659px 1256.07px;" transform="matrix(1.849094152451, 0, 0, 1.849094152451, 511.69028781263, -305.222982443285)" class="crectClass">
     <title>3</title>
-    <a transform="matrix(0.999999, 0, 0, 1, -0.000013, 0.000023)" xlink:href="/map/crystals">
+    <a transform="matrix(0.999999, 0, 0, 1, -0.000013, 0.000023)" xlink:href="/map/crystals/abandoned-house">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441" transform="matrix(1.000001, 0, 0, 1, 0.000013, -0.000023)">3<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>
   </g>
   <g transform="matrix(1.849094152451, 0, 0, 1.849094152451, 305.434690139678, -675.699422872992)" style="transform-origin: -66.659px 1256.07px;">
     <title>4</title>
-    <a xlink:href="/map/crystals">
+    <a xlink:href="/map/crystals/blackhawk-community">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441">4<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>
   </g>
   <g transform="matrix(1.849094033241272, 0, 0, 1.849094033241272, 587.876708984375, -2401.676513671875)">
     <title>5</title>
-    <a xlink:href="/map/crystals">
+    <a xlink:href="/map/crystals/horse_stable">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441">5</text>
     </a>
   </g>
   <g transform="matrix(1.849094152451, 0, 0, 1.849094152451, 869.984355195444, -838.521566427676)" style="transform-origin: -66.659px 1256.07px;">
     <title>6</title>
-    <a xlink:href="/map/crystals">
+    <a xlink:href="/map/crystals/north-estate">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441">6<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>
   </g>
   <g transform="matrix(1.849094033241272, 0, 0, 1.849094033241272, 849.5380249023438, -2396.8623046875)">
     <title>7</title>
-    <a xlink:href="/map/crystals">
+    <a xlink:href="/map/crystals/barn">
       <rect x="-147.825" y="1175.71" width="27.527" height="26.128" rx="7" ry="7" class="crectClass" style="stroke-width: 4px; fill: rgb(251, 217, 0); stroke: rgb(251, 217, 0);"/>
       <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="-142.328" y="1198.441">7<tspan x="-142.3280029296875" dy="1em">​</tspan></text>
     </a>

@@ -1,7 +1,7 @@
 ---
 title: "North Estate"
 noindex: false
-date: 2024-09-12
+date: 2024-09-23
 description: "Brookhaven North Estate Crystal location"
 weight: 6
 images:
@@ -11,16 +11,21 @@ Tags: ["North Estate", "Crystal Location"]
 draft: false
 --- 
 
-Words
+## Crystal Number 6
 
-Image of Building/Area
-![Crystal near North Estate by airport](/images/maps/north_estate.jpg?width=400px)
+North Estate is placed at the Crown Pointe neighborhood. 
+
+![Front view of North Estate Lot in Brookhaven](/images/maps/north_estate.jpg?width=400px)
 
 ## Location of Crystal
 
-Instructions
+Just on the outside border of North Estate you will see a dirt mound where the crystal lays.
 
-Picture of crystal
+_click image to enlarge_
+{{< column "grid-2" >}}
+![crystal 6 found on a dirt mound at north estate view 1](/images/maps/crystals/crystal_6_on_dirt_mound_at_north_estate_1.png)
+![crystal 6 found on a dirt mound at north estate view 2](/images/maps/crystals/crystal_6_on_dirt_mound_at_north_estate_2.png)
+{{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>
 

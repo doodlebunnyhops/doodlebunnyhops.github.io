@@ -1,7 +1,7 @@
 ---
 title: "Church"
 noindex: false
-date: 2024-09-12
+date: 2024-09-23
 description: "Brookhaven Church Crystal location"
 weight: 2
 images:
@@ -11,16 +11,17 @@ Tags: ["Church", "Crystal Location"]
 draft: false
 --- 
 
-Words
+## Crystal Number 2
 
-Image of Building/Area
-![Crystal near Church by airport](/images/maps/church.jpg?width=400px)
+Who knew the church isn't just for communal gatherings, it's also where someone hid a crystal!
+
+![Front view of Church in the town of Brookhaven](/images/maps/church.jpg?width=400px)
 
 ## Location of Crystal
 
-Instructions
+Just behind the plant
 
-Picture of crystal
+![crystal 2 shown behind a plant at the church](/images/maps/crystals/crystal_2_behind_plant_at_church.png?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
