@@ -207,6 +207,12 @@ mark {
       flex-direction: column;
     }
 
+rect.crectClass:hover{
+  fill-opacity: 0; 
+  stroke-opacity: 0;
+}
+
+
 rect.rectClass {
     stroke: red;
     stroke-width: 4px;

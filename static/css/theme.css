@@ -106,6 +106,17 @@ need a way to calculate them ourself */
     }
 }
 
+
+a:focus .crectClass {
+    text-decoration: none !important;
+    }
+a:hover .crectClass {
+    text-decoration: none !important;
+}
+a:active .crectClass {
+    text-decoration: none !important;
+}
+
 html {
     height: 100%;
     width: 100%;
@@ -482,6 +493,13 @@ dd {
 article a:hover,
 article a:active,
 article a:focus,
+
+article a:hover .copy-to-clipboard .crectClass,
+article a:active .copy-to-clipboard .crectClass,
+article a:focus .copy-to-clipboard .crectClass {
+    text-decoration: none;
+}
+
 article a:hover .copy-to-clipboard,
 article a:active .copy-to-clipboard,
 article a:focus .copy-to-clipboard {
