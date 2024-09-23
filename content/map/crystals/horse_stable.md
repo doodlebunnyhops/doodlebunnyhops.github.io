@@ -31,3 +31,7 @@ Check the middle stable behind the hay.
 
 - [Point of Interest](/map/poi/horse-stable)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+

@@ -35,3 +35,7 @@ _click image to enlarge_
 
 - [Point of Interest](/map/poi/north-estate)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+

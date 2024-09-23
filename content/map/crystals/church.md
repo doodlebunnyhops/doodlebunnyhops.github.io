@@ -31,3 +31,7 @@ Just behind the plant
 
 - [Point of Interest](/map/poi/church)
 
+---
+
+<div align="center">{{% button href="/lore/quests/find_7_crystals/" style="green" %}}Go Back to Find 7 Crystals Quest{{% /button %}}</div>
+
