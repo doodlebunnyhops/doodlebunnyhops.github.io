@@ -33,6 +33,7 @@ Tags: ["Destroy Carbon Blocks", "Quantum Room"]
 	1. Quantum Message Board 2: 
 			
 		==TS LVL 2 [Mirrored Successfully] Carbon burn commencing==
+		- See more details on [TS LVL2](casebook/interesting/top_secret_level/#ts-lvl2) in the casebook
 
 1. Destroy the blocks: 
 	{{< tabs title="Click Tab ->" >}}
