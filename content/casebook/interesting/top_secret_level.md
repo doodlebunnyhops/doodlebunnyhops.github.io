@@ -9,6 +9,8 @@ images:
 - images/bh/tslvl1_authorized.png
 - images/bh/tslvl2_mirrored.png
 - images/bh/tslvl3_plaque.png
+categories: ["Top Secret","Top Secret Plaque"]
+tags: ["TS LVL1","TS LVL2","TS LVL3","TS LVL4",]
 ---
 
 What do the TS LVL's signify? Who placed the plaques for levels 3 and 4 in their spots? So many questions but here is what we do know...

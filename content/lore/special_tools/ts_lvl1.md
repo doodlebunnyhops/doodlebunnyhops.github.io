@@ -29,6 +29,10 @@ You need access!
 		2. Bunker Message now reads:
 		
 			==TS [LVL 1] Permissible==
+
+---
+
+For more details about TS LVL's see the casebook on [Top Secret Level](casebook/interesting/top_secret_level/)
 			
  
 <hr style="background-color: #28b44c" size=8>

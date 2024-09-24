@@ -33,7 +33,7 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 
 **Steps:**
 
-1. Once TS LVL 1 is unlocked, head to the Second Floor of the Barn and look behind the piles of hay.
+1. Once [TS LVL 1](casebook/interesting/top_secret_level/#ts-lvl1) is unlocked, head to the Second Floor of the Barn and look behind the piles of hay.
 
 ![Note to Madison letting her know they are going back to the future. It is unsigned](/images/bh/madison_barn_note.jpg) 
 
