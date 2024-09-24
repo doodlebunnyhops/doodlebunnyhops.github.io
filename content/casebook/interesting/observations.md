@@ -49,18 +49,6 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 
 <hr style="background-color: #28b44c" size=8>
 
-## TS LVL3 Plaque
-{{% notice style="tip" %}}
-**Requirements** : None
-{{% /notice %}}
-
-**Steps:**
-1. Go inside of the Agency Bunker and then place down a Sleeping Bag in this wall to see the TS LVL3 Plaque
-
-![hidden tslvl3 plaque](/images/bh/tslvl3.jpg)
-
-<hr style="background-color: #28b44c" size=8>
-
 ## Energy Ring Panels
 {{% notice style="tip" %}}
 **Requirements** : None

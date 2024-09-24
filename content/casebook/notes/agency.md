@@ -25,7 +25,7 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 1. Go to the motel and grab a room.
 2. The note is hidden on the top of the closet. You can jump into the closet to see this note.
 
-![Agency Note About Madison and Older Boy](/images/bh/future-hotel-note.jpg) 
+![Agency Note About Madison and Older Boy](/images/bh/agency_note_in_future_motel_room_crop.png?width=400px) 
 
 
 <hr style="background-color: #28b44c" size=8>
