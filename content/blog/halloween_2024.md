@@ -19,7 +19,7 @@ It’s back, Brookhaven! 🎃 The Annual Halloween Candy Corn Hunt is here once 
 
 ## What’s New This Year?
 
-Not much has changed for this Halloween event, so for all you returning hunters, you know what to expect! The difficulty levels range from:
+Not much has changed for this Halloween event, so for all you returning hunters, you know what to expect!
 
 - **New Vehicles**: All vehicles unlocked from the candy corn hunt are brand new, except for the **Easy Mode** vehicle, which has been updated to feature candy corn pieces on it. So, even if you completed Easy Mode last year, you'll want to grab this revamped ride!
 - **Difficulty Levels**: The hunt still features **Easy, Medium, Hard, Extreme,** and **Insane** modes. As always, Easy, Medium, and Hard keep you in the central part of town, while Extreme and Insane take you on a tougher search around the edges of Brookhaven, with ladders needed to reach those tricky spots!
