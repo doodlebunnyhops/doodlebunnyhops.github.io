@@ -9,8 +9,8 @@ imagecust: https://tr.rbxcdn.com/180DAY-3865089dc0ff982be7b46e5b661fd3ab/768/432
 images:
 - https://tr.rbxcdn.com/180DAY-3865089dc0ff982be7b46e5b661fd3ab/768/432/Image/Png/noFilter
 description: "Brookhaven Update: Annual Halloween Candy Corn Hunt, Horse House, and more."
-aliases:
-- /blog/10-19-24.md
+# aliases:
+# - /blog/halloween_2024
 ---
 
 It’s back, Brookhaven! 🎃 The Annual Halloween Candy Corn Hunt is here once again, and while it’s mostly the same as last year, it’s still as fun as ever. Time to track down those hidden candies and score some sweet, limited-time Halloween rewards! If you're a **VIP Pass** holder, you'll also have access to all the vehicles from last year's event!
