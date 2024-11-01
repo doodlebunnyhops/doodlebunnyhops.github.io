@@ -66,6 +66,7 @@ jobs:
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENV: production
           TZ: America/New_York
         run: |
