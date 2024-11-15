@@ -7,8 +7,8 @@ description: "Brookhaven Church location view and related secrets"
 
 images:
 - images/maps/church.jpg
-Categories: ["point of interest","map"]
-Tags: ["Church"]
+#Categories: ["point of interest","map"]
+#Tags: ["Church"]
 draft: false
 --- 
 

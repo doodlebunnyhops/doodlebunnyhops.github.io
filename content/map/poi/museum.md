@@ -7,8 +7,8 @@ description: "Brookhaven Museum location view and related secrets"
 
 images:
 - images/maps/museum.jpg
-Categories: ["point of interest","map"]
-Tags: ["Museum"]
+#Categories: ["point of interest","map"]
+#Tags: ["Museum"]
 draft: false
 --- 
 

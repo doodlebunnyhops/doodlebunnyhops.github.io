@@ -8,8 +8,8 @@ noindex: false
 images:
 - https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png
 description: "About Bloomindaisy, creator of this site"
-Categories: ["about"]
-Tags: ["bloomindaisy"]
+#Categories: ["about"]
+#Tags: ["bloomindaisy"]
 ---
 
 ![bloomindaisy's avatar](https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png)

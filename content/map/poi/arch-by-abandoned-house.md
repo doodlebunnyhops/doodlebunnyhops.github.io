@@ -7,8 +7,8 @@ description: "Brookhaven Arch by Abandoned House location view and related secre
 
 images:
 - images/maps/arch1.jpg
-Categories: ["point of interest","map"]
-Tags: ["Arch", "Movie Reel"]
+#Categories: ["point of interest","map"]
+#Tags: ["Arch", "Movie Reel"]
 draft: false
 --- 
 

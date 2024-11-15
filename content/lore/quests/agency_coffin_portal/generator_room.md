@@ -5,7 +5,7 @@ weight: 3
 description: "Unlock the Master Control board and get the orb in the generator."
 images:
 - images/agency_coffin_portal_quest/generator_room_w400px.png
-Tags: ["Agency RP House"]
+#Tags: ["Agency RP House"]
 ---
 
 ![Image of the Generator room in the Agency RP house](/images/agency_coffin_portal_quest/generator_room_w400px.png)

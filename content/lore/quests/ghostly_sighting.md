@@ -3,7 +3,7 @@ title: "Ghostly Sighting"
 noindex: false
 weight: 9
 description: "How to see the ghost of greed in the museum."
-Tags: ["Greed", "Museum"]
+#Tags: ["Greed", "Museum"]
 ---
 
 There's a ghost in the museum!

@@ -3,8 +3,8 @@ title: "Crystal Locations"
 noindex: false
 weight: 3
 description: "Brookhaven RP interactive map of Crystal locations with details."
-Categories: ["Crystal Locations","map"]
-Tags: ["Map of Crystal Locations"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Map of Crystal Locations"]
 images: 
 - images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
 

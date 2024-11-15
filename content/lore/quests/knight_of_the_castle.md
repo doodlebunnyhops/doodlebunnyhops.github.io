@@ -3,7 +3,7 @@ title: "Knight of the Castle"
 noindex: false
 weight: 15
 description: "Find notes and a key inside the castle."
-Tags: ["Brave", "Castle RP House"]
+#Tags: ["Brave", "Castle RP House"]
 ---
 
 {{% notice style="tip" %}}

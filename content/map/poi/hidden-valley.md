@@ -9,8 +9,8 @@ images:
 - images/maps/hidden_valley_1.jpg
 - images/maps/hidden_valley_2.jpg
 - images/maps/hidden_valley_cave.jpg
-Categories: ["point of interest","map"]
-Tags: ["Hidden Valley"]
+#Categories: ["point of interest","map"]
+#Tags: ["Hidden Valley"]
 draft: false
 --- 
 

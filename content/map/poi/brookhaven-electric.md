@@ -7,8 +7,8 @@ description: "Brookhaven Electric location view and related secrets"
 
 images:
 - images/maps/brookhaven_electric.jpg
-Categories: ["point of interest","map"]
-Tags: ["Brookhaven Electric"]
+#Categories: ["point of interest","map"]
+#Tags: ["Brookhaven Electric"]
 draft: false
 --- 
 

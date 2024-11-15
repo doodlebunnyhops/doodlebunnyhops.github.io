@@ -8,8 +8,8 @@ description: "Brookhaven Agency Bunker location and related details"
 images:
 - images/maps/agency_bunker_inside.jpg
 - images/maps/agency_bunker.jpg
-Categories: ["point of interest","map"]
-Tags: ["Agency Bunker"]
+#Categories: ["point of interest","map"]
+#Tags: ["Agency Bunker"]
 draft: false
 --- 
 

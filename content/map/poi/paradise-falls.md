@@ -7,8 +7,8 @@ description: "Brookhaven Town Hall location view and related secrets"
 
 images:
 - images/maps/paradise_falls.jpg
-Categories: ["point of interest","map"]
-Tags: ["Paradise Falls"]
+#Categories: ["point of interest","map"]
+#Tags: ["Paradise Falls"]
 draft: false
 --- 
 

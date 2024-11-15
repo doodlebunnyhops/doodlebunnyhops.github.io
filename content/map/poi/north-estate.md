@@ -7,8 +7,8 @@ description: "Brookhaven North Estate location view and related secrets"
 
 images:
 - images/maps/north_estate.jpg
-Categories: ["point of interest","map"]
-Tags: ["North Estate"]
+#Categories: ["point of interest","map"]
+#Tags: ["North Estate"]
 draft: false
 aliases:
 - /map/poi/north-view-estate

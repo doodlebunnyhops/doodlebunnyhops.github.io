@@ -7,8 +7,8 @@ images:
 - images/bh/monolith_main.jpg
 - images/maps/motel.jpg
 - images/maps/agency_bunker.jpg
-Categories: ["Monolith Locations","map"]
-Tags: ["Special Locations", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Special Locations", "Monolith Location"]
 draft: false
 --- 
 

@@ -168,6 +168,7 @@ mark {
     grid-template-columns: repeat(2, 1fr); }
   .grid-3 {
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+    /* grid-template-columns: repeat(3, minmax(0, 1fr)); } */
   .grid-4 {
     grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); } }
 

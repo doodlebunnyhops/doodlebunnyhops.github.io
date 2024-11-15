@@ -7,8 +7,8 @@ description: "Brookhaven Mall location view and related secrets"
 
 images:
 - images/maps/mall.jpg
-Categories: ["point of interest","map"]
-Tags: ["Mall"]
+#Categories: ["point of interest","map"]
+#Tags: ["Mall"]
 draft: false
 --- 
 

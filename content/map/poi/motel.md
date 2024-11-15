@@ -7,8 +7,8 @@ description: "Brookhaven Hotel or Motel location view and related secrets"
 
 images:
 - images/maps/motel.jpg
-Categories: ["point of interest","map"]
-Tags: ["Hotel", "Motel"]
+#Categories: ["point of interest","map"]
+#Tags: ["Hotel", "Motel"]
 draft: false
 --- 
 

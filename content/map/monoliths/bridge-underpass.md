@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Bridge Underpass Monolith location"
 images:
 - images/maps/monoliths/monolith_by_underpass_near_abandoned_house.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Bridge Underpass", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Bridge Underpass", "Monolith Location"]
 draft: false
 --- 
 

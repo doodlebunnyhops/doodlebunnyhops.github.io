@@ -6,8 +6,8 @@ description: "Brookhaven Church Crystal location"
 weight: 2
 images:
 - images/maps/church.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["Church", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Church", "Crystal Location"]
 draft: false
 --- 
 

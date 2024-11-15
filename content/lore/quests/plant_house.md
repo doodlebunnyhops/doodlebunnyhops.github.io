@@ -3,7 +3,7 @@ title: "Plant House"
 noindex: false
 weight: 14
 description: "How to reveal a message in the Quantum Room."
-Tags: ["Plant House RP", "Quantum Room"]
+#Tags: ["Plant House RP", "Quantum Room"]
 ---
 
 There's something special that reveals a hidden message

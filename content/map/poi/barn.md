@@ -7,8 +7,8 @@ description: "Brookhaven Barn location view and related secrets"
 
 images:
 - images/maps/barn.jpg
-Categories: ["point of interest","map"]
-Tags: ["Barn"]
+#Categories: ["point of interest","map"]
+#Tags: ["Barn"]
 draft: false
 --- 
 

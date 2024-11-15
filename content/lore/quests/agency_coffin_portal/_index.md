@@ -8,8 +8,8 @@ images:
 - images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png
 - images/agency_coffin_portal_quest/generator_room_tachyon_button.png
 - images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png
-Tags: ["Brookhaven Portal","Secret August 2024", "Agency RP House","Brookhaven New Update", "Brookhaven New House Secrets"]
-Categories: ["Secret August 2024"]
+#Tags: ["Brookhaven Portal","Secret August 2024", "Agency RP House","Brookhaven New Update", "Brookhaven New House Secrets"]
+#Categories: ["Secret August 2024"]
 ---
 
 The agency is up to something with a portal and coffins hidden deep beneath the Agency RP house. What are they trying to achieve?

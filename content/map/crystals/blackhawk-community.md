@@ -7,8 +7,8 @@ weight: 4
 images:
 - images/maps/crystals/blackhawk_community_east_entrance_by_motel.png
 - images/maps/crystals/blackhawk_community_west_entrance_near_subway_station.png
-Categories: ["Crystal Locations","map"]
-Tags: ["Blackhawk Community", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Blackhawk Community", "Crystal Location"]
 draft: false
 --- 
 

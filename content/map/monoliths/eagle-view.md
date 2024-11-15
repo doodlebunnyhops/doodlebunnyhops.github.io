@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Eagle View Monolith location"
 images:
 - images/maps/monoliths/monolith_eagle_view.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Eagle View", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Eagle View", "Monolith Location"]
 draft: false
 --- 
 

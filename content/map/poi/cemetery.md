@@ -7,8 +7,8 @@ description: "Brookhaven Cemetery location view and related secrets"
 
 images:
 - images/maps/cemetery.jpg
-Categories: ["point of interest","map"]
-Tags: ["Cemetery"]
+#Categories: ["point of interest","map"]
+#Tags: ["Cemetery"]
 draft: false
 --- 
 

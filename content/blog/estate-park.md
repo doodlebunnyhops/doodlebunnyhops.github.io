@@ -19,7 +19,7 @@ imageEffects:
     lazy: true
     lightbox: false
     shadow: false
-Categories: ["Brookhaven RP Update"]
+#Categories: ["Brookhaven RP Update"]
 ---
 
 Dip your toes in the water, play on the playground, gather at the arena for a concert, and so much more!

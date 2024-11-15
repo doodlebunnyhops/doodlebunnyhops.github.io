@@ -7,8 +7,8 @@ description: "Brookhaven Abandoned House location and related details"
 
 images:
 - images/maps/abandoned_house.jpg
-Categories: ["point of interest","map"]
-Tags: ["abandoned house"]
+#Categories: ["point of interest","map"]
+#Tags: ["abandoned house"]
 draft: false
 --- 
 

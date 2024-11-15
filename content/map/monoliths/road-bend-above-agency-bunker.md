@@ -5,11 +5,9 @@ date: 2024-08-18
 description: "Brookhaven Crown Point Underpass Monolith location"
 images:
 - images/maps/monoliths/monolith_road_bend.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Crown Point Underpass", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Crown Point Underpass", "Monolith Location"]
 draft: false
-aliases:
-- /map/monoliths/crown-point-underpass
 --- 
 
 This Monolith sits right above the Agency Bunker near a road bend leading to Crown Point neighborhood... and not to far away on the North Estate plot could be a crystal.

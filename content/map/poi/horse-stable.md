@@ -7,8 +7,8 @@ description: "Brookhaven Horse Stable location view and related secrets"
 
 images:
 - images/maps/horse_stables.jpg
-Categories: ["point of interest","map"]
-Tags: ["Horse Stable"]
+#Categories: ["point of interest","map"]
+#Tags: ["Horse Stable"]
 draft: false
 --- 
 

@@ -7,8 +7,8 @@ description: "Brookhaven Library location view and related secrets"
 
 images:
 - images/maps/library.jpg
-Categories: ["point of interest","map"]
-Tags: ["Library"]
+#Categories: ["point of interest","map"]
+#Tags: ["Library"]
 draft: false
 --- 
 

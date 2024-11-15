@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Abandoned House Monolith location"
 images:
 - images/maps/monoliths/monolith_abandoned_house.png
-Categories: ["Monolith Locations","map"]
-Tags: ["abandoned house", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["abandoned house", "Monolith Location"]
 draft: false
 --- 
 

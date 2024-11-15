@@ -6,8 +6,8 @@ description: "Brookhaven Horse Stable Crystal location"
 weight: 5
 images:
 - images/maps/horse_stables.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["Horse Stable", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Horse Stable", "Crystal Location"]
 draft: false
 --- 
 

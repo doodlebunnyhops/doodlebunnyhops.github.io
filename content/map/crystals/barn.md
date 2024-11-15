@@ -6,8 +6,8 @@ description: "Brookhaven Barn Crystal location"
 weight: 7
 images:
 - images/maps/barn.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["Barn", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Barn", "Crystal Location"]
 draft: false
 --- 
 
