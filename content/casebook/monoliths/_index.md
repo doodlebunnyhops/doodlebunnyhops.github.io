@@ -7,7 +7,7 @@ description: "Monoliths appear throughout the town of Brookhaven"
 images: 
 - images/bh/monolith_main.jpg
 
-tags: ["Monolith Details"]
+#Tags: ["Monolith Details"]
 ---
 
 

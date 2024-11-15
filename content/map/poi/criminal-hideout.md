@@ -7,8 +7,8 @@ description: "Brookhaven Criminal Hideout location view and related secrets"
 
 images:
 - images/maps/criminal_hideout.jpg
-Categories: ["point of interest","map"]
-Tags: ["Criminal Hideout"]
+#Categories: ["point of interest","map"]
+#Tags: ["Criminal Hideout"]
 draft: false
 --- 
 

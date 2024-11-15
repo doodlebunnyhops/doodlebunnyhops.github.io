@@ -8,8 +8,8 @@ description: "Collection of observations, secret places, notes, messages, clues,
 images: 
 - images/bh/collage.png
 - images/bh/follow_the_book_comp_message.png
-Categories: ["casebook","notes","observations"]
-Tags: ["notes","observations"]
+#Categories: ["casebook","notes","observations"]
+#Tags: ["notes","observations"]
 --- 
 
 <!-- https://docdock.netlify.app/shortcodes/children/ -->

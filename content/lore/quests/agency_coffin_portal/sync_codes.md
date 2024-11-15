@@ -6,7 +6,7 @@ description: "Sync the codes of every room to summon Carbon Blocks"
 images:
 - images/agency_coffin_portal_quest/synced_room_code.png
 - images/agency_coffin_portal_quest/synced_room_code_w400px.png
-Tags: ["Agency RP House"]
+#Tags: ["Agency RP House"]
 ---
 
 ![Image of a synced code in the Agency RP house](/images/agency_coffin_portal_quest/synced_room_code_w400px.png)

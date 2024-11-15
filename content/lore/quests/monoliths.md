@@ -3,7 +3,7 @@ title: "Monoliths"
 noindex: false
 weight: 8
 description: "Make monoliths spawn throughout Brookhaven."
-Tags: ["Black Rectangles", "Monoliths", "Haunted House RP"]
+#Tags: ["Black Rectangles", "Monoliths", "Haunted House RP"]
 images: 
 - images/bh/monolith_main.jpg
 ---

@@ -7,8 +7,8 @@ description: "Brookhaven Hidden Camera location view and related secrets"
 
 images:
 - images/maps/hidden_camera.jpg
-Categories: ["point of interest","map"]
-Tags: ["Hidden Camera"]
+#Categories: ["point of interest","map"]
+#Tags: ["Hidden Camera"]
 draft: false
 --- 
 

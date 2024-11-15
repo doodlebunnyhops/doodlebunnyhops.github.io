@@ -9,7 +9,7 @@ images:
 - images/bh/no_light_source.jpg
 - images/bh/flag.jpg
 
-tags: ["Interesting Findings"]
+#Tags: ["Interesting Findings"]
 ---
 
 Interesting findings and observations. Some may not be apart of the lore but there's no way to really know...

@@ -5,7 +5,7 @@ weight: 16
 description: "Steps to find Agency's secret lair in the warehouse."
 images:
 - images/bh/agency_greed_desk_1_button.jpg
-Tags: ["Warehouse RP House","Agency Lair", "Secret Released February 2024"]
+#Tags: ["Warehouse RP House","Agency Lair", "Secret Released February 2024"]
 ---
 
 Clips by O1G and Darzeth

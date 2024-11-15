@@ -7,8 +7,8 @@ description: "Brookhaven Police Station location view and related secrets"
 
 images:
 - images/maps/police.jpg
-Categories: ["point of interest","map"]
-Tags: ["Police Station"]
+#Categories: ["point of interest","map"]
+#Tags: ["Police Station"]
 draft: false
 --- 
 

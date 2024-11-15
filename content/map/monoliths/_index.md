@@ -3,8 +3,8 @@ title: "Monolith Locations"
 noindex: false
 weight: 2
 description: "Brookhaven RP interactive map of Monolith locations with details."
-Categories: ["Monolith Locations","map"]
-Tags: ["Map of Monolith Locations"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Map of Monolith Locations"]
 images: 
 - images/bh/monolith_main.jpg
 

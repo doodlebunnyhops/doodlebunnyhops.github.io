@@ -7,8 +7,8 @@ description: "Brookhaven Crows location view and related secrets"
 
 images:
 - images/maps/crows.jpg
-Categories: ["point of interest","map"]
-Tags: ["Crows"]
+#Categories: ["point of interest","map"]
+#Tags: ["Crows"]
 draft: false
 --- 
 

@@ -6,8 +6,8 @@ description: "Brookhaven Hospital Crystal location"
 weight: 1
 images:
 - images/maps/hospital.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["Hospital", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["Hospital", "Crystal Location"]
 draft: false
 --- 
 

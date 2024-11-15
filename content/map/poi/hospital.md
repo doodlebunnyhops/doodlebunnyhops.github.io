@@ -7,8 +7,8 @@ description: "Brookhaven Hospital location view and related secrets"
 
 images:
 - images/maps/hospital.jpg
-Categories: ["point of interest","map"]
-Tags: ["Hospital"]
+#Categories: ["point of interest","map"]
+#Tags: ["Hospital"]
 draft: false
 --- 
 

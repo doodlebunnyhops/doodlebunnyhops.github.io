@@ -7,8 +7,8 @@ description: "Brookhaven Camp Cabin location view and related secrets"
 
 images:
 - images/maps/camp_cabin.jpg
-Categories: ["point of interest","map"]
-Tags: ["Camp Cabin"]
+#Categories: ["point of interest","map"]
+#Tags: ["Camp Cabin"]
 draft: false
 --- 
 

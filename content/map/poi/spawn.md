@@ -7,8 +7,8 @@ description: "Brookhaven Spawn location view and related secrets"
 
 images:
 - images/maps/spawn.jpg
-Categories: ["point of interest","map"]
-Tags: ["Spawn"]
+#Categories: ["point of interest","map"]
+#Tags: ["Spawn"]
 draft: false
 --- 
 

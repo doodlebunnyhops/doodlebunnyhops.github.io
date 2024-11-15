@@ -7,8 +7,8 @@ description: "Brookhaven School location view and related secrets"
 
 images:
 - images/maps/school.jpg
-Categories: ["point of interest","map"]
-Tags: ["School"]
+#Categories: ["point of interest","map"]
+#Tags: ["School"]
 draft: false
 --- 
 

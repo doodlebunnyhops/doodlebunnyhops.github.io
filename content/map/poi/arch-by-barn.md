@@ -7,8 +7,8 @@ description: "Brookhaven Arch by Barn location view and related secrets"
 
 images:
 - images/maps/arch2.jpg
-Categories: ["point of interest","map"]
-Tags: ["Rod Under Arch","Arch"]
+#Categories: ["point of interest","map"]
+#Tags: ["Rod Under Arch","Arch"]
 draft: false
 --- 
 

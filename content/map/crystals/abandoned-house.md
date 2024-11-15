@@ -6,8 +6,8 @@ description: "Brookhaven Abandoned House Crystal location"
 weight: 3
 images:
 - images/maps/abandoned_house.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["abandoned house", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["abandoned house", "Crystal Location"]
 draft: false
 --- 
 

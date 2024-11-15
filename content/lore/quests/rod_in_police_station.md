@@ -3,7 +3,7 @@ title: "Rod in the Police Station"
 noindex: false
 weight: 11
 description: "How to click on the hidden rod in the police station."
-Tags: ["Police Station","Arch"]
+#Tags: ["Police Station","Arch"]
 ---
 
 The rod becomes clickable after an action but...

@@ -7,8 +7,8 @@ description: "Brookhaven Town Hall location view and related secrets"
 
 images: 
 - images/maps/town_hall.jpg
-Categories: ["point of interest","map"]
-Tags: ["Town Hall"]
+#Categories: ["point of interest","map"]
+#Tags: ["Town Hall"]
 draft: false
 --- 
 

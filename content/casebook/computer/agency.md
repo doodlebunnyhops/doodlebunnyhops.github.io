@@ -4,7 +4,7 @@ noindex: false
 weight: 1
 draft: false
 description: "Messages on the laptop from the Agency."
-tags: ["Computer Messages","Agency Computer Messages", "Agency"]
+#Tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - images/bh/follow_the_book_comp_message.png
 - images/bh/useful_soldier_comp_message.jpg

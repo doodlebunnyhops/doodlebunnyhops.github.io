@@ -3,7 +3,7 @@ title: "Mystery Alien"
 noindex: false
 weight: 3
 description: "Electrocute the green man in the experimental site of the hospital."
-Tags: ["Green Man", "Experimentation Site","Hospital"]
+#Tags: ["Green Man", "Experimentation Site","Hospital"]
 ---
 
 {{< youtube id=Ez6vK6Ve2Wc?t=19 loading=lazy >}}

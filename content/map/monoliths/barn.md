@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Barn Monolith location"
 images:
 - images/maps/monoliths/monolith_main.jpg
-Categories: ["Monolith Locations","map"]
-Tags: ["Barn", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Barn", "Monolith Location"]
 draft: false
 --- 
 

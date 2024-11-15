@@ -7,8 +7,8 @@ description: "Brookhaven Portal location view and related secrets"
 
 images:
 - images/maps/portal_1.jpg
-Categories: ["point of interest","map"]
-Tags: ["Portal"]
+#Categories: ["point of interest","map"]
+#Tags: ["Portal"]
 draft: false
 --- 
 

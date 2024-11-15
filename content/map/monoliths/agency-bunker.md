@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Agency Bunker Monolith location"
 images:
 - images/maps/monoliths/monolith_agency_bunker.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Agency Bunker", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Agency Bunker", "Monolith Location"]
 draft: false
 --- 
 

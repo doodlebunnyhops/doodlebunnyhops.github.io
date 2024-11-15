@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Horse Stables Monolith location"
 images:
 - images/maps/monoliths/monolith_behind_school.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Horse Stable", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Horse Stable", "Monolith Location"]
 draft: false
 aliases:
 - /map/monoliths/horse-stable

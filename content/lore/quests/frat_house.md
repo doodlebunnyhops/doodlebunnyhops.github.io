@@ -3,7 +3,7 @@ title: "Frat House"
 noindex: false
 weight: 12
 description: "How to get to the hidden laptop in the Frat House."
-Tags: ["Frat House RP", "Secret Basement"]
+#Tags: ["Frat House RP", "Secret Basement"]
 ---
 
 Unlocks the Blue Keypad in the Agency Bunker

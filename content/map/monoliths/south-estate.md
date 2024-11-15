@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven South Estate Monolith location"
 images:
 - images/maps/monoliths/monolith_south_estate.png
-Categories: ["Monolith Locations","map"]
-Tags: ["South Estate", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["South Estate", "Monolith Location"]
 draft: false
 --- 
 

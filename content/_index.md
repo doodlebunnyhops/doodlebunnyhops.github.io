@@ -8,7 +8,7 @@ images:
 - images/bh/collage.png
 - images/thumbnails/portal_update.png
 archetype: "home"
-Tags: ["Brookhaven Secrets","Brookhaven New House Secrets"]
+#Tags: ["Brookhaven Secrets","Brookhaven New House Secrets"]
 ---
 
 # Can you solve the **Mystery** of Brookhaven?

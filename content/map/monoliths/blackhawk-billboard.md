@@ -5,8 +5,8 @@ date: 2024-08-18
 description: "Brookhaven Blackhawk Billboard Monolith location"
 images:
 - images/maps/monoliths/monolith_blackhawk_billboard.png
-Categories: ["Monolith Locations","map"]
-Tags: ["Blackhawk Billboard", "Monolith Location"]
+#Categories: ["Monolith Locations","map"]
+#Tags: ["Blackhawk Billboard", "Monolith Location"]
 draft: false
 --- 
 

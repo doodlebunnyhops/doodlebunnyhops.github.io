@@ -6,8 +6,8 @@ description: "Brookhaven North Estate Crystal location"
 weight: 6
 images:
 - images/maps/north_estate.jpg
-Categories: ["Crystal Locations","map"]
-Tags: ["North Estate", "Crystal Location"]
+#Categories: ["Crystal Locations","map"]
+#Tags: ["North Estate", "Crystal Location"]
 draft: false
 --- 
 
