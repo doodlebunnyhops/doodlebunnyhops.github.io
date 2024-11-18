@@ -5,7 +5,7 @@ title: "Avatar Quality of Life"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/avatar
+- /blog/archive/2023/august/avatar
 noindex: false
 hidden: true
 archetype: "blog"

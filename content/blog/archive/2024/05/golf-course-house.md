@@ -4,6 +4,8 @@ date: 2024-05-24
 title: "Golfers Retreat"
 cascade:
 - url: /blog/:filename
+aliases:
+- /blog/archive/2024/may/golf-course-house
 noindex: false
 archetype: "blog"
 hidden: true
@@ -12,8 +14,6 @@ images:
 - https://tr.rbxcdn.com/cfcc18f30dc351fb613633b2c926520f/768/432/Image/Png
 description: "Brookhaven Update: New Free and Premium Golf house and Prop limit raised to 5 more props on Public Servers."
 draft: false
-aliases:
-- /blog/golf-course-house/
 ---
 
 Grab your Golfing Clubs and lets set out to the Golfing House Club for a relaxing day on the green!.

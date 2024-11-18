@@ -5,7 +5,7 @@ title: "Superhero"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/superhero
+- /blog/archive/2024/april/superhero
 noindex: false
 archetype: "blog"
 hidden: true

@@ -5,7 +5,7 @@ title: "Hackers"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/hacker
+- /blog/archive/2024/april/hacker
 noindex: false
 archetype: "blog"
 hidden: true

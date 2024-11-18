@@ -4,6 +4,8 @@ date: 2024-06-07
 title: "Pets and Props"
 cascade:
 - url: /blog/:filename
+aliases:
+- /blog/archive/2024/june/new-prop-pets
 noindex: false
 archetype: "blog"
 hidden: true
@@ -12,8 +14,6 @@ images:
 - /images/blog/prop-pets.png
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
 draft: false
-aliases:
-- /blog/new-prop-pets/
 imageEffects:
     border: false
     lazy: true

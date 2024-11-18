@@ -2,6 +2,8 @@
 author: "BloominDaisy"
 date: 2024-08-10
 title: "Agency RP House"
+cascade:
+- url: /blog/:filename
 noindex: false
 archetype: "blog"
 hidden: true

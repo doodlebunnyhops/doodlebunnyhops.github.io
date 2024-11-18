@@ -5,7 +5,7 @@ title: "Survival Update"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/refuge
+- /blog/archive/2023/april/refuge
 noindex: false
 hidden: true
 archetype: "blog"

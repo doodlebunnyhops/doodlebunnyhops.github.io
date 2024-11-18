@@ -2,6 +2,8 @@
 author: "BloominDaisy"
 date: 2024-11-01
 title: "Beach Access"
+cascade:
+- url: /blog/:filename
 noindex: false
 hidden: true
 archetype: "blog"

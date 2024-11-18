@@ -5,7 +5,7 @@ title: "Farm Update"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/farm
+- /blog/archive/2023/may/farm
 noindex: false
 hidden: true
 archetype: "blog"

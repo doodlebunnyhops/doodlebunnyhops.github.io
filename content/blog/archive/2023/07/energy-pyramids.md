@@ -5,7 +5,7 @@ title: "Where are all these Energy Crystals?"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/energy-pyramids
+- /blog/archive/2023/july/energy-pyramids
 noindex: false
 hidden: true
 archetype: "blog"
