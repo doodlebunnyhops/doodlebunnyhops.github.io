@@ -5,7 +5,7 @@ title: "Battle of the most visited!"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/battle-for-the-top
+- /blog/archive/2023/july/battle-for-the-top
 noindex: false
 hidden: true
 archetype: "blog"

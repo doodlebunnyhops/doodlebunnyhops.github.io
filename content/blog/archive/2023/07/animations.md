@@ -5,7 +5,7 @@ title: "New Animations and more!"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/animations
+- /blog/archive/2023/july/animations
 noindex: false
 hidden: true
 archetype: "blog"

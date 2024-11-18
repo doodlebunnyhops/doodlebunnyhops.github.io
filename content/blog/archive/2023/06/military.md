@@ -5,7 +5,7 @@ title: "Military Estate and more!"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/military
+- /blog/archive/2023/june/military
 noindex: false
 hidden: true
 archetype: "blog"

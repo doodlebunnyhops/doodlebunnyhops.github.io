@@ -1,7 +1,7 @@
 ---
 title: 2024
 noindex: false
-description: Archived Blogs about Brookhaven RP Updates, exciting news, and new findings
+description: Archived Blogs from year 2024 By Month about Brookhaven RP Updates, exciting news, and new findings
 type: blog_archive
 images:
 - images/thumbnails/blog_splash.png

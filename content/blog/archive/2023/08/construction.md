@@ -5,7 +5,7 @@ title: "Construction Update"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/construction
+- /blog/archive/2023/august/construction
 noindex: false
 hidden: true
 archetype: "blog"

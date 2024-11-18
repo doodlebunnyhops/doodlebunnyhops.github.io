@@ -15,16 +15,6 @@ archetype: "home"
 
 <hr style="background-color: #28b44c" size=8>
 
-## Announcement!
-
-`August 10, 2024`
-
-GAME UPDATE WITH SECRETS!
-
-See the guide here: {{% button href="/lore/quests/agency_coffin_portal/" %}}Agency RP House Secrets{{% /button %}}
-
-<hr style="background-color: #28b44c" size=8>
-
 
 This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/games/4924922222/Brookhaven-RP" ref="noopener">Brookhaven 🏡RP</a>'s secrets and mysteries.
 

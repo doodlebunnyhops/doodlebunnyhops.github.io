@@ -2,6 +2,8 @@
 author: "BloominDaisy"
 date: 2024-09-20
 title: "Interchangeable Government RP Set"
+cascade:
+- url: /blog/:filename
 noindex: false
 archetype: "blog"
 hidden: true

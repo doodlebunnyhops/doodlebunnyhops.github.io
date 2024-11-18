@@ -5,7 +5,7 @@ title: "Cops and Robbers"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/rob
+- /blog/archive/2023/june/rob
 noindex: false
 hidden: true
 archetype: "blog"

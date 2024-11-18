@@ -1,11 +1,13 @@
 ---
-title: May
+title: July
 noindex: false
-description: Archived Blogs from May 2024 about Brookhaven RP Updates, exciting news, and new findings
+description: Archived Blogs from July 2024 about Brookhaven RP Updates, exciting news, and new findings
 type: blog_archive
-weight: 5
+weight: 7
 images:
 - images/thumbnails/blog_splash.png
+# draft: true
+# hidden: true
 ---
 
 

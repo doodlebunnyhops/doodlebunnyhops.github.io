@@ -5,7 +5,7 @@ title: "Content Creator House!"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/content-creator-rp
+- /blog/archive/2023/june/content-creator-rp
 noindex: false
 hidden: true
 archetype: "blog"

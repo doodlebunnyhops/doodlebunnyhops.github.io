@@ -5,7 +5,7 @@ title: "Food Truck Update"
 cascade:
 - url: /blog/:filename
 aliases:
-- /blog/foodtruck
+- /blog/archive/2023/april/foodtruck
 noindex: false
 hidden: true
 archetype: "blog"
