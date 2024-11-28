@@ -2,6 +2,8 @@
 title: "Travels"
 noindex: false
 weight: 2
+cascade:
+- url: /:sections/chapter/:slug
 description: "William leaves his kingdom"
 author: "Bloomindaisy"
 date: 2024-11-27

@@ -2,6 +2,8 @@
 title: "The Fallen One"
 noindex: false
 weight: 1
+cascade:
+- url: /:section/:slug
 description: "Join William on his journey to the trial of fears. By Bloomindaisy"
 author: "Bloomindaisy"
 date: 2024-11-27
