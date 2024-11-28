@@ -6,3 +6,6 @@
 {{- with $Date }}
             <i class='fa-fw fas fa-calendar'></i> Published {{ . }}
 {{- end }}
+{{- with .Params.author }}
+  <i class='fa-fw fas fa-user'></i> Author: {{ . }}
+{{- end }}
