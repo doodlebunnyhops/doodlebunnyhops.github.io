@@ -2,6 +2,8 @@
 title: "Time"
 noindex: false
 weight: 1
+cascade:
+- url: /:sections/chapter/:slug
 description: "William's time nears"
 author: "Bloomindaisy"
 date: 2024-11-27
