@@ -95,3 +95,7 @@ William felt his stomach churn, his father’s words a heavy weight settling ove
 Brookhaven stepped back, his tone unrelenting. “Prove me wrong,” he said. Then, turning, he ascended the platform to his throne with the finality of a judge delivering a sentence. “Leave.”
 
 William bent to retrieve his pack, his fingers trembling. He turned to leave, the sound of his boots echoing hollowly in the vast chamber.
+
+---
+
+<div align="center">{{% button href="/story/the_fallen_one/chapter/travels/" style="green" %}}Chapter 2{{% /button %}}</div>
