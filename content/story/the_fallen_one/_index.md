@@ -8,7 +8,7 @@ date: 2024-11-27
 draft: false
 imagecust: /images/stories/the_fallen_one_cover_art.jpg
 images:
-- /images/stories/the_fallen_one_cover_art.jpg
+- images/stories/the_fallen_one_cover_art.jpg
 archetype: "story"
 
 ---
