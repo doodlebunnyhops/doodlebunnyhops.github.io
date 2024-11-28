@@ -591,7 +591,7 @@ body:not(.print) #R-body-inner.narrow div.article-subheading{
 
 body:not(.print) #R-body-inner.narrow p {
     font-size: 1.2rem;
-    text-align: justify;
+    text-align: left;
 }
 
 mark {

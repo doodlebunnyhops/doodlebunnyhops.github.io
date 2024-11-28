@@ -2,7 +2,7 @@
 title: "Home"
 noindex: false
 license: true
-date: 2023-05-19
+# date: 2023-05-19
 description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."
 images: 
 - images/bh/collage.png
@@ -34,6 +34,8 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 <div class="expand-content" style="display: block;">
 {{% children sort="Weight" showhidden=false description=true style="h2"  %}}
 </div>
+
+---
 
 {{< column >}}
 ![Portal Thumbnail](/images/thumbnails/portal_update.png)
