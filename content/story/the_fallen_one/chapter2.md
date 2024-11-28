@@ -12,9 +12,6 @@ archetype: "chapter"
 
 ---
 
-<!-- <h2 style="text-align: center;">Chapter 2</h2>
-<h3 style="text-align: center;">Travels</h3> -->
-
 William made his way to the bailey, where spring was in full bloom. A garden near the castle walls exploded with color, the bright flowers a stark contrast to the gray stone of the castle. Staff bustled about, attending to the day’s work as if it were any other morning. But for William, it wasn’t just another day. His pack felt heavier with each step, its weight pressing down on him like a reminder of everything that lay ahead. What am I walking toward? he thought. My triumph? Or my failure?
 
 No one paid him any mind as he passed. To them, he was just another young man preparing for the trials. The gravity of what he and Matthew were about to face seemed invisible to everyone else. Guess no one thinks about it until after the fact, he mused bitterly.
@@ -108,3 +105,7 @@ Matthew followed his line of sight, his expression narrowing as he studied the d
 But William couldn’t shake the feeling that this figure wasn’t like the others. Their movements seemed too deliberate, too fluid, as though they were gliding rather than walking. Whenever William looked their way, he felt as though they were looking back, even though their face was hidden.
 
 “Stay sharp,” Matthew added, his voice quieter now. But his words did nothing to ease the knot forming in William’s stomach.
+
+---
+
+More to come soon, I hope you enjoyed the story so far :heart: BloominDaisy
