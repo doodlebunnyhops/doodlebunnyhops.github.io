@@ -6,6 +6,9 @@
 
   <!-- {{- $pages := where site.RegularPages "Section" site.Params.blogDir  }} -->
   {{- $pages := (site.GetPage "blog").RegularPages  }}
+
+    <h1>BloominDaisy's Brookhaven Blog</h1>
+    <p>Stay up to date with the latest news and updates from Brookhaven!</p>
   
     {{- $paginator := .Paginate $pages -}}
     {{- $size := $paginator.PageSize }}
