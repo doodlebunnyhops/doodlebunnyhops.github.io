@@ -111,7 +111,6 @@ No new secrets have been added in this update, but two key changes have been mad
     - [Updated Guide for movie reel](/casebook/movie_codes/#police-station-code)
 - **Hospital Roof Crystal**: The crystal has shifted to a more central location on the roof. 
     - [Updated Guide to crystal location](/map/crystals/hospital/)
-    - [Updated Map view of hostpial and historical record](/map/poi/hospital/)
 
 ---
 

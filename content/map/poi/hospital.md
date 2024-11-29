@@ -6,6 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Hospital location view and related secrets"
 
 images:
+- images/maps/hospital_remodeled_2024.png
 - images/maps/hospital.jpg
 #Categories: ["point of interest","map"]
 #Tags: ["Hospital"]

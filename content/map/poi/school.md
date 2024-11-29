@@ -6,6 +6,7 @@ date: 2024-01-02
 description: "Brookhaven School location view and related secrets"
 
 images:
+- images/maps/school_remodeled_2024.png
 - images/maps/school.jpg
 #Categories: ["point of interest","map"]
 #Tags: ["School"]
