@@ -54,6 +54,8 @@ Note that switch **3** is missing... do we need to find it?
 
 ## Police Station Code
 
+_These steps were updated Novemeber 29th, 2024!_
+
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 - Turn on Switch **2** next to the blue keypad in the Agency Bunker.
 {{% /notice %}}
@@ -61,23 +63,60 @@ Note that switch **3** is missing... do we need to find it?
 
 **Steps:**
 
-1. In the Police Station go up the ladder in the lobby halfway - there’s a room with a code inside. 
-1. Use the code you find at the Movie Theater to watch it.
-
+1. Go to the Police Station
+	1. Go into a Cell Room, go on top of the Bunk bed and jump through the vent.
+2. Go through the hidden wall on the right side
 
 {{< tabs title="Click Tab ->" >}}
+{{% tab title="Vent Location" %}}
+Jump inside the police vent
 
-{{% tab title="Go Up Ladder" %}}
-![Police Station Movie Reel Ladder to reel](/images/bh/movie_police.jpg)
+![Police Station Attic Access through Vent in Cell Room.](/images/bh/police_station_attic_access.png)
 {{% /tab %}}
 
-{{% tab title="Movie Reel Spot" %}}
-![Police Station Movie Reel](/images/bh/movie_poice_code.jpg)
+{{% tab title="False Wall" %}}
+Hidden wall to find a secret room above police station.
+
+Notice the avatar is halfway through the wall - this is the entrance to the hidden room.
+
+![Hidden attic entrance through vent in police cell](/images/bh/blue-key-card-wall.jpg)
 {{% /tab %}}
+
+{{% tab title="Hidden Room..." %}}
+Movie Reel can be found in an open area to the right of the storage and filing cabinet.
+
+![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_1.png)
+
+![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_2.png)
+
+{{% /tab %}}
+
 {{< /tabs >}}
 
 {{% notice style="warning" %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
+{{% /notice %}}
+
+{{% notice color="purple" title="**Old Steps**" icon="fa-solid fa-triangle-exclamation"  %}}
+
+### Historical Location
+
+Before the  [School, Hospital, Police Station Remodle Update](/blog/school_hospital_police_station_remodel) on November 29, 2024; the movie reel in the police station actually required you to go up a ladder to get to it's hidden location.
+
+While this no longer exists, here's what this step used to look like. 
+
+{{< tabs title="Old Location ->" >}}
+
+{{% tab title="Go Up Ladder" %}}
+![Old Police Station Movie Reel Ladder to reel location](/images/bh/movie_police.jpg)
+{{% /tab %}}
+
+{{% tab title="Movie Reel Spot" %}}
+![Old Police Station Movie Reel Location](/images/bh/movie_poice_code.jpg)
+{{% /tab %}}
+{{< /tabs >}}
+
+
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>

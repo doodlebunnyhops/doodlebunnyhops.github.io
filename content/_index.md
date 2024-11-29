@@ -34,7 +34,14 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 November 29th, 2024
 
-We have an update! But this may change some steps for some things and I'll be working on updating the site. I've alrady identified the path to get to the [police station movie reel](casebook/movie_codes/#police-station-code) has slightly changed as an example :D
+We have an update! But the [School, Hospital, and Police Station Remodel Update](/blog/school_hospital_police_station_remodel) has changed some steps in the walkthrough:
+
+- [Updated Guide for movie reel](/casebook/movie_codes/#police-station-code)
+- [Updated Guide to crystal location](/map/crystals/hospital/)
+- Added historical record to buildings:
+    - [School](/map/poi/school/)
+    - [Hospital](/map/poi/hospital/)
+    - [Police Station](/map/poi/police-station/)
 
 Happy Hunting detectives!
 

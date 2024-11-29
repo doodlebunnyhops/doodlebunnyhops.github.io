@@ -31,19 +31,19 @@ The auto shop has transformed into the Auto Mall! With a dedicated indoor area f
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![img](/images/blog/auto_mall_front_remodel.png)Brookhaven’s new Auto Mall, complete with a dealership front.
+![Brookhaven's new Automall store front](/images/blog/auto_mall_front_remodel.png)Brookhaven’s new Auto Mall, complete with a dealership front.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/auto_mall_dealership_remodel.png)Purchase your new vehicle in the new dealership location!
+![Inside Brookhaven's remodeled dealership inside AutoMall](/images/blog/auto_mall_dealership_remodel.png)Purchase your new vehicle in the new dealership location!
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/auto_mall_repairs_remodel.png)The shop can now handle 2 repairs at a time.
+![Inside Brookhaven's remodeled repair shop inside AutoMall](/images/blog/auto_mall_repairs_remodel.png)The shop can now handle 2 repairs at a time.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/dealership_removed_now_empty_rp_button.png)The old dealership space is now open for role-play!
+![Brookhaven's old dealership location is now an open area for role play](/images/blog/dealership_removed_now_empty_rp_button.png)The old dealership space is now open for role-play!
 {{< /column>}}
 
 {{< /column>}}
@@ -56,12 +56,12 @@ The grocery store got a fresh makeover with new sections for a more realistic sh
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![img](/images/blog/grocery_store_front_remodel.png)Fresh new look for the grocery store with added sections.
+![Brookhaven's remodeled Grocery Store front](/images/blog/grocery_store_front_remodel.png)Fresh new look for the grocery store with added sections.
 {{< /column>}}
 
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/grocery_store_inside_remodel_2.png)Shop the new deli and butcher areas, perfect for an authentic role-play shopping experience!
+![Inside Brookhaven's remodeled Grocery store with new deli section](/images/blog/grocery_store_inside_remodel_2.png)Shop the new deli and butcher areas, perfect for an authentic role-play shopping experience!
 {{< /column>}}
 
 {{< /column>}}
@@ -74,11 +74,11 @@ The clothing store now has an updated layout, complete with a dedicated dressing
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot grid" >}}
-![img](/images/blog/rockstar_clothing_shop_front_remodel.png)Updated storefront with a modern design.
+![Brookhaven's remodeled RockStar Clothing Store front](/images/blog/rockstar_clothing_shop_front_remodel.png)Updated storefront with a modern design.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/rockstar_clothing_shop_inside_remodel.png)Try on outfits in the updated dressing room for a stylish look.
+![Iniside of RockStar clothing shop, featuring dressing room](/images/blog/rockstar_clothing_shop_inside_remodel.png)Try on outfits in the updated dressing room for a stylish look.
 {{< /column>}}
 
 
@@ -92,11 +92,11 @@ The bank received a modernized makeover with updated counters and a clean layout
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![img](/images/blog/bank_front_remodle.png)The bank gets a new look, keeping up with Brookhaven’s evolving style.
+![Brookhaven's remodeld Bank front](/images/blog/bank_front_remodle.png)The bank gets a new look, keeping up with Brookhaven’s evolving style.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![img](/images/blog/bank_inside_remodel.png)Modernized counters and spacious interior for all your banking needs.
+![Inside look of the fresh remodle of the bank at Brookhaven](/images/blog/bank_inside_remodel.png)Modernized counters and spacious interior for all your banking needs.
 {{< /column>}}
 
 

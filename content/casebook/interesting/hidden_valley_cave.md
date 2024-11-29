@@ -4,9 +4,11 @@ noindex: false
 weight: 5
 draft: false
 description: "More Secrets confirmed coming to the Hidden Valley Cave in Brookhaven RP and video timelapse of interesting light."
+images: 
+- images/bh/no_light_source.jpg
 ---
 
-![hmm](/images/bh/no_light_source.jpg)
+![Bloomindaisy standing in a cave with a mysterious light shaped as a triangle.](/images/bh/no_light_source.jpg)
 
 
 In the Aug 25 2023 [Construction update](blog/archive/2023/august/construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!

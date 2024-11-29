@@ -6,6 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Hospital location view and related secrets"
 
 images:
+- images/maps/hospital_remodeled_2024.png
 - images/maps/hospital.jpg
 #Categories: ["point of interest","map"]
 #Tags: ["Hospital"]
@@ -15,7 +16,7 @@ draft: false
 
 Brookhaven'ts esteemed Hospital has exceptional doctors and surgeons. It's also the site of an experimentation site operated by The Agency. Why was the experimentation site abandoned?
 
-![view of Hospital](/images/maps/hospital.jpg)
+![Outside view of Brookhaven Hospital, aka St. Lukes Hospital](/images/maps/hospital_remodeled_2024.png)
 
 
 ## Experimentation Site
@@ -37,7 +38,7 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 {{% expand title="Outlined Location of Hospital" %}}
 
-![Location of Hospital](/images/maps/hospital.png)
+![Location of Hospital on the map](/images/maps/hospital.png)
 
 {{% /expand %}}
 
@@ -61,3 +62,12 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 - [The Red Book](/lore/special_tools/the_red_book)
 - [Mystery Alien](/lore/quests/mystery_alien)
+
+
+<hr style="background-color: #28b44c" size=8>
+
+## Historical Looks
+
+In Novemeber of 2024 the Hospital was remodeld featuring a sleek, glass-heavy exterior and a brighter, modernized look.
+
+![Brookhaven's previous look for the Hospital. Functional with the iconic glass features.](/images/maps/hospital.jpg)
