@@ -8,8 +8,10 @@ images:
 - images/bh/collage.png
 - images/thumbnails/portal_update.png
 archetype: "home"
-#Tags: ["Brookhaven Secrets","Brookhaven New House Secrets"]
+Tags: ["Brookhaven Secrets","BrookhavenRP Secrets & Mysteries"]
 ---
+
+
 
 # Can you solve the **Mystery** of Brookhaven?
 
@@ -25,6 +27,22 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 > Welcome to the lore, where there is an unknown battle against Mr. Brookhaven and the Agency!
 
+
+---
+
+## Announcement
+
+We have an update! But this may change some steps for some things and I'll be working on updating the site. I've alrady identified the path to get to the [police station movie reel](casebook/movie_codes/#police-station-code) has slightly changed as an example :D
+
+Happy Hunting detectives!
+
+:heart: Bloomindaisy
+
+{{< column "post-block" >}}
+{{< column "post-block-dot column" >}}
+![](/images/thumbnails/hospital-police_station-school_remodel.png?width=400px)
+{{< /column>}}
+{{< /column >}}
 
 ---
 
