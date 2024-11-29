@@ -32,6 +32,8 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ## Announcement
 
+November 29th, 2024
+
 We have an update! But this may change some steps for some things and I'll be working on updating the site. I've alrady identified the path to get to the [police station movie reel](casebook/movie_codes/#police-station-code) has slightly changed as an example :D
 
 Happy Hunting detectives!
