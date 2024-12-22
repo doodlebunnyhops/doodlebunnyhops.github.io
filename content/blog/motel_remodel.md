@@ -9,8 +9,8 @@ hidden: true
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-8dde6e2d01132fa072858741c3266c81/768/432/Image/Png/noFilter
 images:
-- /images/blog/motel_update_outside_view.png
 - https://tr.rbxcdn.com/180DAY-8dde6e2d01132fa072858741c3266c81/768/432/Image/Png/noFilter
+- /images/blog/motel_remodel.png.png
 description: "Brookhaven's motel gets a modern upgrade with larger rooms, a pool, and exciting new features."
 ---
 
