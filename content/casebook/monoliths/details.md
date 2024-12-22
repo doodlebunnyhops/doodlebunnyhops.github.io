@@ -50,15 +50,10 @@ Example:
 
 ### Future Motel Message Board
 
-Also found Monolith code behind the motel wall, prepended with `<^^>`
+Also found Monolith code behind the motel, prepended with `<^^>`
 
 Example:
 
 `..()..()..()..()()..<^^>`
 
-Motel must be in the future state and will show behind the room that was first spawned into the future.
-
-
-
-
-All Locations Image Link map view 
+![Odd code sign behind Motel Building](/images/bh/monolith_sign_behind_motel.png?width=400px)

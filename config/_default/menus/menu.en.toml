@@ -1,18 +1,23 @@
 [[shortcuts]]
+  name = "<i class='fa-brands fa-discord'></i> Daisy's Discord"
+  url = 'https://discord.gg/fxhXWgxcHV'
+  weight = 10
+
+[[shortcuts]]
   identifier = 'ds'
   name = "<i class='fa-fw fab fa-github'></i> GitHub repo"
   url = 'https://github.com/doodlebunnyhops/doodlebunnyhops.github.io'
-  weight = 10
+  weight = 11
 
 [[shortcuts]]
   name = "<i class='fa-brands fa-x-twitter'></i> Twitter/X"
   url = 'https://x.com/SolveBHMystery'
-  weight = 11
+  weight = 12
 
 [[shortcuts]]
   name = "<i class='fa-brands fa-square-reddit'></i> Reddit"
   url = 'https://www.reddit.com/r/BrookhavenRPSecrets/'
-  weight = 12
+  weight = 13
 
 [[main]]
   name = "Blog"
