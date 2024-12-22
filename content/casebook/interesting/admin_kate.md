@@ -8,7 +8,9 @@ description: "Admin Kate from Wolfpaq discord and her help in discovering Secret
 
 Admin Kate has been a monumental help in wolfpaq's Secrets and Mysteries channel in his discord. She has given lots of hints and nudges along our journey. 
 
-Lets also give thanks to Kate, as she is away for a little bit and hope she is doing alright :heart:
+Lets also give thanks to Kate, ~as she is away for a little bit~ and hope she is doing alright :heart:
+
+Big Welcome back message for Kate! We're so happy to see you again :heart:
 
 <hr style="background-color: #28b44c" size=8>
 

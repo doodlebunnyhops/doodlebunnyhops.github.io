@@ -25,7 +25,16 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 1. Go to the motel and grab a room.
 2. The note is hidden on the top of the closet. You can jump into the closet to see this note.
 
-![Agency Note About Madison and Older Boy](/images/bh/agency_note_in_future_motel_room_crop.png?width=400px) 
+
+{{< tabs title="Agency Note -> click tabs" >}}
+{{% tab title="Close up of Note from Agency" %}}
+![Agency Note About Madison and Older Boy](/images/bh/agency_note_in_future_motel_room_closeup.png?width=400px) 
+{{% /tab %}}
+{{% tab title="Area note is found" %}}
+![Agency Note found in closet of Future rundown Motel Room](/images/bh/agency_note_in_future_motel.png) 
+
+{{% /tab %}}
+{{< /tabs >}}
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -36,14 +45,28 @@ While this note doesn't have an Agency stamp on it, it's been widely accepted by
 
 {{% notice style="tip" %}}
 **Requirements** : [The Red Book](/lore/special_tools/the_red_book)
+
+**Part Of**: [Build Portal](/lore/quests/build_portal)
 {{% /notice %}}
 
 **Steps:**
 
 1. Go to the motel and grab a room.
-2. Sit on the White Chair on the left when facing the Window or go behind the Chair
+2. Look behind the white Chair on the left when facing the Window.
 
-![Message behind chair to follow the book](/images/bh/future-hotel-chair-note.jpg) 
+```
+The Book will tell you what to do next, follow its lead and do not think for yourself. In the future as we recruit from the common, be mindful of double agents.
+```
+
+{{< tabs title="Click Tabs ->" >}}
+{{% tab title="Large View of Chair with Message" %}}
+![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future.png) 
+{{% /tab %}}
+
+{{% tab title="Closeup of Note" %}}
+![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future_closeup.png) 
+{{% /tab %}}
+{{< /tabs >}}
 
 
 <hr style="background-color: #28b44c" size=8>

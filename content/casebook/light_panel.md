@@ -359,13 +359,14 @@ Build a Portal
 
 **Steps:**
 
-1. Go to the Agency Base
-	1. Behind the Base you should see boxes, use a Hammer on them until they have all disappeared. \*Hit F to type 3 or if on mobile the action button to type 3 so you hear a hitting sound\*
-	2. When complete you will briefly see an Orb
-		1. Bunker Message: \*note excelerator is misspelled should it be accelerator?\*
- 
-			==Hydrogen beam excelerator complete: A16 activated==
+1. Complete the steps [at the agency base](/lore/quests/build_portal/#at-the-agency-base) from the **Build Portal* quest.
 
+**Bunker Message**:
+
+``` 
+Hydrogen beam excelerator complete: A16 activated
+```
+\*note excelerator is misspelled should it be accelerator?\*
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -823,16 +824,16 @@ Travel to the past by the power of a book!
 
 **Steps:**
 
-1. After grabbing the Hidden Book in the Library, Go to the Motel - it should look run down (it's from the future)
-	1. Click on the Book underneath the Table
-	2. Click on the Frame of the Empty Picture by the Door
-	3. Click on the Button found behind the Bedside Table
-		1. Laptop
- 
-			==The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}==
-		1. Bunker Message
- 
-			==The Book power unveiled [Follow]: X02 activated==
+1. Follow steps in Build Portal
+2. Once you click on the button behind the dresser you will activate this light.
+
+**Bunkger Message**:
+
+```txt
+The Book power unveiled [Follow]: X02 activated
+```
+
+- [Laptop Message](/casebook/computer/agency/#power-of-the-book)
 
 
 <hr style="background-color: #28b44c" size=8>

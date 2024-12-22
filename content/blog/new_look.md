@@ -11,8 +11,6 @@ imagecust: https://tr.rbxcdn.com/180DAY-5d13bbca4f78792321bb3852946034ad/768/432
 images:
 - https://tr.rbxcdn.com/180DAY-5d13bbca4f78792321bb3852946034ad/768/432/Image/Png/noFilter
 description: "Brookhaven Update: Auto Mall, Grocery Store, Clothing Store, and Bank Remodels."
-# aliases:
-# - /blog/new_look
 ---
 
 Brookhaven just got a makeover! Several key spots around town have been remodeled, giving us new places to explore and enjoy. Let’s check out what’s new and fresh!

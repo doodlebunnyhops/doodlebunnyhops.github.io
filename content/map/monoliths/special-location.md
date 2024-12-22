@@ -35,5 +35,5 @@ It's commonly believed the code showing at these locations is to show you where 
 
 >Excerpt from [Casebook: Details on Monoliths](/casebook/monoliths/details/#future-motel-message-board)
 >
->Also found Monolith code behind the motel wall...
+>Also found Monolith code behind the motel...
 

@@ -41,9 +41,11 @@ images:
 1. Go to the motel and grab a room.
 2. Follow the same steps as [Build Portal](/lore/quests/build_portal) - but check your laptop before leaving the motel room!
 
+```
+The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}
+```
 
-
-![DESC](/images/bh/power_of_the_book_comp_message.jpg) 
+![Brookhaven Agency Message from the Computer, The Power of the Book.](/images/bh/power_of_the_book_comp_message_cropped.png?width=312px) 
 
 
 <hr style="background-color: #28b44c" size=8>

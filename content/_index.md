@@ -32,26 +32,21 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ## Announcement
 
-November 29th, 2024
+Decemeber 21st, 2024
 
-We have an update! But the [School, Hospital, and Police Station Remodel Update](/blog/school_hospital_police_station_remodel) has changed some steps in the walkthrough:
+I've been keeping tabs and tracking lore/secrets for sometime, and of course :heart: this website was an easy transition. But a lot of curious players have been wondering how I know when Brookhaven updates as quicly as I do, without having to hit the refresh button... :smile: _now getting to update my blog faster is another issue :rofl:_ But anyway...
 
-- [Updated Guide for movie reel](/casebook/movie_codes/#police-station-code)
-- [Updated Guide to crystal location](/map/crystals/hospital/)
-- Added historical record to buildings:
-    - [School](/map/poi/school/)
-    - [Hospital](/map/poi/hospital/)
-    - [Police Station](/map/poi/police-station/)
+I created a program a really long time ago and it's matured over the years so...
 
-Happy Hunting detectives!
+I'm finally opening my <i class='fa-brands fa-discord'></i> discord server, where my bot posts when a roblox game updates. ;) I don't just watch brookhaven, though it is a personal fav of mine.
 
-:heart: Bloomindaisy
+Now, roblox devs.. and Wolfpaq and team ;) don't worry. This is data that's already publicly available right on your join game page :D I've just gotten my bot to see changes faster :heart: over the years.
 
-{{< column "post-block" >}}
-{{< column "post-block-dot column" >}}
-![](/images/thumbnails/hospital-police_station-school_remodel.png?width=400px)
-{{< /column>}}
-{{< /column >}}
+![Discord Server Main Image for Daisy's Roblox Game Update Server](/images/hawk1.png)
+
+#### <center> [Join BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)</center>
+
+:purple_heart: See ya there! _BloominDaisy_
 
 ---
 
@@ -59,7 +54,7 @@ Happy Hunting detectives!
 
 
 <div class="expand-content" style="display: block;">
-{{% children sort="Weight" showhidden=false description=true style="h2"  %}}
+{{% children sort="Weight" showhidden=false description=true style="h3"  %}}
 </div>
 
 ---
