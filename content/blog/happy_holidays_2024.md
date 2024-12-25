@@ -11,7 +11,7 @@ imagecust: /images/greeds_scheme.webp
 images:
 - /images/greeds_scheme.webp
 - /images/greeds_scheme_2.webp
-description: "Brookhaven's motel gets a modern upgrade with larger rooms, a pool, and exciting new features."
+description: "Happy Holidays to Brookhaven players, the community created a special song as a gift, called Greed's Scheme,we hope you enjoy!"
 ---
 
 
