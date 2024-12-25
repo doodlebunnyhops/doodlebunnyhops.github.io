@@ -33,8 +33,8 @@ This holiday season, I’m thrilled to share something special with all of you: 
 
 ## 🎵 Greed’s Scheme 🎵
 <audio controls>
-  <source src="/media/Greeds_Scheme.mp3" type="audio/mpeg" />
-  <source src="/media/Greeds_Scheme.ogg" type="audio/ogg" />
+  <source src="/images/Greeds_Scheme.mp3" type="audio/mpeg" />
+  <source src="/images/Greeds_Scheme.ogg" type="audio/ogg" />
 </audio>
 
 {{< column "grid-2 post-block" >}}
