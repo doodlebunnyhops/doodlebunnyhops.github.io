@@ -30,23 +30,36 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-## Announcement
+## Happy Holidays 🎄📕✨
 
-Decemeber 21st, 2024
+🎵 A Holiday Treat for Brookhaven Players! 🎄✨
 
-I've been keeping tabs and tracking lore/secrets for sometime, and of course :heart: this website was an easy transition. But a lot of curious players have been wondering how I know when Brookhaven updates as quicly as I do, without having to hit the refresh button... :smile: _now getting to update my blog faster is another issue :rofl:_ But anyway...
+This season, I’m excited to share "Greed’s Scheme", a song inspired by Brookhaven’s rich lore. Dive into the festive spirit and unravel the story behind the tune while enjoying this unique holiday collaboration.
 
-I created a program a really long time ago and it's matured over the years so...
+{{< column "grid-1 post-block" >}}
+{{< column "post-block-dot column" >}}
+<center>
 
-I'm finally opening my <i class='fa-brands fa-discord'></i> discord server, where my bot posts when a roblox game updates. ;) I don't just watch brookhaven, though it is a personal fav of mine.
+## 🎵 Greed’s Scheme 🎵
+<audio controls>
+  <source src="/media/Greeds_Scheme.mp3" type="audio/mpeg" />
+  <source src="/media/Greeds_Scheme.ogg" type="audio/ogg" />
+</audio>
 
-Now, roblox devs.. and Wolfpaq and team ;) don't worry. This is data that's already publicly available right on your join game page :D I've just gotten my bot to see changes faster :heart: over the years.
+{{< column "grid-2 post-block" >}}
+![Greed's Scheme Song Cover Art: Brookhaven Agency and the Red Book](/images/greeds_scheme.webp?width=200px)
+![Greed's Scheme Song Cover Art: Brookhaven covered in snow during holidays](/images/greeds_scheme_2.webp?width=200px)
+{{< /column>}}
 
-![Discord Server Main Image for Daisy's Roblox Game Update Server](/images/hawk1.png)
+Lyrics by [BloominDaisy](/about/),
+Song by [Spartano9665](https://discord.com/channels/482308357248647177/870010373976236052/1321477004436049970)
 
-#### <center> [Join BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)</center>
+<sub>Thank you so much Spartano9665 for sharing this with everyone :heart:</sub>
 
-:purple_heart: See ya there! _BloominDaisy_
+</center>
+
+{{< /column>}}
+{{< /column>}}
 
 ---
 
@@ -56,6 +69,11 @@ Now, roblox devs.. and Wolfpaq and team ;) don't worry. This is data that's alre
 <div class="expand-content" style="display: block;">
 {{% children sort="Weight" showhidden=false description=true style="h3"  %}}
 </div>
+
+---
+
+#### <center> [Join BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)</center>
+![Discord Server Main Image for Daisy's Roblox Game Update Server](/images/hawk1.png)
 
 ---
 
