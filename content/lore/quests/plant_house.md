@@ -1,8 +1,9 @@
 ---
-title: "Plant House"
+linktitle: "Plant House"
+title: "Plant House: Unlock Quantum Room's Hidden Message"
 noindex: false
 weight: 14
-description: "How to reveal a message in the Quantum Room."
+description: "Reveal the Quantum Room's hidden message through secrets in the Plant House RP. Follow this guide to unlock the mystery"
 #Tags: ["Plant House RP", "Quantum Room"]
 ---
 

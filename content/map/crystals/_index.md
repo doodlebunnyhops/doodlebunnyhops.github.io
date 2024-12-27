@@ -1,5 +1,6 @@
 ---
-title: "Crystal Locations"
+linktitle: "Crystal Locations"
+title: "Brookhaven Map: Crystal Locations and Energy Points"
 noindex: false
 weight: 3
 description: "Brookhaven RP interactive map of Crystal locations with details."

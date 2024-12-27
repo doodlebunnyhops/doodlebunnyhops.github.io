@@ -1,8 +1,9 @@
 ---
-title: "Walkthrough"
+linktitle: "Walkthrough"
+title: "Brookhaven RP Walkthrough: Secrets, Quests, and Mysteries"
 noindex: false
 weight: 1
-description: "Walkthrough guide to unlocking all the currently known secrets and mysteries found in Brookhaven RP."
+description: "Uncover Brookhaven RP’s secrets with this comprehensive walkthrough. Solve quests, unlock mysteries, and explore tools and hidden locations in the game"
 
 images: 
 - images/bh/collage.png
@@ -11,26 +12,20 @@ aliases:
 - /mermaid/steps_flow
 ---
 
+## Welcome to the Brookhaven RP Walkthrough
+
+Get started with quests, tools, and walkthroughs designed to help you uncover the hidden lore of Brookhaven.
+
+{{% button href="./quests/" hint="Explore Quests" style="green" %}}Start Exploring!{{% /button %}}
 
 
 ### What is the Lore of Brookhaven RP?
 
-We started out with a few hints around the Town of Brookhaven. A movie clip, some notes, a strange experimentation room above the hospital. But what does it all mean?
+Brookhaven is a town shrouded in mystery. From secret lairs and ghostly sightings to advanced technologies and cryptic messages, every corner hides a clue. At the center of it all is the Agency, a shadowy organization whose experiments have left behind a trail of secrets.
 
-We're on a mystery hunt to find clues and solve the mystery of Brookhaven!
+Uncover hidden locations, solve puzzles, and connect the dots between quests. Each discovery reveals new layers to Brookhaven's story—of greed, fear, and the unknown. The mystery is constantly evolving, with every update adding more pieces to the puzzle.
 
 
-{{% button href="./quests/" hint="Click Me"  style="green" %}}Get Started!{{% /button %}}
-
-<hr style="background-color: #28b44c" size=8>
-
-#### More of a Video Person?
-
-:heart: O1G made an entire walkthrough including the most recent Agency RP House secrets!
-
-<div class="grid-1 post-vid-dot">
-{{< youtube id=Exnr-wQ76Fs loading=lazy >}}
-</div>
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -43,13 +38,15 @@ If you're pretty familiar or want to look at a specific thing, each tool, specia
 Keep in mind, maybe there are steps we shouldn't do, though commonly the community feels all steps and lights in the [Agency Light Panel](../../casebook/light_panel/) should be done to solve the mystery.
 {{% /notice %}}
 
+<hr style="background-color: #28b44c" size=8>
 
+#### More of a Video Person?
 
+:heart: O1G made an entire walkthrough including the most recent Agency RP House secrets!
 
-
-
-
-
+<div class="grid-1 post-vid-dot">
+{{< youtube id=Exnr-wQ76Fs loading=lazy >}}
+</div>
 
 <hr style="background-color: #28b44c" size=8>
 

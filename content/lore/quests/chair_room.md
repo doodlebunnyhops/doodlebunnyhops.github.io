@@ -1,8 +1,9 @@
 ---
-title: "Chair Room"
+linktitle: "Chair Room"
+title: "Chair Room: Unlock the Secret in Agency Bunker"
 noindex: false
 weight: 13
-description: "Unlock the hidden chair room at the Agency Bunker."
+description: "Unlock the hidden chair room in the Agency Bunker. Follow this guide to use passwords and tools to access the secrets."
 images:
 - images/maps/agency_bunker_inside.jpg
 #Tags: ["Agency Bunker", "Hidden Chair Room"]

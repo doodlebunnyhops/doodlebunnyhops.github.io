@@ -1,8 +1,9 @@
 ---
-title: "Glowing Chair"
+linktitle: "Glowing Chair"
+title: "There's a Hidden Chair in the Abandoned House"
 noindex: false
 weight: 10
-description: "How to activate glowing chair in the abandoned house."
+description: "Activate the glowing chair in Brookhaven's abandoned house and uncover hidden figures and in-game secrets with this guide."
 #Tags: ["Abandoned House", "Glowing Chair"]
 ---
 

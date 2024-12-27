@@ -1,8 +1,9 @@
 ---
-title: "Monoliths"
+linktitle: "Monoliths"
+title: "Summon Monoliths around Brookhaven"
 noindex: false
 weight: 8
-description: "Make monoliths spawn throughout Brookhaven."
+description: "Summon monoliths across Brookhaven using this guide. Unlock the secrets of the Haunted House RP and hidden codes."
 #Tags: ["Black Rectangles", "Monoliths", "Haunted House RP"]
 images: 
 - images/bh/monolith_main.jpg

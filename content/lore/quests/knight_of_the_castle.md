@@ -1,8 +1,9 @@
 ---
-title: "Knight of the Castle"
+linktitle: "Knight of the Castle"
+title: "The Knight has Hidden a Message in the Castle"
 noindex: false
 weight: 15
-description: "Find notes and a key inside the castle."
+description: "Find notes and a hidden key in the Castle RP House. Solve Brookhaven's puzzles with this guide to unlock its secrets."
 #Tags: ["Brave", "Castle RP House"]
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "Fear & Greed's Room"
+linktitle: "Fear & Greed's Room"
+title: "Fear & Greed: Change Plaques and Unlock New Teleports"
 noindex: false
 weight: 4
-description: "Fear and Greed's room steps to finish progress"
+description: "Navigate Fear & Greed’s Room in the labyrinth. Change plaques, adjust curtains, and uncover teleports in the Agency’s lair."
 images:
 - images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png
 #Tags: ["Agency RP House"]

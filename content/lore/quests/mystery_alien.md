@@ -1,8 +1,9 @@
 ---
-title: "Mystery Alien"
+linktitle: "Mystery Alien"
+title: "Mystery Alien: Electrocute the Figure in the Hospital"
 noindex: false
 weight: 3
-description: "Electrocute the green man in the experimental site of the hospital."
+description: "Reveal Brookhaven's green alien at the hospital site. Follow this guide to electrocute the green body."
 #Tags: ["Green Man", "Experimentation Site","Hospital"]
 ---
 

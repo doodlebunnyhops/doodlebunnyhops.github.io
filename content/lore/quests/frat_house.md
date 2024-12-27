@@ -1,8 +1,9 @@
 ---
-title: "Frat House"
+linktitle: "Frat House"
+title: "Frat House: Discover the Secret Laptop in the Basement"
 noindex: false
 weight: 12
-description: "How to get to the hidden laptop in the Frat House."
+description: "Explore the Frat House basement to uncover a secret laptop. Complete this step-by-step guide to activate hidden triggers."
 #Tags: ["Frat House RP", "Secret Basement"]
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "Ghostly Sighting"
+linktitle: "Ghostly Sighting"
+title: "Ghostly Sighting: Encounter Greed's Ghost in Museum"
 noindex: false
 weight: 9
-description: "How to see the ghost of greed in the museum."
+description: "Encounter the Ghost of Greed in Brookhaven's museum. Discover the steps to reveal this hidden entity and its messages."
 #Tags: ["Greed", "Museum"]
 ---
 

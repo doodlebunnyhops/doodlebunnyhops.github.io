@@ -1,8 +1,9 @@
 ---
-title: "Quests"
+linktitle: "Quests"
+title: "Brookhaven Quests Walkthrough: Secrets, Tools, and Steps"
 noindex: false
 weight: 3
-description: "Brookhaven Secrets and Mysteries Quests walkthrough. Lists tools, requirements and steps along with helpful videos."
+description: "Explore Brookhaven's hidden secrets with this detailed quests walkthrough. Discover tools, requirements, and step-by-step instructions for solving mysteries."
 aliases:
 - /quests
 images:
@@ -19,4 +20,4 @@ Notes and messages found along the way are in our [CaseBook](/casebook/) for saf
 
 <hr style="background-color: #28b44c" size=8>
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=false containerstyle="ol" style="li"  depth=2 %}}

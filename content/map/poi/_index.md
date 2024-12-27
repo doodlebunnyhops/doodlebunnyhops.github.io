@@ -1,8 +1,9 @@
 ---
-title: "Points of Interest"
+linktitle: "Points of Interest"
+title: "Brookhaven Points of Interest Map: Interactive Guide"
 noindex: false
 weight: 1
-description: "Brookhaven RP interactive map of locations with details."
+description: "Explore an interactive map of Brookhaven's key locations. Find quest details, secrets, and casebook links for each point of interest."
 #Categories: ["point of interest","map"]
 
 images: 

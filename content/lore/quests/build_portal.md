@@ -1,8 +1,9 @@
 ---
-title: "Build Portal"
+linktitle: "Build Portal"
+title: "Build Portal: Construct a Hidden Gateway under Eagle View"
 noindex: false
 weight: 7
-description: "How to build the portal beneath Eagle View."
+description: "Construct the portal beneath Eagle View in Brookhaven. Use this guide to activate the hidden gateway and uncover its purpose."
 images:
 - images/maps/portal-built.jpg
 #Tags: ["Build the Portal"]

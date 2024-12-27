@@ -1,9 +1,10 @@
 ---
-title: "Arch by Abandoned House "
+linktitle: "Arch by Abandoned House"
+title: "Arch by Abandoned House: Movie Code Secrets"
 noindex: false
 weight: 1
 date: 2024-01-02
-description: "Brookhaven Arch by Abandoned House location view and related secrets"
+description: "Uncover the secrets of the arch near Brookhaven’s Abandoned House. A hidden movie code lies beneath its base—find it now!"
 
 images:
 - images/maps/arch1.jpg

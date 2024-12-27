@@ -1,8 +1,9 @@
 ---
-title: "Rod in the Police Station"
+linktitle: "Rod in the Police Station"
+title: "Rod in the Police Station: and How to Find it"
 noindex: false
 weight: 11
-description: "How to click on the hidden rod in the police station."
+description: "Find and activate the hidden rod in Brookhaven's police station. Follow this guide to reveal secrets and complete the steps."
 #Tags: ["Police Station","Arch"]
 ---
 

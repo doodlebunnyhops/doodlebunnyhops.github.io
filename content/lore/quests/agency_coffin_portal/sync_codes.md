@@ -1,8 +1,9 @@
 ---
-title: "Sync Codes"
+linktitle: "Sync Codes"
+title: "Sync Codes: Align Progress Across the Dungeon"
 noindex: false
 weight: 7
-description: "Sync the codes of every room to summon Carbon Blocks"
+description: "Synchronize codes in every room of the Agency dungeon. Prepare to summon carbon blocks in the Portal Room."
 images:
 - images/agency_coffin_portal_quest/synced_room_code.png
 - images/agency_coffin_portal_quest/synced_room_code_w400px.png

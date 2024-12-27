@@ -1,8 +1,9 @@
 ---
-title: "Main Room"
+linktitle: "Main Room"
+title: "Main Room: Track Progress in the Dungeon"
 noindex: false
 weight: 2
-description: "This is the main or center room used to see progress of room completion"
+description: "Monitor progress across the dungeon’s rooms from the Main Room. Ensure all bars are green to complete the labyrinth."
 images:
 - images/agency_coffin_portal_quest/main_room_w400px.png
 #Tags: ["Agency RP House"]

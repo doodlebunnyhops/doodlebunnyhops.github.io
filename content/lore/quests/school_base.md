@@ -1,8 +1,9 @@
 ---
-title: "School Base"
+linktitle: "School Base"
+title: "School Base: Discover the Hidden Room Above the School"
 noindex: false
 weight: 2
-description: "How to get into the hidden base above the school."
+description: "Unlock the hidden base above the school in Brookhaven. Follow step-by-step instructions to activate switches, find codes, and reveal secret messages."
 #Tags: ["School", "Hidden Base in School"]
 ---
 

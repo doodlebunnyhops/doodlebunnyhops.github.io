@@ -1,8 +1,9 @@
 ---
-title: "Agency Greed"
+linktitle: "Agency Greed"
+title: "Agency Greed: Unlock the Secret Lair in the Warehouse"
 noindex: false
 weight: 16
-description: "Steps to find Agency's secret lair in the warehouse."
+description: "Uncover the Agency's secret lair in Brookhaven's warehouse with a step-by-step guide, visuals, and tips for completing this quest."
 images:
 - images/bh/agency_greed_desk_1_button.jpg
 #Tags: ["Warehouse RP House","Agency Lair", "Secret Released February 2024"]

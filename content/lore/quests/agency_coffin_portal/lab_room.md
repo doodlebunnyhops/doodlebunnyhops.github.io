@@ -1,8 +1,9 @@
 ---
-title: "Lab & Capsules Room"
+linktitle: "Lab & Capsules Room"
+title: "Lab Room: Trigger Lasers in the Underground Capsule Room"
 noindex: false
 weight: 6
-description: "Summon lightening and trigger the green laser."
+description: "Solve lightning and capsule puzzles to activate lasers in the Lab Room. Advance your quest in the Agency’s hidden dungeon."
 images:
 - images/agency_coffin_portal_quest/lab_room_green_lasers.png
 #Tags: ["Agency RP House"]
