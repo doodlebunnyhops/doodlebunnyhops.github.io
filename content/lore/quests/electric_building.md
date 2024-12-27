@@ -1,8 +1,9 @@
 ---
-title: "Electric Building"
+linktitle: "Electric Building"
+title: "Accessing Brookhaven Electric Building"
 noindex: false
 weight: 4
-description: "How to get inside Brookhaven Electric."
+description: "Enter Brookhaven Electric and activate its systems using a blue key card. Discover how to access and solve this quest."
 #Tags: ["Brookhaven Electric","Key Card Access"]
 ---
 

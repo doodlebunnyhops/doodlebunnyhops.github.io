@@ -1,8 +1,9 @@
 ---
-title: "Destroy Carbon Blocks"
+linktitle: "Destroy Carbon Blocks"
+title: "Find and Destroy the Carbon Blocks in Brookhaven"
 noindex: false
 weight: 6
-description: "Find and destroy 7 carbon blocks of life."
+description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Room secrets. Follow this guide for steps and solutions."
 #Tags: ["Destroy Carbon Blocks", "Quantum Room"]
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "Getting Started"
+linktitle: "Getting Started"
+title: "Getting Started: Enter the Agency’s Dungeon"
 noindex: false
 weight: 1
-description: "First steps to trigger the Agency RP house Quest."
+description: "Begin your adventure by entering the labyrinth beneath the Old Agency RP Shack House. Retrieve the red book and unlock your first room"
 images:
 - images/agency_coffin_portal_quest/agency_rp_house.png
 #Tags: ["Agency RP House"]

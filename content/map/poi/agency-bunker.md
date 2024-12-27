@@ -1,9 +1,10 @@
 ---
-title: "Agency Bunker"
+linktitle: "Agency Bunker"
+title: "Agency Bunker: Hidden room under a Hill in Brookhaven"
 noindex: false
 weight: 1
 date: 2024-01-02
-description: "Brookhaven Agency Bunker location and related details"
+description: "Explore the secretive Agency Bunker behind Rotten Robie’s Food Mart. Investigate its connection to the Agency and hidden experiments."
 
 images:
 - images/maps/agency_bunker_inside.jpg

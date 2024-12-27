@@ -1,8 +1,9 @@
 ---
-title: "Kid's Room"
+linktitle: "Kid's Room"
+title: "Kid's Room: Find the Hidden Blocks"
 noindex: false
 weight: 4
-description: "Find the child's hidden blocks."
+description: "Find hidden blocks and mysterious notes in the Kid’s Room. Uncover secrets in this part of the Agency’s underground labyrinth."
 images:
 - images/agency_coffin_portal_quest/kids_room_w400px.png
 #Tags: ["Agency RP House"]

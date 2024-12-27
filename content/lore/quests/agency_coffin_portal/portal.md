@@ -1,8 +1,9 @@
 ---
-title: "Portal Room"
+linktitle: "Portal Room"
+title: "Portal Room: Unlock the Gateway in the Dungeon"
 noindex: false
 weight: 9
-description: "Go through the portal surrounded by coffins."
+description: "Adjust coffin colors and activate lasers to unlock the portal. Solve the final puzzle in the Agency’s dungeon."
 images:
 - images/agency_coffin_portal_quest/portal_room_w400px.png
 #Tags: ["Agency RP House","portal room","portal"]

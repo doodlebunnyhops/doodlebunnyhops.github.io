@@ -1,8 +1,9 @@
 ---
-title: "Find 7 Crystals"
+linktitle: "Find 7 Crystals"
+title: "Find 7 Crystals: Unlock Hidden Energy in Brookhaven"
 noindex: false
 weight: 1
-description: "Find and collect 7 crystals throughout Brookhaven."
+description: "Locate 7 hidden crystals in Brookhaven to unlock powerful energy and secrets. Follow this detailed quest guide with steps and visuals."
 images: 
 - images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
 - images/bh/7_crystals_comp_message.jpg

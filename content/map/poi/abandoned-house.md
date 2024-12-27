@@ -1,9 +1,10 @@
 ---
-title: "Abandoned House"
+linktitle: "Abandoned House"
+title: "Abandoned House: Hidden Secrets of Brookhaven"
 noindex: false
 weight: 1
 date: 2024-01-02
-description: "Brookhaven Abandoned House location and related details"
+description: "Discover the Abandoned House on the outskirts of Brookhaven. A key location for Mr. Brookhaven, filled with hidden secrets and clues."
 
 images:
 - images/maps/abandoned_house.jpg

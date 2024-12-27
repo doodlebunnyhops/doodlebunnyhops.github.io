@@ -1,8 +1,9 @@
 ---
-title: "Cell Room"
+linktitle: "Cell Room"
+title: "Cell Room: Solve Riddles in the Dungeon"
 noindex: false
 weight: 5
-description: "How to unlock the cell room by answering the correct questions."
+description: "Explore the Cell Room in the Agency's underground dungeon beneath the Old Shack RP House. Answer questions to unlock progress."
 images:
 - images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png
 - images/agency_coffin_portal_quest/cell_room_w400px.png

@@ -1,8 +1,9 @@
 ---
-title: "Map"
+linktitle: "Map"
+title: "Brookhaven Interactive Maps: Explore Locations and Secrets"
 noindex: false
 weight: 3
-description: "Interactive Maps of Brookhaven"
+description: "Access interactive maps of Brookhaven, including locations of crystals, monoliths, and points of interest. Navigate with ease!"
 #Tags: ["map"]
 
 images:

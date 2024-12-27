@@ -1,8 +1,9 @@
 ---
-title: "Agency RP House"
+linktitle: "Agency RP House"
+title: "Agency Dungeon: Explore the Labyrinth Beneath the Shack"
 noindex: false
 weight: 17
-description: "Steps to getting the Agency Portal working in the Agency RP house."
+description: "Delve into the labyrinthine dungeon beneath the Old Shack House. Solve puzzles, unlock rooms, and uncover the Agency’s hidden portal."
 images:
 - images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png
 - images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png

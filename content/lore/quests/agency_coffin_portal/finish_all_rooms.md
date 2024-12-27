@@ -1,8 +1,9 @@
 ---
-title: "Finish All Rooms"
+linktitle: "Finish All Rooms"
+title: "Finish All Rooms: Complete the Labyrinth’s Progress"
 noindex: false
 weight: 8
-description: "How to finish last progress bar in all rooms."
+description: "Find and activate hidden buttons in each room of the dungeon. Ensure all progress bars are green to advance the Portal Room quest."
 images:
 - images/agency_coffin_portal_quest/last_bar_lab_capsules_room.png
 #Tags: ["Agency RP House"]

@@ -1,8 +1,9 @@
 ---
-title: "Generator Room"
+linktitle: "Generator Room"
+title: "Generator Room: Unlock the Orb in the Dungeon"
 noindex: false
 weight: 3
-description: "Unlock the Master Control board and get the orb in the generator."
+description: "Activate the Master Code and summon the orb in the Generator Room, deep within the labyrinth beneath the Old Shack RP House."
 images:
 - images/agency_coffin_portal_quest/generator_room_w400px.png
 #Tags: ["Agency RP House"]
