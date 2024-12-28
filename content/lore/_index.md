@@ -24,7 +24,7 @@ Get started with quests, tools, and walkthroughs designed to help you uncover th
 
 Brookhaven is a town shrouded in mystery. From secret lairs and ghostly sightings to advanced technologies and cryptic messages, every corner hides a clue. At the center of it all is the Agency, a shadowy organization whose experiments have left behind a trail of secrets.
 
-Uncover hidden locations, solve puzzles, and connect the dots between quests. Each discovery reveals new layers to Brookhaven's story—of greed, fear, and the unknown. The mystery is constantly evolving, with every update adding more pieces to the puzzle.
+Uncover hidden locations, solve puzzles, and connect the dots between quests. Each discovery reveals new layers to Brookhaven's story—of greed, fear, and the unknown. The mystery is constantly evolving, with surprise updates adding more pieces to the puzzle.
 
 
 
