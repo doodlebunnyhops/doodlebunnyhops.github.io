@@ -8,6 +8,7 @@ aliases:
 
 images:
 - images/bh/a05-complete.jpg
+collapsibleMenu: true
 ---
 
 These are steps to grab a few items that will help reveal hints.

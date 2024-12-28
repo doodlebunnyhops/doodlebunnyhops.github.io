@@ -10,6 +10,7 @@ images:
 - images/bh/agency_greed_desk_1_button.jpg
 aliases:
 - /mermaid/steps_flow
+collapsibleMenu: true
 ---
 
 ## Welcome to the Brookhaven RP Walkthrough

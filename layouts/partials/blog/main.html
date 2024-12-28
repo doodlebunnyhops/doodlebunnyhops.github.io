@@ -1,0 +1,56 @@
+<!-- <h2>A List</h2>{{- $page := .Page }} -->
+<!-- <h2>Type: {{- $page.Type -}}</h2>
+<h2>Kind: {{- $page.Kind -}}</h2>
+<h2>Layout: {{- $page.Layout -}}</h2> -->
+
+
+{{- $page := . }}
+
+<!-- Check if page is type blog and kind section -->
+<!-- {{- if and (eq $page.Type "blog") (eq $page.Kind "section") }} -->
+<h1>BloominDaisy's Brookhaven Blog</h1>
+<p>Stay up to date with the latest news and updates from Brookhaven!</p>
+
+{{- $pages := (site.GetPage "blog").RegularPages  }}
+{{- $size := (site.GetPage "blog").RegularPages | len }}
+
+<!-- iteratre through pages -->
+{{- $scratch := newScratch }}
+{{- range $index, $value := $pages }}
+
+
+  {{- if isset .Params "imagecust" }}
+    {{- $scratch.Set "image" .Params.imagecust }}
+  {{- else }}
+    {{- $scratch.Set "image" "thumbnail.svg" }}
+  {{- end }}
+
+  {{- $image := $scratch.Get "image" }}
+  {{- $bg := $image }}
+  {{- if ne (in $image "images") true }}
+    {{- $bg = (absURL (printf "images/%s" $image)) }}
+  {{- end }}
+  {{- if in $image "https://" }}
+    {{- $bg = $image }}
+  {{- end }}
+
+  <article class="article mb-2">
+              
+    <a href="{{ $value.Permalink }}" {{ if eq $index 0 }} class="grid-reverse blog" {{ else }} class="blog" {{ end }} style="text-decoration: none;">
+      <div class="article_thumb" style="background-image: url({{ $bg }});"></div>
+      <div class="article_meta {{ if eq $index 0 }} center_y {{ end }}">
+        <div class="post_date">{{ dateFormat "January 02, 2006" $value.Date }}</div>
+        <h3 class="article_title">{{ $value.Title }}</h3>
+        <div class="article_excerpt {{ if eq $index 0 }} visible {{ end }}">
+        <p>{{ truncate 100 $value.Summary }}</p>
+        </div>
+      </div>
+    </a>
+  </article>
+  {{- if and (eq $index 0) (gt $size 1)  }}<div class="grid-2 article_showcase">{{ end }}
+    {{- if and (eq $index (add $size -1)) (gt $size 1) }}</div>{{ end }}
+
+
+{{- end }}
+</div>
+<!-- {{- end }} -->

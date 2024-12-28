@@ -44,7 +44,7 @@ Note that switch **3** is missing... do we need to find it?
 ![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
 {{< /column >}}
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 
@@ -93,11 +93,11 @@ Movie Reel can be found in an open area to the right of the storage and filing c
 
 {{< /tabs >}}
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 
-{{% notice color="purple" title="**Old Steps**" icon="fa-solid fa-triangle-exclamation"  %}}
+{{% notice color="purple" title="**Old Steps**" icon="fa-solid fa-triangle-exclamation" expanded=false %}}
 
 ### Historical Location
 
@@ -137,7 +137,7 @@ While this no longer exists, here's what this step used to look like.
 ![Abandoned House Movie Reel Location](/images/bh/movie_abanoned_house_code.jpg)
 {{< /column >}}
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 
@@ -168,7 +168,7 @@ While this no longer exists, here's what this step used to look like.
 {{< /tabs >}}
 
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 
@@ -193,7 +193,7 @@ This movie is what will be playing in the theater when a new server is started, 
 ![Movie Theater Reel Location](/images/bh/movie_code.jpg)
 
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 
@@ -226,7 +226,7 @@ Type in the code then press enter
 {{% /tab %}}
 {{< /tabs >}}
 
-{{% notice style="warning" %}}
+{{% notice style="warning" expanded=false %}}
 **NOTE** the example code in the image will not work in your server! Codes are regenerated on every server!
 {{% /notice %}}
 

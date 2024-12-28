@@ -1,10 +1,7 @@
-{{- $page := .page }}
-{{- $content := .content }}
-{{- with $page }}
-          <article class="blog">
-            <header class="headline">
-              {{- partial "content-header.html" . }}
-            </header>
+<article class="blog">
+  <header class="headline">
+    {{- partial "content-header.html" . }}
+  </header>
 {{ partial "heading-pre.html" . }}{{ partial "heading.html" . }}{{ partial "heading-post.html" . }}
 
 <div class="wrap mt post">
@@ -23,7 +20,6 @@
         {{- end }}
         <img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail"/>
       {{- end }}
-        {{ $content | safeHTML }}
       </div>
 
       <div>
@@ -33,8 +29,8 @@
   </div>
 </div>
 
-            <footer class="footline">
-              {{- partial "content-footer.html" . }}
-            </footer>
-          </article>
-{{- end }}
+{{ partial "article-content.html" . }}
+  <footer class="footline">
+    {{- partial "content-footer.html" . }}
+  </footer>
+</article>

@@ -6,8 +6,8 @@ type: blog_archive
 weight: 10
 images:
 - images/thumbnails/blog_splash.png
-draft: false
-hidden: true
+# draft: false
+# hidden: true
 ---
 
 

@@ -5,6 +5,7 @@ weight: 2
 description: "A special set of Binoculars found in the Military RP House will help you see things clearly."
 images:
 - images/bh/military_base.jpg
+collapsibleMenu: true
 ---
 
 While the binoculars are already available to us in inventory, it's important to note that grabbing a specific pair actually turns on one of the lights in the [Agency Light Panel](../../casebook/light_panel/).

@@ -1,5 +1,6 @@
 ---
-title: "Home"
+linktitle: "Home"
+title: "Can you solve the Mystery of Brookhaven?"
 noindex: false
 license: true
 # date: 2023-05-19
@@ -10,10 +11,6 @@ images:
 archetype: "home"
 Tags: ["Brookhaven Secrets","BrookhavenRP Secrets & Mysteries"]
 ---
-
-
-
-# Can you solve the **Mystery** of Brookhaven?
 
 <hr style="background-color: #28b44c" size=8>
 

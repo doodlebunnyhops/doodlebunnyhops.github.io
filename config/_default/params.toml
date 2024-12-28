@@ -1,16 +1,15 @@
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
-otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
+#otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
 disableSearch = false
 disableSearchHiddenPages = false
-themeVariant = ['auto','relearn-light','relearn-dark']
+
 disableExplicitIndexURLs = true
-collapsibleMenu = true
+collapsibleMenu=true
 disableInlineCopyToClipBoard = true
 disableLandingPageButton = false
 
-alwaysopen = false
 showVisitedLinks = false
 
 ### Compose
