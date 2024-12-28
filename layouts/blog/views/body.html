@@ -1,0 +1,15 @@
+<!-- <h2>A List</h2>{{- $page := .Page }}
+<h2>Type: {{- $page.Type -}}</h2>
+<h2>Kind: {{- $page.Kind -}}</h2>
+<h2>Layout: {{- $page.Layout -}}</h2>
+ -->
+{{- $page := . }}
+{{- if and (eq $page.Type "blog") (eq $page.Kind "section") }}
+ {{ partial "blog/main.html" . }}
+{{- end }}
+{{- if and (eq $page.Type "blog") (eq $page.Kind "page") }}
+ {{ partial "blog/page.html" . }}
+{{- end }}
+{{- if and (eq $page.Type "blog_archive") (eq $page.Kind "section") }}
+ {{ partial "blog/archived.html" . }}
+{{- end }}

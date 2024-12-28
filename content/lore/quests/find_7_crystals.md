@@ -35,7 +35,7 @@ We are an a quest to find 7 crystals!
 
 
 
-{{% notice style="tip" %}}	
+{{% notice style="tip" expanded=false %}}	
 After you have finished collecting all crystals, if you return to the Quantum Room, upon exiting you will hear a high pitch chirp that will TP you again to Paradise Falls
 {{% /notice %}}
 

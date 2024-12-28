@@ -1,8 +1,6 @@
 {{- $page := . }}
 {{- if eq $page.Params.type "story" }}
-  {{- partialCached "page-meta.hugo" . .RelPermalink }}
-  {{- $outputFormat := partial "output-format.hugo" . }}
-  {{- partial "output-partial.hugo" (dict "base" "header" "page" . "parameter" . "outputFormat" $outputFormat) }}
+  <!-- {{- partialCached "page-meta.hugo" . .RelPermalink }} -->
 
     <!-- {{- $pages := where site.RegularPages "Section" site.Params.blogDir  }} -->
 
@@ -66,7 +64,6 @@
                   {{- if and (eq $index (add $size -1)) (gt $size 1) }}</div>{{ end }}
                   {{- end }}
                 </div>
-      {{- partial "output-partial.hugo" (dict "base" "footer" "page" . "parameter" . "outputFormat" $outputFormat) }}
 
 
 {{- else }}
@@ -77,8 +74,7 @@
               <header class="headline">
                 {{- partial "content-header.html" . }}
               </header>
-  {{ partial "heading-pre.html" . }}{{ partial "heading.html" . }}{{ partial "heading-post.html" . }}
-
+<h3>Is it you?</h3>
   {{ $content | safeHTML }}
               <footer class="footline">
                 {{- partial "content-footer.html" . }}

@@ -1,0 +1,28 @@
+{{- $page := .Page }}
+
+{{- $content := .Content }}
+{{- with $page }}
+          <article class="story">
+            <header class="headline">
+              {{- partial "content-header.html" . }}
+            </header>
+{{ partial "heading-pre.html" . }}{{ partial "heading.html" . }}{{ partial "heading-post.html" . }}
+
+{{- with .Params.imagecust }}
+{{- $image := . }}
+{{- if ne (in . "images") true }}
+  {{- $image = printf "images/%s" . }}
+{{- end }}
+{{- $image = absURL $image }}
+{{- if in . "https://" }}
+  {{- $image = . }}
+{{- end }}
+<img src="{{ $image }}" alt="{{ . }}" class="post_thumbnail"/>
+{{- end }}
+
+{{ $content | safeHTML }}
+            <footer class="footline">
+              {{- partial "content-footer.html" . }}
+            </footer>
+          </article>
+{{- end }}

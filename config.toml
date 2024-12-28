@@ -10,7 +10,6 @@ theme = ["hugo-theme-relearn"]
 enableGitInfo = true
 enableEmoji = true
 # canonifyURLs = true
-alwaysopen = false
 showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
@@ -25,7 +24,7 @@ disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
 
 [outputs]
-  home = ["HTML", "RSS","search","searchpage"]
+  home = ["HTML", "RSS"]
   page = ['html', 'rss', 'print']
   section = ['html', 'rss']
   
@@ -121,6 +120,18 @@ largeTwitterCard = true
     privacyEnhanced = true
 
 [params]
+  disableAssetsBusting = false
+  collapsibleMenu=true
+  alwaysopen=false
+
+  [[params.themeVariant]]
+    identifier = 'my-dark'
+    name = 'Dark'
+  
+#  [[params.themeVariant]]
+#    identifier = 'my-light'
+#    name = 'Light'
+
   [params.imageEffects]
     border = false
     lazy = true
