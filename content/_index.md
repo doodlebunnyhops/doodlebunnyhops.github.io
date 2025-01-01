@@ -31,6 +31,8 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 Hoping everyone is enjoying the start of a new year—I know I certainly am! This year holds so many exciting mysteries for us to uncover together. Dive into my latest blog to see my predictions for Brookhaven secrets in 2025: [Read the full blog post here](/blog/happy_new_year_2025/).
 
+Plus checkout the latest on the [New Year Update](/blog/happy_new_year_update_2025/) :heart: our beloved airport got an upgrade!
+
 **BloominDaisy 💜**
 
 ---
