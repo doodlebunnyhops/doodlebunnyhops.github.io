@@ -10,9 +10,6 @@ archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-d13d0ccee6c8c68ad7073d3ac93ec0eb/768/432/Image/Png/noFilter
 images:
 - https://tr.rbxcdn.com/180DAY-d13d0ccee6c8c68ad7073d3ac93ec0eb/768/432/Image/Png/noFilter
-- /images/blog/airport_update_inside_new_watch_tower.png
-- /images/blog/airport_update_exterior_view.png
-- /images/blog/airport_update_x-ray_of_baggage.png
 description: "A closer look at Brookhaven's 2025 New Year Update with exciting new features, secrets, and more!"
 ---
 
