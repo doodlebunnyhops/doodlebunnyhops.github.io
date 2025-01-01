@@ -7,9 +7,12 @@ cascade:
 noindex: false
 hidden: true
 archetype: "blog"
-imagecust: /images/blog/new_year_update_cover.jpg
+imagecust: https://tr.rbxcdn.com/180DAY-d13d0ccee6c8c68ad7073d3ac93ec0eb/768/432/Image/Png/noFilter
 images:
-- /images/blog/new_year_update_cover.jpg
+- https://tr.rbxcdn.com/180DAY-d13d0ccee6c8c68ad7073d3ac93ec0eb/768/432/Image/Png/noFilter
+- /images/blog/airport_update_inside_new_watch_tower.png
+- /images/blog/airport_update_exterior_view.png
+- /images/blog/airport_update_x-ray_of_baggage.png
 description: "A closer look at Brookhaven's 2025 New Year Update with exciting new features, secrets, and more!"
 ---
 
@@ -19,51 +22,106 @@ Brookhaven kicks off 2025 with a bang! 🎆 The latest New Year update brings a 
 
 ## What’s New? 🆕
 
-### Updated Locations 🏙️  
-- **New Building Additions:**  
-  Brookhaven’s skyline has received a refresh with several new buildings added to the map. Could these hold new secrets waiting to be discovered? 👀  
-  ![New Year Update Building Preview](/images/blog/new_building_2025.jpg)
+### Remodeled Airport ✈️  
+The **Brookhaven Airport** received a major makeover! The updated airport features:
+- A revamped **Check-In area**, complete with sleek kiosks for a modern touch.
+- Redesigned **Departure Gate** and **Baggage Claim** areas.
+- A brand-new **Air Traffic Control Tower** for an immersive role-playing experience.  
 
-- **Redesigned Interiors:**  
-  Existing structures, like [specific locations], have been updated with sleeker, more interactive interiors. Perfect for role-play and new quest opportunities!
+{{< column "grid-2 post-block" >}}
+{{< column "post-block-dot column" >}}
+![Brookhaven Airport Exterior](/images/blog/airport_update_exterior_view.png)
+**Brookhaven Airport Exterior**
+{{< /column >}}
+
+{{< column "post-block-dot column" >}}
+![Inside the Watch Tower](/images/blog/airport_update_inside_new_watch_tower.png)
+**Inside the Watch Tower**
+
+{{< /column >}}
+{{< /column >}}
+
+---
+
+{{< column "grid-3 post-block" >}}
+{{< column "post-block-dot column" >}}
+![Inside the Watch Tower](/images/blog/airport_update_check-in_and_security_checkpoint_brookhaven.png)
+**Check-In & Security**
+
+{{< /column >}}
+
+{{< column "post-block-dot column" >}}
+![Departure Gate](/images/blog/airport_update_departure_gate.png)
+**Departure Gate**
+{{< /column >}}
+
+{{< column "post-block-dot column" >}}
+![Brookhaven Airport Baggage Claim](/images/blog/airport_update_baggage_claim_at_brookhaven_airport.png)
+**Baggage Claim**
+{{< /column >}}
+{{< /column >}}
+
+### How to Access the Watch Tower 🚨  
+The new **Air Traffic Control Tower** is more than just a decorative addition! Here’s how to gain access:  
+1. Head to the **Security Check-In area** and sit at the screening desk. The monitor shows an adorable X-ray of the luggage being scanned!  
+
+{{< column "grid-3 post-block" >}}
+{{< column "post-block-dot column" >}}
+   ![Red Key Card sitting on Security Baggage Check Desk](/images/blog/airport_update_red_key_card_at_scanning_desk.png)  
+{{< /column >}}
+{{< column "post-block-dot column" >}}
+   ![X-Ray of Baggage](/images/blog/airport_update_x-ray_of_baggage.png)
+   <sub>✨So Cute!🤭</sub>
+{{< /column >}}
+{{< /column >}}
+
+2. Look around the baggage check desk to find a **Red Key Card**.  
+3. Take the key card upstairs to the **elevator**, where you’ll use it to unlock the **Air Traffic Control Tower**.  
+
+Now you’re in the tower, enjoying the best view in Brookhaven! Don’t forget to look out for other hidden details while you’re there.
+
+
+---
+
+### New Props 🧨🎇  
+Two **New Fireworks Props** have been added for even more festive fun. Celebrate the New Year in style with vibrant displays lighting up the Brookhaven skies!
+
+{{< column "grid-3 post-block" >}}
+{{< column "post-block-dot column" >}}
+![2025 Fireworks Celebration in Brookhaven RP](/images/blog/2025_Fireworks_Celebration_in_Brookhaven_RP.png)
+**Fireworks Celebration**
+{{< /column >}}
+
+{{< column "post-block-dot column" >}}
+![Brookhaven New Fireworks Props](/images/blog/Brookhaven_New_Fireworks_Props.png)
+**Fireworks Props**
+{{< /column >}}
+{{< /column >}}
 
 ---
 
 ### Secrets and Mysteries 🔍  
-As always, no Brookhaven update is complete without a few mysteries! Early explorers have already uncovered new secret locations and hidden items. Some highlights include:  
-- **[Secret 1: Describe briefly]**  
-- **[Secret 2: Describe briefly]**  
-
-Expect the community to keep unraveling more surprises in the coming days. Keep your flashlight and notebook handy!
-
----
-
-### Events 🎊  
-The update also introduces a brand-new **[Event/Quest Name]**, where players can [brief description]. This limited-time event promises fun for all, so don’t miss out!
+:wink: nothing found yet but keep a look out :hearts:
 
 ---
 
 ## Sweet Vids 🎥🍬  
 
-Want to see the update in action? Check out these awesome content creators who’ve shared their discoveries so far:  
+Want to see the update in action? Check out these awesome content creators who’ve already explored the 2025 update:  
 
 <div class="grid-2 post-vid-dot">
-{{< youtube id="YourFirstVideoID" loading="lazy" >}}
-{{< youtube id="YourSecondVideoID" loading="lazy" >}}
+{{< youtube id="3fGO5BaXG5I" loading="lazy" >}}
+{{< youtube id="5go3dlNF7cs" loading="lazy" >}}
+{{< youtube id="Uou6dnzxZUU" loading="lazy" >}}
+{{< youtube id="tDb_JFfQVIE" loading="lazy" >}}
 </div>
 
----
-
-## Community Reactions 🗨️  
-Players are buzzing with excitement about the update. Here’s what they’re saying:  
-> *“This is the best New Year update yet!” – [Player Name]*  
-> *“I can’t wait to explore all the new secrets!” – [Player Name]*
 
 ---
 
 ## Final Thoughts 🌟  
 
-Brookhaven’s New Year Update continues the tradition of thrilling surprises and new adventures. Whether you’re exploring updated locations, solving fresh mysteries, or participating in the latest event, there’s something for everyone to enjoy.  
+Brookhaven’s 2025 New Year Update brings thrilling surprises, festive props, and an immersive airport experience. Whether you’re exploring the remodeled locations, setting off fireworks, or uncovering secrets, there’s so much to enjoy.  
 
 Here’s to another year of fun, creativity, and unforgettable moments in Brookhaven. See you in-game!
 
