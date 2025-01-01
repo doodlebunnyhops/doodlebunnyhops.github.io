@@ -27,36 +27,11 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-## Happy Holidays 🎄📕✨
+## 🎉 Happy New Year ✨
 
-🎵 A Holiday Treat for Brookhaven Players! 🎄✨
+Hoping everyone is enjoying the start of a new year—I know I certainly am! This year holds so many exciting mysteries for us to uncover together. Dive into my latest blog to see my predictions for Brookhaven secrets in 2025: [Read the full blog post here](/blog/happy_new_year_2025/).
 
-This season, I’m excited to share "Greed’s Scheme", a song inspired by Brookhaven’s rich lore. Dive into the festive spirit and unravel the story behind the tune while enjoying this unique holiday collaboration.
-
-{{< column "grid-1 post-block" >}}
-{{< column "post-block-dot column" >}}
-<center>
-
-## 🎵 Greed’s Scheme 🎵
-<audio controls>
-  <source src="/images/greeds_scheme.MP3" type="audio/mpeg" />
-  <source src="/images/greeds_scheme.ogg" type="audio/ogg" />
-</audio>
-
-{{< column "grid-2 post-block" >}}
-![Greed's Scheme Song Cover Art: Brookhaven Agency and the Red Book](/images/greeds_scheme.webp?width=200px)
-![Greed's Scheme Song Cover Art: Brookhaven covered in snow during holidays](/images/greeds_scheme_2.webp?width=200px)
-{{< /column>}}
-
-Lyrics by [BloominDaisy](/about/),
-Song by [Spartano9665](https://discord.com/channels/482308357248647177/870010373976236052/1321477004436049970)
-
-<sub>Thank you so much Spartano9665 for sharing this with everyone :heart:</sub>
-
-</center>
-
-{{< /column>}}
-{{< /column>}}
+**BloominDaisy 💜**
 
 ---
 
