@@ -1,9 +1,9 @@
 ---
 linktitle: "Crystal Locations"
-title: "Brookhaven Map: Crystal Locations and Energy Points"
+title: "Brookhaven Crystal Locations - Complete Map Guide"
 noindex: false
 weight: 3
-description: "Brookhaven RP interactive map of Crystal locations with details."
+description: "Interactive map of Brookhaven's crystal locations. Discover their order and details to complete the 'Find 7 Crystals' quest."
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Map of Crystal Locations"]
 images: 

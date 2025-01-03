@@ -1,8 +1,9 @@
 ---
-title: "Abandoned House"
+title: "Crystal 3 Location: Brookhaven Abandoned House"
+linktitle: "3. Abandoned House"
 noindex: false
 date: 2024-09-23
-description: "Brookhaven Abandoned House Crystal location"
+description: "Discover secrets of Brookhaven's Abandoned House, a key site for the Crystal Quest. Find the hidden crystal between the cabinet and wall!"
 weight: 3
 images:
 - images/maps/abandoned_house.jpg

@@ -1,8 +1,9 @@
 ---
-title: "Horse Stable"
+title: "Crystal 5 Location: Brookhaven Horse Stable"
+linktitle: "5. Horse Stable"
 noindex: false
 date: 2024-09-23
-description: "Brookhaven Horse Stable Crystal location"
+description: "Visit Brookhaven Horse Stable and find Crystal 5 behind hay in the middle stable. Another step forward in your quest for crystals!"
 weight: 5
 images:
 - images/maps/horse_stables.jpg
