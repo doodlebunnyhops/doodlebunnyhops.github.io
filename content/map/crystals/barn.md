@@ -1,8 +1,9 @@
 ---
-title: "Barn"
+title: "Crystal 7 Location: Brookhaven Barn"
+linktitle: "7. Barn"
 noindex: false
 date: 2024-09-23
-description: "Brookhaven Barn Crystal location"
+description: "Explore Brookhaven Barn to uncover the final 7th crystal. Look behind the hay by the ladder to complete your Crystal Quest adventure!"
 weight: 7
 images:
 - images/maps/barn.jpg

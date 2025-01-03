@@ -1,8 +1,9 @@
 ---
-title: "Blackhawk Community"
+title: "Crystal 4 Location: Blackhawk Community Neighborhood"
+linktitle: "4. Blackhawk Community"
 noindex: false
 date: 2024-09-23
-description: "Brookhaven Blackhawk Community Crystal location"
+description: "Brookhaven's Blackhawk Community has a Crystal hiding near the neighborhood sign by the billboard."
 weight: 4
 images:
 - images/maps/crystals/blackhawk_community_east_entrance_by_motel.png
@@ -17,13 +18,19 @@ draft: false
 The Blackhawk Community Neighborhood is home to lots 11-16 and the South Estate lot with 2 entrances. 
 
 {{< column "grid-2" >}}
+{{< column "post-block-dot column" >}}
 ![Blackhawk Community East Entrance Sign](/images/maps/crystals/blackhawk_community_east_entrance_by_motel.png)
+<center>East Entrance by Motel</center>
+{{< /column >}}
+{{< column "post-block-dot column" >}}
 ![Blackhawk Community West Entrance Sign](/images/maps/crystals/blackhawk_community_west_entrance_near_subway_station.png)
+<center>West Entrance by Subway Station</center>
+{{< /column >}}
 {{< /column >}}
 
 ## Location of Crystal
 
-Near the entrance by lot 13 and 14 just at the bend of the road is hidden a crytal in the dirt. 
+Near the entrance by lot 13 and 14, or by the billboard just at the bend of the road is hidden a crytal in the dirt. 
 
 ![crystal 4 found near blackhawk east entrance sign under road](/images/maps/crystals/crystal_4_near_blackhawk_neighborhood_sign_under_road.png?width=400px)
 
