@@ -80,7 +80,7 @@ This VIP-only location features a mysterious structure inside. Is it a power sou
 Curious about all the secrets? Head over to the [complete walkthrough](/lore/quests/abandoned_mausoleum/) to uncover them!
 
 
-The Mausoleum is more than it seems—it’s filled with cryptic symbols, mysterious artifacts, and haunting moments that leave us questioning Brookhaven’s history. Here are some intriguing highlights:
+The Mausoleum is more than it seems—it’s filled with mysterious artifacts and haunting moments that leave us questioning Brookhaven’s history. Here are some intriguing highlights:
 
 
 {{< column "grid-1 post-block" >}}
