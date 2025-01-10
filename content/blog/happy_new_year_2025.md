@@ -37,11 +37,22 @@ Another intriguing clue is the **Good Book** mentioned during the [**Knights’ 
 
 To celebrate the anticipation of the mysteries ahead, here’s a special song for the community. Sit back, listen, and let it inspire your next Brookhaven adventure. :hearts:
 
+{{< column "grid-1 post-block" >}}
+{{< column "post-block-dot column" >}}
+<center>
 
+#### 🎵 Beneath the Moonlit Skies ✨
 <audio controls>
   <source src="/media/Beneath_the_moonlit_skies.mp3" type="audio/mpeg" />
   <source src="/media/Beneath_the_moonlit_skies.ogg" type="audio/ogg" />
 </audio>
+
+Lyrics and Song by [BloominDaisy](/about/)
+
+</center>
+
+{{< /column>}}
+{{< /column>}}
 
 ---
 
