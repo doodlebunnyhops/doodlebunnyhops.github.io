@@ -27,11 +27,10 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-## 🎉 Happy New Year ✨
+## 🕵️‍♂️ Latest Secrets! ✨
 
-Hoping everyone is enjoying the start of a new year—I know I certainly am! This year holds so many exciting mysteries for us to uncover together. Dive into my latest blog to see my predictions for Brookhaven secrets in 2025: [Read the full blog post here](/blog/happy_new_year_2025/).
+The [Abandoned RP Set Update](/blog/abandoned_house_rp_secrets/) that released **Jan 10, 2025** has a ton of lore and secrets to reveal! See the walkthrough on [How to Find All Secrets in Mausoleum](/lore/quests/abandoned_mausoleum)!
 
-Plus checkout the latest on the [New Year Update](/blog/happy_new_year_update_2025/) :heart: our beloved airport got an upgrade!
 
 **BloominDaisy 💜**
 
