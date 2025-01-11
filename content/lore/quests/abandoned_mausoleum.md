@@ -49,7 +49,6 @@ In the front yard you'll see 6 themes to chose from, make sure to select this on
 
 ## Mausoleum of the Future
 
-_describe the building and errieness_
 
 ### Steps:
 
