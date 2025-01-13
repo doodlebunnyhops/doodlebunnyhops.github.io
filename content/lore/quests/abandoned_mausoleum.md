@@ -167,7 +167,7 @@ On the second floor to the left in a room you'll find this white coffin with a b
 {{% /tab %}}
 
 {{% tab title="Step 11" %}}
-This Number Input was generated from Step 4, use it to put in the code >!1155 and the click on the clock 
+This Number Input was generated from Step 4, use it to put in the code `1155` and the click on the clock 
 {{< column "grid-2" >}}
 ![Number Pad to input secret code in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_numbers.png?width=400px)
 ![Clock on the roof showing 1155 of the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1155_clock.png?width=400px)
