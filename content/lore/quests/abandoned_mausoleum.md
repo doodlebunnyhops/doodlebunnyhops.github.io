@@ -69,7 +69,7 @@ Need some pics to help? Each step has [pictures listed below](#helpful-pics)
     - Kinds picture appears
     - Clock appears in the front of the mausoleum
     - Ladder appears in the back
-1. Put in code `1155`12 in number selector, the click on clock 
+1. Put in code `1155` in number selector, the click on clock 
     - Loads a beacon going through the roof
     - Loads Memorial Room
     - The Agency Book is on fire
