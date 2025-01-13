@@ -13,8 +13,6 @@ images:
 
 The Abandoned Mausoleum RP Set is packed with secrets, puzzles, and hidden lore waiting to be uncovered. Follow this guide to complete all 14 steps, unlock the glowing chair, and discover the mysteries within.
 
-Side note from Daisy :/ I lost power... LOL so um I'll try my best to update when i can :hearts:
-
 _prefer a video walk through? here's who I suggest!_
 
 {{< expand title="Walkthrough Vids" >}}
@@ -49,6 +47,7 @@ In the front yard you'll see 6 themes to chose from, make sure to select this on
 
 ## Mausoleum of the Future
 
+Need some pics to help? Each step has [pictures listed below](#helpful-pics)
 
 ### Steps:
 
@@ -70,14 +69,14 @@ In the front yard you'll see 6 themes to chose from, make sure to select this on
     - Kinds picture appears
     - Clock appears in the front of the mausoleum
     - Ladder appears in the back
-1. Put in code 1155 in number selector, the click on clock 
+1. Put in code `1155`12 in number selector, the click on clock 
     - Loads a beacon going through the roof
     - Loads Memorial Room
     - The Agency Book is on fire
 1. Grab the Brown Good Book from the Memorial Room
 1. Click The Agency book on top of the coffin
     - The clock time has changed
-1. Change the code in the number selector to 1200, then click the clock
+1. Change the code in the number selector to `1200`, then click the clock
     - Memorial changes to the glowing chair with an arch and note from Mr.b ...
 
 You’ve completed the secrets of the Abandoned Mausoleum!
@@ -88,6 +87,7 @@ Visit the museum after you have the good book…
 ---
 
 ## Helpful Pics
+
 
 {{< tabs title="" style="green" icon="image" >}}
 
@@ -140,6 +140,60 @@ Click hidden button in front of Agency Coffin, it will turn black once you find 
 its a note - in a prison cell...you should click it
 {{< column "grid-2" >}}
 ![Prision Cell in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_prison_cell.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 8" %}}
+On the first floor to the left in a room you'll find this brown coffin with a button behind it.
+{{< column "grid-2" >}}
+![Brown Coffin with energy pyramid on the first floor in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_picture.png?width=400px)
+![Brown Coffin with secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_coffin_button.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 9" %}}
+The Doves are found in the front yard to the left. (click image to enlarge if it's hard to see). Doves tend to appear darker in color on mobile devices.
+{{< column "grid-2" >}}
+![Doves sitting on a Bush outside the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_doves_front_yard.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 10" %}}
+On the second floor to the left in a room you'll find this white coffin with a button behind it.
+{{< column "grid-2" >}}
+![White coffin with an energy pyramid on it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_tomb.png?width=400px)
+![White Coffin with a secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_coffin_upstairs.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 11" %}}
+This Number Input was generated from Step 4, use it to put in the code >!1155 and the click on the clock 
+{{< column "grid-2" >}}
+![Number Pad to input secret code in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_numbers.png?width=400px)
+![Clock on the roof showing 1155 of the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1155_clock.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 12" %}}
+On the second floor you'll now see what looks like a memorial and a brown book on a white lecturn. Pick up the brown book, aka the Good Book.
+{{< column "grid-2" >}}
+![Mr. Brookhaven's Memorial in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_mr_brookhavens_tomb.png?width=400px)
+![Brown Book, aka The Good Book, in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_the_good_book.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 13" %}}
+On the first floor, back to where we first clicked the note behind the Agency Coffin you will see The Agency Book is burning. Click on it
+{{< column "grid-2" >}}
+![The Agency Book burning on a coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_burning_agency_book.png?width=400px)
+{{< /column >}}
+{{% /tab %}}
+
+{{% tab title="Step 14" %}}
+Notice after clicking the Burning Agency Book that the Clock has changed to `1200`. This is your new code to input, then click on the clock again.
+{{< column "grid-2" >}}
+![Clock on the roof showing 1200 in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1200_clock.png?width=400px)
+![](/images/abandoned_mausoleum/mausoleum_the_glowing_chair_and_arch.png?width=400px)
 {{< /column >}}
 {{% /tab %}}
 

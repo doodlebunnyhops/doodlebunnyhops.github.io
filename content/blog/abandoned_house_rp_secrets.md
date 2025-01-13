@@ -30,6 +30,8 @@ _Each image can be clicked to enlarge_
 {{< column "post-block-dot column" >}}
 **<center>Abandoned Mausoleum 💀</center>**
 ![Abandoned Mausoleum](/images/blog/abandoned_mausoleum.png)
+Want to get into the steps? Go to [**Secrets Walkthrough Guide**](/lore/quests/abandoned_mausoleum/)
+
 A haunting mausoleum surrounded by overgrown grass and worn-down gravestones. But that’s not all—hidden secrets are tucked away here for lore enthusiasts to uncover. 
 {{< /column>}}
 
@@ -77,7 +79,7 @@ This VIP-only location features a mysterious structure inside. Is it a power sou
 
 ## Secrets: Hidden Lore in the Mausoleum🕵️
 
-Curious about all the secrets? Head over to the [complete walkthrough](/lore/quests/abandoned_mausoleum/) to uncover them!
+Curious about all the secrets? Head over to the [**complete walkthrough**](/lore/quests/abandoned_mausoleum/) to uncover them!
 
 
 The Mausoleum is more than it seems—it’s filled with mysterious artifacts and haunting moments that leave us questioning Brookhaven’s history. Here are some intriguing highlights:
