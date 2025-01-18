@@ -13,7 +13,7 @@ export default defineStackbitConfig({
           uploadDir: "images",
           publicPath: "/"
         },
-        rootPath: ".",
+        rootPath: __dirname,
         contentDirs: [
         "content/about",
         "content/blog",
