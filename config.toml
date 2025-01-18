@@ -1,4 +1,4 @@
-baseURL = "https://solve.bhmystery.com/testsite/"
+baseURL = "/"
 enableRobotsTXT = true
 relativeURLs = true
 
