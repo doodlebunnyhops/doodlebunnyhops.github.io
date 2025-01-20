@@ -28,7 +28,9 @@ It's time to go to school! _And find the secret base_
 		1. Science Room
 		2. Plant by gym (on the pot)
 		3. English Room
-		4. Large plant upstairs in study area
+		4. Upstairs in Teachers Lounge
+
+		> _There could be other locations inside the school not mentioned here!_
 3. Use code in School Base.
 	1. [A14](/casebook/light_panel#a14) is now activated. You will see the following message on the school base board:
 	
