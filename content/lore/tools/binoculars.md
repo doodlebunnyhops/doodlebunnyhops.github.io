@@ -1,6 +1,7 @@
 ---
 title: "Binoculars"
 noindex: false
+type: "tools"
 weight: 2
 description: "A special set of Binoculars found in the Military RP House will help you see things clearly."
 images:

@@ -1,6 +1,7 @@
 ---
 title: "English Class Quotes"
 noindex: false
+type: "Interesting"
 weight: 15
 draft: false
 description: "The class room at Brookhaven's School 'School of the Doge' has changed the quote on the whiteboard over the years."

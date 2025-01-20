@@ -1,5 +1,6 @@
 ---
 linktitle: "Generator Room"
+type: "Quest"
 title: "Generator Room: Unlock the Orb in the Dungeon"
 noindex: false
 weight: 3

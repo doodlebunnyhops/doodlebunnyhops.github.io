@@ -1,5 +1,6 @@
 ---
 linktitle: "Monoliths"
+type: "Quest"
 title: "Summon Monoliths around Brookhaven"
 noindex: false
 weight: 8

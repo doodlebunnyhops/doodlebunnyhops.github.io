@@ -1,6 +1,7 @@
 ---
 title: "Agency"
 noindex: false
+type: "notes"
 weight: 1
 draft: false
 description: "All Notes and how to find them that are signed by the Agency."

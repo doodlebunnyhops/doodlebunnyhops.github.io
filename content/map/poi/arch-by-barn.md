@@ -1,6 +1,7 @@
 ---
 title: "Arch by Barn"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Arch by Barn location view and related secrets"

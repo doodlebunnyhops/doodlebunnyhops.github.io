@@ -1,5 +1,6 @@
 ---
 linktitle: "Agency Greed"
+type: "Quest"
 title: "Agency Greed: Unlock the Secret Lair in the Warehouse"
 noindex: false
 weight: 16

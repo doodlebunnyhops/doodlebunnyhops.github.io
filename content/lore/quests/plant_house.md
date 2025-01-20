@@ -1,5 +1,6 @@
 ---
 linktitle: "Plant House"
+type: "Quest"
 title: "Plant House: Unlock Quantum Room's Hidden Message"
 noindex: false
 weight: 14

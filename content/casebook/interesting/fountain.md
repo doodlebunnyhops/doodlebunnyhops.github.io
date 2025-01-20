@@ -1,6 +1,7 @@
 ---
 title: "Under the Fountain"
 noindex: false
+type: "Interesting"
 weight: 2
 draft: false
 description: "How to get under the fountain in Brookhaven at spawn."

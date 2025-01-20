@@ -1,6 +1,7 @@
 ---
 title: "Agency Bunker"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Agency Bunker Monolith location"
 images:

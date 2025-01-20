@@ -2,6 +2,7 @@
 title: "Crystal 2 Location: Brookhaven Church"
 linktitle: "2. Church"
 noindex: false
+type: "crystals"
 date: 2024-09-23
 description: "Find Crystal 2 at Brookhaven Church, hidden behind a plant. Unravel the mystery and progress in your Crystal Quest journey!"
 weight: 2

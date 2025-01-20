@@ -2,6 +2,7 @@
 title: "Crystal 4 Location: Blackhawk Community Neighborhood"
 linktitle: "4. Blackhawk Community"
 noindex: false
+type: "crystals"
 date: 2024-09-23
 description: "Brookhaven's Blackhawk Community has a Crystal hiding near the neighborhood sign by the billboard."
 weight: 4

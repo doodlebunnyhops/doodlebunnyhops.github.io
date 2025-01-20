@@ -1,5 +1,6 @@
 ---
 linktitle: "Destroy Carbon Blocks"
+type: "Quest"
 title: "Find and Destroy the Carbon Blocks in Brookhaven"
 noindex: false
 weight: 6

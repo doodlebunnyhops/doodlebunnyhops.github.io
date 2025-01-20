@@ -1,5 +1,6 @@
 ---
 linktitle: "Main Room"
+type: "Quest"
 title: "Main Room: Track Progress in the Dungeon"
 noindex: false
 weight: 2

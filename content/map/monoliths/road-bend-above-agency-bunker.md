@@ -1,6 +1,7 @@
 ---
 title: "Road Bend Above Agency Bunker"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Crown Point Underpass Monolith location"
 images:

@@ -1,5 +1,6 @@
 ---
 linktitle: "Cell Room"
+type: "Quest"
 title: "Cell Room: Solve Riddles in the Dungeon"
 noindex: false
 weight: 5

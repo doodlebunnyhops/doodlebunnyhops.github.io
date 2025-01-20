@@ -1,5 +1,6 @@
 ---
 linktitle: "Ghostly Sighting"
+type: "Quest"
 title: "Ghostly Sighting: Encounter Greed's Ghost in Museum"
 noindex: false
 weight: 9

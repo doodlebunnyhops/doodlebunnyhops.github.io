@@ -1,5 +1,6 @@
 ---
 linktitle: "Rod in the Police Station"
+type: "Quest"
 title: "Rod in the Police Station: and How to Find it"
 noindex: false
 weight: 11

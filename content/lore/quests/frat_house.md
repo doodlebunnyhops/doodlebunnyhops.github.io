@@ -1,5 +1,6 @@
 ---
 linktitle: "Frat House"
+type: "Quest"
 title: "Frat House: Discover the Secret Laptop in the Basement"
 noindex: false
 weight: 12

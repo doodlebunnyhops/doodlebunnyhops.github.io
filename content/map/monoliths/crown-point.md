@@ -1,6 +1,7 @@
 ---
 title: "Crown Point House 23"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Crown Point House 23 Monolith location"
 images:

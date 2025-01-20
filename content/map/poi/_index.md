@@ -2,6 +2,7 @@
 linktitle: "Points of Interest"
 title: "Brookhaven Points of Interest Map: Interactive Guide"
 noindex: false
+type: "poi"
 weight: 1
 description: "Explore an interactive map of Brookhaven's key locations. Find quest details, secrets, and casebook links for each point of interest."
 #Categories: ["point of interest","map"]

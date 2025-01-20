@@ -1,6 +1,7 @@
 ---
 title: "Top Secret Level"
 noindex: false
+type: "Interesting"
 weight: 2
 draft: false
 description: "TS LVL's found through out Brookhaven"

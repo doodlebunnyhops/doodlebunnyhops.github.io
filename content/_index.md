@@ -2,6 +2,7 @@
 linktitle: "Home"
 title: "Can you solve the Mystery of Brookhaven?"
 noindex: false
+type: "home"
 license: true
 # date: 2023-05-19
 description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."

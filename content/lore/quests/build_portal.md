@@ -1,5 +1,6 @@
 ---
 linktitle: "Build Portal"
+type: "Quest"
 title: "Build Portal: Construct a Hidden Gateway under Eagle View"
 noindex: false
 weight: 7

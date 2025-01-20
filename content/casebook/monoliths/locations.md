@@ -1,6 +1,7 @@
 ---
 title: "Locations"
 noindex: false
+type: "monoliths"
 weight: 1
 description: "Locations for all monoliths"
 images:

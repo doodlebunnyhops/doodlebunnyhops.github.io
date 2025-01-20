@@ -1,5 +1,6 @@
 ---
 linktitle: "Glowing Chair"
+type: "Quest"
 title: "There's a Hidden Chair in the Abandoned House"
 noindex: false
 weight: 10

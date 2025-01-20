@@ -2,6 +2,7 @@
 linktitle: "Carbon Block's"
 title: "Brookhaven Map: Carbon Block Locations"
 noindex: false
+type: "carbon"
 weight: 1
 description: "Computer messages that appear on your laptop in Brookhaven RP by the Agency, Mr. B, and other sources."
 #Tags: ["Computer Messages"]

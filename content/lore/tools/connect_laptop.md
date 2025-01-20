@@ -1,6 +1,7 @@
 ---
 title: "Connect Laptop"
 noindex: false
+type: "tools"
 weight: 1
 description: "How to connect laptop to Agency and Mr. Brookhaven messages."
 images:

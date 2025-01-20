@@ -1,5 +1,6 @@
 ---
 linktitle: "Find 7 Crystals"
+type: "Quest"
 title: "Find 7 Crystals: Unlock Hidden Energy in Brookhaven"
 noindex: false
 weight: 1

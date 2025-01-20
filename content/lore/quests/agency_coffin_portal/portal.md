@@ -1,5 +1,6 @@
 ---
 linktitle: "Portal Room"
+type: "Quest"
 title: "Portal Room: Unlock the Gateway in the Dungeon"
 noindex: false
 weight: 9

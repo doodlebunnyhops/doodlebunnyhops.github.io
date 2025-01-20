@@ -1,6 +1,7 @@
 ---
 title: "TS Level 1"
 noindex: false
+type: "special_tools"
 weight: 1
 description: "How to get TS LVL 1 acess granted."
 images:

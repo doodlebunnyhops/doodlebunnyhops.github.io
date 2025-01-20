@@ -1,6 +1,7 @@
 ---
 title: "Window Messages"
 noindex: false
+type: "quantum"
 weight: 1
 description: "All Messages seen on the windows in the quantum room and how to trigger them for Brookhaven RP Secrets and Mysteries"
 aliases:

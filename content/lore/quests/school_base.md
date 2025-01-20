@@ -1,5 +1,6 @@
 ---
 linktitle: "School Base"
+type: "Quest"
 title: "School Base: Discover the Hidden Room Above the School"
 noindex: false
 weight: 2

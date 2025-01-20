@@ -1,5 +1,6 @@
 ---
 linktitle: "Electric Building"
+type: "Quest"
 title: "Accessing Brookhaven Electric Building"
 noindex: false
 weight: 4

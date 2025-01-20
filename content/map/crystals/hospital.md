@@ -2,6 +2,7 @@
 title: "Crystal 1 Location: Brookhaven Hospital"
 linktitle: "1. Hospital"
 noindex: false
+type: "crystals"
 date: 2024-09-23
 description: "Start your Crystal Quest at Brookhaven Hospital. Use the ladder to access the roof and discover the first hidden crystal!"
 weight: 1

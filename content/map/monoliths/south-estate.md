@@ -1,6 +1,7 @@
 ---
 title: "South Estate"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven South Estate Monolith location"
 images:

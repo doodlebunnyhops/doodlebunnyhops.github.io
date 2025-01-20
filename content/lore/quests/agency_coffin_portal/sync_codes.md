@@ -1,5 +1,6 @@
 ---
 linktitle: "Sync Codes"
+type: "Quest"
 title: "Sync Codes: Align Progress Across the Dungeon"
 noindex: false
 weight: 7

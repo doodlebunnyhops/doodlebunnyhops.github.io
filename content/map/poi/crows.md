@@ -1,6 +1,7 @@
 ---
 title: "Crows"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Crows location view and related secrets"

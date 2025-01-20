@@ -1,6 +1,7 @@
 ---
 title: "The Red Book"
 noindex: false
+type: "special_tools"
 weight: 4
 description: "How to obtain the hidden red book in the library."
 images:

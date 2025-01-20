@@ -1,6 +1,7 @@
 ---
 title: "Rocketship"
 noindex: false
+type: "Interesting"
 weight: 3
 draft: false
 description: "Interesting Alien Hand prints and an energy orb in the Rocket RP house."

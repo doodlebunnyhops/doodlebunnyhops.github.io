@@ -1,5 +1,6 @@
 ---
 linktitle: "Fear & Greed's Room"
+type: "Quest"
 title: "Fear & Greed: Change Plaques and Unlock New Teleports"
 noindex: false
 weight: 4

@@ -1,5 +1,6 @@
 ---
 linktitle: "Getting Started"
+type: "Quest"
 title: "Getting Started: Enter the Agency’s Dungeon"
 noindex: false
 weight: 1

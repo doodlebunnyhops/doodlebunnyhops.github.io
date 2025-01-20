@@ -1,6 +1,7 @@
 ---
 title: "Eagle View Hillside"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Eagle View Monolith location"
 images:

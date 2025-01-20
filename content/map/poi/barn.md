@@ -1,6 +1,7 @@
 ---
 title: "Barn"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven Barn location view and related secrets"

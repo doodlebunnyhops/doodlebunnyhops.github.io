@@ -1,5 +1,6 @@
 ---
 linktitle: "Chair Room"
+type: "Quest"
 title: "Chair Room: Unlock the Secret in Agency Bunker"
 noindex: false
 weight: 13

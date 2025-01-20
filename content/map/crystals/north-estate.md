@@ -2,6 +2,7 @@
 title: "Crystal 6 Location: Brookhaven North Estate"
 linktitle: "6. North Estate"
 noindex: false
+type: "crystals"
 date: 2024-09-23
 description: "Locate the 6th Crystal at North Estate in Brookhaven. Found on a dirt mound just outside the estate's border. Continue your Crystal Quest!"
 weight: 6

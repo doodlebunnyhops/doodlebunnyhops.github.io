@@ -1,5 +1,6 @@
 ---
 linktitle: "Mystery Alien"
+type: "Quest"
 title: "Mystery Alien: Electrocute the Figure in the Hospital"
 noindex: false
 weight: 3

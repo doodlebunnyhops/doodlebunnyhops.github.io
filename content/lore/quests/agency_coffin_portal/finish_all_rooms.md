@@ -1,5 +1,6 @@
 ---
 linktitle: "Finish All Rooms"
+type: "Quest"
 title: "Finish All Rooms: Complete the Labyrinth’s Progress"
 noindex: false
 weight: 8

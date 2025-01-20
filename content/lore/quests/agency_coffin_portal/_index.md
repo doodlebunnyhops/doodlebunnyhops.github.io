@@ -1,5 +1,6 @@
 ---
 linktitle: "Agency RP House"
+type: "Quest"
 title: "Agency Dungeon: Explore the Labyrinth Beneath the Shack"
 noindex: false
 weight: 17

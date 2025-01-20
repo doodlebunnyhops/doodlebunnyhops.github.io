@@ -1,6 +1,7 @@
 ---
 title: "Hidden Valley Cave"
 noindex: false
+type: "Interesting"
 weight: 5
 draft: false
 description: "More Secrets confirmed coming to the Hidden Valley Cave in Brookhaven RP and video timelapse of interesting light."

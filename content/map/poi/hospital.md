@@ -2,6 +2,7 @@
 linktitle: "Hospital"
 title: "Brookhaven Hospital: Site of Agency Experiments"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Explore Brookhaven Hospital, home to an abandoned Agency experimentation site. Discover hidden locations, notes, and Agency secrets."

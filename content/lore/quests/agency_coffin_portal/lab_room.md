@@ -1,5 +1,6 @@
 ---
 linktitle: "Lab & Capsules Room"
+type: "Quest"
 title: "Lab Room: Trigger Lasers in the Underground Capsule Room"
 noindex: false
 weight: 6

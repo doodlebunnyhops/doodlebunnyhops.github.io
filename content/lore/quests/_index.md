@@ -1,5 +1,6 @@
 ---
 linktitle: "Quests"
+type: "Quest"
 title: "Brookhaven Quests Walkthrough: Secrets, Tools, and Steps"
 noindex: false
 weight: 3

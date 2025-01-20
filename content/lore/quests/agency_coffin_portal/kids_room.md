@@ -1,5 +1,6 @@
 ---
 linktitle: "Kid's Room"
+type: "Quest"
 title: "Kid's Room: Find the Hidden Blocks"
 noindex: false
 weight: 4

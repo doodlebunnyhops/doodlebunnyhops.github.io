@@ -2,6 +2,7 @@
 linktitle: "Arch by Abandoned House"
 title: "Arch by Abandoned House: Movie Code Secrets"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Uncover the secrets of the arch near Brookhaven’s Abandoned House. A hidden movie code lies beneath its base—find it now!"

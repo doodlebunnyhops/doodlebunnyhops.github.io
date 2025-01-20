@@ -2,6 +2,7 @@
 linktitle: "Crystal Locations"
 title: "Brookhaven Crystal Locations - Complete Map Guide"
 noindex: false
+type: "crystals"
 weight: 3
 description: "Interactive map of Brookhaven's crystal locations. Discover their order and details to complete the 'Find 7 Crystals' quest."
 #Categories: ["Crystal Locations","map"]

@@ -2,6 +2,7 @@
 linktitle: "Walkthrough"
 title: "Brookhaven RP Walkthrough: Secrets, Quests, and Mysteries"
 noindex: false
+type: "walkthrough"
 weight: 1
 description: "Uncover Brookhaven RP’s secrets with this comprehensive walkthrough. Solve quests, unlock mysteries, and explore tools and hidden locations in the game"
 

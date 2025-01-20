@@ -1,6 +1,7 @@
 ---
 title: "Abandoned House"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Abandoned House Monolith location"
 images:

@@ -1,5 +1,6 @@
 ---
 linktitle: "Knight of the Castle"
+type: "Quest"
 title: "The Knight has Hidden a Message in the Castle"
 noindex: false
 weight: 15

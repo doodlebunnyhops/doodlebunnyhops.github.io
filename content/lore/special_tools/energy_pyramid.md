@@ -1,6 +1,7 @@
 ---
 title: "Energy Pyramid"
 noindex: false
+type: "special_tools"
 weight: 6
 description: "Get the Energy Pyramid from the doves."
 images:

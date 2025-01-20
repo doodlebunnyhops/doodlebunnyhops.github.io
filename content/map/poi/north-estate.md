@@ -1,6 +1,7 @@
 ---
 title: "North Estate"
 noindex: false
+type: "poi"
 weight: 1
 date: 2024-01-02
 description: "Brookhaven North Estate location view and related secrets"

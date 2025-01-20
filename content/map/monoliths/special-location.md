@@ -1,6 +1,7 @@
 ---
 title: "Special Locations"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Special Locations Monolith location"
 images:

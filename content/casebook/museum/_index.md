@@ -1,6 +1,7 @@
 ---
 title: "Museum"
 noindex: false
+type: "museum"
 weight: 30
 description: "Each displayed piece in the Brookhaven Museum holds a secret"
 date: 2023-05-31

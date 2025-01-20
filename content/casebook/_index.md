@@ -1,6 +1,7 @@
 ---
 title: "CaseBook"
 noindex: false
+type: Casebook
 weight: 2
 date: 2024-01-02
 description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."

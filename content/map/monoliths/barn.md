@@ -1,6 +1,7 @@
 ---
 title: "Barn"
 noindex: false
+type: "monoliths"
 date: 2024-08-18
 description: "Brookhaven Barn Monolith location"
 images:

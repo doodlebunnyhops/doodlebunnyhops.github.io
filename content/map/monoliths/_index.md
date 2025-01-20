@@ -2,6 +2,7 @@
 linktitle: "Monolith Locations"
 title: "Brookhaven Map: Monolith Locations and Secrets"
 noindex: false
+type: "monoliths"
 weight: 2
 description: "Brookhaven RP interactive map of Monolith locations with details."
 #Categories: ["Monolith Locations","map"]
