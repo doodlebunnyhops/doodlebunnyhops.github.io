@@ -33,17 +33,17 @@ The Fighter Jet is here, and it’s a total game-changer! Want to take off in st
 {{< column "post-block-dot column" >}}
 **Entrance to Hanger**
 ![BrookhavenRP Jet Update: The entrance to the hangar, located next to the luggage claim area at the airport.](/images/blog/fighter_jet_&_props_update_jet_entrance.png)
-Next to Luggage Claim Area
+Next to the Luggage Claim Area
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Door To Hanger**
-![BrookhavenRP Jet Update: A secure door requiring a red key card for access to the hangar.](/images/blog/fighter_jet_&_props_update_jet_entrance_door.png)
+![BrookhavenRP Jet Update: A secure door requiring a red key card to access the hangar.](/images/blog/fighter_jet_&_props_update_jet_entrance_door.png)
 Requires the Red Key card by Security Checkin
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-**Unerground Jet Hanger**
+**Underground Jet Hanger**
 ![BrookhavenRP Jet Update: The underground hangar where the fighter jet is housed, the jet is accessible to premium pass holders.](/images/blog/fighter_jet_&_props_update_jet_room.png)
 Note the Jet is locked for _Premiunm Pass Holders_ ✨
 {{< /column>}}
@@ -180,4 +180,4 @@ Let me know your favorite part of the update in the comments. Until next time—
 
 **BloominDaisy 💜**
 
-*May your kindness inspire, and your imagination soar!*
+*May your kindness inspire and your imagination soar!*
