@@ -2,6 +2,7 @@
 author: "BloominDaisy"
 date: 2024-12-06
 published: 2024-12-07
+linktitle: "Burger Barn is Back"
 title: "Holiday Update: Burger Barn is Back!"
 cascade:
 - url: /blog/:filename
@@ -105,14 +106,6 @@ _you can click images to make the larger!_
 {{< /column>}}
 
 {{< /column>}}
-
----
-
-#### Walkthrough Vid by O1G
-
-<div class="grid-1 post-vid-dot">
-{{< youtube id=qUT6_RP91TE loading=lazy >}}
-</div>
 
 ---
 
