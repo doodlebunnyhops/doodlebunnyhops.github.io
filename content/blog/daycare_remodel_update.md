@@ -110,8 +110,9 @@ These props open up **so many** new possibilities for creative role-plays—whet
 
 Want to see the update in action? Keep an eye out for content creators checking out the daycare remodel! I’ll be updating this section with awesome videos as soon as they drop.  
 
-<div class="grid-1 post-vid-dot">
+<div class="grid-2 post-vid-dot">
 {{< youtube id=8MJND5UXQVA loading=lazy >}}
+{{< youtube id=vzMAE-5HEmA loading=lazy >}}
 </div>
 
 ---
