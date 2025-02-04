@@ -26,7 +26,7 @@ _image credit to bright_leaa showing BloominDaisy and Lea in front of abandoned 
 
 
 {{< column "post-block-dot column" >}}
-![](/images/blog/wolfpaq_announcement.png)
+![Screenshot of Wolfpaq's farewell announcement on Discord](/images/blog/wolfpaq_announcement.png)
 {{< /column >}}
 
 ## **What Does This Mean for Brookhaven?** 🤔  
@@ -44,11 +44,11 @@ Looking back, the **[Abandoned RP Set update](/blog/abandoned_house_rp_secrets/)
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.png)
+A cryptic note found in the abandoned mausoleum, possibly foreshadowing Brookhaven's transition](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.png)
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png)
+![Another note in the abandoned mausoleum referencing Wolfpaq, hinting at change](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png)
 {{< /column >}}
 {{< /column >}}
 
@@ -62,7 +62,7 @@ Thank you Wolfpaq for reaching out to the Mystery Community, we love you too! :h
 {{< column "grid-1 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![](/images/blog/wolfpaq_love.png)
+![A heartfelt message from Wolfpaq saying 'Love you all!'](/images/blog/wolfpaq_love.png)
 {{< /column >}}
 {{< /column >}}
 
@@ -70,8 +70,9 @@ Thank you Wolfpaq for reaching out to the Mystery Community, we love you too! :h
 ## Our Content Creators Thoughts 🎥✨
 
 
-<div class="grid-1 post-vid-dot">
+<div class="grid-2 post-vid-dot">
 {{< youtube id=HkLFglhN5Yk loading=lazy >}}
+{{< youtube id=Xd4ao4VStYY loading=lazy >}}
 </div>
 
 ## Note during Transition
@@ -80,7 +81,7 @@ At the time of this blog you may see BrookhavenRP is `Unavailable`, this is like
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![](/images/blog/transition.png)
+![A screenshot of BrookhavenRP appearing as 'Unavailable' during the transition](/images/blog/transition.png)
 {{< /column >}}
 
 {{< /column >}}
