@@ -44,7 +44,7 @@ Looking back, the **[Abandoned RP Set update](/blog/abandoned_house_rp_secrets/)
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-A cryptic note found in the abandoned mausoleum, possibly foreshadowing Brookhaven's transition](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.png)
+![A cryptic note found in the abandoned mausoleum, possibly foreshadowing Brookhaven's transition](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.png)
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
