@@ -57,11 +57,11 @@ The flow of investigating can be... chaotic. But I have identified there are too
 
 
 
-{{% button href="./tools/" style="green" %}}Tools{{% /button %}}: These are items that give us hints along the way of our investigation.
+{{% button href="/lore/tools/" style="green" %}}Tools{{% /button %}}: These are items that give us hints along the way of our investigation.
 
-{{% button href="./special_tools/" style="green" %}}Special Tools{{% /button %}}: These are items not available in inventory and are needed for other quests.
+{{% button href="/lore/special_tools/" style="green" %}}Special Tools{{% /button %}}: These are items not available in inventory and are needed for other quests.
 
-{{% button href="./quests/" style="green" %}}Quests{{% /button %}}: These are considered main story line quests, they may unlock, build, or show us new hints. Since this is an ever updating game, we don't know if a quest is ever really complete. 
+{{% button href="/lore/quests/" style="green" %}}Quests{{% /button %}}: These are considered main story line quests, they may unlock, build, or show us new hints. Since this is an ever updating game, we don't know if a quest is ever really complete. 
 
 ---
 

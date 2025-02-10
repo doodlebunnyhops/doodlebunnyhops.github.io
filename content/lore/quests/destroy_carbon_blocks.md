@@ -18,7 +18,9 @@ description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Ro
 
 
 
+<hr style="background-color: #28b44c" size=8>
 
+## Reveal Hidden Carbon Blocks:
 
 **Steps:**
 
@@ -36,8 +38,28 @@ description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Ro
 		==TS LVL 2 [Mirrored Successfully] Carbon burn commencing==
 		- See more details on [TS LVL2](casebook/interesting/top_secret_level/#ts-lvl2) in the casebook
 
-1. Destroy the blocks: 
-	{{< tabs title="Click Tab ->" >}}
+
+<hr style="background-color: #28b44c" size=8>
+
+## Destroy the blocks: 
+
+Steps: 
+
+1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
+2. Place down a sleeping bag near the right wall in **arcade**
+3. Place down a sleeping bag near the left wall in **bank**
+4. Inside of the roof at the **church** (go on top of the Church and place down a Sleeping Bag.)
+5. Near the Grocery Store, place a sleeping bag near the **grass wall**
+6. In **movie theater** hallway, use sleeping bag at the bottom right of the door and movie banner
+7. Go to the **Swimming pool's secret** room.
+
+1. On completion you will teleport to the Arch by the Barn and your Right Hand will glow Black
+	1. Laptop:
+	
+		==You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)==
+	2. Activates [A21](/casebook/light_panel#a21)
+
+{{< tabs title="Location Image Helpers" >}}
 
 {{% tab title="Location #1" %}}
 Criminal Hideout behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
@@ -58,19 +80,7 @@ Near the Grocery Store, place a sleeping bag near the grass wall
 ![Crystal at black](/images/bh/carbon_block_green_wall.jpg)
 {{% /tab %}}
 
-	{{< /tabs >}}
-	1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
-	2. Place down a sleeping bag near the right wall in **arcade**
-	3. Place down a sleeping bag near the left wall in **bank**
-	4. Inside of the roof at the **church** (go on top of the Church and place down a Sleeping Bag.)
-	5. Near the Grocery Store, place a sleeping bag near the **grass wall**
-	6. In **movie theater** hallway, use sleeping bag at the bottom right of the door and movie banner
-	7. Go to the **Swimming pool's secret** room.
-1. On completion you will teleport to the Arch by the Barn and your Right Hand will glow Black
-	1. Laptop:
-	
-		==You have achieved the power the agency needs to advance to the next step. You are a useful soldier. (Agency)==
-	2. Activates [A21](/casebook/light_panel#a21)
+{{< /tabs >}}
 
 
 {{% notice style="tip" %}}	
