@@ -1,7 +1,7 @@
 ---
 title: "Под фонтаном"
 noindex: false
-weight: 2
+weight: 3
 draft: false
 description: "Как попасть под фонтан в Brookhaven на месте появления (Spawn)."
 ---

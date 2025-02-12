@@ -1,7 +1,7 @@
 ---
 title: "Космический корабль"
 noindex: false
-weight: 3
+weight: 4
 draft: false
 description: "Интересные отпечатки рук пришельцев и энергетическая сфера в доме Rocket RP."
 ---

@@ -1,0 +1,74 @@
+---
+linktitle: "Больница"
+title: "Больница Brookhaven: Место экспериментов Агентства"
+noindex: false
+weight: 1
+date: 2024-01-02
+description: "Исследуйте Больницу Brookhaven, где находился заброшенный экспериментальный центр Агентства. Откройте скрытые локации, записки и тайны Агентства."
+
+images:
+- images/maps/hospital_remodeled_2024.png
+- images/maps/hospital.jpg
+#Categories: ["точка интереса","карта"]
+#Tags: ["Больница"]
+draft: false
+--- 
+
+
+Больница Brookhaven славится своими выдающимися врачами и хирургами. Однако здесь также находился экспериментальный центр, управляемый Агентством. Почему он был заброшен?
+
+![Вид снаружи на Больницу Brookhaven, также известную как St. Luke's Hospital](/images/maps/hospital_remodeled_2024.png)
+
+
+## Экспериментальный центр
+
+Медицинский офицер Авид работал в этом центре, но после того, как стал свидетелем методов Агентства, он подал в отставку. Центр расположен над больницей, и попасть внутрь можно через разбитое окно снаружи или сломанную стену в главном холле.
+
+{{< column "grid-2" >}}
+![Внутри Экспериментального центра: логотип Агентства на стене, два кресла, надпись "Experimental"](/images/maps/experimentation_site.jpg)
+
+![Внутри Экспериментального центра: перевёрнутая мебель, ржавые грязные стены, разбитое окно, через которое можно войти.](/images/maps/experimentation_site2.jpg)
+
+![Комната наблюдения в Экспериментальном центре: зелёное тело в капсуле и папка Агентства](/images/maps/experimentation_site3.jpg)
+{{< /column >}}
+
+
+<hr style="background-color: #28b44c" size=8>
+
+## Вид на карте
+
+{{% expand title="Выделенное местоположение больницы" %}}
+
+![Местоположение больницы на карте](/images/maps/hospital.png)
+
+{{% /expand %}}
+
+
+<hr style="background-color: #28b44c" size=8>
+
+### Связанные материалы в Кейсбуке
+
+- [Панель огней X01](/casebook/light_panel/#x01)
+- [Записка от мистера Brookhaven](/casebook/notes/mrbrookhaven/#crystals-for-good-or-bad)
+- [Записка от медицинского офицера Авида](/casebook/notes/other/#military-rp-home)
+- [Квантовая комната](/casebook/quantum/)
+- [Записка "Операция READRIVER"](/casebook/notes/other/#operation-redriver)
+- Компьютерные сообщения:
+    1. [Никаких экспериментов!](/casebook/computer/agency/#no-experimenting)
+    1. [Агентство знает, что для вас лучше](/casebook/computer/agency/#agency-knows-whats-best)
+
+<hr style="background-color: #28b44c" size=8>
+
+### Связанные квесты
+
+- [Красная книга](/lore/special_tools/the_red_book)
+- [Загадочный пришелец](/lore/quests/mystery_alien)
+
+
+<hr style="background-color: #28b44c" size=8>
+
+## Исторический облик
+
+В ноябре 2024 года больница была обновлена: фасад стал современнее, появились стеклянные панели, а интерьер стал более светлым.
+
+![Предыдущий вид Больницы Brookhaven: функциональный дизайн со знаковыми стеклянными элементами.](/images/maps/hospital.jpg)
