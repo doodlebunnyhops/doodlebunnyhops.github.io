@@ -1,0 +1,238 @@
+$ python3 find_anchors_v3.py 
+
+✅ **Anchored Links Found in .ru.md Files:**
+
+--------------------------------------------------
+📂 **File:** content\casebook\interesting\top_secret_level.ru.md
+   - 📌 Line 47: `[ запиской Агентства ](casebook/notes/agency/#quantum-room)` (Anchor: `#quantum-room`)
+
+--------------------------------------------------
+📂 **File:** content\casebook\notes\madison.ru.md
+   - 📌 Line 37: `[ TS LVL 1 ](casebook/interesting/top_secret_level/#ts-lvl1)` (Anchor: `#ts-lvl1`)
+
+--------------------------------------------------
+📂 **File:** content\casebook\notes\marcus.ru.md
+   - 📌 Line 20: `[ Логово преступников ](/lore/quests/agency_greed/#criminal-lair)` (Anchor: `#criminal-lair`)
+
+--------------------------------------------------
+📂 **File:** content\casebook\notes\other.ru.md
+   - 📌 Line 14: `[ A08 ](/casebook/light_panel/#a08)` (Anchor: `#a08`)
+   - 📌 Line 101: `[ Детская комната ](/lore/quests/agency_coffin_portal/kids_room/#steps)` (Anchor: `#steps`)
+
+--------------------------------------------------
+📂 **File:** content\casebook\quantum\message_board.ru.md
+   - 📌 Line 26: `[ H06 ](/casebook/light_panel#h06)` (Anchor: `#h06`)
+   - 📌 Line 93: `[ A09 ](../../light_panel#a09)` (Anchor: `#a09`)
+   - 📌 Line 95: `[ A01 ](../../light_panel#a01)` (Anchor: `#a01`)
+   - 📌 Line 97: `[ V08 ](../../light_panel#v08)` (Anchor: `#v08`)
+
+--------------------------------------------------
+📂 **File:** content\casebook\quantum\steam.ru.md
+   - 📌 Line 25: `[ A09 ](/casebook/light_panel#a09)` (Anchor: `#a09`)
+   - 📌 Line 27: `[ A01 ](/casebook/light_panel#a01)` (Anchor: `#a01`)
+   - 📌 Line 28: `[ V08 ](/casebook/light_panel#v08)` (Anchor: `#v08`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\build_portal.ru.md
+   - 📌 Line 33: `[ X02 ](/casebook/light_panel#x02)` (Anchor: `#x02`)
+   - 📌 Line 34: `[ Сообщение ноутбука ](/casebook/computer/agency/#power-of-the-book)` (Anchor: `#power-of-the-book`)
+   - 📌 Line 42: `[ сообщение ](/casebook/notes/agency/#motel-from-the-future-chair)` (Anchor: `#motel-from-the-future-chair`)
+   - 📌 Line 43: `[ скрытая записка ](/casebook/notes/agency/#motel-from-the-future-closet)` (Anchor: `#motel-from-the-future-closet`)
+   - 📌 Line 106: `[ A16 ](/casebook/light_panel#a16)` (Anchor: `#a16`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\chair_room.ru.md
+   - 📌 Line 27: `[ A08 ](/casebook/light_panel#a08)` (Anchor: `#a08`)
+   - 📌 Line 30: `[ A26 ](/casebook/light_panel#a26)` (Anchor: `#a26`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\destroy_carbon_blocks.ru.md
+   - 📌 Line 24: `[ A09 ](/casebook/light_panel#a09)` (Anchor: `#a09`)
+   - 📌 Line 26: `[ A01 ](/casebook/light_panel#a01)` (Anchor: `#a01`)
+   - 📌 Line 27: `[ V08 ](/casebook/light_panel#v08)` (Anchor: `#v08`)
+   - 📌 Line 36: `[ TS LVL2 ](casebook/interesting/top_secret_level/#ts-lvl2)` (Anchor: `#ts-lvl2`)
+   - 📌 Line 56: `[ A21 ](/casebook/light_panel#a21)` (Anchor: `#a21`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\electric_building.ru.md
+   - 📌 Line 45: `[ A02 ](/casebook/light_panel#a02)` (Anchor: `#a02`)
+   - 📌 Line 48: `[ A03 ](/casebook/light_panel#a03)` (Anchor: `#a03`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\find_7_crystals.ru.md
+   - 📌 Line 25: `[ A19 ](/casebook/light_panel#a19)` (Anchor: `#a19`)
+   - 📌 Line 34: `[ A20 ](/casebook/light_panel#a20)` (Anchor: `#a20`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\frat_house.ru.md
+   - 📌 Line 25: `[ H02 ](/casebook/light_panel#h02)` (Anchor: `#h02`)
+   - 📌 Line 28: `[ H03 ](/casebook/light_panel#h03)` (Anchor: `#h03`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\monoliths.ru.md
+   - 📌 Line 22: `[ сообщение на ноутбуке ](casebook/computer/agency/#circle-the-monoliths)` (Anchor: `#circle-the-monoliths`)
+   - 📌 Line 23: `[ A18 ](/casebook/light_panel#a18)` (Anchor: `#a18`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\mystery_alien.ru.md
+   - 📌 Line 27: `[ A27 ](/casebook/light_panel#a27)` (Anchor: `#a27`)
+   - 📌 Line 39: `[ A27 ](/casebook/light_panel#a27)` (Anchor: `#a27`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\plant_house.ru.md
+   - 📌 Line 22: `[ H06 ](/casebook/light_panel#h06)` (Anchor: `#h06`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\rod_in_police_station.ru.md
+   - 📌 Line 21: `[ A07 ](/casebook/light_panel#a07)` (Anchor: `#a07`)
+
+--------------------------------------------------
+📂 **File:** content\lore\quests\school_base.ru.md
+   - 📌 Line 19: `[ A06 ](/casebook/light_panel#a06)` (Anchor: `#a06`)
+   - 📌 Line 25: `[ A17 ](/casebook/light_panel#a17)` (Anchor: `#a17`)
+   - 📌 Line 38: `[ A14 ](/casebook/light_panel#a14)` (Anchor: `#a14`)
+
+--------------------------------------------------
+📂 **File:** content\lore\special_tools\energy_pyramid.ru.md
+   - 📌 Line 33: `[ местоположению голубей и Энергетической пирамиды ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+
+--------------------------------------------------
+📂 **File:** content\lore\special_tools\rod_under_arch.ru.md
+   - 📌 Line 21: `[ A22 ](../../casebook/light_panel#a22)` (Anchor: `#a22`)
+   - 📌 Line 23: `[ H07 ](../../casebook/light_panel#h07)` (Anchor: `#h07`)
+
+--------------------------------------------------
+📂 **File:** content\lore\special_tools\the_red_book.ru.md
+   - 📌 Line 16: `[ X01 ](../../casebook/light_panel#x01)` (Anchor: `#x01`)
+
+--------------------------------------------------
+📂 **File:** content\lore\special_tools\ts_lvl1.ru.md
+   - 📌 Line 21: `[ Секретное рентгеновское убежище ](../../terminology#x-ray-hideout)` (Anchor: `#x-ray-hideout`)
+
+--------------------------------------------------
+📂 **File:** content\lore\tools\binoculars.ru.md
+   - 📌 Line 22: `[ H08 ](../../casebook/light_panel#h08)` (Anchor: `#h08`)
+
+--------------------------------------------------
+📂 **File:** content\lore\tools\connect_laptop.ru.md
+   - 📌 Line 13: `[ Панель огней Агентства ](/casebook/light_panel/#a05)` (Anchor: `#a05`)
+   - 📌 Line 63: `[ H04 ](../../casebook/light_panel#h04)` (Anchor: `#h04`)
+   - 📌 Line 65: `[ A04 ](../../casebook/light_panel#a04)` (Anchor: `#a04`)
+   - 📌 Line 67: `[ A05 ](../../casebook/light_panel#a05)` (Anchor: `#a05`)
+
+--------------------------------------------------
+📂 **File:** content\map\crystals\barn.ru.md
+   - 📌 Line 17: `[ таинственную кнопку ](casebook/interesting/hidden_valley_cave/#strange-button)` (Anchor: `#strange-button`)
+
+--------------------------------------------------
+📂 **File:** content\map\monoliths\special-location.ru.md
+   - 📌 Line 25: `[ Кейсбук: Подробности о монолитах ](/casebook/monoliths/details/#agency-bunker-message-board-outside)` (Anchor: `#agency-bunker-message-board-outside`)
+   - 📌 Line 36: `[ Кейсбук: Подробности о монолитах ](/casebook/monoliths/details/#future-motel-message-board)` (Anchor: `#future-motel-message-board`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\abandoned-house.ru.md
+   - 📌 Line 34: `[ Код фильма ](/casebook/movie_codes/#abandoned-house-code)` (Anchor: `#abandoned-house-code`)
+   - 📌 Line 35: `[ A19 ](/casebook/light_panel/#a19)` (Anchor: `#a19`)
+   - 📌 Line 36: `[ A20 ](/casebook/light_panel/#a20)` (Anchor: `#a20`)
+   - 📌 Line 38: `[ Мэдисон ](/casebook/notes/madison/#abandoned-house)` (Anchor: `#abandoned-house`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\agency-bunker.ru.md
+   - 📌 Line 45: `[ Информационная панель Монолитов ](/casebook/monoliths/details/#agency-bunker-message-board-outside)` (Anchor: `#agency-bunker-message-board-outside`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\arch-by-abandoned-house.ru.md
+   - 📌 Line 34: `[ Movie Code ](/casebook/movie_codes/#eagle-view-arch-code)` (Anchor: `#eagle-view-arch-code`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\barn.ru.md
+   - 📌 Line 33: `[ Записка в амбаре ](/casebook/notes/mrb/#barn)` (Anchor: `#barn`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\brookhaven-electric.ru.md
+   - 📌 Line 34: `[ Наблюдения: Связь электричества и воды ](/casebook/interesting/observations/#linked-electric--water)` (Anchor: `#linked-electric--water`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\camp-cabin.ru.md
+   - 📌 Line 15: `[ Энергетическая пирамида ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+   - 📌 Line 33: `[ Паук ](/casebook/interesting/camp_cabin/#spider)` (Anchor: `#spider`)
+   - 📌 Line 34: `[ Блоки на чердаке ](/casebook/interesting/camp_cabin/#blocks)` (Anchor: `#blocks`)
+   - 📌 Line 35: `[ Энергетическая пирамида ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\church.ru.md
+   - 📌 Line 34: `[ Записка в пекарне ](/casebook/notes/other/#bakery)` (Anchor: `#bakery`)
+   - 📌 Line 35: `[ Панели энергетического кольца ](/casebook/interesting/observations/#energy-ring-panels)` (Anchor: `#energy-ring-panels`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\crows.ru.md
+   - 📌 Line 33: `[ Панель огней A15 ](/casebook/light_panel/#a15)` (Anchor: `#a15`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\hidden-camera.ru.md
+   - 📌 Line 33: `[ Сообщение на окне Квантовой комнаты ](/casebook/quantum/window_messages/#lake-madison-camera)` (Anchor: `#lake-madison-camera`)
+   - 📌 Line 35: `[ Найден слот задней двери камеры ](/casebook/quantum/message_board/#backdoor-camera-slot-found)` (Anchor: `#backdoor-camera-slot-found`)
+   - 📌 Line 36: `[ Питание включено ](/casebook/quantum/message_board/#power-online)` (Anchor: `#power-online`)
+   - 📌 Line 37: `[ Наблюдения: Связь электричества и воды ](/casebook/interesting/observations/#linked-electric--water)` (Anchor: `#linked-electric--water`)
+   - 📌 Line 38: `[ A19 Завершено: SQL-инъекция ](/casebook/light_panel/#a19)` (Anchor: `#a19`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\hidden-valley.ru.md
+   - 📌 Line 41: `[ Телепортация в Скрытой долине ](/casebook/interesting/teleporting/#hidden-valley-teleport-spot)` (Anchor: `#hidden-valley-teleport-spot`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\horse-stable.ru.md
+   - 📌 Line 34: `[ Появление Энергетической пирамиды поблизости ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+   - 📌 Line 35: `[ A20 В ожидании энергии ](/casebook/light_panel/#a20)` (Anchor: `#a20`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\hospital.ru.md
+   - 📌 Line 51: `[ Панель огней X01 ](/casebook/light_panel/#x01)` (Anchor: `#x01`)
+   - 📌 Line 52: `[ Записка от мистера Brookhaven ](/casebook/notes/mrbrookhaven/#crystals-for-good-or-bad)` (Anchor: `#crystals-for-good-or-bad`)
+   - 📌 Line 53: `[ Записка от медицинского офицера Авида ](/casebook/notes/other/#military-rp-home)` (Anchor: `#military-rp-home`)
+   - 📌 Line 55: `[ Записка "Операция READRIVER" ](/casebook/notes/other/#operation-redriver)` (Anchor: `#operation-redriver`)
+   - 📌 Line 57: `[ Никаких экспериментов! ](/casebook/computer/agency/#no-experimenting)` (Anchor: `#no-experimenting`)
+   - 📌 Line 58: `[ Агентство знает, что для вас лучше ](/casebook/computer/agency/#agency-knows-whats-best)` (Anchor: `#agency-knows-whats-best`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\mall.ru.md
+   - 📌 Line 35: `[ Особое скрытое сообщение ](/casebook/interesting/special_messages/#memoir-of-rosie-o1gs-cat)` (Anchor: `#memoir-of-rosie-o1gs-cat`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\motel.ru.md
+   - 📌 Line 39: `[ Компьютерные сообщения, активируемые в будущем мотеле ](/casebook/computer/agency/#power-of-the-book)` (Anchor: `#power-of-the-book`)
+   - 📌 Line 40: `[ Монолитный код в мотеле ](/casebook/monoliths/details/#future-motel-message-board)` (Anchor: `#future-motel-message-board`)
+   - 📌 Line 47: `[ Энергетическая пирамида ](/lore/special_tools/energy_pyramid/#known-locations-doves-appear-at)` (Anchor: `#known-locations-doves-appear-at`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\paradise-falls.ru.md
+   - 📌 Line 36: `[ Телепорт в Paradise Falls ](/casebook/interesting/teleporting/#paradise-falls)` (Anchor: `#paradise-falls`)
+   - 📌 Line 37: `[ Синхронизация компьютера с кристаллом из Paradise Falls ](/casebook/computer/other/#sync-failed)` (Anchor: `#sync-failed`)
+   - 📌 Line 38: `[ Кристалл ](/casebook/interesting/observations/#paradise-falls-crystal)` (Anchor: `#paradise-falls-crystal`)
+   - 📌 Line 39: `[ Как попасть в Скрытую пещеру ](/casebook/interesting/hidden_valley_cave/#getting-to-secret-cave)` (Anchor: `#getting-to-secret-cave`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\police-station.ru.md
+   - 📌 Line 37: `[ Код фильма в полицейском участке ](/casebook/movie_codes/#police-station-code)` (Anchor: `#police-station-code`)
+   - 📌 Line 38: `[ Местоположение энергетической пирамиды ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\portal.ru.md
+   - 📌 Line 43: `[ Как телепортироваться ко входу в портал ](/casebook/interesting/teleporting/#portal-entrance)` (Anchor: `#portal-entrance`)
+   - 📌 Line 44: `[ Подсказки от Админа Кейт для KreekCraft ](/casebook/interesting/admin_kate/#message-to-kreekcraft)` (Anchor: `#message-to-kreekcraft`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\school.ru.md
+   - 📌 Line 44: `[ Записка от мистера B ](/casebook/notes/mrb/#school-base)` (Anchor: `#school-base`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\spawn.ru.md
+   - 📌 Line 41: `[ Детали Энергетической пирамиды ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+
+--------------------------------------------------
+📂 **File:** content\map\poi\town-hall.ru.md
+   - 📌 Line 37: `[ Детали энергетической пирамиды ](/casebook/energy_pyramids/#known-locations)` (Anchor: `#known-locations`)
+   - 📌 Line 38: `[ Скрытое сообщение с благодарностью ](/casebook/interesting/special_messages/#special-thanks)` (Anchor: `#special-thanks`)
+   - 📌 Line 40: `[ Как связаны Ратуша и Brookhaven Electric ](/casebook/interesting/observations/#linked-electric--water)` (Anchor: `#linked-electric--water`)
+
+--------------------------------------------------
