@@ -6,7 +6,7 @@ date: 2025-02-04
 cascade:
 - url: /blog/:filename
 archetype: "blog"
-imagecust: https://cdn.discordapp.com/attachments/1262909160685703209/1336368749388763208/image.png?ex=67a38de2&is=67a23c62&hm=f1bfb52d280ed09eec8d4057a328b6013b79fe1f52f79bed2bda3b022ce2ec3a&
+imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/brightLea_%26_bloomindaisy.png
 images:
 - /images/wolfpaq_announcement.png
 - /images/brightLea_&_bloomindaisy.png
