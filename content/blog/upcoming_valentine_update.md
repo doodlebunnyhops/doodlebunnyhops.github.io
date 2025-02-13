@@ -86,7 +86,7 @@ Either way, we won’t know for sure until Friday, but I’ll be watching closel
 I’m not the only one hyped for this update! One of my favorite content creators, Darzeth, has already shared his thoughts on the upcoming changes. Check out his video below to see what he’s predicting!
 
 <div class="grid-1 post-vid-dot">
-{{< youtube id=9mDerTmwFhg loading=lazy >}}
+{{< youtube id=HBUiW_0KfrU loading=lazy >}}
 </div>
 
 ---
