@@ -628,7 +628,7 @@ Unlocks ability to Electrocute the Alien
 		2. Bunker Message:
  
 			==In darkness: A27 activated==
-4. Back at [Agency Experimentation Site]() you can now Electrocute the Alien in the tube
+4. Back at [Agency Experimentation Site](/map/poi/hospital/#experimentation-site) you can now Electrocute the Alien in the tube
 
 <h3>Deactivating</h3>
 
