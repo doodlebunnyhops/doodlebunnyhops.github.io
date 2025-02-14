@@ -89,6 +89,18 @@ I’m not the only one hyped for this update! One of my favorite content creator
 {{< youtube id=HBUiW_0KfrU loading=lazy >}}
 </div>
 
+
+---
+
+
+**Pour nos joueurs français, j'aimerais partager la vidéo de Darkito!**
+
+<sub>For our French players, I'd like to share Darkito's vid!</sub>
+
+<div class="grid-1 post-vid-dot">
+{{< youtube id=2AcPFmtGVBw loading=lazy >}}
+</div>
+
 ---
 
 ## **Final thoughts from Daisy 💜**  
