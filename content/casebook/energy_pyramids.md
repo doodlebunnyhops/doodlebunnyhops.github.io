@@ -45,12 +45,12 @@ So far I haven't identified any pattern. Though some locations seem to get the d
 I have personally set out to test secrets and findings. These are locations I've seen first hand.
 
 
-*_Please note the section on Motel has recently changed (as of dec. 20 2024) and the video shows the old motel location!_
+*_Please note the section on Motel has recently changed (as of dec. 20 2024) and the video shows the old motel location! Descroptions below are updated_
 {{< youtube id=W3tRmp_qnuI loading=lazy >}}
 
 1. **Spawn**: Doves are on the swing with the Energy Pyramid on the tree next to the Police Station 
 2. **Motel**: Doves spwan just above Motel Lobby sitting on railing, and pyramid on a perch to the right of the doves.
-3. **Rosie's Gym**: Spawns inside of the Mall behind the TV in Rosie's Gym upstairs.
+3. **Rosie's Gym**: Doves appear on the roof of the mall and the Energy Pyramid in a corner of Rosie's Gym in the Mall upstairs.
 4. **Town Hall**: Doves are on the upstairs balcony of Town Hall. The Energy Pyramid spawns on the ground next to the tree between Town Hall and the Fire Station.
 5. **Horse Stables**: perched on fence and the Energy Pyramid spawns by hay (teleport by going to Gold Ranch for faster travels!) 
 6. **Cabin**: Doves spawn on the top of the Cabin Roof and the Energy Pyramid spawns behind a tree near a big Gray Rock on the left side of the cabin 

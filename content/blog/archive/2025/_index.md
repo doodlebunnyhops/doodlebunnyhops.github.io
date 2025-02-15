@@ -5,7 +5,7 @@ description: Archived Blogs from year 2025 By Month about Brookhaven RP Updates,
 type: blog_archive
 images:
 - images/thumbnails/blog_splash.png
-draft: true
+draft: false
 ---
 
 
