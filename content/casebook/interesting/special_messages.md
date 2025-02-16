@@ -36,7 +36,7 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 1. Go to The [Mall](/map/poi/mall/)
 1. Head upstairs to Rosies Gym.
     1. Behind the stool you will see a picture of Rosie.
-![](/images/blog/valentines_update_rosie_new_location.webp)
+![Visible image of Rosie, O1G's cat, from Wolfpaq behind stand in Rosie's Gym in the Mall.](/images/blog/valentines_update_rosie_new_location.webp)
 
 
 {{% notice style="tip" title="Previous Steps Before Mall Remodel" expanded=false %}}

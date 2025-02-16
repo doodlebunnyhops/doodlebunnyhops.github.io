@@ -30,7 +30,7 @@ Please do not submit leaks, this site only offers secrets actively in the game!
 
 Wanna chat about the secrets and mysteries in the game? 
 
-Checkout deets on where we hang in [discord](discord)
+Checkout deets on where we hang in [discord](https://discord.gg/wolfpaqgames)
 
 <sub>*Make sure to read the rules there and looking forward to chatting!</sub>
 

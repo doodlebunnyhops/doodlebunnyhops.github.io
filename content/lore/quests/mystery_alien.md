@@ -28,8 +28,8 @@ _Note the video above is now outdated due to the [Mall Remodel](/blog/valentines
 	1. Go inside the hidden room between GIA and EMPIRE clothing store using a sleeping bag.
 	1. Flip the lever on the left on so it turns green.
 {{< column "grid-2 post-block" >}}
-![](/images/bh/mystery_alien_sleeping_bag_in_GIA_store.webp)
-![](/images/bh/mystery_alien_lever_in_mall.webp)
+![Sleeping Bag inside the wall of GIA store at Brookhaven Mall to get into hidden room](/images/bh/mystery_alien_sleeping_bag_in_GIA_store.webp)
+![Bloomindaisy inside hidden room between GIA and EMPIRE clothing store at Brookhaven Mall](/images/bh/mystery_alien_lever_in_mall.webp)
 {{< /column>}}
 		1. This activates [A27](/casebook/light_panel#a27)
 		1. Laptop

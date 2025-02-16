@@ -131,7 +131,7 @@ Secrets shifting around is nothing new in Brookhaven, but it’s always exciting
     - The hidden lever is no longer behind the TV station, its now between GIA and EMPIRE clothing stores, still needs a sleeping bag to get in the hidden area.
 - [Dove and Energy Pyramid](/casebook/energy_pyramids/): 
     - Dove now appears on the roof top of the mall and Energy Pyramid is still inside Rosie's Gym but in a corner, so much easier to grab now!
-- [O1G's Rosie the Cat](/casebook/interesting/special_messages/#memoir-of-rosie-o1gs-cat) is still in Rosie's Gym :hearts:
+- [O1G's Rosie the Cat](/casebook/interesting/special_messages/#memoir-of-rosie-o1gs-cat) has moved to Rosie's Gym :hearts:
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}

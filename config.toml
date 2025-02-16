@@ -16,7 +16,9 @@ showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
 
-paginate = 40
+[pagination]
+  pagerSize = 40
+
 
 [services]
   [services.googleAnalytics]
@@ -139,3 +141,6 @@ largeTwitterCard = true
     lazy = true
     lightbox = true
     shadow = false
+
+
+#defaultContentLanguage = 'en'

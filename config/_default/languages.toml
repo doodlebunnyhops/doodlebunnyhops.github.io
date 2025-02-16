@@ -1,6 +1,16 @@
-[en]
-  LanguageName = "English"
-  weight = 1
+#[en]
+#  LanguageName = "English"
+#  weight = 1
 # [tr]
 #   LanguageName = "Turkish"
 #   weight = 1
+
+[en]
+  languageCode = 'en'
+  languageName = 'English'
+  weight = 1
+
+[ru]
+  contentDir = 'ru'
+  languageName = 'Русский'
+  weight = 2
