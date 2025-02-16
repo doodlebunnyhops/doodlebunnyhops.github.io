@@ -15,6 +15,7 @@ description: "Reveal Brookhaven's green alien at the hospital site. Follow this 
 **Items Needed** : Sleeping bag
 {{% /notice %}}
 
+_Note the video above is now outdated due to the [Mall Remodel](/blog/valentines_update)_
 
 **Steps:**
 
@@ -24,7 +25,12 @@ description: "Reveal Brookhaven's green alien at the hospital site. Follow this 
 	1. Click on the button found underneath the Surgery Table to turn the lights on
 	2. Sit in the chair on the right under "Experimental" and get slimmed!
 3. Go to the mall:
-	1. Turn on the left switch in the TV Station (behind the wall use a sleeping bag)
+	1. Go inside the hidden room between GIA and EMPIRE clothing store using a sleeping bag.
+	1. Flip the lever on the left on so it turns green.
+{{< column "grid-2 post-block" >}}
+![Sleeping Bag inside the wall of GIA store at Brookhaven Mall to get into hidden room](/images/bh/mystery_alien_sleeping_bag_in_GIA_store.webp)
+![Bloomindaisy inside hidden room between GIA and EMPIRE clothing store at Brookhaven Mall](/images/bh/mystery_alien_lever_in_mall.webp)
+{{< /column>}}
 		1. This activates [A27](/casebook/light_panel#a27)
 		1. Laptop
 		

@@ -34,12 +34,23 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)
+1. Head upstairs to Rosies Gym.
+    1. Behind the stool you will see a picture of Rosie.
+![Visible image of Rosie, O1G's cat, from Wolfpaq behind stand in Rosie's Gym in the Mall.](/images/blog/valentines_update_rosie_new_location.webp)
+
+
+{{% notice style="tip" title="Previous Steps Before Mall Remodel" expanded=false %}}
+
+**Old Steps**
+
+1. Go to The [Mall](/map/poi/mall/)
 1. Behind the Modeling Runway Stage, 
     1. On the right corner wall you will see a picture of Rosie.
 
 What a special way to give your condolences Wolfpaq :heart: Our thoughts are with you O1G.
 
 ![Visible image of Rosie, O1G's cat, from Wolfpaq behind Modeling Stage at the Mall.](/images/bh/rosie.png)
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -60,9 +71,10 @@ What a special way to give your condolences Wolfpaq :heart: Our thoughts are wit
 
 ## Buggstra was here
 
-{{% notice style="tip" %}}
-**Requirements** : None
+{{% notice style="warning" %}}
+Unforutunately this easter egg was removed, or at the very list not found, from the [Valientines Mall Remodel](/blog/valentines_update)
 {{% /notice %}}
+
 
 **Steps:**
 1. Go to The [Mall](/map/poi/mall/)

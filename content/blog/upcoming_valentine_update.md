@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2025-02-12
 published: 2025-02-12
 title: "Update Coming on Valentines Day! Devs Confirm a Secret Has Moved ❤️"
-linktitle: "Upcoming Valentine's Update & Secrets"
+linktitle: "Brookhaven’s Next Update: A Valentine’s Surprise?"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
@@ -42,9 +42,7 @@ Here’s what she confirmed for us:
 ✔ A secret has been moved (but not removed—this is important, keep it in mind!) 🔍  
 ✔ The steps to complete it are still possible and Joylessly made sure of this!  
 
-Now, this raises a very interesting question… If nothing was removed, why move it at all? 🤨 Whatever’s coming this Friday, it’s big enough that something had to shift to make room.
-
-🕵️‍♀️ If you notice anything different after the update, let me know! I’ll be **on the hunt Friday** trying to track it down.🔥
+Now, this raises a very interesting question… If nothing was removed, why move it at all? 🤨 Whatever’s coming this Friday, it’s big enough that something had to shift to make room. 🕵️‍♀️
 
 ---
 
@@ -70,7 +68,7 @@ I’ll be testing this **ASAP** when the update drops, so stay tuned!
 
 **Could This Be a Valentine’s Update?**  
 
-Now, let’s think about this—if a secret had to be moved, that has to mean something big is being added, right? 🤔 We don’t have an official changelog yet, but given the date of release, it’s hard not to speculate that this could be a Valentine’s-themed update. If that’s the case, we might see:
+Let’s think about this—if a secret had to be moved, that has to mean something big is being added, right? 🤔 We don’t have an official changelog yet, but given the date of release, it’s hard not to speculate that this could be a Valentine’s-themed update. If that’s the case, we might see:
 
 💘 Heart-themed decorations around the map, like how we got Easter eggs in past updates  
 🚗 Limited-time Valentine vehicles (could the swan be one of them?)  
@@ -88,7 +86,19 @@ Either way, we won’t know for sure until Friday, but I’ll be watching closel
 I’m not the only one hyped for this update! One of my favorite content creators, Darzeth, has already shared his thoughts on the upcoming changes. Check out his video below to see what he’s predicting!
 
 <div class="grid-1 post-vid-dot">
-{{< youtube id=9mDerTmwFhg loading=lazy >}}
+{{< youtube id=HBUiW_0KfrU loading=lazy >}}
+</div>
+
+
+---
+
+
+**Pour nos joueurs français, j'aimerais partager la vidéo de Darkito!**
+
+<sub>For our French players, I'd like to share Darkito's vid!</sub>
+
+<div class="grid-1 post-vid-dot">
+{{< youtube id=2AcPFmtGVBw loading=lazy >}}
 </div>
 
 ---
