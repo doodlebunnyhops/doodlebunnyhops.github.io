@@ -30,11 +30,11 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Сообщение на окне Квантовой комнаты](/casebook/quantum/window_messages/#lake-madison-camera)
+- [Сообщение на окне Квантовой комнаты](/casebook/quantum/window_messages/#камера-на-озере-мэдисон)
 - Панель сообщений Квантовой комнаты:
-    1. [Найден слот задней двери камеры](/casebook/quantum/message_board/#backdoor-camera-slot-found)
-    2. [Питание включено](/casebook/quantum/message_board/#power-online)
-- [Наблюдения: Связь электричества и воды](/casebook/interesting/observations/#linked-electric--water)
+    1. [Найден слот задней двери камеры](/casebook/quantum/message_board/#найден-обходной-слот-камеры)
+    2. [Питание включено](/casebook/quantum/message_board/#энергия-включена)
+- [Наблюдения: Связь электричества и воды](/casebook/interesting/observations/#связь-между-электричеством-и-водой)
 - [A19 Завершено: SQL-инъекция](/casebook/light_panel/#a19)
 
 <hr style="background-color: #28b44c" size=8>

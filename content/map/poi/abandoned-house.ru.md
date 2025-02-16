@@ -31,11 +31,11 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Код фильма](/casebook/movie_codes/#abandoned-house-code)
+- [Код фильма](/casebook/movie_codes/#код-в-заброшенном-доме)
 - Панель огней Агентства [A19](/casebook/light_panel/#a19)
 - Панель огней Агентства [A20](/casebook/light_panel/#a20)
 - [Местоположения монолитов 1 и 10](/casebook/monoliths/locations/)
-- Записка для [Мэдисон](/casebook/notes/madison/#abandoned-house)
+- Записка для [Мэдисон](/casebook/notes/madison/#заброшенный-дом)
 
 <hr style="background-color: #28b44c" size=8>
 

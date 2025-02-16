@@ -17,7 +17,7 @@ description: "Все записки, подписанные Маркусом, и
 {{% notice style="tip" %}}
 **Требования**: Нет  
 
-Часть квеста: [Логово преступников](/lore/quests/agency_greed/#criminal-lair)  
+Часть квеста: [Логово преступников](/lore/quests/agency_greed/#логово-преступников)  
 {{% /notice %}}
 
 **Шаги:**  

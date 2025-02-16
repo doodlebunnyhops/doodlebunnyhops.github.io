@@ -34,8 +34,8 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Код фильма в полицейском участке](/casebook/movie_codes/#police-station-code)
-- [Местоположение энергетической пирамиды](/casebook/energy_pyramids/#known-locations)
+- [Код фильма в полицейском участке](/casebook/movie_codes/#код-в-полицейском-участке)
+- [Местоположение энергетической пирамиды](/casebook/energy_pyramids/#известные-местоположения)
 
 <hr style="background-color: #28b44c" size=8>
 

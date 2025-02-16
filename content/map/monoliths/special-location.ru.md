@@ -22,7 +22,7 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="***()***">***()***</code></span></center>
 
->Отрывок из [Кейсбук: Подробности о монолитах](/casebook/monoliths/details/#agency-bunker-message-board-outside)
+>Отрывок из [Кейсбук: Подробности о монолитах](/casebook/monoliths/details/#панель-сообщений-в-бункере-агентства-снаружи)
 >
 >Обратите внимание, что прямо за пределами Бункера Агентства появилась новая информационная панель...
 
@@ -33,6 +33,6 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="<^^>"><^^></code></span></center>
 
->Отрывок из [Кейсбук: Подробности о монолитах](/casebook/monoliths/details/#future-motel-message-board)
+>Отрывок из [Кейсбук: Подробности о монолитах](/casebook/monoliths/details/#панель-сообщений-за-мотелем-возможное-будущее-обновление)
 >
 >Также найден код монолита за мотелем...

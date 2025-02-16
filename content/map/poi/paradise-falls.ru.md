@@ -34,9 +34,9 @@ Paradise Falls в Brookhaven предлагает живописные виды.
 ### Связанные материалы в Кейсбуке
 
 - [Телепорт в Paradise Falls](/casebook/interesting/teleporting/#paradise-falls)
-- [Синхронизация компьютера с кристаллом из Paradise Falls](/casebook/computer/other/#sync-failed)
-- [Кристалл](/casebook/interesting/observations/#paradise-falls-crystal)
-- [Как попасть в Скрытую пещеру](/casebook/interesting/hidden_valley_cave/#getting-to-secret-cave)
+- [Синхронизация компьютера с кристаллом из Paradise Falls](/casebook/computer/other/#синхронизация-не-удалась)
+- [Кристалл](/casebook/interesting/observations/#кристалл-в-paradise-falls)
+- [Как попасть в Скрытую пещеру](/casebook/interesting/hidden_valley_cave/#как-попасть-в-секретную-пещеру)
 
 <hr style="background-color: #28b44c" size=8>
 

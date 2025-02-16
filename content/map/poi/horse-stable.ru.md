@@ -31,7 +31,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Появление Энергетической пирамиды поблизости](/casebook/energy_pyramids/#known-locations)
+- [Появление Энергетической пирамиды поблизости](/casebook/energy_pyramids/#известные-местоположения)
 - [A20 В ожидании энергии](/casebook/light_panel/#a20)
 
 <hr style="background-color: #28b44c" size=8>

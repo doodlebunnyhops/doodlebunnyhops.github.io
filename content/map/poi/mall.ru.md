@@ -32,7 +32,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Особое скрытое сообщение](/casebook/interesting/special_messages/#memoir-of-rosie-o1gs-cat)
+- [Особое скрытое сообщение](/casebook/interesting/special_messages/#мемориал-рози--кошки-o1g)
 - [Коды фильмов](/casebook/movie_codes/)
 - [Энергетические пирамиды](/casebook/energy_pyramids/)
 

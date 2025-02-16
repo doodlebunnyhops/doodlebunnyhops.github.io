@@ -42,7 +42,7 @@ draft: false
 
 - [Панель огней Агентства](/casebook/light_panel/)
 - [Коды фильмов](/casebook/movie_codes/)
-- [Информационная панель Монолитов](/casebook/monoliths/details/#agency-bunker-message-board-outside)
+- [Информационная панель Монолитов](/casebook/monoliths/details/#панель-сообщений-в-бункере-агентства-снаружи)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -16,7 +16,9 @@ showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
 
-paginate = 40
+[pagination]
+  pagerSize = 40
+
 
 [services]
   [services.googleAnalytics]

@@ -34,10 +34,10 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Детали энергетической пирамиды](/casebook/energy_pyramids/#known-locations)
-- [Скрытое сообщение с благодарностью](/casebook/interesting/special_messages/#special-thanks)
+- [Детали энергетической пирамиды](/casebook/energy_pyramids/#известные-местоположения)
+- [Скрытое сообщение с благодарностью](/casebook/interesting/special_messages/#особая-благодарность)
 - [Как вызвать пар в Квантовой комнате](/casebook/quantum/steam/)
-- [Как связаны Ратуша и Brookhaven Electric](/casebook/interesting/observations/#linked-electric--water)
+- [Как связаны Ратуша и Brookhaven Electric](/casebook/interesting/observations/#связь-между-электричеством-и-водой)
 
 <hr style="background-color: #28b44c" size=8>
 

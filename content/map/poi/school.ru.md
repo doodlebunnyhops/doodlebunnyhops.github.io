@@ -41,7 +41,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Записка от мистера B](/casebook/notes/mrb/#school-base)
+- [Записка от мистера B](/casebook/notes/mrb/#школьная-база)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -38,7 +38,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Детали Энергетической пирамиды](/casebook/energy_pyramids/#known-locations)
+- [Детали Энергетической пирамиды](/casebook/energy_pyramids/#известные-местоположения)
 - [Что под фонтаном?](/casebook/interesting/fountain/)
 
 <hr style="background-color: #28b44c" size=8>

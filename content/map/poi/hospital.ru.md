@@ -49,13 +49,13 @@ draft: false
 ### Связанные материалы в Кейсбуке
 
 - [Панель огней X01](/casebook/light_panel/#x01)
-- [Записка от мистера Brookhaven](/casebook/notes/mrbrookhaven/#crystals-for-good-or-bad)
-- [Записка от медицинского офицера Авида](/casebook/notes/other/#military-rp-home)
+- [Записка от мистера Brookhaven](/casebook/notes/mrbrookhaven/#кристаллы-во-благо-или-во-зло)
+- [Записка от медицинского офицера Авида](/casebook/notes/other/#военный-дом-rp)
 - [Квантовая комната](/casebook/quantum/)
-- [Записка "Операция READRIVER"](/casebook/notes/other/#operation-redriver)
+- [Записка "Операция READRIVER"](/casebook/notes/other/#операция-redriver)
 - Компьютерные сообщения:
-    1. [Никаких экспериментов!](/casebook/computer/agency/#no-experimenting)
-    1. [Агентство знает, что для вас лучше](/casebook/computer/agency/#agency-knows-whats-best)
+    1. [Никаких экспериментов!](/casebook/computer/agency/#никаких-экспериментов)
+    1. [Агентство знает, что для вас лучше](/casebook/computer/agency/#агентство-знает-что-лучше)
 
 <hr style="background-color: #28b44c" size=8>
 

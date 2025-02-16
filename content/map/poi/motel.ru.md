@@ -36,15 +36,15 @@ draft: false
 ### Связанные материалы в Кейсбуке
 
 - [Записки о будущем номере мотеля](/casebook/notes/agency/)
-- [Компьютерные сообщения, активируемые в будущем мотеле](/casebook/computer/agency/#power-of-the-book)
-- [Монолитный код в мотеле](/casebook/monoliths/details/#future-motel-message-board)
+- [Компьютерные сообщения, активируемые в будущем мотеле](/casebook/computer/agency/#сила-книги)
+- [Монолитный код в мотеле](/casebook/monoliths/details/#панель-сообщений-за-мотелем-возможное-будущее-обновление)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Связанные квесты
 
 - [Построить портал](/lore/quests/build_portal/)
-- [Энергетическая пирамида](/lore/special_tools/energy_pyramid/#known-locations-doves-appear-at)
+- [Энергетическая пирамида](/lore/special_tools/energy_pyramid/#известные-места-появления-голубей)
 
 
 <hr style="background-color: #28b44c" size=8>

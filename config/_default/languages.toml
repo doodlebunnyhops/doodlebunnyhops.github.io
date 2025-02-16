@@ -8,11 +8,9 @@
 [en]
   languageCode = 'en'
   languageName = 'English'
-  title = 'My Website'
   weight = 1
 
 [ru]
   contentDir = 'ru'
   languageName = 'Русский'
-  title = 'My Website - Russian'
   weight = 2

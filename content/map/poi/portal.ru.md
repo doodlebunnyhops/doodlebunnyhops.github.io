@@ -40,8 +40,8 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Как телепортироваться ко входу в портал](/casebook/interesting/teleporting/#portal-entrance)
-- [Подсказки от Админа Кейт для KreekCraft](/casebook/interesting/admin_kate/#message-to-kreekcraft)
+- [Как телепортироваться ко входу в портал](/casebook/interesting/teleporting/#вход-в-портал)
+- [Подсказки от Админа Кейт для KreekCraft](/casebook/interesting/admin_kate/#сообщение-для-kreekcraft)
 
 <hr style="background-color: #28b44c" size=8>
 

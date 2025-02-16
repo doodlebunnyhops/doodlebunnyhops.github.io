@@ -1,34 +1,34 @@
 ---
-linktitle: "Arch by Abandoned House"
-title: "Arch by Abandoned House: Movie Code Secrets"
+linktitle: "Арка у Заброшенного дома"
+title: "Арка у Заброшенного дома: Секреты кода фильма"
 noindex: false
 weight: 1
 date: 2024-01-02
-description: "Uncover the secrets of the arch near Brookhaven’s Abandoned House. A hidden movie code lies beneath its base—find it now!"
+description: "Раскройте секреты арки возле Заброшенного дома Brookhaven. Под её основанием скрыт код фильма — найдите его!"
 
 images:
 - images/maps/arch1.jpg
-#Categories: ["point of interest","map"]
-#Tags: ["Arch", "Movie Reel"]
+#Categories: ["точка интереса","карта"]
+#Tags: ["Арка", "Катушка фильма"]
 draft: false
 --- 
 
 
-The arch by the abandoned house hides a movie code underneath one of its bases!
+Арка возле Заброшенного дома скрывает код фильма под одной из своих основ!  
 
-![view of Arch by Abandoned House](/images/maps/arch1.jpg)
+![Вид на арку у Заброшенного дома](/images/maps/arch1.jpg)
 
 <hr style="background-color: #28b44c" size=8>
 
-## Map View
+## Вид на карте
 
-{{% expand title="Outlined Location of Arch by Abandoned House" %}}
+{{% expand title="Выделенное местоположение арки у Заброшенного дома" %}}
 
-![Location of Arch by Abandoned House](/images/maps/arch-by-abandoned-house.png)
+![Местоположение арки у Заброшенного дома](/images/maps/arch-by-abandoned-house.png)
 
 {{% /expand %}}
 <hr style="background-color: #28b44c" size=8>
 
-### Related CaseBook Items
+### Связанные материалы в Кейсбуке
 
-- [Movie Code](/casebook/movie_codes/#eagle-view-arch-code)
+- [Код фильма](/casebook/movie_codes/#код-арки-eagle-view)

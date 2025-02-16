@@ -1,6 +1,5 @@
 {{- $page := . }}
 {{- if eq $page.Params.type "story" }}
-  <!-- {{- partialCached "page-meta.hugo" . .RelPermalink }} -->
 
     <!-- {{- $pages := where site.RegularPages "Section" site.Params.blogDir  }} -->
 
@@ -8,7 +7,7 @@
       {{- $pages := where $section.Pages "Type" "story" }}
       
        <!-- {{- $paginator := .Paginate $pages -}} -->
-        <!-- {{- $size := $paginator.PageSize }}
+        <!-- {{- $size := $paginator.PagerSize }}
         <h2>size {{ $size }}</h2> -->
 
       <!-- {{- range $index, $value := $pages }}
@@ -27,7 +26,7 @@
       <hr>
       
         {{- $paginator := .Paginate $pages -}}
-        {{- $size := $paginator.PageSize }}
+        {{- $size := $paginator.PagerSize }}
         <!-- <h2>size {{ $size }}</h2> -->
         {{- $scratch := newScratch }}
         {{- range $index, $value := $paginator.Pages }}

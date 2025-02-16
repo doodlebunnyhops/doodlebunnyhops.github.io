@@ -30,7 +30,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Записка в амбаре](/casebook/notes/mrb/#barn)
+- [Записка в амбаре](/casebook/notes/mrb/#амбар)
 
 <hr style="background-color: #28b44c" size=8>
 

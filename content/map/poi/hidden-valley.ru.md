@@ -38,7 +38,7 @@ draft: false
 ### Связанные материалы в Кейсбуке
 
 - [Секретная пещера](/casebook/interesting/hidden_valley_cave/)
-- [Телепортация в Скрытой долине](/casebook/interesting/teleporting/#hidden-valley-teleport-spot)
+- [Телепортация в Скрытой долине](/casebook/interesting/teleporting/#точка-телепортации-в-секретной-долине)
 
 <hr style="background-color: #28b44c" size=8>
 

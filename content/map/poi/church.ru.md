@@ -31,8 +31,8 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Записка в пекарне](/casebook/notes/other/#bakery)
-- [Панели энергетического кольца](/casebook/interesting/observations/#energy-ring-panels)
+- [Записка в пекарне](/casebook/notes/other/#пекарня)
+- [Панели энергетического кольца](/casebook/interesting/observations/#панели-энергетического-кольца)
 - [Энергетические пирамиды](/casebook/energy_pyramids/)
 
 <hr style="background-color: #28b44c" size=8>
