@@ -5,7 +5,7 @@ published: 2025-02-14
 title: "Обновление Brookhaven ко Дню святого Валентина: лебединая машина, обновленный торговый центр и переместившиеся секреты?!"
 linktitle: "Обновление Brookhaven ко Дню святого Валентина"
 cascade:
-- url: /blog/:filename
+- url: ru/blog/:filename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-1489e714303ec84053d65929691fc59e/768/432/Image/Png/noFilter
 images:
