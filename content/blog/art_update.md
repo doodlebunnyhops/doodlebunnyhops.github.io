@@ -12,6 +12,7 @@ images:
 - https://tr.rbxcdn.com/180DAY-a8450bb02656f23d8c154b4f1226903a/768/432/Image/Png/noFilter
 - https://tr.rbxcdn.com/180DAY-95aec83d60c2962e0a7a06fe11b03dbc/768/432/Image/Png/noFilter
 description: "Brookhaven's latest update introduces artistic tools, new props, and stylish apartments, bringing fresh ways to express creativity."
+tags: ["BrookhavenRP 2025 Updates","BrookhavenRP Art Update"]
 noindex: true
 hidden: true
 draft: false
