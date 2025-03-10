@@ -24,7 +24,7 @@ _Some speculate this message originates from Fear, while others believe it is Gr
 
 1. Head to [Fear and Greed's Room](/lore/quests/agency_coffin_portal/fear_and_greed/)
 2. Sit on the rock found by Greed's picture to the right..
-    > I can offer you everything in this world. All of your wordly desiers can be fulfilled. No need to think, just follow me. I know what's best for you. Live the best life with no care to others for you are a king. I can sit by my side in my kingdom.
+    > I can offer you everything in this world. All of your wordly desiers can be fulfilled. No need to think, just follow me. I know what's best for you. Live the best life with no care to others for you are a king. You can sit by my side in my kingdom.
 
 ![The first cryptic message in Brookhaven’s Agency dungeon, promising power and wealth in exchange for absolute obedience. Some believe this could be Fear’s influence rather than Greed’s.](/images/agency_coffin_portal_quest/agency_dungeon_message_promise_of_power.webp?height=200px) 
 
