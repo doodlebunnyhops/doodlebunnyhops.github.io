@@ -11,6 +11,7 @@ imagecust: https://tr.rbxcdn.com/180DAY-8b7112050fa4db1939f259c9104fae4b/768/432
 images:
 - https://tr.rbxcdn.com/180DAY-8b7112050fa4db1939f259c9104fae4b/768/432/Image/Png/noFilter
 description: "Description"
+tags: ["BrookhavenRP 2025 Updates","BrookhavenRP TYPE Update"]
 noindex: true
 hidden: true
 draft: true

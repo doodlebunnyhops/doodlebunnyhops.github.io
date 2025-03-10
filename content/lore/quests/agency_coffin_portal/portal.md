@@ -40,6 +40,12 @@ _An ominous room with 5 coffins in a circle with one of them under a stonehenge_
 
 > :smile: YOU DID IT❣️
 
+#### Special Cut Scene
+
+You'll be teleported to a dark room with skulls all around you... and eventually you'll return to the main room where a [new message appears](/casebook/notes/other/#stay-good) :eyes:
+
+
+
 ### Helpful Pics
 {{< tabs title="Click Tab ->" >}}
 

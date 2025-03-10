@@ -44,7 +44,7 @@
 
 h1 {
   color: var(--INTERNAL-MAIN-TITLES-H1-TEXT-color);
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-variation-settings: var(--INTERNAL-MAIN-TITLES-H1-font-variation-settings);
   font-weight: var(--INTERNAL-MAIN-TITLES-H1-font-weight);
   font-family: var(--INTERNAL-MAIN-TITLES-H1-font);

@@ -51,38 +51,48 @@ Need some pics to help? Each step has [pictures listed below](#helpful-pics)
 
 ### Steps:
 
-1. Click note by the burnt Agency Coffin (on the first floor to the right).
+1. Click [note by the burnt Agency Coffin](/casebook/notes/mrbrookhaven/#burnt-note) (on the first floor to the right).
 1. Click button behind Agency Crypt (on the bottom of the stack of the first floor on the left).
 1. Get crystals corner of roof
-1. Click note on table by stairs
+1. Click [note on table](/casebook/notes/other/#the-time-has-come) by stairs
     - Loads number selector
 1. Lay in the yellow crypt (on the bottom of the stack of the second floor on the right)
     - Spawns glowing orb
 1. Click on button in front of burnt Agency Coffin
     - Loads prison upstairs
-1. Click on note inside the prison (Upstairs)
+1. Click on [note inside the prison](/casebook/notes/mrbrookhaven/#the-cage-ive-been-in) (Upstairs)
 1. Click on the button behind the brown coffin (on the first floor to the left, it's placed on a plinth)
-    - Braves picture appears
+    - Braves [picture appears with a message](/casebook/notes/brave/#stand-for-peace) beneath it.
     - Doves appear outside
 1. Click the doves (Front yard on the left)
 1. Click on the button behind the coffin (on the second floor, it's placed on a plinth)
-    - Kinds picture appears
+    - Kinds [picture appears with a message](/casebook/notes/kind/#kindness-and-love) beneath it.
     - Clock appears in the front of the mausoleum
     - Ladder appears in the back
 1. Put in code `1155` in number selector, the click on clock 
     - Loads a beacon going through the roof
-    - Loads Memorial Room
+    - Loads Memorial Room with a [note on the coffin](/casebook/notes/mrbrookhaven/#always-with-you) from Mr. Brookhaven.
     - The Agency Book is on fire
 1. Grab the Brown Good Book from the Memorial Room
+    
+    {{% notice style="info" expanded=false title="Side Quest" %}}
+
+_Not Required to Progress, this is optional!_
+1. Head to the Museum
+1. Place the good book on the display with a brown book, next to the Knights painting
+1. 4 paintings will reveal words above them.
+    - [Kind](/casebook/museum/paintings/kind/#abandoned-mausoleumlorequestsabandoned_mausoleum)
+    - [Brave](/casebook/museum/paintings/knight/#abandoned-mausoleumlorequestsabandoned_mausoleum)
+    - [Fear](/casebook/museum/paintings/fear/#abandoned-mausoleumlorequestsabandoned_mausoleum)
+    - [Greed](/casebook/museum/paintings/greed/#abandoned-mausoleumlorequestsabandoned_mausoleum)
+    {{% /notice %}}
+
 1. Click The Agency book on top of the coffin
     - The clock time has changed
 1. Change the code in the number selector to `1200`, then click the clock
-    - Memorial changes to the glowing chair with an arch and note from Mr.b ...
+    - The memorial room changes to the glowing chair with an [arch](/casebook/notes/other/#forever-grateful) and an [unsigned note](/casebook/notes/other/#nothing-is-forever) ...
 
 You’ve completed the secrets of the Abandoned Mausoleum!
-
-Visit the museum after you have the good book…
-1. Place the good book in the stand between Brave and Kind to see a message appear above them.
 
 ---
 

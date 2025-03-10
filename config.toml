@@ -22,7 +22,9 @@ disableTermBreadcrumbs = true
 
 [services]
   [services.googleAnalytics]
-  ID = 'G-LYV1YN0FYF'
+    ID = 'G-LYV1YN0FYF'
+  [services.disqus]
+    shortname = 'brookhaven-mystery'
 
 disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]

@@ -16,6 +16,7 @@ tags: ["BrookhavenRP 2025 Updates","BrookhavenRP Art Update"]
 noindex: true
 hidden: true
 draft: false
+comments: true
 ---
 
 🎨 Time to Get Creative! Brookhaven’s Art-Themed Update is here! Explore new painting tools, props, and stylish apartments designed for creative expression. Time to paint the town with graffiti, canvases, and fresh designs! 🏡
@@ -145,7 +146,7 @@ Both Artist’s Apartment and Artist’s Penthouse contain hidden vaults! The me
 {{< column "post-block-dot column" >}}
 **How to Access the Vault**
 ![Brookhaven Art RP Update: Wall to get access to hidden Vault](/images/blog/art_rp_wall_to_vault.webp)
-*Position a sleeping bag against this wall to phase into the hidden vault room!*
+*Click on the flower next to the bed to open the secret door*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}

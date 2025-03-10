@@ -11,6 +11,8 @@ images:
 
 ![Image of Fear and Greed's room in the Agency RP house](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png)
 
+Before starting these steps, take a look at a [hidden message on the rock](/casebook/notes/greed/#promise-of-power)!
+
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Other Rooms**: None
@@ -26,6 +28,7 @@ images:
     1. This unlocks 2 new teleports
 2. Change the red curtains to black - This step creates the purple orb when done correctly!
     1. Unlocks 2 more rooms to TP to
+    1. The [message on the rock](/casebook/notes/greed/#surrender-to-control) has changed...
 3. Click the button behind the rock
     1. must be sitting on rock to show it
     1. Adds tp pic to portal room

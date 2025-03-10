@@ -4,6 +4,8 @@ noindex: false
 weight: 30
 description: "Каждый экспонат в музее Brookhaven хранит в себе секрет."
 date: 2023-05-31
+images: 
+- images/maps/museum_inside.png
 ---
 
 ### Кто изображён на этих картинах?  
