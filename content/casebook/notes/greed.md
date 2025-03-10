@@ -60,3 +60,16 @@ _Some speculate this message originates from Fear, while others believe it is Gr
 ![A final red message in Brookhaven’s Agency dungeon, where Greed proclaims his victory over Mr. Brookhaven and asserts his rule.](/images/agency_coffin_portal_quest/agency_dungeon_message_greed_declares_victory.webp?height=200px) 
 
 <hr style="background-color: #28b44c" size=8>
+
+## Asleep
+
+{{% notice style="tip" %}}
+**Requirements** : Step 12 of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) Quest
+{{% /notice %}}
+
+**Steps:**
+
+1. Place the Good Book on the display with a brown book
+1. Reveals Greed is "Asleep"
+
+![The Greed and Fear paintings inside Brookhaven Museum with the word 'Asleep' revealed above them after placing the Good Book on the display case.](/images/bh/museum_good_book_reveals_asleep.webp?height=200px)

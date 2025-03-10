@@ -81,10 +81,10 @@ _Not Required to Progress, this is optional!_
 1. Head to the Museum
 1. Place the good book on the display with a brown book, next to the Knights painting
 1. 4 paintings will reveal words above them.
-    - [Kind](/casebook/museum/paintings/kind/#abandoned-mausoleumlorequestsabandoned_mausoleum)
-    - [Brave](/casebook/museum/paintings/knight/#abandoned-mausoleumlorequestsabandoned_mausoleum)
-    - [Fear](/casebook/museum/paintings/fear/#abandoned-mausoleumlorequestsabandoned_mausoleum)
-    - [Greed](/casebook/museum/paintings/greed/#abandoned-mausoleumlorequestsabandoned_mausoleum)
+    - [Kind](/casebook/notes/kind/#think-alive)
+    - [Brave](/casebook/notes/brave/#faith-awake)
+    - [Fear](/casebook/notes/fear/#asleep)
+    - [Greed](/casebook/notes/greed/#asleep)
     {{% /notice %}}
 
 1. Click The Agency book on top of the coffin

@@ -2,7 +2,7 @@
 title: "Brookhaven Casebook: Messages & Legacy of Kind"
 linktitle: "Kind"
 noindex: false
-weight: 6
+weight: 5
 draft: false
 description: "A collection of notes and messages from or about Kind in Brookhaven, revealing themes of kindness, love, and peace as part of the Abandoned Mausoleum quest."
 ---
@@ -24,3 +24,16 @@ description: "A collection of notes and messages from or about Kind in Brookhave
 ![A message from Kind appearing in Brookhaven’s Abandoned Mausoleum, reading: Only through kindness and love can peace of mind be achieved.](/images/abandoned_mausoleum/mausoleum_kinds_picture.webp?height=200px) 
 
 <hr style="background-color: #28b44c" size=8>
+
+## Think Alive
+
+{{% notice style="tip" %}}
+**Requirements** : Step 12 of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) Quest
+{{% /notice %}}
+
+**Steps:**
+
+1. Place the Good Book on the display with a brown book
+1. Reveals Kind is "Think Alive"
+
+![The Kind and Brave paintings inside Brookhaven Museum with the words 'Think Alive' and 'Faith Awake' revealed above them after placing the Good Book on the display case.](/images/bh/museum_good_book_reveals_good.webp?height=200px)

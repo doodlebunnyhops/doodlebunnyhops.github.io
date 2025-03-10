@@ -25,10 +25,10 @@ The Kind painting in the Brookhaven Museum depicts a girl sitting with a mountai
 - Step 4 [reveals a note](/casebook/notes/other/#the-time-has-come) on the Table that says:
     > "The time has come. For there is fear and there is peace. Peace is to have faith and fear is to sleep. To have faith is to think and to think is to be alive."
 - Step 10: Click on the button behind the coffin (on the second floor, it's placed on a plinth) Reveals Kind's picture in the Mausoleum.
-    - A plaque under it reads: 
+    - [A plaque](/casebook/notes/kind/#kindness-and-love) under it reads: 
         > "Only through kindness and love can peace of mind be achieved."
 - After Step 12, grab the Brown Book in the Memorial Room
-    - Place the Good Book between Kind & Brave's paintings in the museum, the words "Think Alive" appear above Kind's painting
+    - Place the Good Book between Kind & Brave's paintings in the museum, the words "Think Alive" [appear above Kind's painting](/casebook/notes/kind/#think-alive).
 
 <hr style="background-color: #28b44c" size=8>
 
