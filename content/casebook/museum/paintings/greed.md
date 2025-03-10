@@ -42,10 +42,10 @@ Is it possible he’s still alive and trapped at the grave site?
 - Step 4: A [note on the table](/casebook/notes/other/#the-time-has-come) is revealed, reading:
   > *"The time has come. For there is fear and there is peace. Peace is to have faith and fear is to sleep. To have faith is to think and to think is to be alive."*
 - Step 12: Retrieve the Good Book from the Memorial Room.
-  - Placing the Good Book between Kind & Brave’s paintings in the museum causes the word "Asleep" to appear above Greed’s painting.
-- Another note found in this quest, signed by Mr. Brookhaven, reveals his desperate attempt to bring his brother back to good:
+  - Placing the Good Book between Kind & Brave’s paintings in the museum causes the word "Asleep" to [appear above Greed’s painting](/casebook/notes/greed/#asleep).
+- A [burnt note](/casebook/notes/mrbrookhaven/#burnt-note) found in this quest, signed by Mr. Brookhaven, reveals his desperate attempt to bring his brother back to good:
   > *"Brother, why do you fight against good? For it is the only way back to which we came. - Mr. Brookhaven."*
-- A separate note implies that Greed once imprisoned Mr. Brookhaven:
+- A separate note implies that Greed once [imprisoned Mr. Brookhaven](/casebook/notes/mrbrookhaven/#the-cage-ive-been-in):
   > *"The cage I have been in for years has begun to weaken. Oh brother, there’s a change coming and it's beautiful! - Mr. Brookhaven."*
 
 

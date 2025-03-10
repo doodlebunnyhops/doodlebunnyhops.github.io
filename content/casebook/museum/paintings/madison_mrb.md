@@ -36,7 +36,7 @@ Madison and Mr. Brookhaven's history is revealed through two movie codes found i
 ## **Related Quests Involving Madison**
 
 ### **Agency RP House**
-- Madison has left behind **only one known signed note**, which is found in the **Survival RP House.**
+- Madison has left behind [**only one known signed note**](/casebook/notes/madison/#survival-rp-house), which is found in the **Survival RP House.**
   > *"My Dear, the power of the agency has grown. The majority of the people have forgotten the truth and are now a part of the agency. To my dismay, Marcus is among those numbers and has joined the police force. There is a small sector that still believe but we have been shunned and are now in hiding. - Madison"*
 
 ### **Abandoned Mausoleum**

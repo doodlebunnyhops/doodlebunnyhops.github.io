@@ -25,7 +25,7 @@ The Fear painting in the Brookhaven Museum depicts a girl in a pink, red, and wh
 - Step 4 [reveals a note](/casebook/notes/other/#the-time-has-come) on the Table that says:
     > "The time has come. For there is fear and there is peace. Peace is to have faith and fear is to sleep. To have faith is to think and to think is to be alive."
 - Step 12, grab the Brown Book in the Memorial Room
-    - Place the Good Book between Kind & Brave's paintings in the museum, the word "Asleep" appear above Fear's picture.
+    - Place the Good Book between Kind & Brave's paintings in the museum, the word "Asleep" [appear above Fear's painting](/casebook/notes/fear/#asleep).
 
 <hr style="background-color: #28b44c" size=8>
 

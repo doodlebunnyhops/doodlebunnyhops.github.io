@@ -32,10 +32,10 @@ The Brave painting in the Brookhaven Museum depicts a knight in armor with a hor
 - Step 4 [reveals a note](/casebook/notes/other/#the-time-has-come) on the Table that says:
     > "The time has come. For there is fear and there is peace. Peace is to have faith and fear is to sleep. To have faith is to think and to think is to be alive."
 - Step 8 reveals Brave's picture in the Mausoleum.
-    - A plaque under the painting says: 
+    - [A plaque](/casebook/notes/brave/#stand-for-peace) under the painting says: 
         > "A peaceful man stands tall but a brave man stands for peace."
 - After Step 12, grab the Brown Book in the Memorial Room
-    - Place the Good Book between Kind & Brave's paintings in the museum, the words "Faith Awake" appear.
+    - Place the Good Book between Kind & Brave's paintings in the museum, the words "Faith Awake" [appear above Brave's painting](/casebook/notes/brave/#faith-awake).
 
 <hr style="background-color: #28b44c" size=8>
 
