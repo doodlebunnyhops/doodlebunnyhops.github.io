@@ -5,6 +5,8 @@ weight: 1
 description: "Рыцарь из музея Brookhaven оставил скрытые записки по всему замку."
 aliases:
 - /casebook/monoliths/knight
+images: 
+- images/maps/museum_inside.png
 ---
 
 Мы знаем, что **картина с рыцарем в музее** символизирует **Храбрость**, благодаря квесту **[Светящееся кресло](/lore/quests/glowing_chair)**.  

@@ -59,7 +59,7 @@ aliases:
 - /light_panel/x09
 
 dataset1:
-  fileLink: content/casebook/lights.csv
+  fileLink: data/lights.csv
   colors:
     - '#ef7f1a'
     - '#627c62'
@@ -100,10 +100,7 @@ This table shows us what we do know so far. If it has a link in it, we have the 
 
 _The exception here is [X22](#x22) - we have a hint about it but no steps to activate it._
 
-
-
   {{< myTable "dataset1" "table,noFilter" >}}
-
 
 ---
 

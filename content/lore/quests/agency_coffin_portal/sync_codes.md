@@ -27,6 +27,7 @@ images:
     1. Make sure all rooms code buttons are green, they will sync - this is the code to put in. You can check if they are synced if all rooms have the same code including fear room.
         1. Another easy way to tell codes are synced, if you turn the code button on and off and the number in green always stays the same then you are synced!
     1. After you put the code in this will cause carbon blocks to appear in the portal room.
+    2. The [message on the rock](/casebook/notes/greed/#i-am-king) has changed once more...
 1. This completes `Bar 5` progress of Fear & Greed's Room!
 
 ### Helpful Pics

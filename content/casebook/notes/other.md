@@ -1,7 +1,7 @@
 ---
 title: "Other"
 noindex: false
-weight: 5
+weight: 9
 draft: false
 description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These Notes are not signed or only one note from the signer to appear. Picture of note provided."
 ---
@@ -108,6 +108,68 @@ Is it pronounced `red river` or `re driver`?
 	1. A note appears
 
 ![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child_croped.png)
+
+<hr style="background-color: #28b44c" size=8>
+
+## Stay Good
+
+{{% notice style="tip" %}}
+**Requirements** : Work through [Agency RP House Quest](/lore/quests/agency_coffin_portal/getting_started/) all the way to completing the [portal](/lore/quests/agency_coffin_portal/portal/)
+{{% /notice %}}
+
+**Steps:**
+
+1. Once you have completed the portal's cut scene, you should see a note in the Main Room that reads: 
+	> Stay good and don't join The Agency.
+
+![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/agency_dungeon_final_message_stay_good.webp?height=200px)
+
+<hr style="background-color: #28b44c" size=8>
+
+## Nothing is Forever
+
+{{% notice style="tip" %}}
+**Requirements** : Complete all steps in [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) quest.
+{{% /notice %}}
+
+**Steps:**
+1. Load the Mausoleum found in the Abandoned RP Set. 
+2. Complete steps of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
+3. Go upstairs to the memorial room to see a note next to the glowing chair.
+
+![DESC](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.webp?width=200px) 
+
+
+<hr style="background-color: #28b44c" size=8>
+
+## The Time Has Come
+
+{{% notice style="tip" %}}
+**Requirements** : Step 4 of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) quest.
+{{% /notice %}}
+
+**Steps:**
+1. Load the Mausoleum found in the Abandoned RP Set. 
+2. Complete steps `1 - 4` of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
+3. You will see a note on the table of the first floor.
+
+![DESC](/images/abandoned_mausoleum/mausoleum_note_on_table.webp?width=200px) 
+
+
+<hr style="background-color: #28b44c" size=8>
+
+## Forever Grateful
+
+{{% notice style="tip" %}}
+**Requirements** : Complete [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) quest.
+{{% /notice %}}
+
+**Steps:**
+1. Load the Mausoleum found in the Abandoned RP Set. 
+2. Complete steps all of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
+3. In the upstairs memorial area behind the arch, you will see a message from Wolfpaq.
+
+![DESC](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png?width=600px) 
 
 
 <hr style="background-color: #28b44c" size=8>

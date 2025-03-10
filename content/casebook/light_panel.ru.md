@@ -59,7 +59,7 @@ aliases:
 - /light_panel/x09
 
 dataset1:
-  fileLink: content/casebook/lights.csv
+  fileLink: data/lights.csv
   colors:
     - '#ef7f1a'
     - '#627c62'

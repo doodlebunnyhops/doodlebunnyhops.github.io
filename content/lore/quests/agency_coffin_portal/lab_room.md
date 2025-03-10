@@ -24,12 +24,21 @@ images:
 **Completes:** `2` bars
 1. Sit in numbered chairs in this order: `1, 2, 1, 2, 1`
     1. Green lightning should appear
-1. Turn lasers button on so it is green.
+1. Turn on lasers.
     1. button next to the chairs you just sat in.
-1. Stand in Capsules (follow the star pattern)
-    1. Facing the star go in top, top left, bottom right then repeat it top, top left, bottom right. And last top and bottom right, and back to the top.
+    1. They appear white.
+1. Turn Lasers Green.
+    1. Stand in Capsules (follow the star pattern) <!-- I think this only needs to be done one time and be more clear start on the left top then bottom right then top -->
+    1. Facing the star go in 
+        - top (capsule with start above it)
+        - top left
+        - bottom right then repeat it: 
+            - top
+            - top left
+            - bottom right
+            - last top and bottom right, and back to the top.
     1. DO THIS SLOWLY!
-1. Click on Code Button to turn it green.
+    1. If done correctly the lasers turn green for a little
 
 ### Helpful Pics/Clips
 

@@ -30,6 +30,10 @@
 </div>
 
 {{ partial "article-content.html" . }}
+
+{{- if .Params.comments }}
+  {{ template "_internal/disqus.html" . }}
+{{- end }}
   <footer class="footline">
     {{- partial "content-footer.html" . }}
   </footer>

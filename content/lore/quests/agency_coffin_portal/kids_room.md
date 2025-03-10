@@ -21,7 +21,7 @@ images:
 **Completes:** `3` bars
 ### Steps:
 1. Sit in the yellow chair
-1. Click on the button behind the pillow
+1. Click on the button behind the pillow <!-- may require to lay in the bed -->
     1. A note appears
     1. The furniture turns a dark shade of blue
 1. Click the blocks hidden on top of the wall.
