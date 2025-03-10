@@ -16,7 +16,7 @@ tags: ["BrookhavenRP 2025 Updates","BrookhavenRP Art Update"]
 noindex: true
 hidden: true
 draft: false
-comments: true
+comments: false
 ---
 
 🎨 Time to Get Creative! Brookhaven’s Art-Themed Update is here! Explore new painting tools, props, and stylish apartments designed for creative expression. Time to paint the town with graffiti, canvases, and fresh designs! 🏡
