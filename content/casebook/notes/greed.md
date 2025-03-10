@@ -33,7 +33,7 @@ _Some speculate this message originates from Fear, while others believe it is Gr
 ## Surrender to Control
 
 {{% notice style="tip" %}}
-**Requirements** : Complete Steps 1-2 of the Agency RP House Quest in [Fear and Greed's Room](http://localhost:3000/lore/quests/agency_coffin_portal/fear_and_greed/)
+**Requirements** : Complete Steps 1-2 of the Agency RP House Quest in [Fear and Greed's Room](/lore/quests/agency_coffin_portal/fear_and_greed/)
 {{% /notice %}}
 
 **Steps:**
@@ -49,7 +49,7 @@ _Some speculate this message originates from Fear, while others believe it is Gr
 ## I am King
 
 {{% notice style="tip" %}}
-**Requirements** : Start the [Agency RP House Quest](http://localhost:3000/lore/quests/agency_coffin_portal/getting_started/) all the way to step 1 of [Sync Codes](http://localhost:3000/lore/quests/agency_coffin_portal/sync_codes/).
+**Requirements** : Start the [Agency RP House Quest](/lore/quests/agency_coffin_portal/getting_started/) all the way to step 1 of [Sync Codes](/lore/quests/agency_coffin_portal/sync_codes/).
 {{% /notice %}}
 
 **Steps:**
