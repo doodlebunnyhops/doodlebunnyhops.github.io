@@ -8,7 +8,7 @@ linktitle: "Casebook Updates"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
-imagecust: /images/maps/museum_inside.png
+imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.png
 images:
 - images/maps/museum_inside.png
 description: "The Brookhaven Casebook has been updated with expanded notes and a full museum overhaul, documenting hidden messages and artifacts that players have discovered."
