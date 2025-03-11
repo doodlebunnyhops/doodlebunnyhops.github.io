@@ -38,7 +38,6 @@ numberOfTagsShown = 14
   lightMode = "/images/house-with-garden_5.png"
   darkMode = "/images/house-with-garden_5.png"
 
-[author]
-  name = "Bloomindaisy"
 
 allowRobot = false
+

@@ -29,6 +29,8 @@
   </div>
 </div>
 
+<div class="post_date">{{ dateFormat "January 02, 2006" .Params.Date }}</div>
+
 {{ partial "article-content.html" . }}
 
 {{- if .Params.comments }}
