@@ -10,7 +10,7 @@ cascade:
 archetype: "blog"
 imagecust: /images/maps/museum_inside.png
 images:
-- images/blog/brookhaven_website_updates_blog_splash.webp
+- images/maps/museum_inside.png
 description: "The Brookhaven Casebook has been updated with expanded notes and a full museum overhaul, documenting hidden messages and artifacts that players have discovered."
 tags: ["Site Updates"]
 noindex: true
