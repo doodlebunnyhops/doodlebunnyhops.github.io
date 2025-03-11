@@ -18,7 +18,7 @@ images:
 Notes and observations found during investigations.
 {{% icon icon="fa-solid fa-briefcase" %}}
 
-{{% children depth=2 sort="Weight" description=true %}}
+{{% children depth=2 sort="Weight" description=false %}}
 
 
 <!-- ![Collage of notes](/images/bh/collage.png) -->

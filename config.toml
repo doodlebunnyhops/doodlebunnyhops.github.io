@@ -16,6 +16,7 @@ showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
 
+
 [pagination]
   pagerSize = 40
 
@@ -143,6 +144,12 @@ largeTwitterCard = true
     lazy = true
     lightbox = true
     shadow = false
+
+
+copyright = '2023'
+[params.author]
+  name = 'BloominDaisy'
+  email = 'daisy@bhmystery.com'
 
 
 #defaultContentLanguage = 'en'
