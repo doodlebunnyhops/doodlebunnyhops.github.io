@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2025-03-14
 published: 2025-03-14
 linktitle: "Sweet Rides & Treats!"
-title: "Brookhaven’s Latest Update Brings a Pastry Shop, Cupcake Tools, and Companion Bikes! 🚲🧁"
+title: "Brookhaven’s Pastry Shop & Companion Bikes Update! 🚲🧁"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
