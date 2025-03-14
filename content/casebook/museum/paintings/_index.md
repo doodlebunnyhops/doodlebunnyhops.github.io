@@ -63,7 +63,7 @@ images:
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**The West Arch**](west_arch/)
+[**The West Arch**](arch/)
 ![A painting of the West Arch, displayed in Brookhaven Museum, tied to hidden clues and secrets.](/images/bh/museum_arch_clue.webp?height=100px) 
 *A hidden clue—what secrets does this arch hold?*
 {{< /column>}}

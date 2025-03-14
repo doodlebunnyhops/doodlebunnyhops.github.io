@@ -4,7 +4,7 @@ noindex: false
 weight: 1
 description: "Обычные инструменты, используемые в Тайнах и Загадках Brookhaven RP, и способы их получения."
 aliases:
-- /tools
+- /ru/tools
 
 images:
 - images/bh/a05-complete.jpg
