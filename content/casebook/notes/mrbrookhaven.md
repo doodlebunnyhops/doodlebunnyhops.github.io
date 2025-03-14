@@ -20,7 +20,7 @@ aliases:
 
 1. Go to Floor 2 of the Hospital and go behind one of the Capsules.
 
-![Note from Mr. Brookhaven, the crystal calls out 7 times.](/images/bh/mrbrookhaven_crystals_notes.png) 
+![A note from Mr. Brookhaven inside the hospital, mentioning that the crystal calls out seven times in hopes that it will be used for good rather than greed.](/images/bh/mrbrookhaven_crystals_notes.png) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -34,8 +34,7 @@ aliases:
 1. Load the Mausoleum found in the Abandoned RP Set. 
 2. Click note by the burnt Agency Coffin (on the first floor to the right).
 
-![DESC](/images/abandoned_mausoleum/mausoleum_burnt_note_mr_b.webp?width=200px) 
-
+![A burnt note from Mr. Brookhaven, found next to the Agency Coffin inside the Abandoned Mausoleum. The message questions why his brother fights against good, stating it is the only way back to where they came from.](/images/abandoned_mausoleum/mausoleum_burnt_note_mr_b.webp?width=200px) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -50,8 +49,7 @@ aliases:
 2. Complete steps `1 - 11` of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
 3. Go upstairs to the memorial room to see a note from Mr. Brookhaven.
 
-![DESC](/images/abandoned_mausoleum/mausoleum_mr_b_tomb_note.webp?width=200px) 
-
+![A note from Mr. Brookhaven inside the memorial room of the Abandoned Mausoleum, stating that he has always been present but in another place and that it is time for him to ascend to where others await.](/images/abandoned_mausoleum/mausoleum_mr_b_tomb_note.webp?width=200px) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -64,12 +62,8 @@ aliases:
 **Steps:**
 1. Load the Mausoleum found in the Abandoned RP Set. 
 2. Complete steps `1 - 7` of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
-3. The note is inside the prision upstairs.
+3. The note is inside the prison upstairs.
 
-![DESC](/images/abandoned_mausoleum/mausoleum_prison_note_mr_b.webp?width=200px) 
-
+![A note from Mr. Brookhaven inside the prison of the Abandoned Mausoleum, revealing that he has been trapped in a cage for years, but it has begun to weaken. He hints at an upcoming change that he finds beautiful.](/images/abandoned_mausoleum/mausoleum_prison_note_mr_b.webp?width=200px) 
 
 <hr style="background-color: #28b44c" size=8>
-
-
-

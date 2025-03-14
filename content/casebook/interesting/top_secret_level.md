@@ -22,7 +22,7 @@ What do the TS LVL's signify? Who placed the plaques for levels 3 and 4 in their
 The first level unlocked comes with a [message](casebook/notes/madison/#barn), presumably from Mr.B to Madison. It mentions that he will return to the future with their son, Marcus, and will enable level 1 to help Madison slow down the Agency's progression.
 
 {{% notice style="tip" %}}
-**Requirements** : Click stack of papers in [X-Ray Hideout](terminology/#x-ray-hideout)
+**Requirements** : Click stack of papers in [X-Ray Hideout](/terminology/#x-ray-hideout)
 {{% /notice %}}
 
 **Steps:**

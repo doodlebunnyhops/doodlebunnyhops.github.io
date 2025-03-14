@@ -137,7 +137,8 @@ Is it pronounced `red river` or `re driver`?
 2. Complete steps of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
 3. Go upstairs to the memorial room to see a note next to the glowing chair.
 
-![DESC](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.webp?width=200px) 
+![A note placed next to the glowing chair inside the Abandoned Mausoleum, reading "Nothing is Forever," hinting at a hidden mystery.](/images/abandoned_mausoleum/mausoleum_note_by_glowing_chair.webp?width=200px) 
+
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -153,7 +154,8 @@ Is it pronounced `red river` or `re driver`?
 2. Complete steps `1 - 4` of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
 3. You will see a note on the table of the first floor.
 
-![DESC](/images/abandoned_mausoleum/mausoleum_note_on_table.webp?width=200px) 
+![A note found on a table in the Abandoned Mausoleum, stating "The time has come," referencing fear, peace, and faith.](/images/abandoned_mausoleum/mausoleum_note_on_table.webp?width=200px) 
+
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -169,7 +171,8 @@ Is it pronounced `red river` or `re driver`?
 2. Complete steps all of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
 3. In the upstairs memorial area behind the arch, you will see a message from Wolfpaq.
 
-![DESC](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png?width=600px) 
+![A hidden message in the Abandoned Mausoleum from Wolfpaq, expressing gratitude and possibly hinting at a deeper mystery.](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png?width=600px) 
+
 
 
 <hr style="background-color: #28b44c" size=8>

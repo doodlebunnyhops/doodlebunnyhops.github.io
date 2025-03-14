@@ -17,6 +17,6 @@ images:
 Записки и наблюдения, сделанные во время расследований.
 {{% icon icon="fa-solid fa-briefcase" %}}
 
-{{% children depth=2 sort="Weight" description=true %}}
+{{% children depth=2 sort="Weight" description=false %}}
 
 <!-- ![Коллаж записок](/images/bh/collage.png) -->
