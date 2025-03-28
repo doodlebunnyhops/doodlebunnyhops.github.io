@@ -33,7 +33,7 @@ def url_reachable(url,results):
     
 
 def scrape_file(file,urls):
-    pattern = re.compile(r"<meta property=\"og:image\" content=\"(http://localhost:1313/images/+[a-zA-Z]{2,6}(?:\/[^\s]*)*\.(?:jpg|jpeg|png|gif|bmp|webp|svg))\">")
+    pattern = re.compile(r"<meta property=\"og:image\" content=\"(http://localhost:3000/images/+[a-zA-Z]{2,6}(?:\/[^\s]*)*\.(?:jpg|jpeg|png|gif|bmp|webp|svg))\">")
     result = pattern.findall(file.read())
 
     for match in result:
@@ -61,4 +61,4 @@ def read_files_by_extension(directory, extension):
         json.dump(results, outfile)
 
 # Example usage
-read_files_by_extension(".\public\/", ".html")
+read_files_by_extension("./public/", ".html")
