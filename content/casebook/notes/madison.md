@@ -52,3 +52,21 @@ Collection of notes written to and from Madison. It's interesting that notes _to
 ![Note to Madison apologizing for leaving abruptly](/images/bh/madison_abandoned_house_note.jpg) 
 
 <hr style="background-color: #28b44c" size=8>
+
+## Movie Set
+
+{{% notice style="tip" %}}
+**Requirements** : Step 3 of [Movie Set](/lore/quests/movie_set_mystery/#3-break-the-mirror-) quest
+{{% /notice %}}
+
+**Steps:**
+
+1. After breaking the rest of the mirror, you will see Madison's note with a warning...
+
+![Mysterious handwritten note from Madison found behind the mirror in Brookhaven movie set](/images/bh/movie_set_mystery_note_from_madison.webp?width=400px)
+
+> My Dear, I hope this reaches you. The agency continues to grow and I fear that soon, all will join their ranks.
+>
+> -Madison
+
+<hr style="background-color: #28b44c" size=8>

@@ -176,3 +176,28 @@ Is it pronounced `red river` or `re driver`?
 
 
 <hr style="background-color: #28b44c" size=8>
+
+## Activate Alien Chamber
+
+{{% notice style="tip" %}}
+**Requirements** : Complete step 1 of [Movie Set](/lore/quests/movie_set_mystery/#1-get-the-red-key-card-) quest.
+{{% /notice %}}
+
+**Steps:**
+1. Once in the basement of the Movie Set, look for a note on a mannequin.
+
+![Mannequin in Brookhaven movie set basement with a mysterious note attached](/images/bh/movie_set_mystery_note_in_basement_on_mannequin.webp?width=600px) 
+
+> Activate Chamber:
+>
+>[Sci-Fi] Experiment
+> 
+> Awaiting Calibration
+>
+> XOX XOX
+
+This note is revealing you need to load the set with Aliens, which Alien Capsules to turn on to trigger the next step. 
+
+
+
+<hr style="background-color: #28b44c" size=8>

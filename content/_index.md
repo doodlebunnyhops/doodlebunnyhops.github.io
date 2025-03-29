@@ -29,10 +29,12 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ## 🕵️‍♂️ Latest Secrets! ✨
 
-The [Abandoned RP Set Update](/blog/abandoned_house_rp_secrets/) that released **Jan 10, 2025** has a ton of lore and secrets to reveal! See the walkthrough on [How to Find All Secrets in Mausoleum](/lore/quests/abandoned_mausoleum)!
+The [Movie Set Mysteries](/lore/quests/movie_set_mystery) quest released **March 28, 2025** has revealed a hidden high-tech puzzle deep within the Brookhaven Movie RP set! Solve electrifying alien experiments, break mirrors, decode a mysterious signal, and uncover something from Madison...
 
+A full blog breakdown is coming soon — stay tuned!
 
 **BloominDaisy 💜**
+
 
 ---
 
