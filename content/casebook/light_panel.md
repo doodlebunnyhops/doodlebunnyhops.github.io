@@ -826,12 +826,30 @@ Travel to the past by the power of a book!
 
 **Bunkger Message**:
 
-```txt
+```
 The Book power unveiled [Follow]: X02 activated
 ```
 
 - [Laptop Message](/casebook/computer/agency/#power-of-the-book)
 
+
+<hr style="background-color: #28b44c" size=8>
+
+## X10
+**Agency Plans**
+
+
+>**Requirements** : [Movie Set Quest](/lore/quests/movie_set_mystery)
+
+**Steps:**
+
+1. Comeplete the [Movie Set Mystery](/lore/quests/movie_set_mystery) quest
+
+**Bunkger Message**:
+
+```
+Agency Plans unveiled. [WARNING]:[X10] activated
+```
 
 <hr style="background-color: #28b44c" size=8>
 
