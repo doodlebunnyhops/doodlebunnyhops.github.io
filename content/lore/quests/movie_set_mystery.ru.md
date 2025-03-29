@@ -17,7 +17,7 @@ _предпочитаете видеопрохождение? вот кого я
 {{< expand title="Прохождение в видеоформате" >}}
 
 <div class="grid-2 post-vid-dot">
-{{< youtube id=PQxvVY0NhNA loading=lazy >}}
+{{< youtube id=7Ld7OBU6Xj4 loading=lazy >}}
 {{< youtube id=owi07sZwHgo loading=lazy >}}
 </div>
 

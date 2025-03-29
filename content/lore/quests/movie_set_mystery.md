@@ -5,7 +5,7 @@ noindex: false
 weight: 19
 description: "Uncover the secrets hidden within Brookhaven’s Movie RP Set. Solve cryptic riddles, break mysterious mirrors, and transmit signals that were never meant to be seen."
 images: 
-- images/bh/movie_set_mystery_signal_on_roof.webp
+- images/bh/movie_set_mystery_signal_on_roof.png
 ---
 
 ![Brookhaven Movie Set rooftop showing red signal light activated during the final puzzle step](/images/bh/movie_set_mystery_signal_on_roof.webp?width=500px)
@@ -17,7 +17,7 @@ _prefer a video walk through? here's who I suggest!_
 {{< expand title="Walkthrough Vids" >}}
 
 <div class="grid-2 post-vid-dot">
-{{< youtube id=PQxvVY0NhNA loading=lazy >}}
+{{< youtube id=7Ld7OBU6Xj4 loading=lazy >}}
 {{< youtube id=owi07sZwHgo loading=lazy >}}
 </div>
 
