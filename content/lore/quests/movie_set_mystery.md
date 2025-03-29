@@ -69,6 +69,13 @@ Head into the Movie RP set and prepare for a multi-step challenge. What looks li
 - Press the red button to reveal the **Signal Code: `404`**  
   - A clever tech easter egg — 404 means "Not Found" or "Does Not Exist"
 
+
+{{% notice style="tip" title="Where does the riddle answer come from?" icon="hand-point-right" expanded=false %}}
+
+It's actually quoted from an [Agency Laptop Message](/casebook/computer/agency/#money-is-everything) discovered in the [Agency Greed](/lore/quests/agency_greed) quest!
+
+{{% /notice %}}
+
 #### 5. Input the Signal Code on the Roof 📡  
 - Use the signal input device on the roof.  
 - Once activated, it begins tracking and emits a red **satellite transmission**.  
