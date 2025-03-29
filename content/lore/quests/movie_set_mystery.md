@@ -19,6 +19,8 @@ _prefer a video walk through? here's who I suggest!_
 <div class="grid-2 post-vid-dot">
 {{< youtube id=7Ld7OBU6Xj4 loading=lazy >}}
 {{< youtube id=owi07sZwHgo loading=lazy >}}
+{{< youtube id=SBZxFZ9A9nI loading=lazy >}}
+{{< youtube id=WSP6D0qakww loading=lazy >}}
 </div>
 
 {{< /expand >}}
@@ -103,7 +105,7 @@ Red key card and mannequin message
 {{% tab title="Step 2" icon="" %}}
 Activate alien capsules and see the spark
 
-{{< column "grid-3" >}}
+{{< column "grid-2" >}}
 ![Selecting the Alien RP Stage set in Brookhaven to trigger hidden events](/images/bh/movie_set_mystery_select_alien_stage_set.webp?width=400px)
 ![Brookhaven alien capsules lit up after activating electricity in the movie set](/images/bh/movie_set_mystery_light_up_alien_capsule.webp?width=400px)
 ![Cracked mirror in Brookhaven movie set dressing room after alien surge event](/images/bh/movie_set_mystery_broken_mirror_in_dressing_room.webp?width=400px)
@@ -131,7 +133,7 @@ Solve the Watch Room riddle
 {{% tab title="Step 5" icon="" %}}
 Signal tracking and broadcast
 
-{{< column "grid-3" >}}
+{{< column "grid-2" >}}
 ![Signal input console on the rooftop of Brookhaven Movie RP Set awaiting code entry](/images/bh/movie_set_mystery_awaiting_input_on_roof.webp?width=400px)
 ![Signal tracking system on Brookhaven rooftop activated by entering code 404](/images/bh/movie_set_mystery_roof_singal_tracking_target.webp?width=400px)
 ![Plans shown in the Agency Bunker after completing the Brookhaven movie set quest](/images/bh/movie_set_mystery_agency_bunker_plans_unveiled.webp?width=400px)
