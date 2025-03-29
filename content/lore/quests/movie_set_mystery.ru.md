@@ -19,6 +19,8 @@ _предпочитаете видеопрохождение? вот кого я
 <div class="grid-2 post-vid-dot">
 {{< youtube id=7Ld7OBU6Xj4 loading=lazy >}}
 {{< youtube id=owi07sZwHgo loading=lazy >}}
+{{< youtube id=SBZxFZ9A9nI loading=lazy >}}
+{{< youtube id=WSP6D0qakww loading=lazy >}}
 </div>
 
 {{< /expand >}}
@@ -103,7 +105,7 @@ _предпочитаете видеопрохождение? вот кого я
 {{% tab title="Этап 2" icon="" %}}
 Активируйте капсулы пришельцев
 
-{{< column "grid-3" >}}
+{{< column "grid-2" >}}
 ![Выбор сцены с пришельцами для запуска скрытых событий](/images/bh/movie_set_mystery_select_alien_stage_set.webp?width=400px)
 ![Капсулы пришельцев засветились после активации](/images/bh/movie_set_mystery_light_up_alien_capsule.webp?width=400px)
 ![Треснувшее зеркало после всплеска энергии](/images/bh/movie_set_mystery_broken_mirror_in_dressing_room.webp?width=400px)
@@ -131,7 +133,7 @@ _предпочитаете видеопрохождение? вот кого я
 {{% tab title="Этап 5" icon="" %}}
 Ввод сигнала и передача
 
-{{< column "grid-3" >}}
+{{< column "grid-2" >}}
 ![Консоль на крыше, ожидающая ввода сигнала](/images/bh/movie_set_mystery_awaiting_input_on_roof.webp?width=400px)
 ![Система отслеживания сигнала активирована](/images/bh/movie_set_mystery_roof_singal_tracking_target.webp?width=400px)
 ![Планы, показанные в бункере Агентства после прохождения квеста](/images/bh/movie_set_mystery_agency_bunker_plans_unveiled.webp?width=400px)
