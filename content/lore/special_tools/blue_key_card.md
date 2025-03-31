@@ -11,6 +11,14 @@ images:
 
 This blue key card gives us access to **Brookhaven Electric**
 
+{{% notice style="tip" title="Looking for the **Movie Stage Set** Blue Key Card?" icon="hand-point-right" expanded=true %}}
+
+You're nearly there, head to lore -> quests -> Movie Set Mystery, specifically Step 3 where you need to break a mirror. 
+
+[Click here](/lore/quests/movie_set_mystery/#3-break-the-mirror-) to go directly there :D
+
+{{% /notice %}}
+
 {{< youtube id=nAO-DwNWq-g loading=lazy >}}
 
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
