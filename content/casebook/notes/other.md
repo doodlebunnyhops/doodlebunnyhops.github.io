@@ -126,6 +126,30 @@ Is it pronounced `red river` or `re driver`?
 
 <hr style="background-color: #28b44c" size=8>
 
+## Abandoned Mausoleum from the Future
+
+{{% notice style="tip" %}}
+**Requirements** : Load [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/) RP Set.
+{{% /notice %}}
+
+**Steps:**
+1. Load the Mausoleum found in the Abandoned RP Set. 
+2. Go to the back left corner of the building to see the message.
+
+
+{{< column "grid-2" >}}
+
+{{< column "post-block-dot column" >}}
+![Brookhaven mausoleum plaque that reads "This building is from the future," with green-striped textures above it.](/images/abandoned_mausoleum/mausoleum_building_in_the_future.png?width=200px) 
+{{< /column>}}
+
+{{< column "post-block-dot column" >}}
+![Bloomindaisy standing next to a green-striped note found at the mausoleum that says "This building is from the future."](/images/abandoned_mausoleum/mausoleum_building_in_the_future_close_up.png?width=200px) 
+{{< /column>}}
+{{< /column>}}
+
+<hr style="background-color: #28b44c" size=8>
+
 ## Nothing is Forever
 
 {{% notice style="tip" %}}
