@@ -474,6 +474,12 @@ I'll provide a few here that go through other updates :D and add more as they co
 I love that the rewards this year are **permanent**, so long as you complete that level! That alone makes this event egg-stra exciting!  
 The Egg Blaster is a total favorite (and hilarious to aim with 😆), and the quest layout makes this a perfect activity for solo play or with friends.
 
+I want to give special thanks to Lea and Tokyo for hanging and figuring out the Extreme level with me, I had an absolute _blast_ with y'all!
+
+And to Darzeth, you gave me a head start with the medium and hard level steps, and you went above by organizing the messy notes for extreme. 
+
+It really did take a community to find everything :heart:.
+
 Whether you’re a Baby Bunny or Extreme Egg Master, I hope you had a blast hunting—and I’ll see you next time in Brookhaven!
 
 **BloominDaisy 💜**
