@@ -27,17 +27,6 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
-## 🕵️‍♂️ Latest Secrets! ✨
-
-The [Movie Set Mysteries](/lore/quests/movie_set_mystery) quest released **March 28, 2025** has revealed a hidden high-tech puzzle deep within the Brookhaven Movie RP set! Solve electrifying alien experiments, break mirrors, decode a mysterious signal, and uncover something from Madison...
-
-A full blog breakdown is coming soon — stay tuned!
-
-**BloominDaisy 💜**
-
-
----
-
 ## Things to see in this site!
 
 
