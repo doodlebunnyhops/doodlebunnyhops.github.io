@@ -460,7 +460,7 @@ Collecting the crystals to power something
 <hr style="background-color: #28b44c" size=8>
 
 ## A21
-**No Text**
+**Awaiting Power**
 
 Unlocks TS LVL 2
 

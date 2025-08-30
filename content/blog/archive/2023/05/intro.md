@@ -20,7 +20,7 @@ draft: false
 
 Hey it's BloominDaisy here! A local at the Secrets and Mysteries discord channel in Wolfpaq's server.
 
-I worked on this site after seeing a lot of consistent use of the [Google Doc](https://docs.google.com/document/d/1xIEoVSAsFoBpZYfg6fYfoWsWe6F7Pu-ARkPTVMRCTZk/edit?usp=sharing) I had started back in January of this year.
+I worked on this site after seeing a lot of consistent use of the Google Doc I had started back in January of this year.
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -45,11 +45,6 @@ I'm hosting this website through github.com, which really makes it easy to have 
 If you are interested in helping add to the guide make sure to checkout the [Contributions](contribute/) section. 
 
 <hr style="background-color: #28b44c" size=8>
-
-### What happens to the OG doc?
-
-<span class="nowrap"><span class="emojify">😊</span> It's not going anywhere, I recognize it's been the go to for a little while for a lot of players and it's also where I keep my list of to do's. It'll continue to be updated, along with the website, as secrets are found <span class="nowrap"><span class="emojify">😁</span>
-
 
 I hope you enjoy the website and I can't wait to hear everyone's feedback <span class="nowrap"><span class="emojify">❤</span>
 
