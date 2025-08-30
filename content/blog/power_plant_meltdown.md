@@ -35,7 +35,7 @@ Either way, the reward is waiting: the Green Crystal and a new Agency panel unlo
 
 If you’re here for the full breakdown of steps, don’t worry....I’ve got you covered!
 
-👉 [Jump straight to the quest walkthrough »](/lore/quests/meltdown)
+### 👉 [Jump straight to the secrets walkthrough »](/lore/quests/meltdown)
 
 ### Sweet Vids 🎥✨
 
