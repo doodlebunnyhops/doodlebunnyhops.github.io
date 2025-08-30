@@ -33,7 +33,18 @@ The steps can be done in any order, but all four must be completed to trigger th
 
 Once all are complete → the Reactor Core door opens → click the Core to obtain the Green Crystal....and find a new [Agency Light Panel](casebook/light_panel/#x13) unlocked.
 
+
+Want a video walkthrough instead??
+
+<div class="grid-3 post-vid-dot">
+{{< youtube id=MJIVj68oxJo loading=lazy >}}
+{{< youtube id=A7tlz3e9OnY loading=lazy >}}
+{{< youtube id=nrUk6WOCxhQ loading=lazy >}}
+</div>
+
 ---
+
+### Step Through Guide 
 
 #### Generator Room
 

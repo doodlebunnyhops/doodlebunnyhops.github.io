@@ -37,6 +37,19 @@ If you’re here for the full breakdown of steps, don’t worry....I’ve got yo
 
 👉 [Jump straight to the quest walkthrough »](/lore/quests/meltdown)
 
+### Sweet Vids 🎥✨
+
+Like vids instead? Here are some content creators I enjoy!
+
+<div class="grid-1 post-vid-dot">
+{{< youtube id=MJIVj68oxJo loading=lazy >}}
+</div>
+
+<div class="grid-2 post-vid-dot">
+{{< youtube id=A7tlz3e9OnY loading=lazy >}}
+{{< youtube id=nrUk6WOCxhQ loading=lazy >}}
+</div>
+
 ---
 
 ### A Personal Note 💛
