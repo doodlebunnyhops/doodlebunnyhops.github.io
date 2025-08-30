@@ -31,6 +31,8 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ### ☢️ Power Plant Meltdown 
 
+`2025-08-29`
+
 We have a little secret with the Power Plant update, but the bigger question remains.
 
 ...will you stop it...or make it happen???
@@ -43,7 +45,7 @@ We have a little secret with the Power Plant update, but the bigger question rem
 
 
 <div class="expand-content" style="display: block;">
-{{% children sort="Weight" showhidden=false description=true style="h3"  %}}
+{{% children sort="Weight" showhidden=false description=true style="h4"  %}}
 </div>
 
 ---
