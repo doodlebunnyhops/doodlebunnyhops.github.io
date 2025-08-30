@@ -27,6 +27,18 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 ---
 
+<hr style="background-color: #28b44c" size=8>
+
+### ☢️ Power Plant Meltdown 
+
+We have a little secret with the Power Plant update, but the bigger question remains.
+
+...will you stop it...or make it happen???
+
+[See the steps for yourself...](lore/quests/meltdown/)
+
+<hr style="background-color: #28b44c" size=8>
+
 ## Things to see in this site!
 
 
