@@ -853,6 +853,23 @@ Agency Plans unveiled. [WARNING]:[X10] activated
 
 <hr style="background-color: #28b44c" size=8>
 
+## X13
+**Potential Power Source. [DANGER]:[X13] activated**
+
+>**Requirements** : [Power Plant Meltdown](/lore/quests/meltdown)
+
+**Steps:**
+
+1. Comeplete the [Meltdown](/lore/quests/meltdown) quest
+
+**Bunkger Message**:
+
+```
+Potential Power Source. [DANGER]:[X13] activated
+```
+
+<hr style="background-color: #28b44c" size=8>
+
 ## X22
 We still don’t know how to activate light X22 but we do see it mentioned on the Agency themed Armored Truck that came with the Robbers update June 02 ‘23. 
 
