@@ -5,7 +5,6 @@ noindex: false
 weight: 1
 date: 2024-01-02
 description: "Discover the Abandoned House on the outskirts of Brookhaven. A key location for Mr. Brookhaven, filled with hidden secrets and clues."
-
 images:
 - images/maps/abandoned_house.jpg
 #Categories: ["point of interest","map"]
