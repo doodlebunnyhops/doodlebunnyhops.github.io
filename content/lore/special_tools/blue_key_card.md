@@ -32,6 +32,10 @@ You're nearly there, head to lore -> quests -> Movie Set Mystery, specifically S
 2. Go through the hidden wall on the right side
 3. Grab the Blue Key card behind the cabinet
 
+{{% notice style="tip" %}}
+Psst... Did you know the blue key card found in the [Power Plant](lore/quests/meltdown/) also opens Brookhaven Electric?
+{{% /notice %}}
+
 
 {{< tabs title="Click Tab ->" >}}
 {{% tab title="Vent Location" %}}
