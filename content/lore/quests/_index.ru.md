@@ -19,4 +19,4 @@ images:
 
 <hr style="background-color: #28b44c" size=8>
 
-{{% children sort="Weight" showhidden=false description=false containerstyle="ol" style="li" depth=2 %}}
+{{% children sort="Weight" showhidden=false description=false type="card" depth=2 %}}

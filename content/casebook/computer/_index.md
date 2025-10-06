@@ -17,4 +17,4 @@ After connecting the laptop to `p$n(8+)~`, we occasionally get messages through 
 
 ---
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}

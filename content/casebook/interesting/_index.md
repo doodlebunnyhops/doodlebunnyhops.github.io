@@ -15,4 +15,4 @@ images:
 Interesting findings and observations. Some may not be apart of the lore but there's no way to really know...
 
 ---
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}

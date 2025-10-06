@@ -2,7 +2,9 @@
 # iconsPath = 'icons/'
 #otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
-disableSearch = false
+[search]
+  disable = false
+  
 disableSearchHiddenPages = false
 
 disableExplicitIndexURLs = true

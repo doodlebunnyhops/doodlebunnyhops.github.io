@@ -1,0 +1,18 @@
+{{- $page := . }}
+
+<!-- <h3>Type: {{- $page.Type }}</h3>
+<h3>Kind: {{- $page.Kind }}</h3>
+<h3>Layout: {{- $page.Layout }}</h3>
+<h3>Params: {{- $page.Params }}</h3> -->
+
+{{- if and (eq $page.Type "story") (eq $page.Kind "section") }}
+    {{- if eq $page.Params.archetype "story" }}
+        {{ partial "story/synops.html" . }}
+    {{- else }}
+        {{ partial "story/list.html" . }}
+    {{- end }}
+
+{{- else if and (eq $page.Type "story") (eq $page.Kind "page") }}
+ {{ partial "story/article.html" . }}
+
+{{- end }}

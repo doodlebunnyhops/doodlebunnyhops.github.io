@@ -11,4 +11,4 @@ draft: true
 
 
 
-{{% children sort="date" showhidden=true description=true style="h2"  depth=3 %}}
+{{% children sort="date" showhidden=true description=true type="list" depth=3 %}}

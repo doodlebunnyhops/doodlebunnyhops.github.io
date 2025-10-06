@@ -22,7 +22,7 @@ This section has broken down a couple of maps for easier traveling during your i
 
 ## Map Types
 
-{{% children sort="Weight" showhidden=false description=true style="h5"  %}}
+{{% children sort="Weight" showhidden=false description=true type="list" %}}
 
 
 <hr style="background-color: #28b44c" size=8>

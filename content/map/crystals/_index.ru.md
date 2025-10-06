@@ -38,7 +38,7 @@ draft: false
 
 Кристаллы должны быть собраны в этом порядке, чтобы завершить квест [Найти 7 кристаллов](lore/quests/find_7_crystals).
 
-{{% children sort="Weight" showhidden=false description=false style="li" %}}
+{{% children sort="Weight" showhidden=false description=false type="tree" %}}
 
 ---
 

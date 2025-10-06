@@ -38,7 +38,7 @@ _Предпочитаете видео-прохождение? Вот кого �
 Все эти шаги выполняются в Доме Агентства RP.
 {{% /notice %}}
 
-{{% children sort="Weight" showhidden=false description=true containerstyle="ol"  %}}
+{{% children sort="Weight" showhidden=false description=true type="flat" %}}
 
 <hr style="background-color: #28b44c" size=8>
 

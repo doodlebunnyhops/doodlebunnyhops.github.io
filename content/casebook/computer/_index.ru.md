@@ -16,4 +16,4 @@ date: 2024-01-01
 
 ---
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}
