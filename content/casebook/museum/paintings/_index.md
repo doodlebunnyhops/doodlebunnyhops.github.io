@@ -12,31 +12,31 @@ images:
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-[**Kind**](kind/)
+[**Kind**](/casebook/museum/paintings/kind/)
 ![A painting of a girl sitting in nature, displayed in Brookhaven Museum, symbolizing kindness and enlightenment.](/images/bh/museum_kind.webp?height=100px) 
 *Represents kindness, peace, and enlightenment through love.*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Brave**](knight/)
+[**Brave**](/casebook/museum/paintings/knight/)
 ![A painting of a knight on horseback, displayed in Brookhaven Museum, representing bravery and protection.](/images/bh/museum_brave.webp?height=100px) 
 *A noble knight who stands against darkness and protects others.*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Fear**](fear/)
+[**Fear**](/casebook/museum/paintings/fear/)
 ![A painting of a woman in a red and white dress with an umbrella, displayed in Brookhaven Museum, symbolizing fear and mystery.](/images/bh/museum_fear.webp?height=100px) 
 *A mysterious lady... but who fears her, and why?*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Greed**](greed/)
+[**Greed**](/casebook/museum/paintings/greed/)
 ![A painting of a bearded man sitting in a judge’s chair, displayed in Brookhaven Museum, representing greed and power.](/images/bh/museum_greed.webp?height=100px) 
 *Agency Creator, Judge... _still alive_?*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Maddison & Mr. B**](maddison_mrb/)
+[**Maddison & Mr. B**](/casebook/museum/paintings/maddison_mrb/)
 ![A painting of Maddison and Mr. Brookhaven on their wedding day, displayed in Brookhaven Museum.](/images/bh/museum_madison_&_mrb.webp?height=100px) 
 *Brookhaven’s founders—was their love story the start of everything?*
 {{< /column>}}
@@ -51,19 +51,19 @@ images:
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-[**In the Beginning**](beginnings/)
+[**In the Beginning**](/casebook/museum/paintings/beginnings/)
 ![A painting of early Brookhaven, displayed in Brookhaven Museum, depicting the town before its buildings were constructed.](/images/bh/museum_brookhaven_beginnings.webp?height=100px) 
 *Brookhaven before its rise—what secrets lie in its foundation?*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Original Motel**](og_motel/)
+[**Original Motel**](/casebook/museum/paintings/original_motel/)
 ![A painting of the original two-story Brookhaven Motel, displayed in Brookhaven Museum.](/images/bh/museum_original_motel.webp?height=100px) 
 *The original motel before its many reconstructions—why was it changed?*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**The West Arch**](arch/)
+[**The West Arch**](/casebook/museum/paintings/arch/)
 ![A painting of the West Arch, displayed in Brookhaven Museum, tied to hidden clues and secrets.](/images/bh/museum_arch_clue.webp?height=100px) 
 *A hidden clue—what secrets does this arch hold?*
 {{< /column>}}

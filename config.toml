@@ -16,6 +16,8 @@ showVisitedLinks = false
 disableTagHiddenPages = true
 disableTermBreadcrumbs = true
 
+ignoreLogs = ['warning-partial-superfluous-prefix']
+
 
 [pagination]
   pagerSize = 40
@@ -27,7 +29,7 @@ disableTermBreadcrumbs = true
   [services.disqus]
     shortname = 'brookhaven-mystery'
 
-disableKinds = ['taxonomy', 'term', 'category','tag']
+#disableKinds = ['taxonomy', 'term', 'category','tag']
 #disableKinds = ["sitemap"]
 
 [outputs]
@@ -88,9 +90,9 @@ disableKinds = ['taxonomy', 'term', 'category','tag']
         title = true
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.image]
-        enableDefault = false
+        useEmbedded = "never"
       [markup.goldmark.renderHooks.link]
-        enableDefault = false
+        useEmbedded = "never"
     [markup.goldmark.renderer]
       hardWraps = false
       unsafe = false
@@ -116,8 +118,9 @@ largeTwitterCard = true
     simple = false
   [privacy.twitter]
     disable = false
-    enableDNT = true
     simple = false
+  [privacy.x]
+    enableDNT = true
   [privacy.vimeo]
     disable = false
     enableDNT = true

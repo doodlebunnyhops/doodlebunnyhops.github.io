@@ -39,7 +39,7 @@ All of these steps will be in the Agency RP house
 {{% /notice %}}
 
 
-{{% children sort="Weight" showhidden=false description=true containerstyle="ol"  %}}
+{{% children sort="Weight" showhidden=false description=true type="flat" %}}
 
 <hr style="background-color: #28b44c" size=8>
 

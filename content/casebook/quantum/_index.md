@@ -7,7 +7,7 @@ description: "The quantum room in Brookhaven RP has a lot of interesting things 
 
 There is a lot to observe in the Quantum Room. Here's a breakdown of some things noted:
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}
 
 {{% notice style="tip" %}}
 For all these steps you will need to do some steps and then return to the Quantum Room.

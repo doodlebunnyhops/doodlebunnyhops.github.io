@@ -1,0 +1,14 @@
+{{- .Store.Set "relearnIsNested" false }}
+{{- $page := . }}
+
+{{- /* Handle custom content types with views system */ -}}
+{{- if eq $page.Type "blog" }}
+  {{- partial "blog/views/body.html" . }}
+{{- else if eq $page.Type "blog_archive" }}
+  {{- partial "blog/views/body.html" . }}
+{{- else if eq $page.Type "story" }}
+  {{- partial "story/views/body.html" . }}
+{{- else }}
+  {{- /* Use default article rendering for other types */ -}}
+  {{- .Render "article" }}
+{{- end }}

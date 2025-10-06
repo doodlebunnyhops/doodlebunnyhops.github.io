@@ -9,4 +9,4 @@ images:
 
 
 
-{{% children sort="date" showhidden=true description=false containerstyle="ul" style="li"  depth=2 %}}
+{{% children sort="date" showhidden=true description=false type="tree" depth=2 %}}

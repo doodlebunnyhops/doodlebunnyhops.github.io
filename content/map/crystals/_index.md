@@ -38,7 +38,7 @@ You can click the outlined areas in the image to find out more details about tha
 
 Crystals must be collected in this order to complete [Find 7 Crystals](lore/quests/find_7_crystals) quest
 
-{{% children sort="Weight" showhidden=false description=false style="li" %}}
+{{% children sort="Weight" showhidden=false description=false type="tree" %}}
 
 ---
 

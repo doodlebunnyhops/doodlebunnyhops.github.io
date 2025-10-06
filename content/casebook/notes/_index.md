@@ -10,4 +10,4 @@ Collection of notes or interesting messages found throughout town.
 
 ---
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}

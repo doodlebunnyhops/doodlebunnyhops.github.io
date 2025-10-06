@@ -22,7 +22,7 @@ date: 2024-01-01
 
 ## Виды карт
 
-{{% children sort="Weight" showhidden=false description=true style="h5"  %}}
+{{% children sort="Weight" showhidden=false description=true type="list" %}}
 
 
 <hr style="background-color: #28b44c" size=8>

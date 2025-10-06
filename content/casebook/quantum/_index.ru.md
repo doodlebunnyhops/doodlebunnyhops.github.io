@@ -7,7 +7,7 @@ description: "Квантовая комната в Brookhaven RP полна ин
 
 В Квантовой комнате можно найти множество любопытных деталей. Вот основные из них:
 
-{{% children sort="Weight" showhidden=false description=true style="li" containerstyle="ul" %}}
+{{% children sort="Weight" showhidden=false description=true type="card" %}}
 
 {{% notice style="tip" %}}
 Для выполнения этих шагов вам потребуется выполнить некоторые действия, а затем вернуться в Квантовую комнату.

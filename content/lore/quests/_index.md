@@ -20,4 +20,4 @@ Notes and messages found along the way are in our [CaseBook](/casebook/) for saf
 
 <hr style="background-color: #28b44c" size=8>
 
-{{% children sort="Weight" showhidden=false description=false containerstyle="ol" style="li"  depth=2 %}}
+{{% children sort="Weight" showhidden=false description=true type="card" depth=2 %}}

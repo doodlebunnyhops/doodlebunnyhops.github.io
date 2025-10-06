@@ -18,4 +18,4 @@ A description about this book...
 
 ## Chapters:
 
-{{% children sort="Weight" showhidden=false description=false containerstyle="ol"  %}}
+{{% children sort="Weight" showhidden=false description=false type="flat" %}}

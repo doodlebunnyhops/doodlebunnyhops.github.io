@@ -46,7 +46,7 @@ Tags: ["Секреты Брукхейвена","БрукхейвенРП Сек�
 
 
 <div class="expand-content" style="display: block;">
-{{% children sort="Weight" showhidden=false description=true style="h4"  %}}
+{{% children sort="Weight" showhidden=false description=true type="list" %}}
 </div>
 
 ---
