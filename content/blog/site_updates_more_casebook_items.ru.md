@@ -8,7 +8,7 @@ linktitle: "Обновления Книги"
 cascade:
 - url: /ru/blog/:filename
 archetype: "blog"
-imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.png
+imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.webp
 images:
 - images/maps/museum_inside.webp
 description: "Книга Brookhaven обновлена: добавлены новые записи и полностью переработан раздел музея, документирующий скрытые послания и артефакты, найденные игроками."

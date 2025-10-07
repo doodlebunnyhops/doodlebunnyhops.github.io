@@ -6,7 +6,7 @@ linktitle: "☢️ Meltdown"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
-imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/power_plant_meltdown.png
+imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/power_plant_meltdown.webp
 images:
 - images/power_plant_meltdown_imminent.webp
 - images/power_plant_meltdown.webp
