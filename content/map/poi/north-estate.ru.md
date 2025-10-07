@@ -24,7 +24,7 @@ aliases:
 
 {{% expand title="Выделенное местоположение Северного поместья" %}}
 
-![Местоположение Северного поместья](/images/maps/north-estate.png)
+![Местоположение Северного поместья](/images/maps/north-estate.webp)
 
 {{% /expand %}}
 

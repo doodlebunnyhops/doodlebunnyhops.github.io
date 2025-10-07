@@ -22,7 +22,7 @@ Brookhaven Electric, главный источник энергии в горо�
 
 {{% expand title="Выделенное местоположение Brookhaven Electric" %}}
 
-![Местоположение Brookhaven Electric](/images/maps/brookhaven-electric.png)
+![Местоположение Brookhaven Electric](/images/maps/brookhaven-electric.webp)
 
 {{% /expand %}}
 

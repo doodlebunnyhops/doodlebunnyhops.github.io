@@ -24,7 +24,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение Ратуши" %}}
 
-![Местоположение Ратуши](/images/maps/town-hall.png)
+![Местоположение Ратуши](/images/maps/town-hall.webp)
 
 {{% /expand %}}
 

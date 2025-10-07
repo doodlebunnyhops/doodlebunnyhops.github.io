@@ -5,10 +5,10 @@ weight: 2
 draft: false
 description: "TS LVL – уровни, найденные по всему Brookhaven."
 images: 
-- images/bh/tslvl4_plaque.png
-- images/bh/tslvl1_authorized.png
-- images/bh/tslvl2_mirrored.png
-- images/bh/tslvl3_plaque.png
+- images/bh/tslvl4_plaque.webp
+- images/bh/tslvl1_authorized.webp
+- images/bh/tslvl2_mirrored.webp
+- images/bh/tslvl3_plaque.webp
 #Categories: ["Совершенно Секретно","Памятные таблички Совершенно Секретно"]
 #Tags: ["TS LVL1","TS LVL2","TS LVL3","TS LVL4"]
 ---
@@ -35,7 +35,7 @@ _Обратите внимание, что это те же шаги, что и 
 2. Появится сообщение на экране: `TS LVL 1 Authorized!`.  
 3. Теперь в бункере Агентства появится "TS [LVL 1] Permissible".
 
-![Сообщение TS LVL 1 Authorized появляется после нажатия кнопки в амбаре.](/images/bh/tslvl1_authorized.png?width=400px)
+![Сообщение TS LVL 1 Authorized появляется после нажатия кнопки в амбаре.](/images/bh/tslvl1_authorized.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -56,7 +56,7 @@ _Обратите внимание, что это те же шаги, что и 
    `TS LVL 2 [Mirrored Successfully] Carbon burn commencing`
    >(Уровень TS 2 [Отражение успешно] Начинается сжигание углерода).
 
-![](/images/bh/tslvl2_mirrored.png?width=400px)
+![](/images/bh/tslvl2_mirrored.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -75,7 +75,7 @@ _Обратите внимание, что это те же шаги, что и 
 1. Войдите в бункер Агентства.  
 2. Установите спальный мешок в стену справа от секретной двери, чтобы увидеть памятную табличку TS LVL3.
 
-![Скрытая памятная табличка TS LVL3 возле входа в бункер Агентства.](/images/bh/tslvl3_plaque.png?width=400px)
+![Скрытая памятная табличка TS LVL3 возле входа в бункер Агентства.](/images/bh/tslvl3_plaque.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -95,8 +95,8 @@ _Обратите внимание, что это те же шаги, что и 
 2. Установите спальный мешок или используйте свободную камеру, чтобы заглянуть в блок справа от лестницы и увидеть памятную табличку TS LVL4.
 
 {{< column "grid-2" >}}
-![Дом Агентства RP, место, где спрятана табличка TS LVL4.](/images/bh/tslvl4_hidden_in_block.png)
-![Скрытая памятная табличка TS LVL4 внутри дома Агентства RP.](/images/bh/tslvl4_plaque.png)
+![Дом Агентства RP, место, где спрятана табличка TS LVL4.](/images/bh/tslvl4_hidden_in_block.webp)
+![Скрытая памятная табличка TS LVL4 внутри дома Агентства RP.](/images/bh/tslvl4_plaque.webp)
 {{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>

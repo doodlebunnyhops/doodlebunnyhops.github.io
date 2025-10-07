@@ -26,7 +26,7 @@ The crystal has moved in early October of 2025! It is now behind North Estate to
 
 _click image to enlarge_
 {{< column "grid-2" >}}
-![crystal 6 found on a hill behind North Estate just before the underpass](/images/maps/crystals/crystal_6_behind_north_estate_near_underpass.png)
+![crystal 6 found on a hill behind North Estate just before the underpass](/images/maps/crystals/crystal_6_behind_north_estate_near_underpass.webp)
 {{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>

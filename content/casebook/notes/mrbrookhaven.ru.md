@@ -21,7 +21,7 @@ aliases:
 1. Отправляйтесь на **второй этаж больницы**.  
 2. Пройдите **за одну из капсул** – там спрятана записка.  
 
-![Записка от Мистера Brookhaven: "Кристалл зовёт 7 раз."](/images/bh/mrbrookhaven_crystals_notes.png)  
+![Записка от Мистера Brookhaven: "Кристалл зовёт 7 раз."](/images/bh/mrbrookhaven_crystals_notes.webp)  
 
 <hr style="background-color: #28b44c" size=8>
 

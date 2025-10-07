@@ -22,7 +22,7 @@ Perhaps horses of brookhaven like to snack on crystals? :sweat: maybe we should 
 
 Check the middle stable behind the hay. 
 
-![crystal 5 found behind hay at horse stables](/images/maps/crystals/crystal_5_behind_hay_at_horse_stables.png?width=400px)
+![crystal 5 found behind hay at horse stables](/images/maps/crystals/crystal_5_behind_hay_at_horse_stables.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

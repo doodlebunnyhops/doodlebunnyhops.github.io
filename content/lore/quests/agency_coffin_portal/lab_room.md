@@ -5,11 +5,11 @@ noindex: false
 weight: 6
 description: "Solve lightning and capsule puzzles to activate lasers in the Lab Room. Advance your quest in the Agency’s hidden dungeon."
 images:
-- images/agency_coffin_portal_quest/lab_room_green_lasers.png
+- images/agency_coffin_portal_quest/lab_room_green_lasers.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of the Lab and Capsules room in the Agency RP house](/images/agency_coffin_portal_quest/lab_room_w400px.png)
+![Image of the Lab and Capsules room in the Agency RP house](/images/agency_coffin_portal_quest/lab_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -48,7 +48,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Order of lab chairs to be sat in](/images/agency_coffin_portal_quest/lab_room_chair_order.png)
+![Order of lab chairs to be sat in](/images/agency_coffin_portal_quest/lab_room_chair_order.webp)
 
 
 {{< /column >}}
@@ -59,7 +59,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Result of standing in capsules turns the lasers green](/images/agency_coffin_portal_quest/lab_room_green_lasers.png)
+![Result of standing in capsules turns the lasers green](/images/agency_coffin_portal_quest/lab_room_green_lasers.webp)
 
 
 {{< /column >}}

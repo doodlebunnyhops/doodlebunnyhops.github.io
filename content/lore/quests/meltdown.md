@@ -5,9 +5,9 @@ noindex: false
 weight: 21
 description: "Cause a meltdown at the Power Plant to unlock the Core and obtain the Green Crystal. Includes step-by-step sabotage guide, visuals, and notes on the hidden Subterrain Agency room."
 images:
-- images/power_plant_meltdown_imminent.png
-- images/power_plant_meltdown.png
-- images/power_plant_subterrain_agency_room.png
+- images/power_plant_meltdown_imminent.webp
+- images/power_plant_meltdown.webp
+- images/power_plant_subterrain_agency_room.webp
 # Tags: ["Power Plant","Meltdown","Green Crystal","Agency","Subterrain","X13"]
 ---
 

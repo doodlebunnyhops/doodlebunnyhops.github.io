@@ -6,7 +6,7 @@ draft: false
 description: "Все записки, подписанные Агентством, и способы их нахождения."
 images: 
 - images/bh/agency_greed_comp_message.jpg
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 ---
 
 На записках **чётко виден логотип Агентства**, а само Агентство, похоже, **использовало их как скрытые средства связи**.
@@ -28,11 +28,11 @@ images:
 {{< tabs title="Записка Агентства -> нажмите вкладки" >}}
 
 {{% tab title="Крупный план записки Агентства" %}}
-![Записка Агентства о Мэдисон и Старшем мальчике](/images/bh/agency_note_in_future_motel_room_closeup.png?width=400px)  
+![Записка Агентства о Мэдисон и Старшем мальчике](/images/bh/agency_note_in_future_motel_room_closeup.webp?width=400px)  
 {{% /tab %}}
 
 {{% tab title="Расположение записки" %}}
-![Записка Агентства найдена в шкафу заброшенного мотеля из будущего](/images/bh/agency_note_in_future_motel.png)  
+![Записка Агентства найдена в шкафу заброшенного мотеля из будущего](/images/bh/agency_note_in_future_motel.webp)  
 {{% /tab %}}
 
 {{< /tabs >}}
@@ -61,11 +61,11 @@ images:
 {{< tabs title="Нажмите вкладки ->" >}}
 
 {{% tab title="Общий вид кресла с запиской" %}}
-![Сообщение за креслом о том, что нужно следовать книге](/images/bh/note_behind_chair_in_rundown_motel_room_from_future.png)  
+![Сообщение за креслом о том, что нужно следовать книге](/images/bh/note_behind_chair_in_rundown_motel_room_from_future.webp)  
 {{% /tab %}}
 
 {{% tab title="Крупный план записки" %}}
-![Сообщение за креслом о том, что нужно следовать книге](/images/bh/note_behind_chair_in_rundown_motel_room_from_future_closeup.png)  
+![Сообщение за креслом о том, что нужно следовать книге](/images/bh/note_behind_chair_in_rundown_motel_room_from_future_closeup.webp)  
 {{% /tab %}}
 
 {{< /tabs >}}

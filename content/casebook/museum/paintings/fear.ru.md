@@ -5,7 +5,7 @@ noindex: false
 weight: 3
 description: "Картина «Страх» в музее Brookhaven изображает девушку в розовом, красном и белом платье с зонтом, связанную со скрытыми посланиями о страхе и сне."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Страх» в музее Brookhaven, изображающая девушку в розовом, красном и белом платье с зонтом, связанную со скрытыми посланиями о страхе и сне.](/images/bh/museum_fear.webp?height=200px)

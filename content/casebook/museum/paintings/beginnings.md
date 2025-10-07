@@ -5,7 +5,7 @@ noindex: false
 weight: 6
 description: "The Beginnings painting in Brookhaven Museum depicts the town before buildings, revealing early history, hidden clues, and its connection to Mr. Brookhaven."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 

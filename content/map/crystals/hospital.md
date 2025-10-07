@@ -16,12 +16,12 @@ draft: false
 
 The first crystal to be found is non other than the one at the hospital. Is it a coincidence that to start this quest we had to first visit the hospital where we clicked on the stack of papers so we could unlock TSLVL1?
 
-![Front view of Hospital in the town of Brookhaven](/images/maps/hospital_remodeled_2024.png?width=400px)
+![Front view of Hospital in the town of Brookhaven](/images/maps/hospital_remodeled_2024.webp?width=400px)
 
 ## Location of Crystal
 
 On the roof of the hospital in the center. Use the ladder to the right to gain access to the roof.
-![crystal 1 found on roof of hospital](/images/maps/crystals/crystal_1_roof_of_hospital_updated_location.png?width=400px)
+![crystal 1 found on roof of hospital](/images/maps/crystals/crystal_1_roof_of_hospital_updated_location.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -35,7 +35,7 @@ On the roof of the hospital in the center. Use the ladder to the right to gain a
 
 The location was slightly modified following the [School, Hospital, Police Station Remodle Update](/blog/school_hospital_police_station_remodel). Its previous location was on the roof of the hospital but tucked in bewtween a roofing section. 
 
-![crystal 1 found on roof of hospital](/images/maps/crystals/crystal_1_roof_of_hospital.png?width=400px)
+![crystal 1 found on roof of hospital](/images/maps/crystals/crystal_1_roof_of_hospital.webp?width=400px)
 
 ---
 

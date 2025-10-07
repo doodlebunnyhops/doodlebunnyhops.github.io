@@ -5,11 +5,11 @@ noindex: false
 weight: 9
 description: "Adjust coffin colors and activate lasers to unlock the portal. Solve the final puzzle in the Agency’s dungeon."
 images:
-- images/agency_coffin_portal_quest/portal_room_w400px.png
+- images/agency_coffin_portal_quest/portal_room_w400px.webp
 #Tags: ["Agency RP House","portal room","portal"]
 ---
 
-![Image of the Portal room in the Agency RP house](/images/agency_coffin_portal_quest/portal_room_w400px.png)
+![Image of the Portal room in the Agency RP house](/images/agency_coffin_portal_quest/portal_room_w400px.webp)
 
 _An ominous room with 5 coffins in a circle with one of them under a stonehenge_
 
@@ -52,7 +52,7 @@ You'll be teleported to a dark room with skulls all around you... and eventually
 {{% tab title="Stonehenge with Buttons" %}}
 {{< column "grid-2">}}
 
-![Coffin under a stonehenge with 2 buttons on the side](/images/agency_coffin_portal_quest/portal_room_click_right_button.png)
+![Coffin under a stonehenge with 2 buttons on the side](/images/agency_coffin_portal_quest/portal_room_click_right_button.webp)
 
 {{< /column >}}
 {{% /tab %}}
@@ -60,8 +60,8 @@ You'll be teleported to a dark room with skulls all around you... and eventually
 {{% tab title="Coffin Colors" %}}
 {{< column "grid-2">}}
 
-![Coffins in the Portal room with different colors](/images/agency_coffin_portal_quest/portal_room_coffin_colors.png)
-![Coffins in the Fear and Greed room are yellow](/images/agency_coffin_portal_quest/portal_room_change_coffin_color_in_fear_&_greed_room.png)
+![Coffins in the Portal room with different colors](/images/agency_coffin_portal_quest/portal_room_coffin_colors.webp)
+![Coffins in the Fear and Greed room are yellow](/images/agency_coffin_portal_quest/portal_room_change_coffin_color_in_fear_&_greed_room.webp)
 
 {{< /column >}}
 {{% /tab %}}
@@ -69,7 +69,7 @@ You'll be teleported to a dark room with skulls all around you... and eventually
 {{% tab title="Red Lasers" %}}
 {{< column "grid-2">}}
 
-![The lasers in the lab and capsules room are red](/images/agency_coffin_portal_quest/portal_room_change_lasers_red_lab_room.png)
+![The lasers in the lab and capsules room are red](/images/agency_coffin_portal_quest/portal_room_change_lasers_red_lab_room.webp)
 
 {{< /column >}}
 {{% /tab %}}
@@ -77,7 +77,7 @@ You'll be teleported to a dark room with skulls all around you... and eventually
 {{% tab title="What have we done..." %}}
 {{< column "grid-2">}}
 
-![The portal is opened and reveals a black coffin spinning in the middle](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png)
+![The portal is opened and reveals a black coffin spinning in the middle](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp)
 
 {{< /column >}}
 {{% /tab %}}

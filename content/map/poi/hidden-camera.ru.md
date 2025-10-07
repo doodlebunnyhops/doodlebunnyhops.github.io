@@ -22,7 +22,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение скрытой камеры" %}}
 
-![Местоположение скрытой камеры](/images/maps/hidden-camera.png)
+![Местоположение скрытой камеры](/images/maps/hidden-camera.webp)
 
 {{% /expand %}}
 

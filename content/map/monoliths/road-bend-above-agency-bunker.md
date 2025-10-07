@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Crown Point Underpass Monolith location"
 images:
-- images/maps/monoliths/monolith_road_bend.png
+- images/maps/monoliths/monolith_road_bend.webp
 #Categories: ["Monolith Locations","map"]
 #Tags: ["Crown Point Underpass", "Monolith Location"]
 draft: false
@@ -14,6 +14,6 @@ This Monolith sits right above the Agency Bunker near a road bend leading to Cro
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..{}{}{}{}____..">..{}{}{}{}____..</code></span></center>
 
-![Monolith near gas station](/images/maps/monoliths/monolith_road_bend.png?width=400px)
+![Monolith near gas station](/images/maps/monoliths/monolith_road_bend.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>

@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "The paintings in Brookhaven Museum hold hidden clues about the town’s past. Discover the mysterious figures, symbols, and locations depicted in each artwork."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 ## Who are the people in the paintings?
 

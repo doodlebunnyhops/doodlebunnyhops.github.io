@@ -22,7 +22,7 @@ draft: false
 
 Спрятан прямо за растением
 
-![Кристалл 2 спрятан за растением в церкви](/images/maps/crystals/crystal_2_behind_plant_at_church.png?width=400px)
+![Кристалл 2 спрятан за растением в церкви](/images/maps/crystals/crystal_2_behind_plant_at_church.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

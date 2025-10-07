@@ -23,7 +23,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение Заброшенного дома" %}}
 
-![Местоположение Заброшенного дома](/images/maps/abandoned-house.png)
+![Местоположение Заброшенного дома](/images/maps/abandoned-house.webp)
 
 {{% /expand %}}
 

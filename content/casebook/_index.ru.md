@@ -6,8 +6,8 @@ date: 2024-01-02
 description: "Сборник наблюдений, скрытых мест, записок, сообщений, подсказок и улик, найденных в Brookhaven RP при расследовании тайн и загадок."
 
 images: 
-- images/bh/collage.png
-- images/bh/follow_the_book_comp_message.png
+- images/bh/collage.webp
+- images/bh/follow_the_book_comp_message.webp
 #Categories: ["casebook","notes","observations"]
 #Tags: ["notes","observations"]
 ---
@@ -19,4 +19,4 @@ images:
 
 {{% children depth=2 sort="Weight" description=false %}}
 
-<!-- ![Коллаж записок](/images/bh/collage.png) -->
+<!-- ![Коллаж записок](/images/bh/collage.webp) -->

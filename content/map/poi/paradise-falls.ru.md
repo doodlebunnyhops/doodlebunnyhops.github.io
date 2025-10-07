@@ -23,7 +23,7 @@ Paradise Falls в Brookhaven предлагает живописные виды.
 
 {{% expand title="Выделенное местоположение Paradise Falls" %}}
 
-![Местоположение Paradise Falls](/images/maps/paradise-falls.png)
+![Местоположение Paradise Falls](/images/maps/paradise-falls.webp)
 
 {{% /expand %}}
 

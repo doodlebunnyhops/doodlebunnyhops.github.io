@@ -7,7 +7,7 @@ description: "Interactive map of Brookhaven's crystal locations. Discover their 
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Map of Crystal Locations"]
 images: 
-- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
+- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp
 
 date: 2024-09-23
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 This is an interactive map showing all locations of Crystals in the Town of Brookhaven.
 
-![daisy holding a crystal in abandoned house](/images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png?width=400px)
+![daisy holding a crystal in abandoned house](/images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

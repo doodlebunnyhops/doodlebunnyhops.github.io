@@ -7,7 +7,7 @@ date: 2024-01-02
 description: "Explore Brookhaven Hospital, home to an abandoned Agency experimentation site. Discover hidden locations, notes, and Agency secrets."
 
 images:
-- images/maps/hospital_remodeled_2024.png
+- images/maps/hospital_remodeled_2024.webp
 - images/maps/hospital.jpg
 #Categories: ["point of interest","map"]
 #Tags: ["Hospital"]
@@ -17,7 +17,7 @@ draft: false
 
 Brookhaven'ts esteemed Hospital has exceptional doctors and surgeons. It's also the site of an experimentation site operated by The Agency. Why was the experimentation site abandoned?
 
-![Outside view of Brookhaven Hospital, aka St. Lukes Hospital](/images/maps/hospital_remodeled_2024.png)
+![Outside view of Brookhaven Hospital, aka St. Lukes Hospital](/images/maps/hospital_remodeled_2024.webp)
 
 
 ## Experimentation Site
@@ -39,7 +39,7 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 {{% expand title="Outlined Location of Hospital" %}}
 
-![Location of Hospital on the map](/images/maps/hospital.png)
+![Location of Hospital on the map](/images/maps/hospital.webp)
 
 {{% /expand %}}
 

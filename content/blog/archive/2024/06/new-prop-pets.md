@@ -9,9 +9,9 @@ aliases:
 noindex: false
 archetype: "blog"
 hidden: true
-imagecust: /images/blog/prop-pets.png
+imagecust: /images/blog/prop-pets.webp
 images:
-- /images/blog/prop-pets.png
+- /images/blog/prop-pets.webp
 description: "Brookhaven Update: Lots of new pets have been added to props in addition to props can now be color customized!"
 draft: false
 imageEffects:
@@ -30,11 +30,11 @@ Missing the need to fill your home with pets? Now you can! With 34 new props AND
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/prop_stack_feature_button.png" loading="lazy" style="width: 80px; height: 80px;">Stackable Props: Clicking this button when looking in props will allow you to stack props on top of each other :D that's how I got the kittn inside the cat tower!
+<img src="/images/blog/prop_stack_feature_button.webp" loading="lazy" style="width: 80px; height: 80px;">Stackable Props: Clicking this button when looking in props will allow you to stack props on top of each other :D that's how I got the kittn inside the cat tower!
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/prop_category_pets_icon.png" loading="lazy" style="width: 80px; height: 80px;">So so so many pets and pet accessories!
+<img src="/images/blog/prop_category_pets_icon.webp" loading="lazy" style="width: 80px; height: 80px;">So so so many pets and pet accessories!
 {{< /column>}}
 
 
@@ -47,7 +47,7 @@ Missing the need to fill your home with pets? Now you can! With 34 new props AND
 
 Most Props can be customized now! After placing a prop if you see a cog on the left you can click it to edit Prop Color!
 
-![Prop Color Picker](/images/blog/prop_customize_color_feature.png)
+![Prop Color Picker](/images/blog/prop_customize_color_feature.webp)
 
 {{< /column>}}
 

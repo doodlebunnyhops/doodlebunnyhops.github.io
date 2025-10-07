@@ -5,7 +5,7 @@ noindex: false
 weight: 5
 description: "The Good Book display in Brookhaven Museum reveals hidden messages and plays a key role in quests that uncover the town’s deeper mysteries and truths."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 

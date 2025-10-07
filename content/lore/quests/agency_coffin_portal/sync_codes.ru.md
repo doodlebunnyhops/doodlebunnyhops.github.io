@@ -5,12 +5,12 @@ noindex: false
 weight: 7
 description: "Синхронизируйте коды во всех комнатах подземелья Агентства. Подготовьтесь к появлению углеродных блоков в Комнате Портала."
 images:
-- images/agency_coffin_portal_quest/synced_room_code.png
-- images/agency_coffin_portal_quest/synced_room_code_w400px.png
+- images/agency_coffin_portal_quest/synced_room_code.webp
+- images/agency_coffin_portal_quest/synced_room_code_w400px.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Изображение синхронизированного кода в Доме Агентства RP](/images/agency_coffin_portal_quest/synced_room_code_w400px.png)
+![Изображение синхронизированного кода в Доме Агентства RP](/images/agency_coffin_portal_quest/synced_room_code_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -43,7 +43,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Место для ввода кода в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/syned_step_place_to_input_code.png)
+![Место для ввода кода в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/syned_step_place_to_input_code.webp)
 
 {{< /column >}}
 
@@ -53,7 +53,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Крупный план Кодовой кнопки](/images/agency_coffin_portal_quest/example_of_code_button_turned_on_green_small.png)
+![Крупный план Кодовой кнопки](/images/agency_coffin_portal_quest/example_of_code_button_turned_on_green_small.webp)
 
 {{< /column >}}
 

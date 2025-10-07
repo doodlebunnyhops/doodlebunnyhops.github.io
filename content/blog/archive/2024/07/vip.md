@@ -26,17 +26,17 @@ This update came with so many new props both Free and for the new VIP Pass that 
 
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_pass_999_robux.png" loading="lazy" style="width: auto; height: 100px;">VIP Pass is currently 999 Robux
+<img src="/images/blog/vip_pass_999_robux.webp" loading="lazy" style="width: auto; height: 100px;">VIP Pass is currently 999 Robux
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_no_wait_time_to_spawn_house.png" loading="lazy" style="width: auto; height: 100px;">
+<img src="/images/blog/vip_no_wait_time_to_spawn_house.webp" loading="lazy" style="width: auto; height: 100px;">
 
 <p>No Wait to load new houses for VIP</p>
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_prop_whoopie_cushion.png" loading="lazy" style="width: auto; height: 100px;">Lots of VIP access only props - like this whoopie cushion that works!
+<img src="/images/blog/vip_prop_whoopie_cushion.webp" loading="lazy" style="width: auto; height: 100px;">Lots of VIP access only props - like this whoopie cushion that works!
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
@@ -44,15 +44,15 @@ Over 130 New Props for free!
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_special_vehical_access.png" loading="lazy" style="width: auto; height: 100px;">VIP Access to previous and upcoming special vehicle from events.
+<img src="/images/blog/vip_special_vehical_access.webp" loading="lazy" style="width: auto; height: 100px;">VIP Access to previous and upcoming special vehicle from events.
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_special_affects.png" loading="lazy" style="width: auto; height: 100px;">New Particle Affects for all players and 60 additional types for VIP
+<img src="/images/blog/vip_special_affects.webp" loading="lazy" style="width: auto; height: 100px;">New Particle Affects for all players and 60 additional types for VIP
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vip_job_role_name.png" loading="lazy" style="width: auto; height: 100px;">VIP Job Role now available
+<img src="/images/blog/vip_job_role_name.webp" loading="lazy" style="width: auto; height: 100px;">VIP Job Role now available
 {{< /column>}}
 
 {{< column "post-block-dot" >}}

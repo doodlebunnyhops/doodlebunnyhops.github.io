@@ -30,7 +30,7 @@ The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookh
 
 {{% expand title="Outlined Location of Portal" %}}
 
-![Location of Portal](/images/maps/portal.png)
+![Location of Portal](/images/maps/portal.webp)
 
 {{% /expand %}}
 

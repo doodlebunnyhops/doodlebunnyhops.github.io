@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита у конюшни Brookhaven"
 images:
-- images/maps/monoliths/monolith_behind_school.png
+- images/maps/monoliths/monolith_behind_school.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Конюшня", "Местоположение монолита"]
 draft: false
@@ -16,7 +16,7 @@ aliases:
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..<<<{{}}>>>..">..<<<{{}}>>>..</code></span></center>
 
-![Монолит возле фонарного столба за конюшней](/images/maps/monoliths/monolith_behind_school.png?width=400px)
+![Монолит возле фонарного столба за конюшней](/images/maps/monoliths/monolith_behind_school.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

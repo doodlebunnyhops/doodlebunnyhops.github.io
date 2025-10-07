@@ -34,7 +34,7 @@ The Brookhaven School now features a sophisticated textured brick exterior, repl
 ![Brookhaven's previous look for the School. Bright red exterior and an open upstairs layout.](/images/maps/school.jpg)Previous design: Bright red exterior with an open second floor.
 {{< /column>}}
 {{< column "post-block-dot column" >}}
-![The new Brookhaven School remodel brings modern updates and additional functional rooms.Textured brick facade and structured, expanded interiors](/images/maps/school_remodeled_2024.png)Updated design: Brick facade with a fully redesigned upper floor.
+![The new Brookhaven School remodel brings modern updates and additional functional rooms.Textured brick facade and structured, expanded interiors](/images/maps/school_remodeled_2024.webp)Updated design: Brick facade with a fully redesigned upper floor.
 {{< /column>}}
 {{< /column>}}
 
@@ -46,7 +46,7 @@ A standout detail in the **English room** the whiteboard Dr. Seuss quote has bee
 > “You're off to Great Places! Today is your day! Your mountain is waiting, So get on your way!”
 {{< /column>}}
 {{< column "post-block-dot column" >}}
-![Brookhaven's English class room new Dr. Seuss quote in English Class room.](/images/bh/youre_too_smart_english_class_quote.png)New Quote: 
+![Brookhaven's English class room new Dr. Seuss quote in English Class room.](/images/bh/youre_too_smart_english_class_quote.webp)New Quote: 
 > “With your head full of brains and your shoes full of feet, you’re too smart to go down any not-so-good street.”
 {{< /column>}}
 {{< /column>}}
@@ -63,7 +63,7 @@ The hospital received an aesthetic upgrade, featuring a sleek, glass-heavy exter
 ![Brookhaven's previous look for the Hospital.](/images/maps/hospital.jpg)Old design: Functional with the iconic glass features.
 {{< /column>}}
 {{< column "post-block-dot column" >}}
-![The new Brookhaven Hospital remodel brings a polished, inviting look with glass panels and a modernized interior.](/images/maps/hospital_remodeled_2024.png)New design: Sleek, modern exterior with a brighter, polished appearance.
+![The new Brookhaven Hospital remodel brings a polished, inviting look with glass panels and a modernized interior.](/images/maps/hospital_remodeled_2024.webp)New design: Sleek, modern exterior with a brighter, polished appearance.
 {{< /column>}}
 {{< /column>}}
 
@@ -78,7 +78,7 @@ The police station now includes a second floor, adding a conference room and oth
 ![Brookhaven's previous look for the police station was a single-story station.](/images/maps/police.jpg)Old design: Single-story building with effient space.
 {{< /column>}}
 {{< column "post-block-dot column" >}}
-![The new Brookhaven Police Station remodel brings a Sleek, modern design with expanded features and a second floor.](/images/maps/police_station_remodeled_2024.png)New design: Expanded two-story structure with updated interiors.
+![The new Brookhaven Police Station remodel brings a Sleek, modern design with expanded features and a second floor.](/images/maps/police_station_remodeled_2024.webp)New design: Expanded two-story structure with updated interiors.
 {{< /column>}}
 {{< /column>}}
 

@@ -32,7 +32,7 @@ _But why does the room need to be activated?_
 1. Head to the secret X-Ray Room in the Hospital.
 1. Check the message board on the wall to see this message.
 
-![Quantum Window Message from clicking Camera](/images/bh/room-activated.png)
+![Quantum Window Message from clicking Camera](/images/bh/room-activated.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -123,7 +123,7 @@ Before any secrets are done these are the first messages you will see rotating p
 {{% /tab %}}
 
 {{% tab title="Rebooting Mainframe" %}}
-![Quantum Room Message: Rebooting Mainframe](/images/bh/rebooting-mainframe.png)
+![Quantum Room Message: Rebooting Mainframe](/images/bh/rebooting-mainframe.webp)
 {{% /tab %}}
 
 {{% tab title="Service Disruption" %}}

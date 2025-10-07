@@ -24,7 +24,7 @@ The Brookhaven Graveyard is a place to remember those once here or maybe visit t
 
 {{% expand title="Outlined Location of Cemetery" %}}
 
-![Location of Cemetery](/images/maps/cemetery.png)
+![Location of Cemetery](/images/maps/cemetery.webp)
 
 {{% /expand %}}
 

@@ -25,11 +25,11 @@ There's a possible Hacker on lot #13! Beware hackers, burn your electronics in t
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/hacker-role-play-house-icon.png" loading="lazy" style="width: 80px; height: 80px;"> New Hacker Role Play house and a ton of secret hideaways, maze, and hidden hacker room! 
+<img src="/images/blog/hacker-role-play-house-icon.webp" loading="lazy" style="width: 80px; height: 80px;"> New Hacker Role Play house and a ton of secret hideaways, maze, and hidden hacker room! 
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/wheelie_icon.png" loading="lazy" style="width: 80px; height: 80px;">
+<img src="/images/blog/wheelie_icon.webp" loading="lazy" style="width: 80px; height: 80px;">
 Pop a wheelie on your motorcycle!
 {{< /column>}}
 

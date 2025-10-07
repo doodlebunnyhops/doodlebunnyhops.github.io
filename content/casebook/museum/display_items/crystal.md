@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "The Crystal display in Brookhaven Museum is tied to hidden energy sources and key quests. Discover its role in Brookhaven’s mysteries and secret locations."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Crystal display in Brookhaven Museum, featuring a glowing crystal inside a glass case, linked to hidden energy and secret quests.](/images/bh/museum_crystal.webp?height=200px)

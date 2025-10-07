@@ -32,12 +32,12 @@ This new RP Set gives us 5 themes to load in!
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Military Interchangeable RP Set Icon](/images/blog/military_rp_house_icon.png)**Interchangeable RP Set Icon**
+![Military Interchangeable RP Set Icon](/images/blog/military_rp_house_icon.webp)**Interchangeable RP Set Icon**
 {{< /column>}}
 
 
 {{< column "post-block-dot column" >}}
-![Interchangeable Buttons on back wall](/images/blog/military_rp_house_interchangeable_buttons.png)**Interchangeable Buttons** are located on the back wall.
+![Interchangeable Buttons on back wall](/images/blog/military_rp_house_interchangeable_buttons.webp)**Interchangeable Buttons** are located on the back wall.
 {{< /column>}}
 
 {{< /column>}}
@@ -81,8 +81,8 @@ Load up the Agency base and look around.
 Click on the images to enlarge, and notice those codes above the doors... They're monolith codes! But why?
 
 {{< column "post-block-dot grid-2" >}}
-![](/images/blog/military_rp_house_agency_theme_monolith_code.png)
-![](/images/blog/military_rp_house_agency_theme_monolith_code_2.png)
+![](/images/blog/military_rp_house_agency_theme_monolith_code.webp)
+![](/images/blog/military_rp_house_agency_theme_monolith_code_2.webp)
 {{< /column>}}
 
 This isn't the only thing I observed but check it out for yourself! The medical room was _really_ interesting to me in particular.

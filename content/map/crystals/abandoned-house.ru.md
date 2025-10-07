@@ -23,7 +23,7 @@ draft: false
 
 Присмотритесь к стене и шкафу – это вовсе не насекомое ;)
 
-![Кристалл 3 найден в Заброшенном доме между шкафом и стеной](/images/maps/crystals/crystal_3_at_abandoned_house_between_cabinet_and_wall.png?width=400px)
+![Кристалл 3 найден в Заброшенном доме между шкафом и стеной](/images/maps/crystals/crystal_3_at_abandoned_house_between_cabinet_and_wall.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

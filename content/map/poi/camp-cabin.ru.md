@@ -22,7 +22,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение лагерного домика" %}}
 
-![Местоположение лагерного домика](/images/maps/camp-cabin.png)
+![Местоположение лагерного домика](/images/maps/camp-cabin.webp)
 
 {{% /expand %}}
 

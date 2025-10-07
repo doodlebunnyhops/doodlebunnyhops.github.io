@@ -5,7 +5,7 @@ description: Archived Blogs from January 2025 about Brookhaven RP Updates, excit
 type: blog_archive
 weight: 1
 images:
-- images/thumbnails/blog_splash.png
+- images/thumbnails/blog_splash.webp
 ---
 
 

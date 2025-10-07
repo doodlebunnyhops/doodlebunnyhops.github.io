@@ -23,7 +23,7 @@ The Brookhaven Stables is possibly the first site Mr. Brookhaven built years ago
 
 {{% expand title="Outlined Location of Horse Stables" %}}
 
-![Location of Horse Stables](/images/maps/horse-stable.png)
+![Location of Horse Stables](/images/maps/horse-stable.webp)
 
 {{% /expand %}}
 

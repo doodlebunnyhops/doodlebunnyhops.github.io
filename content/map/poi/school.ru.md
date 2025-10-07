@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение школы Brookhaven и связанные секреты"
 
 images:
-- images/maps/school_remodeled_2024.png
+- images/maps/school_remodeled_2024.webp
 - images/maps/school.jpg
 #Categories: ["точка интереса","карта"]
 #Tags: ["Школа"]
@@ -23,7 +23,7 @@ draft: false
 
 Хотелось бы, чтобы учителя объяснили, что это за светящийся шар над театром; выглядит подозрительно!
 
-![Новое обновление школы Brookhaven привнесло современные улучшения и дополнительные функциональные комнаты. Текстурированный кирпичный фасад и расширенные интерьеры.](/images/maps/school_remodeled_2024.png)
+![Новое обновление школы Brookhaven привнесло современные улучшения и дополнительные функциональные комнаты. Текстурированный кирпичный фасад и расширенные интерьеры.](/images/maps/school_remodeled_2024.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -32,7 +32,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение школы" %}}
 
-![Местоположение школы на карте](/images/maps/school.png)
+![Местоположение школы на карте](/images/maps/school.webp)
 
 {{% /expand %}}
 

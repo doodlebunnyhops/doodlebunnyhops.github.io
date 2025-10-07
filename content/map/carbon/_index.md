@@ -7,7 +7,7 @@ description: "Computer messages that appear on your laptop in Brookhaven RP by t
 #Tags: ["Computer Messages"]
 images: 
 - images/bh/agency_greed_comp_message.jpg
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 
 date: 2024-08-18
 draft: true

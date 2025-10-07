@@ -25,7 +25,7 @@ A higher-end estate location for those who wish to splurge on their residence wi
 
 {{% expand title="Outlined Location of North Estate" %}}
 
-![Location of North Estate](/images/maps/north-estate.png)
+![Location of North Estate](/images/maps/north-estate.webp)
 
 {{% /expand %}}
 

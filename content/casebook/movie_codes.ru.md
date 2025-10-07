@@ -41,7 +41,7 @@ images:
 
     Пример того, как выглядит код фильма на киноплёнке:  
 {{< column "grid-2" >}}
-![Киноплёнка с кодом фильма у Арки Eagle View](/images/bh/eagle-view-arch-code-inside.png)
+![Киноплёнка с кодом фильма у Арки Eagle View](/images/bh/eagle-view-arch-code-inside.webp)
 {{< /column >}}
 
 {{% notice style="warning" expanded=false %}}
@@ -68,7 +68,7 @@ _Эти шаги обновлены 29 ноября 2024 года!_
 {{% tab title="Расположение вентиляции" %}}
 Запрыгните в вентиляционную шахту в полицейском участке.  
 
-![Доступ на чердак Полицейского участка через вентиляцию в тюремной камере.](/images/bh/police_station_attic_access.png)
+![Доступ на чердак Полицейского участка через вентиляцию в тюремной камере.](/images/bh/police_station_attic_access.webp)
 {{% /tab %}}
 
 {{% tab title="Скрытая стена" %}}
@@ -82,9 +82,9 @@ _Эти шаги обновлены 29 ноября 2024 года!_
 {{% tab title="Секретная комната" %}}
 Киноплёнка с кодом находится **справа от склада и картотеки**.  
 
-![Киноплёнка, спрятанная в секретной комнате Полицейского участка.](/images/bh/police_station_movie_reel_view_1.png)
+![Киноплёнка, спрятанная в секретной комнате Полицейского участка.](/images/bh/police_station_movie_reel_view_1.webp)
 
-![Киноплёнка, спрятанная в секретной комнате Полицейского участка.](/images/bh/police_station_movie_reel_view_2.png)
+![Киноплёнка, спрятанная в секретной комнате Полицейского участка.](/images/bh/police_station_movie_reel_view_2.webp)
 
 {{% /tab %}}
 {{< /tabs >}}

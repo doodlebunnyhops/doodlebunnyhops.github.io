@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение полицейского участка Brookhaven и связанные секреты"
 
 images:
-- images/maps/police_station_remodeled_2024.png
+- images/maps/police_station_remodeled_2024.webp
 - images/maps/police.jpg
 #Categories: ["точка интереса","карта"]
 #Tags: ["Полицейский участок"]
@@ -15,7 +15,7 @@ draft: false
 
 Защитники Brookhaven обладают отличными ресурсами, чтобы обеспечивать вашу безопасность и ~~шпионить~~, то есть следить, исключительно ради вашей защиты! Отряд SWAT и полицейские располагаются именно здесь. Однако кто-то из ФБР, возможно, скрывает что-то на чердаке.
 
-![Вид на полицейский участок](/images/maps/police_station_remodeled_2024.png)
+![Вид на полицейский участок](/images/maps/police_station_remodeled_2024.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -24,7 +24,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение полицейского участка" %}}
 
-![Местоположение полицейского участка](/images/maps/police-station.png)
+![Местоположение полицейского участка](/images/maps/police-station.webp)
 
 {{% /expand %}}
 

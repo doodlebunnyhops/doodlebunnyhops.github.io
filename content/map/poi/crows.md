@@ -22,7 +22,7 @@ Behind the Barn where the fence is, several crows come and go early in the morni
 
 {{% expand title="Outlined Location of Crows" %}}
 
-![Location of Crows](/images/maps/crows.png)
+![Location of Crows](/images/maps/crows.webp)
 
 {{% /expand %}}
 

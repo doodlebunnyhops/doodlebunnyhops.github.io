@@ -34,7 +34,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение музея" %}}
 
-![Местоположение музея](/images/maps/museum.png)
+![Местоположение музея](/images/maps/museum.webp)
 
 {{% /expand %}}
 

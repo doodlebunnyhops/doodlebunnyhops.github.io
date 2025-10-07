@@ -31,12 +31,12 @@ The Brookhaven **Daycare & Adoption Center** has been completely **remodeled** w
 
 {{< column "post-block-dot column" >}}
 **Old Daycare Exterior**
-![The original Brookhaven daycare with a simpler, boxy design.](/images/blog/old_daycare_look.png)
+![The original Brookhaven daycare with a simpler, boxy design.](/images/blog/old_daycare_look.webp)
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
 **New Daycare Remodel**
-![The newly remodeled Brookhaven daycare with bright, colorful pillars and a fresh look.](/images/blog/new_daycare_look.png)
+![The newly remodeled Brookhaven daycare with bright, colorful pillars and a fresh look.](/images/blog/new_daycare_look.webp)
 {{< /column >}}
 
 {{< /column >}}
@@ -49,12 +49,12 @@ And that’s not all—the **inside of the daycare** has been completely **revam
 
 {{< column "post-block-dot column" >}}
 **First Floor Play Area**
-![The first floor of the remodeled daycare in BrookhavenRP's remodel update, featuring a playhouse, wooden play structures, bookshelves, and an open play space.](/images/blog/daycare_remodel_inside_first_floor.png)
+![The first floor of the remodeled daycare in BrookhavenRP's remodel update, featuring a playhouse, wooden play structures, bookshelves, and an open play space.](/images/blog/daycare_remodel_inside_first_floor.webp)
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
 **Second Floor Adoption Center**
-![The second floor of the daycare in BrookhavenRP's remodel update, now designed as an adoption center with a desk, seating area, and glass flooring looking down into the play area.](/images/blog/daycare_remodel_inside_second_floor.png)
+![The second floor of the daycare in BrookhavenRP's remodel update, now designed as an adoption center with a desk, seating area, and glass flooring looking down into the play area.](/images/blog/daycare_remodel_inside_second_floor.webp)
 {{< /column >}}
 
 {{< /column >}}
@@ -83,24 +83,24 @@ These props open up **so many** new possibilities for creative role-plays—whet
 {{% notice style="primary" title="See The New Props!" icon="hand-point-left" expanded=false %}}
 
 {{< column "grid-4" >}}
-![BrookhavenRP Update: A wooden skateboard with black grip tape, perfect for street and park role-plays.](/images/blog/daycare_remodel_prop_skateboard.png)
-![BrookhavenRP Update: A black and silver kick scooter for zipping around Brookhaven.](/images/blog/daycare_remodel_prop_scooter.png)
-![BrookhavenRP Update: A futuristic white Segway for smooth, self-balancing transportation.](/images/blog/daycare_remodel_prop_segway.png)
-![BrookhavenRP Update: A black wheelchair with large wheels for accessibility role-plays.](/images/blog/daycare_remodel_prop_wheelchair.png)
-![BrookhavenRP Update: A blue BMX-style bike, great for stunt riding and casual cruising.](/images/blog/daycare_remodel_prop_bike_1.png)
-![BrookhavenRP Update: A purple and pink tricycle, perfect for young role-play characters.](/images/blog/daycare_remodel_prop_bike_2.png)
-![BrookhavenRP Update: A metal bike rack designed to hold multiple bicycles.](/images/blog/daycare_remodel_prop_bike_rack.png)
-![BrookhavenRP Update: A dark gray robot with a humanoid design, possibly for futuristic role-plays.](/images/blog/daycare_remodel_prop_dark_robot.png)
-![BrookhavenRP Update: A white humanoid robot, adding a sci-fi touch to Brookhaven.](/images/blog/daycare_remodel_prop_light_robot.png)
-![BrookhavenRP Update: A gold throne with intricate details, fit for a king or queen.](/images/blog/daycare_remodel_prop_gold_throne.png)
-![BrookhavenRP Update: A silver throne with a sleek, regal design for royal setups.](/images/blog/daycare_remodel_prop_silver_throne.png)
-![BrookhavenRP Update: A set of red and silver paint buckets with brushes, great for decorating or creative role-play scenes.](/images/blog/daycare_remodel_prop_paint_buckets.png)
-![BrookhavenRP Update: A green digital screen displaying "Access Granted," ideal for high-tech builds.](/images/blog/daycare_remodel_prop_access_granted_sign.png)
-![BrookhavenRP Update: A blue digital screen with futuristic coding symbols, adding a tech aesthetic.](/images/blog/daycare_remodel_prop_blue_code_monitor_sign.png)
-![BrookhavenRP Update: A blue holographic screen with technical data, perfect for a cyber-themed setup.](/images/blog/daycare_remodel_prop_blue_tech_monitor_sign.png)
-![BrookhavenRP Update: A standard black trash can, useful for realistic city or home setups.](/images/blog/daycare_remodel_prop_trashcan.png)
-![BrookhavenRP Update: A dark chalk-like body outline, perfect for crime scene role-plays.](/images/blog/daycare_remodel_prop_dark_body_outline.png)
-![BrookhavenRP Update: A white forensic-style body outline, great for detective and mystery scenarios.](/images/blog/daycare_remodel_prop_light_body_outline.png)
+![BrookhavenRP Update: A wooden skateboard with black grip tape, perfect for street and park role-plays.](/images/blog/daycare_remodel_prop_skateboard.webp)
+![BrookhavenRP Update: A black and silver kick scooter for zipping around Brookhaven.](/images/blog/daycare_remodel_prop_scooter.webp)
+![BrookhavenRP Update: A futuristic white Segway for smooth, self-balancing transportation.](/images/blog/daycare_remodel_prop_segway.webp)
+![BrookhavenRP Update: A black wheelchair with large wheels for accessibility role-plays.](/images/blog/daycare_remodel_prop_wheelchair.webp)
+![BrookhavenRP Update: A blue BMX-style bike, great for stunt riding and casual cruising.](/images/blog/daycare_remodel_prop_bike_1.webp)
+![BrookhavenRP Update: A purple and pink tricycle, perfect for young role-play characters.](/images/blog/daycare_remodel_prop_bike_2.webp)
+![BrookhavenRP Update: A metal bike rack designed to hold multiple bicycles.](/images/blog/daycare_remodel_prop_bike_rack.webp)
+![BrookhavenRP Update: A dark gray robot with a humanoid design, possibly for futuristic role-plays.](/images/blog/daycare_remodel_prop_dark_robot.webp)
+![BrookhavenRP Update: A white humanoid robot, adding a sci-fi touch to Brookhaven.](/images/blog/daycare_remodel_prop_light_robot.webp)
+![BrookhavenRP Update: A gold throne with intricate details, fit for a king or queen.](/images/blog/daycare_remodel_prop_gold_throne.webp)
+![BrookhavenRP Update: A silver throne with a sleek, regal design for royal setups.](/images/blog/daycare_remodel_prop_silver_throne.webp)
+![BrookhavenRP Update: A set of red and silver paint buckets with brushes, great for decorating or creative role-play scenes.](/images/blog/daycare_remodel_prop_paint_buckets.webp)
+![BrookhavenRP Update: A green digital screen displaying "Access Granted," ideal for high-tech builds.](/images/blog/daycare_remodel_prop_access_granted_sign.webp)
+![BrookhavenRP Update: A blue digital screen with futuristic coding symbols, adding a tech aesthetic.](/images/blog/daycare_remodel_prop_blue_code_monitor_sign.webp)
+![BrookhavenRP Update: A blue holographic screen with technical data, perfect for a cyber-themed setup.](/images/blog/daycare_remodel_prop_blue_tech_monitor_sign.webp)
+![BrookhavenRP Update: A standard black trash can, useful for realistic city or home setups.](/images/blog/daycare_remodel_prop_trashcan.webp)
+![BrookhavenRP Update: A dark chalk-like body outline, perfect for crime scene role-plays.](/images/blog/daycare_remodel_prop_dark_body_outline.webp)
+![BrookhavenRP Update: A white forensic-style body outline, great for detective and mystery scenarios.](/images/blog/daycare_remodel_prop_light_body_outline.webp)
 {{< /column >}}
 {{% /notice %}}
 

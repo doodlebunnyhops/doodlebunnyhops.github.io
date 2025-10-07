@@ -11,7 +11,7 @@ aliases:
 - /other/submit
 
 images: 
-- images/git/which_issue.png
+- images/git/which_issue.webp
 hidden: true
 --- 
 

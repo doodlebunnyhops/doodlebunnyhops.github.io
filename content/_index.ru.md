@@ -6,8 +6,8 @@ license: true
 # date: 2023-05-19
 description: "Исчерпывающее руководство, которое поможет раскрыть секреты и тайны Brookhaven RP. Прохождение квестов, книга дел с заметками и подробностями."
 images: 
-- images/bh/collage.png
-- images/thumbnails/portal_update.png
+- images/bh/collage.webp
+- images/thumbnails/portal_update.webp
 archetype: "home"
 Tags: ["Секреты Брукхейвена","БрукхейвенРП Секреты и тайны"]
 ---
@@ -52,12 +52,12 @@ Tags: ["Секреты Брукхейвена","БрукхейвенРП Сек�
 ---
 
 #### <center>[Присоединяйтесь к Дискорду BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)</center>
-![Главное изображение Discord-сервера для сервера обновлений игры Roblox Дейзи](/images/hawk1.png)
+![Главное изображение Discord-сервера для сервера обновлений игры Roblox Дейзи](/images/hawk1.webp)
 
 ---
 
 {{< column >}}
-![Portal Thumbnail](/images/thumbnails/portal_update.png)
+![Portal Thumbnail](/images/thumbnails/portal_update.webp)
 {{< /column >}}
 
 ---

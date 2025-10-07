@@ -22,7 +22,7 @@ draft: false
 
 Проверьте среднее стойло за сеном.
 
-![Кристалл 5 найден за сеном в конюшне](/images/maps/crystals/crystal_5_behind_hay_at_horse_stables.png?width=400px)
+![Кристалл 5 найден за сеном в конюшне](/images/maps/crystals/crystal_5_behind_hay_at_horse_stables.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

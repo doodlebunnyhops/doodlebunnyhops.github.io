@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Agency Bunker Monolith location"
 images:
-- images/maps/monoliths/monolith_agency_bunker.png
+- images/maps/monoliths/monolith_agency_bunker.webp
 #Categories: ["Monolith Locations","map"]
 #Tags: ["Agency Bunker", "Monolith Location"]
 draft: false
@@ -14,7 +14,7 @@ If the monoliths are looking for a source of power why does one appear right nex
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..::::::}}}}}{{{{{::::::..">..::::::}}}}}{{{{{::::::..</code></span></center>
 
-![Monolith found underground just behind the Secret Agency Bunker](/images/maps/monoliths/monolith_agency_bunker.png?width=400px)
+![Monolith found underground just behind the Secret Agency Bunker](/images/maps/monoliths/monolith_agency_bunker.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

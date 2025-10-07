@@ -5,7 +5,7 @@ noindex: false
 weight: 4
 description: "Экспонат с черепом в музее Brookhaven: череп внутри стеклянной витрины, связанный с паранормальными событиями и Призраком Жадности."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Экспонат с черепом в музее Brookhaven: череп внутри стеклянной витрины.](/images/bh/museum_skull.webp?height=200px)

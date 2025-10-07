@@ -7,7 +7,7 @@ description: "Компьютерные сообщения, появляющие�
 #Tags: ["Компьютерные сообщения"]
 images: 
 - images/bh/agency_greed_comp_message.jpg
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 
 date: 2024-08-18
 draft: true

@@ -6,7 +6,7 @@ weight: 30
 description: "Исследуйте скрытые тайны музея Brookhaven. Откройте для себя загадочные артефакты, утраченную историю и таинственные экспонаты — какие секреты вам удастся раскрыть?"
 date: 2023-05-31
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 Разгадывая тайны музея Brookhaven: секреты, история и артефакты

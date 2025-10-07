@@ -34,7 +34,7 @@ More details
 <!-- One image example -->
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 {{< /column>}}
@@ -43,22 +43,22 @@ More details
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
@@ -68,32 +68,32 @@ More details
 {{< column "grid-3 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Image Desc](/images/blog/image.png)
+![Image Desc](/images/blog/image.webp)
 *Visual Discription*
 {{< /column>}}
 

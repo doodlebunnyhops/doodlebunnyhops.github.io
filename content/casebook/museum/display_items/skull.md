@@ -5,7 +5,7 @@ noindex: false
 weight: 4
 description: "The Skull display in Brookhaven Museum, featuring a skull inside a glass case, linked to supernatural events and the Ghost of Greed."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Skull display in the Brookhaven Museum, showing a skull inside a glass display case.](/images/bh/museum_skull.webp?height=200px)

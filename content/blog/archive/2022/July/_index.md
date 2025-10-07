@@ -5,7 +5,7 @@ description: Archived Blogs about Brookhaven RP Updates, exciting news, and new 
 type: blog_archive
 weight: 7
 images:
-- images/thumbnails/blog_splash.png
+- images/thumbnails/blog_splash.webp
 draft: true
 hidden: true
 ---

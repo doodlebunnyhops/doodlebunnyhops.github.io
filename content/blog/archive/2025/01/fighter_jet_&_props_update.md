@@ -32,25 +32,25 @@ The Fighter Jet is here, and it’s a total game-changer! Want to take off in st
 
 {{< column "post-block-dot column" >}}
 **Entrance to Hanger**
-![BrookhavenRP Jet Update: The entrance to the hangar, located next to the luggage claim area at the airport.](/images/blog/fighter_jet_&_props_update_jet_entrance.png)
+![BrookhavenRP Jet Update: The entrance to the hangar, located next to the luggage claim area at the airport.](/images/blog/fighter_jet_&_props_update_jet_entrance.webp)
 Next to the Luggage Claim Area
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Door To Hanger**
-![BrookhavenRP Jet Update: A secure door requiring a red key card to access the hangar.](/images/blog/fighter_jet_&_props_update_jet_entrance_door.png)
+![BrookhavenRP Jet Update: A secure door requiring a red key card to access the hangar.](/images/blog/fighter_jet_&_props_update_jet_entrance_door.webp)
 Requires the Red Key card by Security Checkin
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Underground Jet Hanger**
-![BrookhavenRP Jet Update: The underground hangar where the fighter jet is housed, the jet is accessible to premium pass holders.](/images/blog/fighter_jet_&_props_update_jet_room.png)
+![BrookhavenRP Jet Update: The underground hangar where the fighter jet is housed, the jet is accessible to premium pass holders.](/images/blog/fighter_jet_&_props_update_jet_room.webp)
 Note the Jet is locked for _Premiunm Pass Holders_ ✨
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Cleared for takeoff!**
-![BrookhavenRP Jet Update: The fighter jet taking off into the skies above Brookhaven.](/images/blog/fighter_jet_&_props_update_jet_door.png)
+![BrookhavenRP Jet Update: The fighter jet taking off into the skies above Brookhaven.](/images/blog/fighter_jet_&_props_update_jet_door.webp)
 Wheels Up! It's time to fly!! ✈️
 {{< /column>}}
 
@@ -75,73 +75,73 @@ And that’s just scratching the surface. Whether you’re going for medieval, s
 
 {{< column "post-block-dot column" >}}
 **Field Goal**
-![BrookhavenRP new Prop: A field goal prop for sports roleplays.](/images/blog/props_update_2025_field_goal.png)
+![BrookhavenRP new Prop: A field goal prop for sports roleplays.](/images/blog/props_update_2025_field_goal.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Lockers**
-![BrookhavenRP new Prop: A set of red lockers for school or gym roleplays.](/images/blog/props_update_2025_lockers.png)
+![BrookhavenRP new Prop: A set of red lockers for school or gym roleplays.](/images/blog/props_update_2025_lockers.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Sorting Station**
-![BrookhavenRP new Prop: A blue package sorting station with conveyor belts and boxes.](/images/blog/props_update_2025_package_sorting_station.png)
+![BrookhavenRP new Prop: A blue package sorting station with conveyor belts and boxes.](/images/blog/props_update_2025_package_sorting_station.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Conveyor**
-![BrookhavenRP new Prop: A yellow conveyor belt for factory or warehouse roleplays.](/images/blog/props_update_2025_conveyor.png)
+![BrookhavenRP new Prop: A yellow conveyor belt for factory or warehouse roleplays.](/images/blog/props_update_2025_conveyor.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Shipping Storage**
-![BrookhavenRP new Prop: A storage container for shipping and logistics setups.](/images/blog/props_update_2025_shipping_storage.png)
+![BrookhavenRP new Prop: A storage container for shipping and logistics setups.](/images/blog/props_update_2025_shipping_storage.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Work Station**
-![BrookhavenRP new Prop: A workstation with tools for industrial or manufacture roleplays.](/images/blog/props_update_2025_shipping_workstation.png)
+![BrookhavenRP new Prop: A workstation with tools for industrial or manufacture roleplays.](/images/blog/props_update_2025_shipping_workstation.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Voting Booth**
-![BrookhavenRP new Prop: A small booth for voting roleplays, complete with a privacy screen.](/images/blog/props_update_2025_voting_booth.png)
+![BrookhavenRP new Prop: A small booth for voting roleplays, complete with a privacy screen.](/images/blog/props_update_2025_voting_booth.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Podium**
-![BrookhavenRP new Prop: A podium for speeches or public announcements.](/images/blog/props_update_2025_podium.png)
+![BrookhavenRP new Prop: A podium for speeches or public announcements.](/images/blog/props_update_2025_podium.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Speaker**
-![BrookhavenRP new Prop: A tall speaker for amplifying sound at events.](/images/blog/props_update_2025_speaker.png)
+![BrookhavenRP new Prop: A tall speaker for amplifying sound at events.](/images/blog/props_update_2025_speaker.webp)
 {{< /column>}}
 
 
 {{< column "post-block-dot column" >}}
 **Old Treasure Map**
-![BrookhavenRP new Prop: A weathered treasure map prop for adventure roleplays.](/images/blog/props_update_2025_old_map.png)
+![BrookhavenRP new Prop: A weathered treasure map prop for adventure roleplays.](/images/blog/props_update_2025_old_map.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Skeleton Key**
-![BrookhavenRP new Prop: A mysterious skeleton key prop, perfect for treasure hunts.](/images/blog/props_update_2025_skeleton_key.png)
+![BrookhavenRP new Prop: A mysterious skeleton key prop, perfect for treasure hunts.](/images/blog/props_update_2025_skeleton_key.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Sword in Stone**
-![BrookhavenRP new Prop: A sword stuck in a stone, straight out of Arthurian legend.](/images/blog/props_update_2025_sword_in_stone.png)
+![BrookhavenRP new Prop: A sword stuck in a stone, straight out of Arthurian legend.](/images/blog/props_update_2025_sword_in_stone.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Capsule**
-![BrookhavenRP new Prop: A futuristic capsule prop for sci-fi roleplays.](/images/blog/props_update_2025_capsule.png)
+![BrookhavenRP new Prop: A futuristic capsule prop for sci-fi roleplays.](/images/blog/props_update_2025_capsule.webp)
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **Ghost Trap**
-![BrookhavenRP new Prop: A Ghostbusters-style ghost trap prop, complete with functionality.](/images/blog/props_update_2025_ghost_trap.png)
+![BrookhavenRP new Prop: A Ghostbusters-style ghost trap prop, complete with functionality.](/images/blog/props_update_2025_ghost_trap.webp)
 {{< /column>}}
 {{< /column>}}
 

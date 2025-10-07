@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение Торгового центра Brookhaven и связанные секреты"
 
 images:
-- images/maps/valentines_update_mall_store_front.png
+- images/maps/valentines_update_mall_store_front.webp
 - images/maps/mall.jpg
 #Categories: ["точка интереса","карта"]
 #Tags: ["Торговый центр"]
@@ -15,7 +15,7 @@ draft: false
 
 В Торговом центре Brookhaven есть множество развлечений! Это популярное место для ужинов, кино, модных показов, а также здесь расположена местная новостная студия! Чего здесь нельзя делать? Нельзя сходить в туалет, потому что его здесь нет! хехе
 
-![Вид на Торговый центр](/images/maps/valentines_update_mall_store_front.png)
+![Вид на Торговый центр](/images/maps/valentines_update_mall_store_front.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -23,7 +23,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение Торгового центра" %}}
 
-![Местоположение Торгового центра](/images/maps/mall.png)
+![Местоположение Торгового центра](/images/maps/mall.webp)
 
 {{% /expand %}}
 

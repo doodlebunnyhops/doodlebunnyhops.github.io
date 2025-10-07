@@ -23,7 +23,7 @@ Your local community Library in Brookhaven has books to read for days! Visit and
 
 {{% expand title="Outlined Location of Library" %}}
 
-![Location of Library](/images/maps/library.png)
+![Location of Library](/images/maps/library.webp)
 
 {{% /expand %}}
 

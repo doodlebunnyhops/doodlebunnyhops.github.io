@@ -35,7 +35,7 @@ description: "Сообщения на ноутбуке, которые не по
 
 1. Как только квест **«Подключение ноутбука»** будет завершён, откройте ноутбук – появится это сообщение.  
 
-![DESC](/images/bh/connected_comp_message.png)
+![DESC](/images/bh/connected_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -53,6 +53,6 @@ description: "Сообщения на ноутбуке, которые не по
 4. Перейдите в **противоположный угол**, затем двигайтесь **вперёд через стену**.  
    - На столе появится **ноутбук с сообщением**.  
 
-![DESC](/images/bh/frathouse_computer_message.png)
+![DESC](/images/bh/frathouse_computer_message.webp)
 
 <hr style="background-color: #28b44c" size=8>

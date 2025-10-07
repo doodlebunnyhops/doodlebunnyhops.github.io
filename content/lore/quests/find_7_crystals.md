@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "Locate 7 hidden crystals in Brookhaven to unlock powerful energy and secrets. Follow this detailed quest guide with steps and visuals."
 images: 
-- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
+- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp
 - images/bh/7_crystals_comp_message.jpg
 #Tags: ["Abandoned House","Find 7 Crystals"]
 ---

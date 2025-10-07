@@ -29,7 +29,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение Скрытой долины" %}}
 
-![Местоположение Скрытой долины](/images/maps/hidden-valley.png)
+![Местоположение Скрытой долины](/images/maps/hidden-valley.webp)
 
 {{% /expand %}}
 

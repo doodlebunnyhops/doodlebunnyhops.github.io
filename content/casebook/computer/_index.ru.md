@@ -7,7 +7,7 @@ description: "Сообщения на компьютере, которые по�
 #Tags: ["Сообщения на компьютере"]
 images: 
 - images/bh/agency_greed_comp_message.jpg
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 
 date: 2024-01-01
 ---

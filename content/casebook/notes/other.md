@@ -38,7 +38,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 	2. If you're familiar with where the safe is, don’t go to that wall - turn left and shrink down to make it easier to get through another wall!. 
 		- Recommend [this vid](https://www.youtube.com/watch?v=IVYdl_jo6jg&t) cause words are hard
 
-![Note from Medical Officer Avid letting the general know he has resigned](/images/bh/other_military_rp_note.png) 
+![Note from Medical Officer Avid letting the general know he has resigned](/images/bh/other_military_rp_note.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -107,7 +107,7 @@ Is it pronounced `red river` or `re driver`?
 1. Click on the button behind the pillow
 	1. A note appears
 
-![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child_croped.png)
+![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child_croped.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -140,11 +140,11 @@ Is it pronounced `red river` or `re driver`?
 {{< column "grid-2" >}}
 
 {{< column "post-block-dot column" >}}
-![Brookhaven mausoleum plaque that reads "This building is from the future," with green-striped textures above it.](/images/abandoned_mausoleum/mausoleum_building_in_the_future.png?width=200px) 
+![Brookhaven mausoleum plaque that reads "This building is from the future," with green-striped textures above it.](/images/abandoned_mausoleum/mausoleum_building_in_the_future.webp?width=200px) 
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-![Bloomindaisy standing next to a green-striped note found at the mausoleum that says "This building is from the future."](/images/abandoned_mausoleum/mausoleum_building_in_the_future_close_up.png?width=200px) 
+![Bloomindaisy standing next to a green-striped note found at the mausoleum that says "This building is from the future."](/images/abandoned_mausoleum/mausoleum_building_in_the_future_close_up.webp?width=200px) 
 {{< /column>}}
 {{< /column>}}
 
@@ -195,7 +195,7 @@ Is it pronounced `red river` or `re driver`?
 2. Complete steps all of [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/).
 3. In the upstairs memorial area behind the arch, you will see a message from Wolfpaq.
 
-![A hidden message in the Abandoned Mausoleum from Wolfpaq, expressing gratitude and possibly hinting at a deeper mystery.](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png?width=600px) 
+![A hidden message in the Abandoned Mausoleum from Wolfpaq, expressing gratitude and possibly hinting at a deeper mystery.](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.webp?width=600px) 
 
 
 

@@ -27,7 +27,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение точки появления" %}}
 
-![Местоположение точки появления](/images/maps/spawn.png)
+![Местоположение точки появления](/images/maps/spawn.webp)
 
 {{% /expand %}}
 

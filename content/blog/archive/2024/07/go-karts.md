@@ -23,19 +23,19 @@ Drivers, start your engines! It's time for a go kart championship in Brookhaven,
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/free-gokart.png" loading="lazy" style="width: 80px; height: 80px;">Free Go Kart
+<img src="/images/blog/free-gokart.webp" loading="lazy" style="width: 80px; height: 80px;">Free Go Kart
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/premium-gokart.png" loading="lazy" style="width: 80px; height: 80px;">Premium Go Kart
+<img src="/images/blog/premium-gokart.webp" loading="lazy" style="width: 80px; height: 80px;">Premium Go Kart
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vehicle-pack-gokart.png" loading="lazy" style="width: 80px; height: 80px;">Vehicle Pack Go Kart
+<img src="/images/blog/vehicle-pack-gokart.webp" loading="lazy" style="width: 80px; height: 80px;">Vehicle Pack Go Kart
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/vehicle-props.png" loading="lazy" style="width: auto; height: 100px;">Prop Placement on Owned Vehicles!
+<img src="/images/blog/vehicle-props.webp" loading="lazy" style="width: auto; height: 100px;">Prop Placement on Owned Vehicles!
 {{< /column>}}
 
 

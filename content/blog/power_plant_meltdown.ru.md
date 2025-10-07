@@ -8,9 +8,9 @@ cascade:
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/power_plant_meltdown.png
 images:
-- images/power_plant_meltdown_imminent.png
-- images/power_plant_meltdown.png
-- images/power_plant_subterrain_agency_room.png
+- images/power_plant_meltdown_imminent.webp
+- images/power_plant_meltdown.webp
+- images/power_plant_subterrain_agency_room.webp
 description: "Новый секрет появился на электростанции Brookhaven. Ты остановишь аварию — или дашь ей случиться?"
 tags: [
   "BrookhavenRP 2025 Обновления",
@@ -47,7 +47,7 @@ draft: false
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Совместная охота за секретами с друзьями в Brookhaven](/images/bh-secret-hunting-with-friends.png)
+![Совместная охота за секретами с друзьями в Brookhaven](/images/bh-secret-hunting-with-friends.webp)
 {{< /column>}}
 {{< /column>}}
 

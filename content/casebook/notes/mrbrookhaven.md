@@ -20,7 +20,7 @@ aliases:
 
 1. Go to Floor 2 of the Hospital and go behind one of the Capsules.
 
-![A note from Mr. Brookhaven inside the hospital, mentioning that the crystal calls out seven times in hopes that it will be used for good rather than greed.](/images/bh/mrbrookhaven_crystals_notes.png) 
+![A note from Mr. Brookhaven inside the hospital, mentioning that the crystal calls out seven times in hopes that it will be used for good rather than greed.](/images/bh/mrbrookhaven_crystals_notes.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 

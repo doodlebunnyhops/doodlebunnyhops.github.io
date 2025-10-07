@@ -5,10 +5,10 @@ noindex: false
 weight: 17
 description: "Delve into the labyrinthine dungeon beneath the Old Shack House. Solve puzzles, unlock rooms, and uncover the Agency’s hidden portal."
 images:
-- images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png
-- images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png
-- images/agency_coffin_portal_quest/generator_room_tachyon_button.png
-- images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png
+- images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp
+- images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.webp
+- images/agency_coffin_portal_quest/generator_room_tachyon_button.webp
+- images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.webp
 #Tags: ["Brookhaven Portal","Secret August 2024", "Agency RP House","Brookhaven New Update", "Brookhaven New House Secrets"]
 #Categories: ["Secret August 2024"]
 ---
@@ -55,11 +55,11 @@ When I first started this quest I labeled how to get to rooms with sign props - 
 <hr style="background-color: #28b44c" size=8>
 
 {{< column "grid-2" >}}
-![Portal room with coffins in the Agency RP house with hovering carbon blocks](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png)
+![Portal room with coffins in the Agency RP house with hovering carbon blocks](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp)
 
-![Purple orb floating above table in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png)
+![Purple orb floating above table in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.webp)
 
-![Purple orb inside the generator](/images/agency_coffin_portal_quest/generator_room_tachyon_button.png)
+![Purple orb inside the generator](/images/agency_coffin_portal_quest/generator_room_tachyon_button.webp)
 
-![Group of brookhaven hunters solving the portal](/images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png)
+![Group of brookhaven hunters solving the portal](/images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.webp)
 {{< /column >}}

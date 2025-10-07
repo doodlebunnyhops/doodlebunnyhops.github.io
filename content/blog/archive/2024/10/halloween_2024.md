@@ -33,23 +33,23 @@ Like last year, you can pick your difficulty at the Halloween sign near **spawn*
 
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/2024_halloween_easy_mode_vehicle.png" loading="lazy" alt="2024 Halloween Easy Level Vehicle Unlock" style="width: auto; height: 100px;"> Easy Mode Vehicle, same as last years but now with cute candy corn!
+<img src="/images/blog/2024_halloween_easy_mode_vehicle.webp" loading="lazy" alt="2024 Halloween Easy Level Vehicle Unlock" style="width: auto; height: 100px;"> Easy Mode Vehicle, same as last years but now with cute candy corn!
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/2024_halloween_medium_mode_vehicle.png" loading="lazy" alt="2024 Halloween Medium Level Vehicle Unlock" style="width: auto; height: 100px;">Medium
+<img src="/images/blog/2024_halloween_medium_mode_vehicle.webp" loading="lazy" alt="2024 Halloween Medium Level Vehicle Unlock" style="width: auto; height: 100px;">Medium
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/2024_halloween_hard_mode_vehicle.png" loading="lazy" alt="2024 Halloween Hard Level Vehicle Unlock" style="width: auto; height: 100px;">Hard
+<img src="/images/blog/2024_halloween_hard_mode_vehicle.webp" loading="lazy" alt="2024 Halloween Hard Level Vehicle Unlock" style="width: auto; height: 100px;">Hard
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/2024_halloween_extreme_mode_vehicle.png" loading="lazy" alt="2024 Halloween Extreme Level Vehicle Unlock" style="width: auto; height: 100px;">Extreme
+<img src="/images/blog/2024_halloween_extreme_mode_vehicle.webp" loading="lazy" alt="2024 Halloween Extreme Level Vehicle Unlock" style="width: auto; height: 100px;">Extreme
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/2024_halloween_insane_mode_vehicle.png" loading="lazy" alt="2024 Halloween Insane Level Vehicle Unlock" style="width: auto; height: 100px;">Insane
+<img src="/images/blog/2024_halloween_insane_mode_vehicle.webp" loading="lazy" alt="2024 Halloween Insane Level Vehicle Unlock" style="width: auto; height: 100px;">Insane
 {{< /column>}}
 
 {{< /column>}}

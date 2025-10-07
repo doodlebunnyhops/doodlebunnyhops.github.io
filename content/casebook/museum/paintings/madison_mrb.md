@@ -5,7 +5,7 @@ noindex: false
 weight: 5
 description: "The Madison and Mr. Brookhaven painting in the Brookhaven Museum depicts them on their wedding day, connecting to the town's early history and Agency conflicts."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Madison and Mr. Brookhaven painting in Brookhaven Museum, showing them on their wedding day, tied to Brookhaven’s origins and Agency conflicts.](/images/bh/museum_madison_&_mrb.webp?height=200px)

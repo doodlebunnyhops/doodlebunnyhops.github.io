@@ -6,7 +6,7 @@ draft: false
 description: "Сообщения на ноутбуке от Агентства."
 #Tags: ["Сообщения на компьютере", "Сообщения от Агентства", "Агентство"]
 images: 
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 - images/bh/useful_soldier_comp_message.jpg
 
 ---
@@ -23,7 +23,7 @@ images:
 
 1. Получите “Красную книгу” и посмотрите на подключённый ноутбук.
 
-![DESC](/images/bh/follow_the_book_comp_message.png) 
+![DESC](/images/bh/follow_the_book_comp_message.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -39,7 +39,7 @@ images:
 2. Выполните те же действия, что и в квесте [Построить портал](/lore/quests/build_portal), но перед выходом из номера проверьте ноутбук!
 
 
-![Сообщение Агентства на компьютере, Сила книги.](/images/bh/power_of_the_book_comp_message_cropped.png?width=312px) 
+![Сообщение Агентства на компьютере, Сила книги.](/images/bh/power_of_the_book_comp_message_cropped.webp?width=312px) 
 
 <hr style="background-color: #28b44c" size=8>
 

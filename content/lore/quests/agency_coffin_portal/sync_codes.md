@@ -5,12 +5,12 @@ noindex: false
 weight: 7
 description: "Synchronize codes in every room of the Agency dungeon. Prepare to summon carbon blocks in the Portal Room."
 images:
-- images/agency_coffin_portal_quest/synced_room_code.png
-- images/agency_coffin_portal_quest/synced_room_code_w400px.png
+- images/agency_coffin_portal_quest/synced_room_code.webp
+- images/agency_coffin_portal_quest/synced_room_code_w400px.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of a synced code in the Agency RP house](/images/agency_coffin_portal_quest/synced_room_code_w400px.png)
+![Image of a synced code in the Agency RP house](/images/agency_coffin_portal_quest/synced_room_code_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -37,7 +37,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Location to put code in Fear and Greed's Room](/images/agency_coffin_portal_quest/syned_step_place_to_input_code.png)
+![Location to put code in Fear and Greed's Room](/images/agency_coffin_portal_quest/syned_step_place_to_input_code.webp)
 
 {{< /column >}}
 
@@ -47,7 +47,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Close up of Code Button](/images/agency_coffin_portal_quest/example_of_code_button_turned_on_green_small.png)
+![Close up of Code Button](/images/agency_coffin_portal_quest/example_of_code_button_turned_on_green_small.webp)
 
 {{< /column >}}
 

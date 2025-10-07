@@ -5,7 +5,7 @@ description: Archived Blogs from July 2023 about Brookhaven RP Updates, exciting
 type: blog_archive
 weight: 7
 images:
-- images/thumbnails/blog_splash.png
+- images/thumbnails/blog_splash.webp
 ---
 
 

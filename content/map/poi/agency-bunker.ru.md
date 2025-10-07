@@ -32,7 +32,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение Бункера Агентства" %}}
 
-![Местоположение Бункера Агентства](/images/maps/agency-bunker.png)
+![Местоположение Бункера Агентства](/images/maps/agency-bunker.webp)
 
 {{% /expand %}}
 

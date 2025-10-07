@@ -5,11 +5,11 @@ noindex: false
 weight: 4
 description: "Find hidden blocks and mysterious notes in the Kid’s Room. Uncover secrets in this part of the Agency’s underground labyrinth."
 images:
-- images/agency_coffin_portal_quest/kids_room_w400px.png
+- images/agency_coffin_portal_quest/kids_room_w400px.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of the Kids room in the Agency RP house](/images/agency_coffin_portal_quest/kids_room_w400px.png)
+![Image of the Kids room in the Agency RP house](/images/agency_coffin_portal_quest/kids_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -34,7 +34,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child.png)
+![Ominus note left by a child missing their mom and playing with blocks.](/images/agency_coffin_portal_quest/kids_room_note_from_child.webp)
 
 {{< /column >}}
 
@@ -43,8 +43,8 @@ images:
 
 {{< column "grid-2">}}
 
-![Spot where blocks are hidden in the wall in the kids room](/images/agency_coffin_portal_quest/kids_room_click_blocks_in_wall.png)
-![Close of of hidden blocks in kids room](/images/agency_coffin_portal_quest/kids_room_hidden_blocks_in_wall.png)
+![Spot where blocks are hidden in the wall in the kids room](/images/agency_coffin_portal_quest/kids_room_click_blocks_in_wall.webp)
+![Close of of hidden blocks in kids room](/images/agency_coffin_portal_quest/kids_room_hidden_blocks_in_wall.webp)
 
 {{< /column >}}
 

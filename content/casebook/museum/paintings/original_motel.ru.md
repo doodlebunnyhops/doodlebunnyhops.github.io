@@ -5,7 +5,7 @@ noindex: false
 weight: 7
 description: "Картина «Оригинальный мотель Brookhaven» в музее Brookhaven изображает ранний двухэтажный мотель, раскрывая его связь с прошлым Агентства и историей города."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Оригинальный мотель Brookhaven» в музее Brookhaven, изображающая вид с высоты на ранний двухэтажный мотель и его историческое значение.](/images/bh/museum_original_motel.webp?height=200px)

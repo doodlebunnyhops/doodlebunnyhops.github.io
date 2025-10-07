@@ -22,7 +22,7 @@ draft: false
 
 За стогом сена, с той стороны, где находится лестница. 
 
-![Кристалл 7 найден за сеном внутри амбара](/images/maps/crystals/crystal_7_behind_hay_inside_barn.png?width=400px)
+![Кристалл 7 найден за сеном внутри амбара](/images/maps/crystals/crystal_7_behind_hay_inside_barn.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -5,7 +5,7 @@ noindex: false
 weight: 2
 description: "Discover the mysterious display items inside Brookhaven Museum. From glowing crystals to cryptic books, each exhibit holds secrets waiting to be uncovered."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ## What are the Items on Display?

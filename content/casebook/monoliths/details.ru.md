@@ -57,4 +57,4 @@ images:
 
 `..()..()..()..()()..<^^>`  
 
-![Странный код за зданием Мотеля](/images/bh/monolith_sign_behind_motel.png?width=400px)
+![Странный код за зданием Мотеля](/images/bh/monolith_sign_behind_motel.webp?width=400px)

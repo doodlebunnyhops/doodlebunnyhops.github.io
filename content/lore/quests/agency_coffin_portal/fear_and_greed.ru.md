@@ -5,11 +5,11 @@ noindex: false
 weight: 4
 description: "Исследуйте Комнату Страха и Жадности в лабиринте. Изменяйте таблички, корректируйте занавески и раскрывайте телепорты в логове Агентства."
 images:
-- images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png
+- images/agency_coffin_portal_quest/fear_&_greed_room_w400px.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Комната Страха и Жадности в Доме Агентства RP](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png)
+![Комната Страха и Жадности в Доме Агентства RP](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.webp)
 
 Прежде чем начать эти шаги, взгляните на [скрытое сообщение на камне](/casebook/notes/greed/#обещание-власти)!
 
@@ -47,8 +47,8 @@ images:
 
 {{< column "grid-2">}}
 
-![Картина со Страхом](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_fear.png)
-![Картина с Жадностью](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_greed.png)
+![Картина со Страхом](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_fear.webp)
+![Картина с Жадностью](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_greed.webp)
 
 {{< /column >}}
 
@@ -58,7 +58,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Скрытая красная кнопка под столом в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_button_under_table.png)
+![Скрытая красная кнопка под столом в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_button_under_table.webp)
 
 {{< /column >}}
 
@@ -68,8 +68,8 @@ images:
 
 {{< column "grid-2">}}
 
-![Вид на занавески, которые нужно сделать чёрными в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_1.png)
-![Вид на занавески, которые нужно сделать чёрными в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_2.png)
+![Вид на занавески, которые нужно сделать чёрными в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_1.webp)
+![Вид на занавески, которые нужно сделать чёрными в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_2.webp)
 
 {{< /column >}}
 {{% /tab %}}

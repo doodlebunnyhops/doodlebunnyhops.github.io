@@ -56,4 +56,4 @@ Example:
 
 `..()..()..()..()()..<^^>`
 
-![Odd code sign behind Motel Building](/images/bh/monolith_sign_behind_motel.png?width=400px)
+![Odd code sign behind Motel Building](/images/bh/monolith_sign_behind_motel.webp?width=400px)

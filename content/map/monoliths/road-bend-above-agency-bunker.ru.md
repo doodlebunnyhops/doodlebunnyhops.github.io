@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита под эстакадой в районе Crown Point, Brookhaven"
 images:
-- images/maps/monoliths/monolith_road_bend.png
+- images/maps/monoliths/monolith_road_bend.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Эстакада Crown Point", "Местоположение монолита"]
 draft: false
@@ -14,6 +14,6 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..{}{}{}{}____..">..{}{}{}{}____..</code></span></center>
 
-![Монолит рядом с автозаправкой](/images/maps/monoliths/monolith_road_bend.png?width=400px)
+![Монолит рядом с автозаправкой](/images/maps/monoliths/monolith_road_bend.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>

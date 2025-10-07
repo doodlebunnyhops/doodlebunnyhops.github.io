@@ -24,7 +24,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение кладбища" %}}
 
-![Местоположение кладбища](/images/maps/cemetery.png)
+![Местоположение кладбища](/images/maps/cemetery.webp)
 
 {{% /expand %}}
 
