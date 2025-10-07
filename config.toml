@@ -1,6 +1,7 @@
 baseURL = "https://solve.bhmystery.com/"
 enableRobotsTXT = true
 relativeURLs = true
+uglyURLs = false
 
 timeout = "60s"
 

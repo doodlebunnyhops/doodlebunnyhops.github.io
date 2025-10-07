@@ -41,6 +41,24 @@
     --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
 }
 
+.card-container .card {
+  background: var(--INTERNAL-BOX-BG-color);
+  border: 1px solid color-mix(in srgb, var(--INTERNAL-MAIN-TEXT-color) 10%, transparent);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  color: var(--INTERNAL-MAIN-TEXT-color);
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  max-height: 600px;
+  min-height: 100px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  position: relative;
+  transition: all 0.3s ease;
+  word-break: break-word;
+}
+
 mark {
   color: rgb(0, 0, 0);
 }
