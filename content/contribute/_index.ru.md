@@ -7,7 +7,7 @@ aliases:
 - /other
 
 images: 
-- images/git/which_issue.png
+- images/git/which_issue.webp
 ---
 
 У вас есть несколько способов помочь! Вы детектив и хотите пообщаться? Или, возможно, вы нашли на сайте что-то, о чем хотите рассказать. :happy:

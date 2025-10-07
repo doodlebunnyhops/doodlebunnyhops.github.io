@@ -5,9 +5,9 @@ noindex: false
 weight: 21
 description: "Устрой аварию на Электростанции, чтобы открыть доступ к Ядру и получить Зелёный Кристалл. В этом гайде пошаговые инструкции, картинки и заметки о скрытой Подземной Комнате Агентства."
 images:
-- images/power_plant_meltdown_imminent.png
-- images/power_plant_meltdown.png
-- images/power_plant_subterrain_agency_room.png
+- images/power_plant_meltdown_imminent.webp
+- images/power_plant_meltdown.webp
+- images/power_plant_subterrain_agency_room.webp
 # Tags: ["Power Plant","Meltdown","Green Crystal","Agency","Subterrain","X13"]
 ---
 

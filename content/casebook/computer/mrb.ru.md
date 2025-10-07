@@ -18,7 +18,7 @@ description: "Сообщения на ноутбуке от мистера B, т
 
 1. Используйте **зелёную ключ-карту** в **бункере Агентства**, после чего на вашем компьютере должно появиться это сообщение.  
 
-![DESC](/images/bh/green_card_comp_message.png)
+![DESC](/images/bh/green_card_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

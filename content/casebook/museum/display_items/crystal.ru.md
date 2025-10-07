@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "Экспонат с кристаллом в музее Brookhaven связан со скрытыми источниками энергии и ключевыми квестами. Узнайте, какую роль он играет в тайнах Brookhaven и секретных локациях."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Экспонат с кристаллом в музее Brookhaven: светящийся кристалл внутри стеклянной витрины, связанный со скрытой энергией и секретными квестами.](/images/bh/museum_crystal.webp?height=200px)

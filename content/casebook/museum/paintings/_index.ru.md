@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "Картины в музее Brookhaven содержат скрытые подсказки о прошлом города. Исследуйте загадочные фигуры, символы и места, изображённые на каждом произведении искусства."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ## Кто изображён на картинах?

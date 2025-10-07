@@ -26,7 +26,7 @@ The bank has expanded with a vault system underneath through the restricted area
 
 {{< column "post-block" >}}
 {{< column "post-block-dot column" >}}
-![BloominDaisy sitting at the Bank Desk with a Restricted Access Elevator behind that leads to the Bank Vault.](/images/blog/bank_vault_elevator.png?width=400px)To Enter the Restricted area grab the white keycard on the desk, close to where BloominDaisy is sitting in the picture.
+![BloominDaisy sitting at the Bank Desk with a Restricted Access Elevator behind that leads to the Bank Vault.](/images/blog/bank_vault_elevator.webp?width=400px)To Enter the Restricted area grab the white keycard on the desk, close to where BloominDaisy is sitting in the picture.
 {{< /column>}}
 {{< /column >}}
 
@@ -41,17 +41,17 @@ There are 3 spots to loot, each with its own challenges... will you make it out 
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Locked Gold in the Bank Vault protected by lasers](/images/blog/gold_vault.png)**Gold Vault of Lasers** <p style="text-align: left">_Carefully_ hop your way through without getting toasted and use an explosion :bomb: to break the doors down.</p>
+![Locked Gold in the Bank Vault protected by lasers](/images/blog/gold_vault.webp)**Gold Vault of Lasers** <p style="text-align: left">_Carefully_ hop your way through without getting toasted and use an explosion :bomb: to break the doors down.</p>
 {{< /column>}}
 
 
 {{< column "post-block-dot column" >}}
-![Diamonds locked away behind a glass door in the bank vault.](/images/blog/diamond_vault.png)**Diamond Vault of Glass** <p style="text-align: left">This is all about glass... First get a key behind glass to open the gate to the right in this picture. Then you will come up to a glass door...break the buttons on the wall to short circuit it! And voila now use that explosion again :bomb: </p>
+![Diamonds locked away behind a glass door in the bank vault.](/images/blog/diamond_vault.webp)**Diamond Vault of Glass** <p style="text-align: left">This is all about glass... First get a key behind glass to open the gate to the right in this picture. Then you will come up to a glass door...break the buttons on the wall to short circuit it! And voila now use that explosion again :bomb: </p>
 {{< /column>}}
 
 
 {{< column "post-block-dot column" >}}
-![Bitcoin behind a vault door at the bank](/images/blog/bitcoin_vault.png)**BitCoin Vault of Secrets** <p style="text-align: left">I'll keep this one short... there's a hidden passage that leads you to this room :wink: but you must do something twice to break through...</p>
+![Bitcoin behind a vault door at the bank](/images/blog/bitcoin_vault.webp)**BitCoin Vault of Secrets** <p style="text-align: left">I'll keep this one short... there's a hidden passage that leads you to this room :wink: but you must do something twice to break through...</p>
 {{< /column>}}
 
 {{< /column>}}

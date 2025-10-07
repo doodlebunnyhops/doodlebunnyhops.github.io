@@ -34,7 +34,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение логова преступников" %}}
 
-![Местоположение логова преступников](/images/maps/criminal-hideout.png)
+![Местоположение логова преступников](/images/maps/criminal-hideout.webp)
 
 {{% /expand %}}
 

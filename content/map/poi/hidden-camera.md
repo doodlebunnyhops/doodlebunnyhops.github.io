@@ -24,7 +24,7 @@ The agency has planted a hidden camera near Lake Madison to monitor Mr. Brookhav
 
 {{% expand title="Outlined Location of Hidden Camera" %}}
 
-![Location of Hidden Camera](/images/maps/hidden-camera.png)
+![Location of Hidden Camera](/images/maps/hidden-camera.webp)
 
 {{% /expand %}}
 

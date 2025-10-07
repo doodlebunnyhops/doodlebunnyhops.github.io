@@ -5,7 +5,7 @@ noindex: false
 weight: 2
 description: "Исследуйте загадочные экспонаты в музее Brookhaven. От светящихся кристаллов до таинственных книг — каждый предмет хранит в себе секреты, ждущие своего открытия."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ## Какие предметы выставлены на экспозиции?

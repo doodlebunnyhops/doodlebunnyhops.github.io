@@ -8,7 +8,7 @@ aliases:
 - /casebook/monoliths/knight
 - /casebook/museum/knight
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 --- 
 
 ![The Brave painting in Brookhaven Museum, depicting a knight in armor with a horse, symbolizing bravery, peace, and faith.](/images/bh/museum_brave.webp?height=200px)

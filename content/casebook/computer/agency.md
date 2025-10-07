@@ -6,7 +6,7 @@ draft: false
 description: "Messages on the laptop from the Agency."
 #Tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 - images/bh/useful_soldier_comp_message.jpg
 
 ---
@@ -25,7 +25,7 @@ images:
 1. After obtaining “The Red Book” look at your connected laptop
 
 
-![DESC](/images/bh/follow_the_book_comp_message.png) 
+![DESC](/images/bh/follow_the_book_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -45,7 +45,7 @@ images:
 The power of The Book will lead you to construct what is needed to destroy our enemy. {Agency}
 ```
 
-![Brookhaven Agency Message from the Computer, The Power of the Book.](/images/bh/power_of_the_book_comp_message_cropped.png?width=312px) 
+![Brookhaven Agency Message from the Computer, The Power of the Book.](/images/bh/power_of_the_book_comp_message_cropped.webp?width=312px) 
 
 
 <hr style="background-color: #28b44c" size=8>

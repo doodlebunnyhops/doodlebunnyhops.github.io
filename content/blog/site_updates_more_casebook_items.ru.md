@@ -10,7 +10,7 @@ cascade:
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.png
 images:
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 description: "Книга Brookhaven обновлена: добавлены новые записи и полностью переработан раздел музея, документирующий скрытые послания и артефакты, найденные игроками."
 tags: ["Обновления сайта"]
 noindex: true

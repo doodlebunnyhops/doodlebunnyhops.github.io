@@ -5,7 +5,7 @@ noindex: false
 weight: 7
 description: "The Original Brookhaven Motel painting in Brookhaven Museum depicts the early two-story motel, revealing its ties to the Agency’s past and Brookhaven’s history."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 

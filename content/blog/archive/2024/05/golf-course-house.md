@@ -25,11 +25,11 @@ Grab your Golfing Clubs and lets set out to the Golfing House Club for a relaxin
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/free_house_golf_icon.png" loading="lazy" style="width: 80px; height: 80px;">Free House: A sweet little golfers lounge for those much needed breaks!
+<img src="/images/blog/free_house_golf_icon.webp" loading="lazy" style="width: 80px; height: 80px;">Free House: A sweet little golfers lounge for those much needed breaks!
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/premium_house_golf_icon.png" loading="lazy" style="width: 80px; height: 80px;">Premium House: The ultimate Golfing Club hangout!
+<img src="/images/blog/premium_house_golf_icon.webp" loading="lazy" style="width: 80px; height: 80px;">Premium House: The ultimate Golfing Club hangout!
 {{< /column>}}
 
 {{< /column>}}

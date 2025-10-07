@@ -36,7 +36,7 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 1. After completing the quest, turn on High Voltage in Town Hall.
 2. Head to the Barn, look for the hay on the First Floor and this note should be there. 
 
-![Note from Mr. B, High voltage is required](/images/bh/mrb_barn.png) 
+![Note from Mr. B, High voltage is required](/images/bh/mrb_barn.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 

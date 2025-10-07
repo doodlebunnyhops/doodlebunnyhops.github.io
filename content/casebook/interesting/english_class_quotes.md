@@ -5,9 +5,9 @@ weight: 15
 draft: false
 description: "The class room at Brookhaven's School 'School of the Doge' has changed the quote on the whiteboard over the years."
 images: 
-- images/bh/youll_never_get_obored_english_class_quote.png
-- images/bh/youre_off_to_great_places_english_class_quote.png
-- images/bh/youre_too_smart_english_class_quote.png
+- images/bh/youll_never_get_obored_english_class_quote.webp
+- images/bh/youre_off_to_great_places_english_class_quote.webp
+- images/bh/youre_too_smart_english_class_quote.webp
 ---
 
 
@@ -24,7 +24,7 @@ _Image credit to BatYE_
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Brookhaven's English class room previous Dr. Seuss quote in English Class room.](/images/bh/youll_never_get_obored_english_class_quote.png)
+![Brookhaven's English class room previous Dr. Seuss quote in English Class room.](/images/bh/youll_never_get_obored_english_class_quote.webp)
 > “You'll never get bored when you try something new. There's really no limit to what you can do.”
 {{< /column>}}
 {{< /column>}}
@@ -48,7 +48,7 @@ This quote came with the [School, Hospital, Police Station Remodle Update](/blog
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Brookhaven's English class room new Dr. Seuss quote in English Class room.](/images/bh/youre_too_smart_english_class_quote.png)
+![Brookhaven's English class room new Dr. Seuss quote in English Class room.](/images/bh/youre_too_smart_english_class_quote.webp)
 > “With your head full of brains and your shoes full of feet, you’re too smart to go down any not-so-good street.”
 {{< /column>}}
 {{< /column>}}

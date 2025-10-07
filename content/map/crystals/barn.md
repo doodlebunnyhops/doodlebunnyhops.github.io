@@ -22,7 +22,7 @@ We end our crystal adventure where we nearly began. Remember when we started wit
 
 Behind the hay on the side where the ladder is. 
 
-![crystal 7 found behind hay inside barn](/images/maps/crystals/crystal_7_behind_hay_inside_barn.png?width=400px)
+![crystal 7 found behind hay inside barn](/images/maps/crystals/crystal_7_behind_hay_inside_barn.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

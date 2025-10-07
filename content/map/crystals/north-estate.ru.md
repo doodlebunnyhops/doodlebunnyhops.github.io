@@ -26,7 +26,7 @@ draft: false
 
 _нажмите на изображение для увеличения_
 {{< column "grid-2" >}}
-![кристалл 6 найден на холме позади Северного поместья прямо перед подземным переходом](/images/maps/crystals/crystal_6_behind_north_estate_near_underpass.png)
+![кристалл 6 найден на холме позади Северного поместья прямо перед подземным переходом](/images/maps/crystals/crystal_6_behind_north_estate_near_underpass.webp)
 {{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>

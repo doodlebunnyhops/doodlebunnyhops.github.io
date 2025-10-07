@@ -29,7 +29,7 @@ It's a quaint little nook, perfect for a quiet home. But something is hiding ins
 
 {{% expand title="Outlined Location of Hidden Valley" %}}
 
-![Location of Hidden Valley](/images/maps/hidden-valley.png)
+![Location of Hidden Valley](/images/maps/hidden-valley.webp)
 
 {{% /expand %}}
 

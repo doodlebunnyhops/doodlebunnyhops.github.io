@@ -1,0 +1,55 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $width := .Get "width" | default "800" -}}
+{{- $height := .Get "height" | default "" -}}
+{{- $quality := .Get "quality" | default "85" -}}
+
+{{- $image := "" -}}
+{{- $webp := "" -}}
+
+{{- if strings.HasPrefix $src "/" -}}
+  {{- $src = strings.TrimPrefix $src "/" -}}
+{{- end -}}
+
+{{- $imagePath := printf "assets/images/%s" $src -}}
+
+{{- if fileExists $imagePath -}}
+  {{- $original := resources.Get (printf "images/%s" $src) -}}
+  
+  {{- if $original -}}
+    {{- if $height -}}
+      {{- $image = $original.Resize (printf "%sx%s q%s" $width $height $quality) -}}
+    {{- else -}}
+      {{- $image = $original.Resize (printf "%sx q%s" $width $quality) -}}
+    {{- end -}}
+    
+    {{- /* Try to create WebP version */ -}}
+    {{- $webpSrc := replace $src ".png" ".webp" -}}
+    {{- $webpSrc = replace $webpSrc ".jpg" ".webp" -}}
+    {{- $webpSrc = replace $webpSrc ".jpeg" ".webp" -}}
+    {{- $webpPath := printf "assets/images/%s" $webpSrc -}}
+    
+    {{- if fileExists $webpPath -}}
+      {{- $webpResource := resources.Get (printf "images/%s" $webpSrc) -}}
+      {{- if $webpResource -}}
+        {{- if $height -}}
+          {{- $webp = $webpResource.Resize (printf "%sx%s q%s" $width $height $quality) -}}
+        {{- else -}}
+          {{- $webp = $webpResource.Resize (printf "%sx q%s" $width $quality) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<picture{{ with $class }} class="{{ . }}"{{ end }}>
+  {{- if $webp -}}
+  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+  {{- end -}}
+  {{- if $image -}}
+  <img src="{{ $image.RelPermalink }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ if site.Params.imageEffects.lazy }} loading="lazy"{{ end }}>
+  {{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ if site.Params.imageEffects.lazy }} loading="lazy"{{ end }}>
+  {{- end -}}
+</picture>

@@ -5,7 +5,7 @@ description: Archived Blogs from August 2023 about Brookhaven RP Updates, exciti
 type: blog_archive
 weight: 8
 images:
-- images/thumbnails/blog_splash.png
+- images/thumbnails/blog_splash.webp
 ---
 
 

@@ -5,11 +5,11 @@ noindex: false
 weight: 18
 description: "Complete guide to uncover all secrets in the Abandoned Mausoleum RP set. Solve puzzles, unlock the glowing chair, and reveal hidden lore."
 images:
-- /images/abandoned_mausoleum/the_glowing_chair_and_arch.png
-- /images/abandoned_mausoleum/mr_brookhavens_tomb.png
+- /images/abandoned_mausoleum/the_glowing_chair_and_arch.webp
+- /images/abandoned_mausoleum/mr_brookhavens_tomb.webp
 ---
 
-![Mr. Brookhaven's Tomb in the Abandoned Mausoleum](/images/abandoned_mausoleum/mr_brookhavens_tomb.png?width=500px)
+![Mr. Brookhaven's Tomb in the Abandoned Mausoleum](/images/abandoned_mausoleum/mr_brookhavens_tomb.webp?width=500px)
 
 The Abandoned Mausoleum RP Set is packed with secrets, puzzles, and hidden lore waiting to be uncovered. Follow this guide to complete all 14 steps, unlock the glowing chair, and discover the mysteries within.
 
@@ -31,13 +31,13 @@ _prefer a video walk through? here's who I suggest!_
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
 **<center>Load Abandoned RP Set</center>**
-![BrookhavenRP Abandoned RP Set Icon](/images/abandoned_mausoleum/abandoned_rp_icon.png)
+![BrookhavenRP Abandoned RP Set Icon](/images/abandoned_mausoleum/abandoned_rp_icon.webp)
 Find yourself a nice plot somewhere and load up this theme rp set.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
 **<center>Select Mausoleum Theme</center>**
-![BrookhavenRP Mausoleum Theme for Abandoned RP Set icon](/images/abandoned_mausoleum/mausoleum_icon.png)
+![BrookhavenRP Mausoleum Theme for Abandoned RP Set icon](/images/abandoned_mausoleum/mausoleum_icon.webp)
 In the front yard you'll see 6 themes to chose from, make sure to select this one for secrets!
 {{< /column>}}
 
@@ -105,8 +105,8 @@ You’ve completed the secrets of the Abandoned Mausoleum!
 There's a note behind the Agency Coffin.
 
 {{< column "grid-2" >}}
-![Agency Coffin with burn marks around it in the Abandoned Mausoleum](/images/abandoned_mausoleum/mausoleum_agency_coffin_view.png?width=400px)
-![White Coffin with Agency Logo on it](/images/abandoned_mausoleum/mausoleum_agency_coffin_closeup.png?width=400px)
+![Agency Coffin with burn marks around it in the Abandoned Mausoleum](/images/abandoned_mausoleum/mausoleum_agency_coffin_view.webp?width=400px)
+![White Coffin with Agency Logo on it](/images/abandoned_mausoleum/mausoleum_agency_coffin_closeup.webp?width=400px)
 
 {{< /column >}}
 {{% /tab %}}
@@ -114,96 +114,96 @@ There's a note behind the Agency Coffin.
 {{% tab title="Step 2" %}}
 Agency Crypt is located on the first floor, on the bottom of the stack.
 {{< column "grid-2" >}}
-![Hidden button behind Agency Crypt in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_button_behind_agency_crypt.png?width=400px)
+![Hidden button behind Agency Crypt in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_button_behind_agency_crypt.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 3" %}}
 From the second floor look out the back broken window to find the crystals
 {{< column "grid-2" >}}
-![Hidden Crystal on the roof in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_crystal_on_corner_of_roof.png?width=400px)
+![Hidden Crystal on the roof in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_crystal_on_corner_of_roof.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 4" %}}
 this is a table...with a note on it
 {{< column "grid-2" >}}
-![Table with Note on it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_note_on_table_by_stairs.png?width=400px)
+![Table with Note on it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_note_on_table_by_stairs.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 5" %}}
 Lay in the yellow crypt upstairs. Its the crypt closest to the Crystals found earlier.
 {{< column "grid-2" >}}
-![Yellow Crypt/Coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_upstairs_brown_crypt.png?width=400px)
+![Yellow Crypt/Coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_upstairs_brown_crypt.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 6" %}}
 Click hidden button in front of Agency Coffin, it will turn black once you find it.
 {{< column "grid-2" >}}
-![Black button revealed on Agency Coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_black_button_on_agency_coffin.png?width=400px)
+![Black button revealed on Agency Coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_black_button_on_agency_coffin.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 7" %}}
 its a note - in a prison cell...you should click it
 {{< column "grid-2" >}}
-![Prision Cell in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_prison_cell.png?width=400px)
+![Prision Cell in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_prison_cell.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 8" %}}
 On the first floor to the left in a room you'll find this brown coffin with a button behind it.
 {{< column "grid-2" >}}
-![Brown Coffin with energy pyramid on the first floor in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_picture.png?width=400px)
-![Brown Coffin with secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_coffin_button.png?width=400px)
+![Brown Coffin with energy pyramid on the first floor in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_picture.webp?width=400px)
+![Brown Coffin with secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_knights_coffin_button.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 9" %}}
 The Doves are found in the front yard to the left. (click image to enlarge if it's hard to see). Doves tend to appear darker in color on mobile devices.
 {{< column "grid-2" >}}
-![Doves sitting on a Bush outside the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_doves_front_yard.png?width=400px)
+![Doves sitting on a Bush outside the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_doves_front_yard.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 10" %}}
 On the second floor to the left in a room you'll find this white coffin with a button behind it.
 {{< column "grid-2" >}}
-![White coffin with an energy pyramid on it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_tomb.png?width=400px)
-![White Coffin with a secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_coffin_upstairs.png?width=400px)
+![White coffin with an energy pyramid on it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_tomb.webp?width=400px)
+![White Coffin with a secret button behind it in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_kinds_coffin_upstairs.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 11" %}}
 This Number Input was generated from Step 4, use it to put in the code `1155` and the click on the clock 
 {{< column "grid-2" >}}
-![Number Pad to input secret code in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_numbers.png?width=400px)
-![Clock on the roof showing 1155 of the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1155_clock.png?width=400px)
+![Number Pad to input secret code in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_numbers.webp?width=400px)
+![Clock on the roof showing 1155 of the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1155_clock.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 12" %}}
 On the second floor you'll now see what looks like a memorial and a brown book on a white lecturn. Pick up the brown book, aka the Good Book.
 {{< column "grid-2" >}}
-![Mr. Brookhaven's Memorial in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_mr_brookhavens_tomb.png?width=400px)
-![Brown Book, aka The Good Book, in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_the_good_book.png?width=400px)
+![Mr. Brookhaven's Memorial in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_mr_brookhavens_tomb.webp?width=400px)
+![Brown Book, aka The Good Book, in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_the_good_book.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 13" %}}
 On the first floor, back to where we first clicked the note behind the Agency Coffin you will see The Agency Book is burning. Click on it
 {{< column "grid-2" >}}
-![The Agency Book burning on a coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_burning_agency_book.png?width=400px)
+![The Agency Book burning on a coffin in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_burning_agency_book.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 
 {{% tab title="Step 14" %}}
 Notice after clicking the Burning Agency Book that the Clock has changed to `1200`. This is your new code to input, then click on the clock again.
 {{< column "grid-2" >}}
-![Clock on the roof showing 1200 in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1200_clock.png?width=400px)
-![](/images/abandoned_mausoleum/mausoleum_the_glowing_chair_and_arch.png?width=400px)
+![Clock on the roof showing 1200 in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_1200_clock.webp?width=400px)
+![](/images/abandoned_mausoleum/mausoleum_the_glowing_chair_and_arch.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}
 

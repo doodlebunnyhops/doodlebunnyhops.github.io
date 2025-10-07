@@ -8,7 +8,7 @@ aliases:
 - /ru/casebook/monoliths/knight
 - /ru/casebook/museum/knight
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Храбрый» в музее Brookhaven, изображающая рыцаря в доспехах с лошадью, символизирующую храбрость, покой и веру.](/images/bh/museum_brave.webp?height=200px)

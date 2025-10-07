@@ -5,7 +5,7 @@ noindex: false
 weight: 5
 description: "Экспонат «Добрая книга» в музее Brookhaven раскрывает скрытые послания и играет ключевую роль в квестах, раскрывающих более глубокие тайны и истины города."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Экспонат «Добрая книга» в музее Brookhaven: коричневая книга внутри стеклянной витрины, связанная со скрытыми посланиями и секретными квестами.](/images/bh/museum_good_book.webp?height=200px)

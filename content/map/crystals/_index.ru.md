@@ -7,7 +7,7 @@ description: "Интерактивная карта местоположений
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["Карта местоположений кристаллов"]
 images: 
-- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png
+- images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp
 
 date: 2024-09-23
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Это интерактивная карта, показывающая все местоположения кристаллов в городе Brookhaven.
 
-![Дейзи держит кристалл в заброшенном доме](/images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.png?width=400px)
+![Дейзи держит кристалл в заброшенном доме](/images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

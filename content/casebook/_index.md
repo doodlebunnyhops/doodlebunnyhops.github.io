@@ -6,8 +6,8 @@ date: 2024-01-02
 description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."
 
 images: 
-- images/bh/collage.png
-- images/bh/follow_the_book_comp_message.png
+- images/bh/collage.webp
+- images/bh/follow_the_book_comp_message.webp
 #Categories: ["casebook","notes","observations"]
 #Tags: ["notes","observations"]
 --- 
@@ -21,4 +21,4 @@ Notes and observations found during investigations.
 {{% children depth=2 sort="Weight" description=false %}}
 
 
-<!-- ![Collage of notes](/images/bh/collage.png) -->
+<!-- ![Collage of notes](/images/bh/collage.webp) -->

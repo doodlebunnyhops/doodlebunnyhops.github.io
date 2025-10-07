@@ -23,7 +23,7 @@ Ah yes, where the Crystal Quest began... but we're not done yet! There are still
 
 Look closely by the wall and cabinet, it's not a critter ;) 
 
-![crystal 3 found at abandoned house between cabinet and wall](/images/maps/crystals/crystal_3_at_abandoned_house_between_cabinet_and_wall.png?width=400px)
+![crystal 3 found at abandoned house between cabinet and wall](/images/maps/crystals/crystal_3_at_abandoned_house_between_cabinet_and_wall.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

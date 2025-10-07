@@ -26,7 +26,7 @@ We have a new category for vehicles types! Along with this category, we also got
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Classic Cars & Trucks Category Icon](/images/blog/classic_car_category_selection.png)**Classic Cars & Trucks Category Icon**
+![Classic Cars & Trucks Category Icon](/images/blog/classic_car_category_selection.webp)**Classic Cars & Trucks Category Icon**
 {{< /column>}}
 
 {{< /column>}}
@@ -44,7 +44,7 @@ While most of these are free, several passes also got a new classic vehicle :D
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![Full set of all Classic Vehicles](/images/blog/full_set_classic_cars.png)
+![Full set of all Classic Vehicles](/images/blog/full_set_classic_cars.webp)
 {{< /column>}}
 
 {{< /column>}}

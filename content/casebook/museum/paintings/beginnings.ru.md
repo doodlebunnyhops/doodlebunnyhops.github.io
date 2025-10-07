@@ -5,7 +5,7 @@ noindex: false
 weight: 6
 description: "Картина «Начало» в музее Brookhaven изображает город до появления зданий, раскрывая его раннюю историю, скрытые подсказки и связь с мистером Brookhaven."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Brookhaven в начале» в музее Brookhaven, изображающая вид с высоты на город до строительства зданий.](/images/bh/museum_brookhaven_beginnings.webp?height=200px)

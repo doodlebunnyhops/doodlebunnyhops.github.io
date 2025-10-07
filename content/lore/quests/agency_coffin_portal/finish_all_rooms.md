@@ -5,11 +5,11 @@ noindex: false
 weight: 8
 description: "Find and activate hidden buttons in each room of the dungeon. Ensure all progress bars are green to advance the Portal Room quest."
 images:
-- images/agency_coffin_portal_quest/last_bar_lab_capsules_room.png
+- images/agency_coffin_portal_quest/last_bar_lab_capsules_room.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of completed rooms in the Agency RP house](/images/agency_coffin_portal_quest/last_bar_completed_check_2_w400px.png)
+![Image of completed rooms in the Agency RP house](/images/agency_coffin_portal_quest/last_bar_completed_check_2_w400px.webp)
 
 
 Every room now as a hidden button that needs to be clicked. This will complete every rooms progress except for the portal.
@@ -42,14 +42,14 @@ _you can click images to enlarge them_
 
 {{< column "grid-3">}}
 
-![Button location in Fear and Greed's Room](/images/agency_coffin_portal_quest/last_bar_fear_&_greed_room.png)
-![Button location in Generator Room](/images/agency_coffin_portal_quest/last_bar_generator_room.png)
-![Button location in Kids Room](/images/agency_coffin_portal_quest/last_bar_kids_room.png)
-![Button location in Main Room](/images/agency_coffin_portal_quest/last_bar_main_room.png)
-![Button location in Cell Room](/images/agency_coffin_portal_quest/last_bar_cell_room.png)
-![Button location in Lab and Capsules Room](/images/agency_coffin_portal_quest/last_bar_lab_capsules_room.png)
-![Progress of rooms is completed except portal room](/images/agency_coffin_portal_quest/last_bar_completed_check.png)
-![Progress of rooms is completed](/images/agency_coffin_portal_quest/last_bar_completed_check_2.png)
+![Button location in Fear and Greed's Room](/images/agency_coffin_portal_quest/last_bar_fear_&_greed_room.webp)
+![Button location in Generator Room](/images/agency_coffin_portal_quest/last_bar_generator_room.webp)
+![Button location in Kids Room](/images/agency_coffin_portal_quest/last_bar_kids_room.webp)
+![Button location in Main Room](/images/agency_coffin_portal_quest/last_bar_main_room.webp)
+![Button location in Cell Room](/images/agency_coffin_portal_quest/last_bar_cell_room.webp)
+![Button location in Lab and Capsules Room](/images/agency_coffin_portal_quest/last_bar_lab_capsules_room.webp)
+![Progress of rooms is completed except portal room](/images/agency_coffin_portal_quest/last_bar_completed_check.webp)
+![Progress of rooms is completed](/images/agency_coffin_portal_quest/last_bar_completed_check_2.webp)
 
 {{< /column >}}
 

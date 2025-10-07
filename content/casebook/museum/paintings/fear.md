@@ -5,7 +5,7 @@ noindex: false
 weight: 3
 description: "The Fear painting in the Brookhaven Museum depicts a girl in a pink, red, and white dress with an umbrella, tied to hidden messages about fear and sleep."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Fear painting in Brookhaven Museum, depicting a girl in a pink, red, and white dress holding an umbrella, tied to hidden messages about fear and sleep.](/images/bh/museum_fear.webp?height=200px)

@@ -5,10 +5,10 @@ noindex: false
 weight: 17
 description: "Спуститесь в лабиринт под Старым домом Агентства RP. Разгадайте головоломки, откройте скрытые комнаты и узнайте, что скрывает Агентство."
 images:
-- images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png
-- images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png
-- images/agency_coffin_portal_quest/generator_room_tachyon_button.png
-- images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png
+- images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp
+- images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.webp
+- images/agency_coffin_portal_quest/generator_room_tachyon_button.webp
+- images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.webp
 #Tags: ["Портал Brookhaven","Секрет август 2024", "Дом Агентства RP","Новое обновление Brookhaven", "Секреты нового дома"]
 #Categories: ["Секрет август 2024"]
 ---
@@ -53,11 +53,11 @@ _Предпочитаете видео-прохождение? Вот кого �
 <hr style="background-color: #28b44c" size=8>
 
 {{< column "grid-2" >}}
-![Комната с порталом и гробами в Доме Агентства RP с парящими углеродными блоками](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png)
+![Комната с порталом и гробами в Доме Агентства RP с парящими углеродными блоками](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp)
 
-![Фиолетовый шар, парящий над столом в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.png)
+![Фиолетовый шар, парящий над столом в Комнате Страха и Жадности](/images/agency_coffin_portal_quest/fear_&_greed_room_orb_on_table.webp)
 
-![Фиолетовый шар внутри генератора](/images/agency_coffin_portal_quest/generator_room_tachyon_button.png)
+![Фиолетовый шар внутри генератора](/images/agency_coffin_portal_quest/generator_room_tachyon_button.webp)
 
-![Группа охотников Brookhaven, разгадывающих загадку портала](/images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.png)
+![Группа охотников Brookhaven, разгадывающих загадку портала](/images/agency_coffin_portal_quest/portal_room_team_of_secret_hunters_solve_brookhaven.webp)
 {{< /column >}}

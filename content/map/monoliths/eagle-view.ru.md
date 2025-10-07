@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита в районе Eagle View в Brookhaven"
 images:
-- images/maps/monoliths/monolith_eagle_view.png
+- images/maps/monoliths/monolith_eagle_view.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Eagle View", "Местоположение монолита"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..~~//~~///~..">..~~//~~///~..</code></span></center>
 
-![Монолит на холме у района Eagle View](/images/maps/monoliths/monolith_eagle_view.png?width=400px)
+![Монолит на холме у района Eagle View](/images/maps/monoliths/monolith_eagle_view.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

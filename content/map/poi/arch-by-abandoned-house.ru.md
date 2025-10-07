@@ -24,7 +24,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение арки у Заброшенного дома" %}}
 
-![Местоположение арки у Заброшенного дома](/images/maps/arch-by-abandoned-house.png)
+![Местоположение арки у Заброшенного дома](/images/maps/arch-by-abandoned-house.webp)
 
 {{% /expand %}}
 <hr style="background-color: #28b44c" size=8>

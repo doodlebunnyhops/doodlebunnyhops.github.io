@@ -5,11 +5,11 @@ noindex: false
 weight: 4
 description: "Navigate Fear & Greed’s Room in the labyrinth. Change plaques, adjust curtains, and uncover teleports in the Agency’s lair."
 images:
-- images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png
+- images/agency_coffin_portal_quest/fear_&_greed_room_w400px.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of Fear and Greed's room in the Agency RP house](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.png)
+![Image of Fear and Greed's room in the Agency RP house](/images/agency_coffin_portal_quest/fear_&_greed_room_w400px.webp)
 
 Before starting these steps, take a look at a [hidden message on the rock](/casebook/notes/greed/#promise-of-power)!
 
@@ -44,8 +44,8 @@ Before starting these steps, take a look at a [hidden message on the rock](/case
 
 {{< column "grid-2">}}
 
-![Picture of Fear](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_fear.png)
-![Picture of Greed](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_greed.png)
+![Picture of Fear](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_fear.webp)
+![Picture of Greed](/images/agency_coffin_portal_quest/fear_&_greed_room_picture_of_greed.webp)
 
 {{< /column >}}
 
@@ -55,7 +55,7 @@ Before starting these steps, take a look at a [hidden message on the rock](/case
 
 {{< column "grid-2">}}
 
-![Hidden red button under the table in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_button_under_table.png)
+![Hidden red button under the table in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_button_under_table.webp)
 
 {{< /column >}}
 
@@ -65,8 +65,8 @@ Before starting these steps, take a look at a [hidden message on the rock](/case
 
 {{< column "grid-2">}}
 
-![View of curtains that need to be black in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_1.png)
-![View of curtains that need to be black in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_2.png)
+![View of curtains that need to be black in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_1.webp)
+![View of curtains that need to be black in Fear and Greed's Room](/images/agency_coffin_portal_quest/fear_&_greed_room_black_curtains_2.webp)
 
 {{< /column >}}
 {{% /tab %}}

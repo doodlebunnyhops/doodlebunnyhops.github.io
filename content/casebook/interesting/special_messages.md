@@ -22,7 +22,7 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
     1. This will trigger the Contributors list to show on the roof by the tree.
     1. It will also trigger random lighting strikes inside the house and common sounds used in the lore.
 
-![Hidden list of contributors to Brookhaven since the beginning and by type of contributions.](/images/blog/abandoned-house-lightening-roof-secret.png)
+![Hidden list of contributors to Brookhaven since the beginning and by type of contributions.](/images/blog/abandoned-house-lightening-roof-secret.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -49,7 +49,7 @@ These messages aren't apart of lore but are important to mention as Wolfpaq comm
 
 What a special way to give your condolences Wolfpaq :heart: Our thoughts are with you O1G.
 
-![Visible image of Rosie, O1G's cat, from Wolfpaq behind Modeling Stage at the Mall.](/images/bh/rosie.png)
+![Visible image of Rosie, O1G's cat, from Wolfpaq behind Modeling Stage at the Mall.](/images/bh/rosie.webp)
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
@@ -81,7 +81,7 @@ Unforutunately this easter egg was removed, or at the very list not found, from 
 1. Behind the Modeling Runway Stage, 
     1. On the right corner wall you will see `Buggstra was here` message.
 
-![Visible message from Buggstra, putting their mark 'Buggstra was here' on the wall at the Modeling backstage area of the Mall.](/images/bh/buggstra_was_here.png)
+![Visible message from Buggstra, putting their mark 'Buggstra was here' on the wall at the Modeling backstage area of the Mall.](/images/bh/buggstra_was_here.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -96,7 +96,7 @@ Unforutunately this easter egg was removed, or at the very list not found, from 
 1. Go to The Lake Madison, near the [Camp Cabin](/map/poi/camp-cabin/)
 1. On the backside of the Yacht, you can clip inside or if you're on a private owned server you can free cam in to see `Wolfpaq was here` message
 
-![Hidden message from Wolfpaq, putting their mark 'Wolfpaq was here' inside the back part of the Yacht at Lake Madison](/images/bh/wolfpaq_was_here.png)
+![Hidden message from Wolfpaq, putting their mark 'Wolfpaq was here' inside the back part of the Yacht at Lake Madison](/images/bh/wolfpaq_was_here.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

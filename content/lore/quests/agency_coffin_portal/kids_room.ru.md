@@ -5,11 +5,11 @@ noindex: false
 weight: 4
 description: "Найдите скрытые блоки и загадочные записки в Детской комнате. Раскройте секреты этой части подземного лабиринта Агентства."
 images:
-- images/agency_coffin_portal_quest/kids_room_w400px.png
+- images/agency_coffin_portal_quest/kids_room_w400px.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Изображение Детской комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/kids_room_w400px.png)
+![Изображение Детской комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/kids_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -39,7 +39,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Зловещая записка от ребёнка, скучающего по маме и играющего с блоками.](/images/agency_coffin_portal_quest/kids_room_note_from_child.png)
+![Зловещая записка от ребёнка, скучающего по маме и играющего с блоками.](/images/agency_coffin_portal_quest/kids_room_note_from_child.webp)
 
 {{< /column >}}
 
@@ -49,8 +49,8 @@ images:
 
 {{< column "grid-2">}}
 
-![Место, где спрятаны блоки в стене Детской комнаты](/images/agency_coffin_portal_quest/kids_room_click_blocks_in_wall.png)
-![Крупный план скрытых блоков в Детской комнате](/images/agency_coffin_portal_quest/kids_room_hidden_blocks_in_wall.png)
+![Место, где спрятаны блоки в стене Детской комнаты](/images/agency_coffin_portal_quest/kids_room_click_blocks_in_wall.webp)
+![Крупный план скрытых блоков в Детской комнате](/images/agency_coffin_portal_quest/kids_room_hidden_blocks_in_wall.webp)
 
 {{< /column >}}
 

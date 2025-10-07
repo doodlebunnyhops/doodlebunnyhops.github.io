@@ -5,7 +5,7 @@ noindex: false
 weight: 2
 description: "Экспонат с энергетической пирамидой в музее Brookhaven связан с таинственными источниками силы, скрытыми посланиями и ключевыми квестами, раскрывающими секреты города."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Экспонат с энергетической пирамидой в музее Brookhaven: светящаяся пирамида внутри стеклянной витрины, связанная со скрытой силой и тайными посланиями.](/images/bh/museum_energy_pyramid.webp?height=200px)

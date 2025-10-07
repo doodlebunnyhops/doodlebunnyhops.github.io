@@ -5,11 +5,11 @@ noindex: false
 weight: 1
 description: "Начните своё приключение, спустившись в лабиринт под Старым домом Агентства RP. Найдите Красную книгу и разблокируйте свою первую комнату."
 images:
-- images/agency_coffin_portal_quest/agency_rp_house.png
+- images/agency_coffin_portal_quest/agency_rp_house.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Изображение Дома Агентства RP](/images/agency_coffin_portal_quest/agency_rp_house_w400px.png)
+![Изображение Дома Агентства RP](/images/agency_coffin_portal_quest/agency_rp_house_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -41,7 +41,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Красная книга, спрятанная за кустами возле Дома Агентства RP](/images/agency_coffin_portal_quest/getting_started_grab_red_book_behind_bush.png)
+![Красная книга, спрятанная за кустами возле Дома Агентства RP](/images/agency_coffin_portal_quest/getting_started_grab_red_book_behind_bush.webp)
 
 {{< /column >}}
 
@@ -51,7 +51,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Вид Главной комнаты с изображениями вокруг и индикаторами над дверями](/images/agency_coffin_portal_quest/getting_started_main_room.png)
+![Вид Главной комнаты с изображениями вокруг и индикаторами над дверями](/images/agency_coffin_portal_quest/getting_started_main_room.webp)
 
 {{< /column >}}
 

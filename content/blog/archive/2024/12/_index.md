@@ -5,7 +5,7 @@ description: Archived Blogs from December 2024 about Brookhaven RP Updates, exci
 type: blog_archive
 weight: 12
 images:
-- images/thumbnails/blog_splash.png
+- images/thumbnails/blog_splash.webp
 draft: false
 hidden: false
 ---

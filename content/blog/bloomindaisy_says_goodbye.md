@@ -7,9 +7,9 @@ title: "Frozen in Time: A Quiet Goodbye"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
-imagecust: /images/good_bye_daisy.png
+imagecust: /images/good_bye_daisy.webp
 images:
-- images/good_bye_daisy.png
+- images/good_bye_daisy.webp
 noindex: true
 hidden: true
 draft: false

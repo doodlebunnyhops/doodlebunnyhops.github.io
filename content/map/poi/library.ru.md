@@ -23,7 +23,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение библиотеки" %}}
 
-![Местоположение библиотеки](/images/maps/library.png)
+![Местоположение библиотеки](/images/maps/library.webp)
 
 {{% /expand %}}
 

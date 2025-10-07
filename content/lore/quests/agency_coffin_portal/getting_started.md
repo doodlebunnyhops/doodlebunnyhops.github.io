@@ -5,11 +5,11 @@ noindex: false
 weight: 1
 description: "Begin your adventure by entering the labyrinth beneath the Old Agency RP Shack House. Retrieve the red book and unlock your first room"
 images:
-- images/agency_coffin_portal_quest/agency_rp_house.png
+- images/agency_coffin_portal_quest/agency_rp_house.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of the Agency RP house](/images/agency_coffin_portal_quest/agency_rp_house_w400px.png)
+![Image of the Agency RP house](/images/agency_coffin_portal_quest/agency_rp_house_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -37,7 +37,7 @@ It really helped me putting prop signs throughout the dungeon labeling rooms and
 
 {{< column "grid-2">}}
 
-![Red book hidden behind some bushes at the Agency RP house](/images/agency_coffin_portal_quest/getting_started_grab_red_book_behind_bush.png)
+![Red book hidden behind some bushes at the Agency RP house](/images/agency_coffin_portal_quest/getting_started_grab_red_book_behind_bush.webp)
 
 {{< /column >}}
 
@@ -46,7 +46,7 @@ It really helped me putting prop signs throughout the dungeon labeling rooms and
 
 {{< column "grid-2">}}
 
-![View of the main room with pictures all around and bars above them](/images/agency_coffin_portal_quest/getting_started_main_room.png)
+![View of the main room with pictures all around and bars above them](/images/agency_coffin_portal_quest/getting_started_main_room.webp)
 
 {{< /column >}}
 

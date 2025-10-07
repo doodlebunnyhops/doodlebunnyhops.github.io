@@ -7,7 +7,7 @@ description: "The Greed painting in the Brookhaven Museum depicts a bearded man 
 aliases:
 - /casebook/museum/greed
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Greed painting in Brookhaven Museum, showing a bearded man sitting in the judge’s chair from Town Hall, tied to the Agency’s origins and power.](/images/bh/museum_greed.webp?height=200px)

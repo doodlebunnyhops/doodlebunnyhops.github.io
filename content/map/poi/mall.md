@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Mall location view and related secrets"
 
 images:
-- images/maps/valentines_update_mall_store_front.png
+- images/maps/valentines_update_mall_store_front.webp
 - images/maps/mall.jpg
 #Categories: ["point of interest","map"]
 #Tags: ["Mall"]
@@ -16,7 +16,7 @@ draft: false
 
 There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot for dining, movies, fashion shows, and even the local news station! What can't you do? You can't use the bathroom here because there isn't one! tehe
 
-![view of Mall](/images/maps/valentines_update_mall_store_front.png)
+![view of Mall](/images/maps/valentines_update_mall_store_front.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -25,7 +25,7 @@ There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot 
 
 {{% expand title="Outlined Location of Mall" %}}
 
-![Location of Mall](/images/maps/mall.png)
+![Location of Mall](/images/maps/mall.webp)
 
 {{% /expand %}}
 

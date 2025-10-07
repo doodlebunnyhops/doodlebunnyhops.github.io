@@ -36,7 +36,7 @@ The museum can also be changed into a dealership or a restaurant called "The Bri
 
 {{% expand title="Outlined Location of Museum" %}}
 
-![Location of Museum](/images/maps/museum.png)
+![Location of Museum](/images/maps/museum.webp)
 
 {{% /expand %}}
 

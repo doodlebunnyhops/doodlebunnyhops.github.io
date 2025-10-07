@@ -23,7 +23,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение конюшни" %}}
 
-![Местоположение конюшни](/images/maps/horse-stable.png)
+![Местоположение конюшни](/images/maps/horse-stable.webp)
 
 {{% /expand %}}
 

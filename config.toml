@@ -135,6 +135,16 @@ largeTwitterCard = true
   collapsibleMenu=true
   alwaysopen=false
 
+  # Performance optimizations
+  [params.caching]
+    enable = true
+  
+  # Image processing
+  [params.imaging]
+    resampleFilter = "Lanczos"
+    quality = 85
+    anchor = "Smart"
+
   [[params.themeVariant]]
     identifier = 'my-dark'
     name = 'Dark'
@@ -148,6 +158,36 @@ largeTwitterCard = true
     lazy = true
     lightbox = true
     shadow = false
+
+# Add minification settings for production
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      keepCSS2 = true
+      precision = 0
+    [minify.tdewolff.html]
+      keepComments = false
+      keepConditionalComments = true
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+      keepVarNames = false
+      precision = 0
+    [minify.tdewolff.json]
+      precision = 0
+    [minify.tdewolff.svg]
+      precision = 0
+    [minify.tdewolff.xml]
+      keepWhitespace = false
 
 
 copyright = '2023'

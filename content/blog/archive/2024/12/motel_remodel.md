@@ -10,7 +10,7 @@ archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-8dde6e2d01132fa072858741c3266c81/768/432/Image/Png/noFilter
 images:
 - https://tr.rbxcdn.com/180DAY-8dde6e2d01132fa072858741c3266c81/768/432/Image/Png/noFilter
-- /images/blog/motel_remodel.png.png
+- /images/blog/motel_remodel.webp
 description: "Brookhaven's motel gets a modern upgrade with larger rooms, a pool, and exciting new features."
 ---
 
@@ -28,27 +28,27 @@ Here are some highlights of the new designs:
 
 {{< column "grid-3 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Classic Luxury Theme](/images/blog/motel_update_classic_luxury_theme.png) **Classic Luxury Theme** A timeless design with elegant furnishings and warm tones.
+![Classic Luxury Theme](/images/blog/motel_update_classic_luxury_theme.webp) **Classic Luxury Theme** A timeless design with elegant furnishings and warm tones.
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Sophisticated Luxury Theme](/images/blog/motel_update_sophisticated_luxury_theme.png) **Sophisticated Luxury Theme** Sleek and modern, perfect for the discerning guest.
+![Sophisticated Luxury Theme](/images/blog/motel_update_sophisticated_luxury_theme.webp) **Sophisticated Luxury Theme** Sleek and modern, perfect for the discerning guest.
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Festive Theme](/images/blog/motel_update_festive_theme.png) **Festive Theme** Bright and cheerful, ideal for celebrations and special occasions.
+![Festive Theme](/images/blog/motel_update_festive_theme.webp) **Festive Theme** Bright and cheerful, ideal for celebrations and special occasions.
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Simple Theme](/images/blog/motel_update_simple_theme.png) **Simple Theme** Minimalistic with a cozy touch for a relaxed vibe.
+![Simple Theme](/images/blog/motel_update_simple_theme.webp) **Simple Theme** Minimalistic with a cozy touch for a relaxed vibe.
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Meeting Room RP Theme](/images/blog/motel_update_meeting_room_rp_theme.png) **Meeting Room RP Theme** Designed for role-play, this space mimics a professional conference room.
+![Meeting Room RP Theme](/images/blog/motel_update_meeting_room_rp_theme.webp) **Meeting Room RP Theme** Designed for role-play, this space mimics a professional conference room.
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![VIP Exclusive Theme](/images/blog/motel_update_VIP_exclusive_theme.png) **VIP Exclusive Theme** A luxurious option available only to VIP pass holders.
+![VIP Exclusive Theme](/images/blog/motel_update_VIP_exclusive_theme.webp) **VIP Exclusive Theme** A luxurious option available only to VIP pass holders.
 {{< /column >}}
 {{< /column >}}
 
@@ -60,7 +60,7 @@ A brand-new pool area now complements the motel, offering a refreshing spot to u
 
 
 {{< column "post-block-dot" >}}
-![Motel Pool Area](/images/blog/motel_update_pool.png)
+![Motel Pool Area](/images/blog/motel_update_pool.webp)
 {{< /column >}}
 
 
@@ -72,7 +72,7 @@ The motel’s exterior has undergone a stunning transformation, modernizing its 
 
 | **Old Motel**                        | **New Motel**                         |
 |--------------------------------------|---------------------------------------|
-| ![Old Motel](/images/maps/motel.jpg) | ![New Motel](/images/blog/motel_update_outside_view.png) |
+| ![Old Motel](/images/maps/motel.jpg) | ![New Motel](/images/blog/motel_update_outside_view.webp) |
 
 The new design adds a polished, contemporary feel, complete with larger rooms, updated signage, and improved amenities.
 
@@ -95,9 +95,9 @@ The motel update also brings changes to Brookhaven’s iconic secrets! Some secr
 - The enfamous [red book stand in the museum](/lore/quests/ghostly_sighting/) makes an apperance in one of the themes!
 
 {{< column "grid-3 post-block-dot" >}}
-![](/images/blog/doves_energy_pyramid_motel.png)
-![](/images/blog/red_book_stand_in_motel_room.png)
-![](/images/blog/hold_red_book_load_motel_room.png)
+![](/images/blog/doves_energy_pyramid_motel.webp)
+![](/images/blog/red_book_stand_in_motel_room.webp)
+![](/images/blog/hold_red_book_load_motel_room.webp)
 {{< /column >}}
 
 ---

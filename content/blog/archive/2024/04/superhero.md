@@ -25,7 +25,7 @@ Calling all Superhero's of Brookahven! We need your alliance in keeping us safe 
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/superhero-house-icon.png" loading="lazy" style="width: 80px; height: 80px;"> New SuperHero Hideout Role Play house.
+<img src="/images/blog/superhero-house-icon.webp" loading="lazy" style="width: 80px; height: 80px;"> New SuperHero Hideout Role Play house.
 {{< /column>}}
 
 {{< /column>}}

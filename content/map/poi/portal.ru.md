@@ -30,7 +30,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение портала" %}}
 
-![Местоположение портала](/images/maps/portal.png)
+![Местоположение портала](/images/maps/portal.webp)
 
 {{% /expand %}}
 

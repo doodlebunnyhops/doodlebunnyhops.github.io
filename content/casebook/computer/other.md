@@ -37,7 +37,7 @@ description: "Laptop Messages that are unsigned. Picture of message provided."
 
 1. Once Connect Laptop quest is complete, open your laptop and you should see this message
 
-![DESC](/images/bh/connected_comp_message.png) 
+![DESC](/images/bh/connected_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -56,7 +56,7 @@ description: "Laptop Messages that are unsigned. Picture of message provided."
 4. Go to the opposite corner and move forward through the wall.
 	- You will see this laptop sitting on a desk.
 
-![DESC](/images/bh/frathouse_computer_message.png) 
+![DESC](/images/bh/frathouse_computer_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>

@@ -20,7 +20,7 @@ description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."
 1. Use the green key card in the Agency Bunker and this message should appear on your computer.
 
 
-![DESC](/images/bh/green_card_comp_message.png) 
+![DESC](/images/bh/green_card_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>

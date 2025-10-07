@@ -27,12 +27,12 @@ The **Brookhaven Airport** received a major makeover! The updated airport featur
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Brookhaven Airport Exterior](/images/blog/airport_update_exterior_view.png)
+![Brookhaven Airport Exterior](/images/blog/airport_update_exterior_view.webp)
 **Brookhaven Airport Exterior**
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Inside the Watch Tower](/images/blog/airport_update_inside_new_watch_tower.png)
+![Inside the Watch Tower](/images/blog/airport_update_inside_new_watch_tower.webp)
 **Inside the Watch Tower**
 
 {{< /column >}}
@@ -42,18 +42,18 @@ The **Brookhaven Airport** received a major makeover! The updated airport featur
 
 {{< column "grid-3 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Inside the Watch Tower](/images/blog/airport_update_check-in_and_security_checkpoint_brookhaven.png)
+![Inside the Watch Tower](/images/blog/airport_update_check-in_and_security_checkpoint_brookhaven.webp)
 **Check-In & Security**
 
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Departure Gate](/images/blog/airport_update_departure_gate.png)
+![Departure Gate](/images/blog/airport_update_departure_gate.webp)
 **Departure Gate**
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Brookhaven Airport Baggage Claim](/images/blog/airport_update_baggage_claim_at_brookhaven_airport.png)
+![Brookhaven Airport Baggage Claim](/images/blog/airport_update_baggage_claim_at_brookhaven_airport.webp)
 **Baggage Claim**
 {{< /column >}}
 {{< /column >}}
@@ -64,10 +64,10 @@ The new **Air Traffic Control Tower** is more than just a decorative addition! H
 
 {{< column "grid-3 post-block" >}}
 {{< column "post-block-dot column" >}}
-   ![Red Key Card sitting on Security Baggage Check Desk](/images/blog/airport_update_red_key_card_at_scanning_desk.png)  
+   ![Red Key Card sitting on Security Baggage Check Desk](/images/blog/airport_update_red_key_card_at_scanning_desk.webp)  
 {{< /column >}}
 {{< column "post-block-dot column" >}}
-   ![X-Ray of Baggage](/images/blog/airport_update_x-ray_of_baggage.png)
+   ![X-Ray of Baggage](/images/blog/airport_update_x-ray_of_baggage.webp)
    <sub>✨So Cute!🤭</sub>
 {{< /column >}}
 {{< /column >}}
@@ -85,12 +85,12 @@ Two **New Fireworks Props** have been added for even more festive fun. Celebrate
 
 {{< column "grid-3 post-block" >}}
 {{< column "post-block-dot column" >}}
-![2025 Fireworks Celebration in Brookhaven RP](/images/blog/2025_Fireworks_Celebration_in_Brookhaven_RP.png)
+![2025 Fireworks Celebration in Brookhaven RP](/images/blog/2025_Fireworks_Celebration_in_Brookhaven_RP.webp)
 **Fireworks Celebration**
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Brookhaven New Fireworks Props](/images/blog/Brookhaven_New_Fireworks_Props.png)
+![Brookhaven New Fireworks Props](/images/blog/Brookhaven_New_Fireworks_Props.webp)
 **Fireworks Props**
 {{< /column >}}
 {{< /column >}}

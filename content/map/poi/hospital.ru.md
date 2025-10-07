@@ -7,7 +7,7 @@ date: 2024-01-02
 description: "Исследуйте Больницу Brookhaven, где находился заброшенный экспериментальный центр Агентства. Откройте скрытые локации, записки и тайны Агентства."
 
 images:
-- images/maps/hospital_remodeled_2024.png
+- images/maps/hospital_remodeled_2024.webp
 - images/maps/hospital.jpg
 #Categories: ["точка интереса","карта"]
 #Tags: ["Больница"]
@@ -17,7 +17,7 @@ draft: false
 
 Больница Brookhaven славится своими выдающимися врачами и хирургами. Однако здесь также находился экспериментальный центр, управляемый Агентством. Почему он был заброшен?
 
-![Вид снаружи на Больницу Brookhaven, также известную как St. Luke's Hospital](/images/maps/hospital_remodeled_2024.png)
+![Вид снаружи на Больницу Brookhaven, также известную как St. Luke's Hospital](/images/maps/hospital_remodeled_2024.webp)
 
 
 ## Экспериментальный центр
@@ -39,7 +39,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение больницы" %}}
 
-![Местоположение больницы на карте](/images/maps/hospital.png)
+![Местоположение больницы на карте](/images/maps/hospital.webp)
 
 {{% /expand %}}
 

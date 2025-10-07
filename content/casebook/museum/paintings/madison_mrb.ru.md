@@ -5,7 +5,7 @@ noindex: false
 weight: 5
 description: "Картина Мэддисон и мистера Brookhaven в музее Brookhaven изображает их в день свадьбы, связывая с ранней историей города и конфликтами с Агентством."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Мэддисон и мистер Brookhaven» в музее Brookhaven, изображающая их в день свадьбы, связанную с истоками Brookhaven и конфликтами с Агентством.](/images/bh/museum_madison_&_mrb.webp?height=200px)

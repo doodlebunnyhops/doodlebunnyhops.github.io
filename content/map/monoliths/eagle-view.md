@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Eagle View Monolith location"
 images:
-- images/maps/monoliths/monolith_eagle_view.png
+- images/maps/monoliths/monolith_eagle_view.webp
 #Categories: ["Monolith Locations","map"]
 #Tags: ["Eagle View", "Monolith Location"]
 draft: false
@@ -15,7 +15,7 @@ A lot of interesting things are lurking beneath Eagle View Estate, but a Monolit
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..~~//~~///~..">..~~//~~///~..</code></span></center>
 
-![Monolith On hill by Eagle View Estate](/images/maps/monoliths/monolith_eagle_view.png?width=400px)
+![Monolith On hill by Eagle View Estate](/images/maps/monoliths/monolith_eagle_view.webp?width=400px)
 <hr style="background-color: #28b44c" size=8>
 
 ## Related Items

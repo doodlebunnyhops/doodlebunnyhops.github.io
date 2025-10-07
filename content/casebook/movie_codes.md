@@ -41,7 +41,7 @@ Note that switch **3** is missing... do we need to find it?
 
         Example of what a movie code on a reel looks like: 
 {{< column "grid-2" >}}
-![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.png)
+![Eagle View Arch Movie Reel](/images/bh/eagle-view-arch-code-inside.webp)
 {{< /column >}}
 
 {{% notice style="warning" expanded=false %}}
@@ -71,7 +71,7 @@ _These steps were updated Novemeber 29th, 2024!_
 {{% tab title="Vent Location" %}}
 Jump inside the police vent
 
-![Police Station Attic Access through Vent in Cell Room.](/images/bh/police_station_attic_access.png)
+![Police Station Attic Access through Vent in Cell Room.](/images/bh/police_station_attic_access.webp)
 {{% /tab %}}
 
 {{% tab title="False Wall" %}}
@@ -85,9 +85,9 @@ Notice the avatar is halfway through the wall - this is the entrance to the hidd
 {{% tab title="Hidden Room..." %}}
 Movie Reel can be found in an open area to the right of the storage and filing cabinet.
 
-![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_1.png)
+![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_1.webp)
 
-![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_2.png)
+![Movie Reel hidden in secret attic room of Police Station](/images/bh/police_station_movie_reel_view_2.webp)
 
 {{% /tab %}}
 

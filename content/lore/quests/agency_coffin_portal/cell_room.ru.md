@@ -5,12 +5,12 @@ noindex: false
 weight: 5
 description: "Исследуйте Тюремную комнату в подземном подземелье Агентства под Домом Старой Хижины RP. Ответьте на вопросы, чтобы продвинуться вперёд."
 images:
-- images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png
-- images/agency_coffin_portal_quest/cell_room_w400px.png
+- images/agency_coffin_portal_quest/cell_room_button_to_open_gate.webp
+- images/agency_coffin_portal_quest/cell_room_w400px.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Изображение Тюремной комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/cell_room_w400px.png)
+![Изображение Тюремной комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/cell_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation" %}}
@@ -27,8 +27,8 @@ images:
 
 {{< block "grid-2 post-vid-dot" >}}
 
-![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room.png)
-![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room_through_the_wall.png)
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room.webp)
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room_through_the_wall.webp)
 {{< /block >}}
 
 {{< /expand >}}
@@ -58,7 +58,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Кнопка в Тюремной комнате для открытия ворот за трибуной](/images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png)
+![Кнопка в Тюремной комнате для открытия ворот за трибуной](/images/agency_coffin_portal_quest/cell_room_button_to_open_gate.webp)
 
 {{< /column >}}
 

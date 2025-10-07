@@ -34,7 +34,7 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 {{% expand title="Outlined Location of Criminal Hideout" %}}
 
-![Location of Criminal Hideout](/images/maps/criminal-hideout.png)
+![Location of Criminal Hideout](/images/maps/criminal-hideout.webp)
 
 {{% /expand %}}
 

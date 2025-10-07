@@ -23,7 +23,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение церкви" %}}
 
-![Местоположение церкви](/images/maps/church.png)
+![Местоположение церкви](/images/maps/church.webp)
 
 {{% /expand %}}
 

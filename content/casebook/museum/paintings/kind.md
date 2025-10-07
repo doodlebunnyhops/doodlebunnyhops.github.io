@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "The Kind painting in Brookhaven Museum is linked to hidden messages about kindness, peace, and thought, playing a key role in quests and secret discoveries."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 --- 
 
 ![The Kind painting in Brookhaven Museum, depicting a girl sitting with a mountain and trees behind her, symbolizing kindness, peace, and thought.](/images/bh/museum_kind.webp?height=200px)

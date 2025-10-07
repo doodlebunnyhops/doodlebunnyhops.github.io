@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита под мостом Brookhaven"
 images:
-- images/maps/monoliths/monolith_by_underpass_near_abandoned_house.png
+- images/maps/monoliths/monolith_by_underpass_near_abandoned_house.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Подмостовой проход", "Местоположение монолита"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..(){}(){}>>>{}(){}..">..(){}(){}>>>{}(){}..</code></span></center>
 
-![Монолит, найденный рядом с подмостовым проходом у Заброшенного дома](/images/maps/monoliths/monolith_by_underpass_near_abandoned_house.png?width=400px)
+![Монолит, найденный рядом с подмостовым проходом у Заброшенного дома](/images/maps/monoliths/monolith_by_underpass_near_abandoned_house.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

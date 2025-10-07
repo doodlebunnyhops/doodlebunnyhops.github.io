@@ -5,7 +5,7 @@ noindex: false
 weight: 8
 description: "The painting of the Arch by the Abandoned House in Brookhaven Museum reveals a hidden clue linked to the Glowing Chair Quest and the town’s deeper mysteries."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The painting of the Arch by the Abandoned House in Brookhaven Museum, revealing a hidden clue linked to the Glowing Chair Quest.](/images/bh/museum_arch_clue.webp?height=200px)

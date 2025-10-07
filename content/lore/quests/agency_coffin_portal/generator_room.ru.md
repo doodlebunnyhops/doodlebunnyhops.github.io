@@ -5,11 +5,11 @@ noindex: false
 weight: 3
 description: "Активируйте Мастер-код и призовите сферу в Комнате Генератора, глубоко в лабиринте под Старым домом RP."
 images:
-- images/agency_coffin_portal_quest/generator_room_w400px.png
+- images/agency_coffin_portal_quest/generator_room_w400px.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Комната Генератора в Доме Агентства RP](/images/agency_coffin_portal_quest/generator_room_w400px.png)
+![Комната Генератора в Доме Агентства RP](/images/agency_coffin_portal_quest/generator_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -43,7 +43,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Скрытая кнопка сверху на генераторе](/images/agency_coffin_portal_quest/generator_room_button_ontop_of_generator.png)
+![Скрытая кнопка сверху на генераторе](/images/agency_coffin_portal_quest/generator_room_button_ontop_of_generator.webp)
 
 {{< /column >}}
 
@@ -53,7 +53,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Правильный порядок нажатия кнопок Мастер-контроллера](/images/agency_coffin_portal_quest/generator_room_master_controler_button_order.png)
+![Правильный порядок нажатия кнопок Мастер-контроллера](/images/agency_coffin_portal_quest/generator_room_master_controler_button_order.webp)
 
 {{< /column >}}
 

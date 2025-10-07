@@ -6,7 +6,7 @@ weight: 30
 description: "Discover the hidden secrets of Brookhaven Museum. Explore mysterious artifacts, lost history, and eerie exhibits—what secrets will you uncover?"
 date: 2023-05-31
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 Unraveling the Mysteries of Brookhaven Museum: Secrets, History & Artifacts

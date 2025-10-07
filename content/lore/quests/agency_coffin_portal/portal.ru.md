@@ -5,11 +5,11 @@ noindex: false
 weight: 9
 description: "Настройте цвета гробов и активируйте лазеры, чтобы разблокировать портал. Решите финальную головоломку в подземелье Агентства."
 images:
-- images/agency_coffin_portal_quest/portal_room_w400px.png
+- images/agency_coffin_portal_quest/portal_room_w400px.webp
 #Tags: ["Дом Агентства RP", "Комната портала", "Портал"]
 ---
 
-![Изображение Комнаты Портала в Доме Агентства RP](/images/agency_coffin_portal_quest/portal_room_w400px.png)
+![Изображение Комнаты Портала в Доме Агентства RP](/images/agency_coffin_portal_quest/portal_room_w400px.webp)
 
 _Зловещая комната с пятью гробами, расположенными в круге, и одним из них под каменным мегалитом._
 
@@ -57,7 +57,7 @@ _Зловещая комната с пятью гробами, располож�
 
 {{< column "grid-2">}}
 
-![Гроб под каменным мегалитом с двумя кнопками сбоку](/images/agency_coffin_portal_quest/portal_room_click_right_button.png)
+![Гроб под каменным мегалитом с двумя кнопками сбоку](/images/agency_coffin_portal_quest/portal_room_click_right_button.webp)
 
 {{< /column >}}
 
@@ -67,8 +67,8 @@ _Зловещая комната с пятью гробами, располож�
 
 {{< column "grid-2">}}
 
-![Гробы в Комнате Портала с разными цветами](/images/agency_coffin_portal_quest/portal_room_coffin_colors.png)
-![Гробы в Комнате Страха и Жадности окрашены в жёлтый](/images/agency_coffin_portal_quest/portal_room_change_coffin_color_in_fear_&_greed_room.png)
+![Гробы в Комнате Портала с разными цветами](/images/agency_coffin_portal_quest/portal_room_coffin_colors.webp)
+![Гробы в Комнате Страха и Жадности окрашены в жёлтый](/images/agency_coffin_portal_quest/portal_room_change_coffin_color_in_fear_&_greed_room.webp)
 
 {{< /column >}}
 
@@ -78,7 +78,7 @@ _Зловещая комната с пятью гробами, располож�
 
 {{< column "grid-2">}}
 
-![Лазеры в Лаборатории и Капсульной комнате стали красными](/images/agency_coffin_portal_quest/portal_room_change_lasers_red_lab_room.png)
+![Лазеры в Лаборатории и Капсульной комнате стали красными](/images/agency_coffin_portal_quest/portal_room_change_lasers_red_lab_room.webp)
 
 {{< /column >}}
 
@@ -88,7 +88,7 @@ _Зловещая комната с пятью гробами, располож�
 
 {{< column "grid-2">}}
 
-![Портал открыт, в центре вращается чёрный гроб](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.png)
+![Портал открыт, в центре вращается чёрный гроб](/images/agency_coffin_portal_quest/portal_room_after_second_button_clicked.webp)
 
 {{< /column >}}
 

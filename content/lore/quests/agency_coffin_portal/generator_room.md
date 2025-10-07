@@ -5,11 +5,11 @@ noindex: false
 weight: 3
 description: "Activate the Master Code and summon the orb in the Generator Room, deep within the labyrinth beneath the Old Shack RP House."
 images:
-- images/agency_coffin_portal_quest/generator_room_w400px.png
+- images/agency_coffin_portal_quest/generator_room_w400px.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of the Generator room in the Agency RP house](/images/agency_coffin_portal_quest/generator_room_w400px.png)
+![Image of the Generator room in the Agency RP house](/images/agency_coffin_portal_quest/generator_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -38,7 +38,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Hidden button on top of the machine in the Generator Room](/images/agency_coffin_portal_quest/generator_room_button_ontop_of_generator.png)
+![Hidden button on top of the machine in the Generator Room](/images/agency_coffin_portal_quest/generator_room_button_ontop_of_generator.webp)
 
 {{< /column >}}
 
@@ -47,7 +47,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Buttons clicked on the master control board](/images/agency_coffin_portal_quest/generator_room_master_controler_button_order.png)
+![Buttons clicked on the master control board](/images/agency_coffin_portal_quest/generator_room_master_controler_button_order.webp)
 
 {{< /column >}}
 

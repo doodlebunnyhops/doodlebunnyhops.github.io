@@ -4,7 +4,7 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита в Бункере Агентства Brookhaven"
 images:
-- images/maps/monoliths/monolith_agency_bunker.png
+- images/maps/monoliths/monolith_agency_bunker.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Бункер Агентства", "Местоположение монолита"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 <center><span class="copy-to-clipboard" style="align: center"><code class="copy-to-clipboard-code" data-code="..::::::}}}}}{{{{{::::::..">..::::::}}}}}{{{{{::::::..</code></span></center>
 
-![Монолит найден под землёй прямо за Секретным Бункером Агентства](/images/maps/monoliths/monolith_agency_bunker.png?width=400px)
+![Монолит найден под землёй прямо за Секретным Бункером Агентства](/images/maps/monoliths/monolith_agency_bunker.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

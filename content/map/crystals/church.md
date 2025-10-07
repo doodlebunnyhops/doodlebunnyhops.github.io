@@ -22,7 +22,7 @@ Who knew the church isn't just for communal gatherings, it's also where someone 
 
 Just behind the plant
 
-![crystal 2 shown behind a plant at the church](/images/maps/crystals/crystal_2_behind_plant_at_church.png?width=400px)
+![crystal 2 shown behind a plant at the church](/images/maps/crystals/crystal_2_behind_plant_at_church.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

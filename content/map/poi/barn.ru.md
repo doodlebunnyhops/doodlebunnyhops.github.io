@@ -22,7 +22,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение амбара" %}}
 
-![Местоположение амбара](/images/maps/barn.png)
+![Местоположение амбара](/images/maps/barn.webp)
 
 {{% /expand %}}
 

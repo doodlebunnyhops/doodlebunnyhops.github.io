@@ -5,7 +5,7 @@ noindex: false
 weight: 8
 description: "Картина с аркой у Заброшенного дома в музее Brookhaven содержит скрытую подсказку, связанную с квестом «Светящийся стул» и более глубокими тайнами города."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина с аркой у Заброшенного дома в музее Brookhaven, содержащая скрытую подсказку, связанную с квестом «Светящийся стул».](/images/bh/museum_arch_clue.webp?height=200px)

@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение мотеля Brookhaven и связанные секреты"
 
 images:
-- images/blog/motel_update_outside_view.png
+- images/blog/motel_update_outside_view.webp
 - images/maps/motel.jpg
 #Categories: ["точка интереса","карта"]
 #Tags: ["Отель", "Мотель"]
@@ -16,7 +16,7 @@ draft: false
 
 Если вы посетите Brookhaven, рядом с аэропортом есть отличный мотель, а напротив него — ресторан для удобных обедов. Однако будьте осторожны с комнатой из 2028 года; к тому времени, похоже, мотель уже будет закрыт.
 
-![Вид на мотель](/images/blog/motel_update_outside_view.png)
+![Вид на мотель](/images/blog/motel_update_outside_view.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -25,7 +25,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение мотеля" %}}
 
-![Местоположение мотеля](/images/maps/motel.png)
+![Местоположение мотеля](/images/maps/motel.webp)
 
 {{% /expand %}}
 

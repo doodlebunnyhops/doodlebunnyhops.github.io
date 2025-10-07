@@ -6,8 +6,8 @@ license: true
 # date: 2023-05-19
 description: "A comprehensive guide to help solve the secrets and mysteries of Brookhaven RP. A walkthrough of quests, a casebook with notes and details."
 images: 
-- images/bh/collage.png
-- images/thumbnails/portal_update.png
+- images/bh/collage.webp
+- images/thumbnails/portal_update.webp
 archetype: "home"
 Tags: ["Brookhaven Secrets","BrookhavenRP Secrets & Mysteries"]
 ---
@@ -51,12 +51,12 @@ We have a little secret with the Power Plant update, but the bigger question rem
 ---
 
 #### <center> [Join BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)</center>
-![Discord Server Main Image for Daisy's Roblox Game Update Server](/images/hawk1.png)
+![Discord Server Main Image for Daisy's Roblox Game Update Server](/images/hawk1.webp)
 
 ---
 
 {{< column >}}
-![Portal Thumbnail](/images/thumbnails/portal_update.png)
+![Portal Thumbnail](/images/thumbnails/portal_update.webp)
 {{< /column >}}
 
 ---

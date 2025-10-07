@@ -5,7 +5,7 @@ noindex: false
 weight: 2
 description: "The Energy Pyramid display in Brookhaven Museum is tied to mysterious power sources, hidden messages, and key quests that reveal the town’s secrets."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 

@@ -5,7 +5,7 @@ noindex: false
 weight: 3
 description: "The Agency Book Stand display in Brookhaven Museum is linked to hidden Agency secrets, ghostly encounters, and key quests involving mysterious messages."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![The Agency Book Stand display in Brookhaven Museum, showcasing an empty book stand inside a glass case, tied to hidden Agency secrets.](/images/bh/museum_book_stand.webp?height=200px)

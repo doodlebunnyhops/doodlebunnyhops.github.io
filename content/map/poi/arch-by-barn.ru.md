@@ -22,7 +22,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение арки у амбара" %}}
 
-![Местоположение арки у амбара](/images/maps/arch-by-barn.png)
+![Местоположение арки у амбара](/images/maps/arch-by-barn.webp)
 
 {{% /expand %}}
 

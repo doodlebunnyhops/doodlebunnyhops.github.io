@@ -6,7 +6,7 @@ weight: 1
 description: "Uncover Brookhaven RP’s secrets with this comprehensive walkthrough. Solve quests, unlock mysteries, and explore tools and hidden locations in the game"
 
 images: 
-- images/bh/collage.png
+- images/bh/collage.webp
 - images/bh/agency_greed_desk_1_button.jpg
 aliases:
 - /mermaid/steps_flow

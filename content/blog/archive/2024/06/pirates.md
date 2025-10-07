@@ -27,18 +27,18 @@ With 2 new awesome ships we also got some pet updates :D.
 {{< column "grid-2 post-block" >}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/free-pirate-boat.png" loading="lazy" style="width: 80px; height: 80px;">Free Pirate Ship 
+<img src="/images/blog/free-pirate-boat.webp" loading="lazy" style="width: 80px; height: 80px;">Free Pirate Ship 
 {{< /column>}}
 {{< column "post-block-dot" >}}
-<img src="/images/blog/premium-pirate-boat.png" loading="lazy" style="width: 80px; height: 80px;">Premium Pirate Ship! 
-{{< /column>}}
-
-{{< column "post-block-dot" >}}
-<img src="/images/blog/shelter-animal-resuce-veternarian.png" loading="lazy" style="width: 80px; height: 80px;">New Business Selection at Brookhaven Shelter: Veterinarian Hospital & Animal Rescue. 
+<img src="/images/blog/premium-pirate-boat.webp" loading="lazy" style="width: 80px; height: 80px;">Premium Pirate Ship! 
 {{< /column>}}
 
 {{< column "post-block-dot" >}}
-<img src="/images/blog/pets-tools.png" loading="lazy" style="width: 80px; height: 80px;">Cat, Kitten, Dog, & Puppies now available in Tools. 
+<img src="/images/blog/shelter-animal-resuce-veternarian.webp" loading="lazy" style="width: 80px; height: 80px;">New Business Selection at Brookhaven Shelter: Veterinarian Hospital & Animal Rescue. 
+{{< /column>}}
+
+{{< column "post-block-dot" >}}
+<img src="/images/blog/pets-tools.webp" loading="lazy" style="width: 80px; height: 80px;">Cat, Kitten, Dog, & Puppies now available in Tools. 
 {{< /column>}}
 
 
@@ -72,7 +72,7 @@ Is it a secret? Sort of - Wolfpaq added a Contributors list that can only be see
 
 {{< column "grid-1 post-block" >}}
 
-<img src="/images/blog/abandoned-house-lightening-roof-secret.png" loading="lazy" style="width: auto; height: 300px;" alt="List of contributors on roof of abandoned House in Brookhaven.">
+<img src="/images/blog/abandoned-house-lightening-roof-secret.webp" loading="lazy" style="width: auto; height: 300px;" alt="List of contributors on roof of abandoned House in Brookhaven.">
 
 {{< /column >}}
 

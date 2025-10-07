@@ -5,12 +5,12 @@ noindex: false
 weight: 5
 description: "Explore the Cell Room in the Agency's underground dungeon beneath the Old Shack RP House. Answer questions to unlock progress."
 images:
-- images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png
-- images/agency_coffin_portal_quest/cell_room_w400px.png
+- images/agency_coffin_portal_quest/cell_room_button_to_open_gate.webp
+- images/agency_coffin_portal_quest/cell_room_w400px.webp
 #Tags: ["Agency RP House"]
 ---
 
-![Image of the cell room in the Agency RP house](/images/agency_coffin_portal_quest/cell_room_w400px.png)
+![Image of the cell room in the Agency RP house](/images/agency_coffin_portal_quest/cell_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
@@ -27,8 +27,8 @@ images:
 
 {{< block "grid-2 post-vid-dot" >}}
 
-![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room.png)
-![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room_through_the_wall.png)
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room.webp)
+![](/images/agency_coffin_portal_quest/cell_room_sleeping_bag_from_kids_room_through_the_wall.webp)
 {{< /block >}}
 
 {{< /expand >}}
@@ -59,7 +59,7 @@ Take a stroll through the dungeon!
 
 {{< column "grid-2">}}
 
-![Cell Room button to open gate behind podium](/images/agency_coffin_portal_quest/cell_room_button_to_open_gate.png)
+![Cell Room button to open gate behind podium](/images/agency_coffin_portal_quest/cell_room_button_to_open_gate.webp)
 
 {{< /column >}}
 

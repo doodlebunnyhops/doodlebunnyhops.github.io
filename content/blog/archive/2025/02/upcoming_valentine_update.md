@@ -7,9 +7,9 @@ linktitle: "Brookhaven’s Next Update: A Valentine’s Surprise?"
 cascade:
 - url: /blog/:filename
 archetype: "blog"
-imagecust: /images/blog/brookhaven_valentine_update_leak.png
+imagecust: /images/blog/brookhaven_valentine_update_leak.webp
 images:
-- /images/blog/brookhaven_valentine_update_leak.png
+- /images/blog/brookhaven_valentine_update_leak.webp
 description: "Brookhaven developers confirm an update is coming, but what will it bring? A secret has been moved, and a new vehicle was leaked—could a Valentine’s theme be on the way?"
 noindex: true
 hidden: true
@@ -32,7 +32,7 @@ Say hello to **Joylessly**—a Game Producer on the Brookhaven team at Voldex! S
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Joylessly, a BrookhavenRP Developer messaged Bloomindaisy an update will release Feb 14th 2025](/images/blog/joylessly_bh_dev.png)
+![Joylessly, a BrookhavenRP Developer messaged Bloomindaisy an update will release Feb 14th 2025](/images/blog/joylessly_bh_dev.webp)
 {{< /column>}}
 {{< /column>}}
 

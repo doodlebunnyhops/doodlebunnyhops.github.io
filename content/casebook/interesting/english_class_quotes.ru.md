@@ -5,9 +5,9 @@ weight: 15
 draft: false
 description: "Класс в школе Brookhaven 'School of the Doge' менял цитату на белой доске на протяжении многих лет."
 images: 
-- images/bh/youll_never_get_obored_english_class_quote.png
-- images/bh/youre_off_to_great_places_english_class_quote.png
-- images/bh/youre_too_smart_english_class_quote.png
+- images/bh/youll_never_get_obored_english_class_quote.webp
+- images/bh/youre_off_to_great_places_english_class_quote.webp
+- images/bh/youre_too_smart_english_class_quote.webp
 ---
 
 Класс в **школе Brookhaven**, известный как **_School of the Doge_**, на протяжении лет **менял цитату** на белой доске.
@@ -22,7 +22,7 @@ _Автор изображения: BatYE_
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youll_never_get_obored_english_class_quote.png)  
+![Цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youll_never_get_obored_english_class_quote.webp)  
 > **«Вам никогда не будет скучно, если вы попробуете что-то новое. На самом деле нет предела тому, что вы можете сделать.»**  
 {{< /column>}}
 {{< /column>}}
@@ -46,7 +46,7 @@ _Автор изображения: BatYE_
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Новая цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youre_too_smart_english_class_quote.png)  
+![Новая цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youre_too_smart_english_class_quote.webp)  
 > **«С головой, полной ума, и ногами, полными ступней, ты слишком умен, чтобы идти по не самой хорошей улице.»**  
 {{< /column>}}
 {{< /column>}}

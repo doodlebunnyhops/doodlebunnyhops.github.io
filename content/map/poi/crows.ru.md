@@ -22,7 +22,7 @@ draft: false
 
 {{% expand title="Выделенное местоположение ворон" %}}
 
-![Местоположение ворон](/images/maps/crows.png)
+![Местоположение ворон](/images/maps/crows.webp)
 
 {{% /expand %}}
 

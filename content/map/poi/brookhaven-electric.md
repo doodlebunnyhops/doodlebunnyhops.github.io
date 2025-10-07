@@ -22,7 +22,7 @@ Brookhaven Electric, the town's power source, is locked. To gain entrance, you n
 
 {{% expand title="Outlined Location of Brookhaven Electric" %}}
 
-![Location of Brookhaven Electric](/images/maps/brookhaven-electric.png)
+![Location of Brookhaven Electric](/images/maps/brookhaven-electric.webp)
 
 {{% /expand %}}
 

@@ -16,13 +16,13 @@ draft: false
 
 Первый кристалл находится в Больнице. Совпадение ли это, что квест начинается именно здесь? Ведь прежде чем начать, нам пришлось посетить больницу и нажать на стопку бумаг, чтобы разблокировать TSLVL1.
 
-![Фронтальный вид Больницы в городе Brookhaven](/images/maps/hospital_remodeled_2024.png?width=400px)
+![Фронтальный вид Больницы в городе Brookhaven](/images/maps/hospital_remodeled_2024.webp?width=400px)
 
 ## Местоположение кристалла
 
 На крыше больницы, в центре. Используйте лестницу справа, чтобы подняться на крышу.
 
-![Кристалл 1 найден на крыше больницы](/images/maps/crystals/crystal_1_roof_of_hospital_updated_location.png?width=400px)
+![Кристалл 1 найден на крыше больницы](/images/maps/crystals/crystal_1_roof_of_hospital_updated_location.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -36,7 +36,7 @@ draft: false
 
 Местоположение было немного изменено после [обновления Ремонт школы, больницы и полицейского участка](/blog/school_hospital_police_station_remodel). Ранее кристалл находился на крыше больницы, но был спрятан между секциями крыши.
 
-![Кристалл 1 найден на крыше больницы (старое местоположение)](/images/maps/crystals/crystal_1_roof_of_hospital.png?width=400px)
+![Кристалл 1 найден на крыше больницы (старое местоположение)](/images/maps/crystals/crystal_1_roof_of_hospital.webp?width=400px)
 
 ---
 

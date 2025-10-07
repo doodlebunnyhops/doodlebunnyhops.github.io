@@ -6,7 +6,7 @@ draft: false
 description: "All Notes and how to find them that are signed by the Agency."
 images: 
 - images/bh/agency_greed_comp_message.jpg
-- images/bh/follow_the_book_comp_message.png
+- images/bh/follow_the_book_comp_message.webp
 
 ---
 
@@ -28,10 +28,10 @@ Clearly marked with their signature logo with AGENCY written on it, it's clear a
 
 {{< tabs title="Agency Note -> click tabs" >}}
 {{% tab title="Close up of Note from Agency" %}}
-![Agency Note About Madison and Older Boy](/images/bh/agency_note_in_future_motel_room_closeup.png?width=400px) 
+![Agency Note About Madison and Older Boy](/images/bh/agency_note_in_future_motel_room_closeup.webp?width=400px) 
 {{% /tab %}}
 {{% tab title="Area note is found" %}}
-![Agency Note found in closet of Future rundown Motel Room](/images/bh/agency_note_in_future_motel.png) 
+![Agency Note found in closet of Future rundown Motel Room](/images/bh/agency_note_in_future_motel.webp) 
 
 {{% /tab %}}
 {{< /tabs >}}
@@ -60,11 +60,11 @@ The Book will tell you what to do next, follow its lead and do not think for you
 
 {{< tabs title="Click Tabs ->" >}}
 {{% tab title="Large View of Chair with Message" %}}
-![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future.png) 
+![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future.webp) 
 {{% /tab %}}
 
 {{% tab title="Closeup of Note" %}}
-![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future_closeup.png) 
+![Message behind chair to follow the book](/images/bh/note_behind_chair_in_rundown_motel_room_from_future_closeup.webp) 
 {{% /tab %}}
 {{< /tabs >}}
 

@@ -5,11 +5,11 @@ noindex: false
 weight: 6
 description: "Разгадайте головоломки с молниями и капсулами, чтобы активировать лазеры в Лаборатории. Продвигайтесь в квесте Агентства, раскрывая тайны подземного подземелья."
 images:
-- images/agency_coffin_portal_quest/lab_room_green_lasers.png
+- images/agency_coffin_portal_quest/lab_room_green_lasers.webp
 #Tags: ["Дом Агентства RP"]
 ---
 
-![Изображение Лаборатории и Капсульной комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/lab_room_w400px.png)
+![Изображение Лаборатории и Капсульной комнаты в Доме Агентства RP](/images/agency_coffin_portal_quest/lab_room_w400px.webp)
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation" %}}
@@ -46,7 +46,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Правильный порядок, в котором нужно садиться на стулья в Лаборатории](/images/agency_coffin_portal_quest/lab_room_chair_order.png)
+![Правильный порядок, в котором нужно садиться на стулья в Лаборатории](/images/agency_coffin_portal_quest/lab_room_chair_order.webp)
 
 {{< /column >}}
 
@@ -56,7 +56,7 @@ images:
 
 {{< column "grid-2">}}
 
-![Результат выполнения действий с капсулами — лазеры стали зелёными](/images/agency_coffin_portal_quest/lab_room_green_lasers.png)
+![Результат выполнения действий с капсулами — лазеры стали зелёными](/images/agency_coffin_portal_quest/lab_room_green_lasers.webp)
 
 {{< /column >}}
 

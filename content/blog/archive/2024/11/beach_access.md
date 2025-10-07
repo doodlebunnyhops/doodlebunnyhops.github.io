@@ -25,12 +25,12 @@ This update brings a few quality-of-life improvements and additions for players 
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/beach_parking_and_peir_on_beach.png" loading="lazy" alt="Beach parking with access to peir and seating near beach" style="width: auto; height: 100px;"> **Piers and Parking Lots at Ocean Beach**  
+<img src="/images/blog/beach_parking_and_peir_on_beach.webp" loading="lazy" alt="Beach parking with access to peir and seating near beach" style="width: auto; height: 100px;"> **Piers and Parking Lots at Ocean Beach**  
   The beach area has received an upgrade! New piers and parking lots have been added, making it an even better spot to relax, park your vehicle, or just enjoy the scenic views.
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-<img src="/images/blog/fire_cheif_vehicle.png" loading="lazy" alt="fire cheif vehicle" style="width: auto; height: 100px;"> **New Fire Chief Vehicle**  
+<img src="/images/blog/fire_cheif_vehicle.webp" loading="lazy" alt="fire cheif vehicle" style="width: auto; height: 100px;"> **New Fire Chief Vehicle**  
   For all the firefighters in Brookhaven, a **Fire Chief Vehicle** has been added! This sleek ride is perfect for anyone taking charge of the fire department and responding to emergencies in style.
 {{< /column>}}
 

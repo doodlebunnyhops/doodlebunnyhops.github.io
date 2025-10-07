@@ -8,8 +8,8 @@ cascade:
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/brightLea_%26_bloomindaisy.png
 images:
-- /images/wolfpaq_announcement.png
-- /images/brightLea_&_bloomindaisy.png
+- /images/wolfpaq_announcement.webp
+- /images/brightLea_&_bloomindaisy.webp
 description: "Wolfpaq has officially handed over Brookhaven to Voldex. What does this mean for the game, and was the change hinted at in the Abandoned RP Set update?"
 noindex: true
 hidden: true
@@ -26,7 +26,7 @@ _image credit to bright_leaa showing BloominDaisy and Lea in front of abandoned 
 
 
 {{< column "post-block-dot column" >}}
-![Screenshot of Wolfpaq's farewell announcement on Discord](/images/blog/wolfpaq_announcement.png)
+![Screenshot of Wolfpaq's farewell announcement on Discord](/images/blog/wolfpaq_announcement.webp)
 {{< /column >}}
 
 ## **What Does This Mean for Brookhaven?** 🤔  
@@ -48,7 +48,7 @@ Looking back, the **[Abandoned RP Set update](/blog/abandoned_house_rp_secrets/)
 {{< /column >}}
 
 {{< column "post-block-dot column" >}}
-![Another note in the abandoned mausoleum referencing Wolfpaq, hinting at change](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.png)
+![Another note in the abandoned mausoleum referencing Wolfpaq, hinting at change](/images/abandoned_mausoleum/mausoleum_wolfpaq_note.webp)
 {{< /column >}}
 {{< /column >}}
 
@@ -62,7 +62,7 @@ Thank you Wolfpaq for reaching out to the Mystery Community, we love you too! :h
 {{< column "grid-1 post-block" >}}
 
 {{< column "post-block-dot column" >}}
-![A heartfelt message from Wolfpaq saying 'Love you all!'](/images/blog/wolfpaq_love.png)
+![A heartfelt message from Wolfpaq saying 'Love you all!'](/images/blog/wolfpaq_love.webp)
 {{< /column >}}
 {{< /column >}}
 
@@ -81,7 +81,7 @@ At the time of this blog you may see BrookhavenRP is `Unavailable`, this is like
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![A screenshot of BrookhavenRP appearing as 'Unavailable' during the transition](/images/blog/transition.png)
+![A screenshot of BrookhavenRP appearing as 'Unavailable' during the transition](/images/blog/transition.webp)
 {{< /column >}}
 
 {{< /column >}}

@@ -5,7 +5,7 @@ noindex: false
 weight: 1
 description: "Картина «Добрый» в музее Brookhaven связана со скрытыми посланиями о доброте, покое и размышлении, играя ключевую роль в квестах и тайных открытиях."
 images: 
-- images/maps/museum_inside.png
+- images/maps/museum_inside.webp
 ---
 
 ![Картина «Добрый» в музее Brookhaven, изображающая девушку, сидящую на фоне гор и деревьев, символизирующую доброту, покой и размышление.](/images/bh/museum_kind.webp?height=200px)
