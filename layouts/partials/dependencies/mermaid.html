@@ -1,0 +1,60 @@
+{{- /* Override the default mermaid dependency loading to be conditional */ -}}
+{{- $page := .page }}
+{{- $location := .location }}
+{{- if eq $location "footer" }}
+  {{- with $page }}
+    {{- /* Only load mermaid dependencies if this page actually uses mermaid */ -}}
+    {{- $needsMermaid := false }}
+    {{- if or (in .RawContent "{{< mermaid") (in .RawContent "```mermaid") }}
+      {{- $needsMermaid = true }}
+    {{- end }}
+    
+    {{- if $needsMermaid }}
+      {{- /* Load all the mermaid dependencies only when needed */ -}}
+      {{- $assetBusting := partialCached "assetbusting.gotmpl" . }}
+      {{- with resources.Get "/js/js-yaml/js-yaml.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-color.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-dispatch.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-drag.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-ease.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-interpolate.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-selection.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-timer.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-transition.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/d3/d3-zoom.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      {{- with resources.Get "/js/mermaid/mermaid.min.js" }}
+      <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+      {{- end }}
+      
+      {{- $init := "{}" }}
+      {{- if isset .Params "mermaidinitialize" }}
+        {{- $init = .Params.mermaidInitialize }}
+      {{- else if isset .Site.Params "mermaidinitialize" }}
+        {{- $init = .Site.Params.mermaidInitialize }}
+      {{- end }}
+      <script>
+        window.relearn.themeUseMermaid = JSON.parse({{ $init }});
+      </script>
+    {{- end }}
+  {{- end }}
+{{- end }}
