@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Discover secrets of Brookhaven's Abandoned House, a key site for the Crystal Quest. Find the hidden crystal between the cabinet and wall!"
 weight: 3
 images:
-- images/maps/abandoned_house.jpg
+- images/maps/abandoned_house.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["abandoned house", "Crystal Location"]
 draft: false
@@ -17,7 +17,7 @@ draft: false
 
 Ah yes, where the Crystal Quest began... but we're not done yet! There are still 4 more to collect!
 
-![Front view of Abandoned House in Brookhaven](/images/maps/abandoned_house.jpg?width=400px)
+![Front view of Abandoned House in Brookhaven](/images/maps/abandoned_house.webp?width=400px)
 
 ## Location of Crystal
 

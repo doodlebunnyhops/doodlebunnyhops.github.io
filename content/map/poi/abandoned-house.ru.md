@@ -7,7 +7,7 @@ date: 2024-01-02
 description: "Исследуйте Заброшенный дом на окраине Brookhaven. Ключевое место, связанное с мистером Brookhaven, полное скрытых секретов и подсказок."
 
 images:
-- images/maps/abandoned_house.jpg
+- images/maps/abandoned_house.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["заброшенный дом"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 Расположенный на окраине Brookhaven, сразу за аэропортом, этот обветшалый дом скрывает множество тайн и играет ключевую роль в истории мистера Brookhaven.
 
-![Заброшенный дом](/images/maps/abandoned_house.jpg)
+![Заброшенный дом](/images/maps/abandoned_house.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

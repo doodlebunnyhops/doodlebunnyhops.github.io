@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Найдите кристалл 2 в Церкви Brookhaven, спрятанный за растением. Разгадайте эту тайну и продвигайтесь дальше в квесте на кристаллы!"
 weight: 2
 images:
-- images/maps/church.jpg
+- images/maps/church.webp
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["Церковь", "Местоположение кристалла"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Кто бы мог подумать, что церковь — это не только место для собраний, но и тайник для кристалла!
 
-![Фронтальный вид Церкви в городе Brookhaven](/images/maps/church.jpg?width=400px)
+![Фронтальный вид Церкви в городе Brookhaven](/images/maps/church.webp?width=400px)
 
 ## Местоположение кристалла
 

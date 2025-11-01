@@ -7,7 +7,7 @@ cascade:
 noindex: false
 hidden: true
 archetype: "blog"
-imagecust: /images/blog/knight_in_the_cave_and_the_good_book_cropped.jpg
+imagecust: /images/blog/knight_in_the_cave_and_the_good_book_cropped.webp
 images:
 - /images/blog/good_book_in_the_cave.webp
 - /images/blog/knight_in_the_cave_and_the_good_book.webp

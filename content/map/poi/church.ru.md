@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение церкви Brookhaven и связанные секреты"
 
 images:
-- images/maps/church.jpg
+- images/maps/church.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Церковь"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 Фотография мистера Brookhaven спрятана внутри гроба в церкви, а на чердаке находится энергетическая пирамида. Что мистер Brookhaven пытается нам сказать? И почему звон церковного колокола вызывает голубей?
 
-![Вид на церковь](/images/maps/church.jpg)
+![Вид на церковь](/images/maps/church.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

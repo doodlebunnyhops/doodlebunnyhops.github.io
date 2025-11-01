@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение Северного поместья Brookhaven и связанные секреты"
 
 images:
-- images/maps/north_estate.jpg
+- images/maps/north_estate.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Северное поместье"]
 draft: false
@@ -16,7 +16,7 @@ aliases:
 
 Для тех, кто хочет вложиться в более роскошное жильё, Северное поместье расположено в спокойном районе Crown Pointe. Благодаря удобному доступу к станции метро это идеальное место для тех, кто часто ездит в центр города. Но будьте осторожны – не стоит копаться в земле по бокам участка!
 
-![Вид на Северное поместье](/images/maps/north_estate.jpg)
+![Вид на Северное поместье](/images/maps/north_estate.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

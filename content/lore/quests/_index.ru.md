@@ -7,7 +7,7 @@ description: "Исследуйте скрытые тайны Brookhaven с эт�
 aliases:
 - /quests
 images:
-- images/bh/agency_greed_desk_1_button.jpg
+- images/bh/agency_greed_desk_1_button.webp
 #Tags: ["Квесты и лор Brookhaven"]
 ---
 

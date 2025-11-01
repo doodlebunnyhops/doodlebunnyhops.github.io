@@ -22,7 +22,7 @@ description: "Laptop Messages that are unsigned. Picture of message provided."
 	3. Or if there's one in Paradise Falls.
 		1. *Note that the crystal in the blue apartment (penthouse game-pass) will not complete Connect Laptop.
 
-![DESC](/images/bh/sync_failed_comp_message.jpg) 
+![DESC](/images/bh/sync_failed_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>

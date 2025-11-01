@@ -16,20 +16,20 @@ description: "Войдите в Brookhaven Electric и активируйте е
 {{% tab title="Температура стабильна" %}}
 Когда вы впервые входите в здание (если рычаги в Ратуше не были тронуты), на экране появится это сообщение.
 
-![Температура стабильна в Brookhaven Electric](/images/bh/electric-building-temp-stable.jpg)
+![Температура стабильна в Brookhaven Electric](/images/bh/electric-building-temp-stable.webp)
 {{% /tab %}}
 
 {{% tab title="Пароль" %}}
 Нажмите на синюю панель для ввода пароля и введите своё ROBLOX-имя пользователя.  
 (Если вы меняли имя в игре, вводите изначальное имя пользователя.)
 
-![Синяя панель для ввода пароля](/images/bh/electric-building-blue-passcode.jpg)
+![Синяя панель для ввода пароля](/images/bh/electric-building-blue-passcode.webp)
 {{% /tab %}}
 
 {{% tab title="Рычаг" %}}
 Переключите рычаг справа, он изменится с красного на зелёный.
 
-![Красный рычаг справа](/images/bh/electric-building-right-lever.jpg)
+![Красный рычаг справа](/images/bh/electric-building-right-lever.webp)
 {{% /tab %}}
 
 {{< /tabs >}}

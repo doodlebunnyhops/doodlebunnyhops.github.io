@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение конюшни Brookhaven и связанные секреты"
 
 images:
-- images/maps/horse_stables.jpg
+- images/maps/horse_stables.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Конюшня"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Конюшня Brookhaven, возможно, была первым местом, которое мистер Brookhaven построил много лет назад. Здесь можно тренироваться в скачках и прыжках вместе с лошадью. Но будьте осторожны — случайно не покормите её кристаллом! Один из них спрятан в сене.
 
-![Вид на конюшню](/images/maps/horse_stables.jpg)
+![Вид на конюшню](/images/maps/horse_stables.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

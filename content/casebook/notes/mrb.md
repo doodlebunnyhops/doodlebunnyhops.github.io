@@ -21,7 +21,7 @@ We see notes signed by both Mr. B and Mr. Brookhaven but the question remains...
 
 1. Once you have unlocked the School Base Room, look for a note in the corner of this room.
 
-![Note from Mr. B we learn in school](/images/bh/mrb_school_base.jpg) 
+![Note from Mr. B we learn in school](/images/bh/mrb_school_base.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 

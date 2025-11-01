@@ -45,7 +45,7 @@ _What computer are we connected to?_
 1. Head to the secret X-Ray Room in the Hospital. 
 1. Check the message board on the wall to see this message.
 
-![Quantum Window Message from clicking Camera](/images/bh/backdoor-camera-slot.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/backdoor-camera-slot.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -60,7 +60,7 @@ _Is this related to the code we see in the Experimentation Site above the hospit
 1. Head to the secret X-Ray Room in the Hospital. 
 1. Check the message board on the wall to see this message.
 
-![Quantum Window Message from clicking Camera](/images/bh/algorithm-generated.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/algorithm-generated.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -78,7 +78,7 @@ _Carbon Blocks have appeared..._
 1. Head to the secret X-Ray Room in the Hospital. 
 1. Check the message board on the wall to see this message.
 
-![Quantum Window Message from clicking Camera](/images/bh/carbon-burn-commencing.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/carbon-burn-commencing.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -102,7 +102,7 @@ _Power the Quantum Room_
 			
 		`Power Online`
 		
-![Quantum Room Message Board Power Online](/images/bh/destroy-carbon-blocks-online-2.jpg)
+![Quantum Room Message Board Power Online](/images/bh/destroy-carbon-blocks-online-2.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -119,7 +119,7 @@ Before any secrets are done these are the first messages you will see rotating p
 {{< tabs title="Click Tab ->" >}}
 
 {{% tab title="Declination Offline" %}}
-![Quantum Room Message: Declination Offline](/images/bh/declination-offline.jpg)
+![Quantum Room Message: Declination Offline](/images/bh/declination-offline.webp)
 {{% /tab %}}
 
 {{% tab title="Rebooting Mainframe" %}}
@@ -127,19 +127,19 @@ Before any secrets are done these are the first messages you will see rotating p
 {{% /tab %}}
 
 {{% tab title="Service Disruption" %}}
-![Quantum Room Message: Service Disruption](/images/bh/service-disruption.jpg)
+![Quantum Room Message: Service Disruption](/images/bh/service-disruption.webp)
 {{% /tab %}}
 
 {{% tab title="Time dilation: Failed" %}}
-![Quantum Room Message: Time dilation: Failed](/images/bh/time-dilation-failed.jpg)
+![Quantum Room Message: Time dilation: Failed](/images/bh/time-dilation-failed.webp)
 {{% /tab %}}
 
 {{% tab title="Quantum Gravity: Failed" %}}
-![Quantum Room Message: Quantum Gravity: Failed](/images/bh/quantum-gravity-failed.jpg)
+![Quantum Room Message: Quantum Gravity: Failed](/images/bh/quantum-gravity-failed.webp)
 {{% /tab %}}
 
 {{% tab title="Gravitational Time Dilation: Unavailable" %}}
-![Quantum Room Message: Gravitational Time Dilation: Unavailable](/images/bh/gravitational-time-dilation-ua.jpg)
+![Quantum Room Message: Gravitational Time Dilation: Unavailable](/images/bh/gravitational-time-dilation-ua.webp)
 {{% /tab %}}
 
 {{< /tabs >}}

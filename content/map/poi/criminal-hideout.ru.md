@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение логова преступников в Brookhaven и связанные секреты"
 
 images:
-- images/maps/criminal_hideout.jpg
+- images/maps/criminal_hideout.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Логово преступников"]
 draft: false
@@ -17,13 +17,13 @@ draft: false
 {{< column "grid-2" >}}
 
 
-![Вид снаружи на логово преступников, скрытая стена открывает вход](/images/maps/criminal_hideout.jpg)
+![Вид снаружи на логово преступников, скрытая стена открывает вход](/images/maps/criminal_hideout.webp)
 
 ![Логово преступников и местоположение потайного люка](/images/maps/criminal_hideout_to_trap_door.gif)
 
 ![Нажатие на скрытый проход для открытия люка в логове преступников](/images/maps/criminal_hideout_click_trap_door.gif)
 
-![Внутренний вид логова преступников, показывающий компьютерное оборудование и систему наблюдения](/images/maps/criminal_hideout_inside.jpg)
+![Внутренний вид логова преступников, показывающий компьютерное оборудование и систему наблюдения](/images/maps/criminal_hideout_inside.webp)
 
 
 {{< /column >}}

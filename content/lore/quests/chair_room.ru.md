@@ -5,7 +5,7 @@ noindex: false
 weight: 13
 description: "Откройте скрытую комнату с креслом в Бункере Агентства. Следуйте этому руководству, чтобы использовать пароли и инструменты для доступа к секретам."
 images:
-- images/maps/agency_bunker_inside.jpg
+- images/maps/agency_bunker_inside.webp
 #Tags: ["Бункер Агентства", "Скрытая комната с креслом"]
 ---
 

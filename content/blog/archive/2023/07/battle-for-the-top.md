@@ -9,9 +9,9 @@ aliases:
 noindex: false
 hidden: true
 archetype: "blog"
-imagecust: https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
+imagecust: https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.webp
 images:
-- https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.jpg
+- https://pbs.twimg.com/media/F1HdNxdaQAAUyPq.webp
 description: "Congrats WolfPaq Brookhaven most visited experience!"
 ---
 

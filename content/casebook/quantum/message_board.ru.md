@@ -46,7 +46,7 @@ _К какому компьютеру мы подключены?_
 2. Отправляйтесь в **секретную рентгеновскую комнату** в больнице.  
 3. Проверьте **панель сообщений** на стене – появится это сообщение.  
 
-![Сообщение "Найден обходной слот камеры" после нажатия на камеру.](/images/bh/backdoor-camera-slot.jpg)
+![Сообщение "Найден обходной слот камеры" после нажатия на камеру.](/images/bh/backdoor-camera-slot.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -61,7 +61,7 @@ _Это связано с кодом, который мы видим на Экс
 3. Отправляйтесь в **секретную рентгеновскую комнату** в больнице.  
 4. Проверьте **панель сообщений** на стене – появится это сообщение.  
 
-![Сообщение "Сгенерирован алгоритм" после нажатия на камеру.](/images/bh/algorithm-generated.jpg)
+![Сообщение "Сгенерирован алгоритм" после нажатия на камеру.](/images/bh/algorithm-generated.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -77,7 +77,7 @@ _Появились углеродные блоки..._
 1. После выполнения требований отправляйтесь в **секретную рентгеновскую комнату** в больнице.  
 2. Проверьте **панель сообщений** на стене – появится это сообщение.  
 
-![Сообщение "Начинается сжигание углерода".](/images/bh/carbon-burn-commencing.jpg)
+![Сообщение "Начинается сжигание углерода".](/images/bh/carbon-burn-commencing.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -101,7 +101,7 @@ _Запитать Квантовую комнату_
 
      `Power Online`
 
-![Сообщение "Энергия включена" на панели Квантовой комнаты.](/images/bh/destroy-carbon-blocks-online-2.jpg)
+![Сообщение "Энергия включена" на панели Квантовой комнаты.](/images/bh/destroy-carbon-blocks-online-2.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -117,7 +117,7 @@ _Запитать Квантовую комнату_
 {{< tabs title="Нажмите для просмотра ->" >}}
 
 {{% tab title="Отключение склонения" %}}
-![Сообщение "Declination Offline".](/images/bh/declination-offline.jpg)
+![Сообщение "Declination Offline".](/images/bh/declination-offline.webp)
 {{% /tab %}}
 
 {{% tab title="Перезагрузка главного сервера" %}}
@@ -125,19 +125,19 @@ _Запитать Квантовую комнату_
 {{% /tab %}}
 
 {{% tab title="Сбой сервиса" %}}
-![Сообщение "Service Disruption".](/images/bh/service-disruption.jpg)
+![Сообщение "Service Disruption".](/images/bh/service-disruption.webp)
 {{% /tab %}}
 
 {{% tab title="Дилатация времени: Ошибка" %}}
-![Сообщение "Time dilation: Failed".](/images/bh/time-dilation-failed.jpg)
+![Сообщение "Time dilation: Failed".](/images/bh/time-dilation-failed.webp)
 {{% /tab %}}
 
 {{% tab title="Квантовая гравитация: Ошибка" %}}
-![Сообщение "Quantum Gravity: Failed".](/images/bh/quantum-gravity-failed.jpg)
+![Сообщение "Quantum Gravity: Failed".](/images/bh/quantum-gravity-failed.webp)
 {{% /tab %}}
 
 {{% tab title="Гравитационная дилатация времени: Недоступна" %}}
-![Сообщение "Gravitational Time Dilation: Unavailable".](/images/bh/gravitational-time-dilation-ua.jpg)
+![Сообщение "Gravitational Time Dilation: Unavailable".](/images/bh/gravitational-time-dilation-ua.webp)
 {{% /tab %}}
 
 {{< /tabs >}}

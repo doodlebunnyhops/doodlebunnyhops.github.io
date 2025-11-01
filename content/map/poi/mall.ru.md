@@ -7,7 +7,7 @@ description: "Местоположение Торгового центра Brook
 
 images:
 - images/maps/valentines_update_mall_store_front.webp
-- images/maps/mall.jpg
+- images/maps/mall.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Торговый центр"]
 draft: false
@@ -52,5 +52,5 @@ draft: false
 
 14 февраля 2025 года [торговый центр был обновлён](/blog/valentines_update), в нём появились несколько новых магазинов и ресторанов.
 
-![Предыдущий вид торгового центра Brookhaven до обновления.](/images/maps/mall.jpg)
+![Предыдущий вид торгового центра Brookhaven до обновления.](/images/maps/mall.webp)
 

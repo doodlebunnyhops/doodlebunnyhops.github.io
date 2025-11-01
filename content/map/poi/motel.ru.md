@@ -7,7 +7,7 @@ description: "Местоположение мотеля Brookhaven и связа
 
 images:
 - images/blog/motel_update_outside_view.webp
-- images/maps/motel.jpg
+- images/maps/motel.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Отель", "Мотель"]
 draft: false
@@ -53,4 +53,4 @@ draft: false
 
 20 декабря 2024 года мотель был обновлён: добавлен бассейн, 6 тематических номеров и освежённый дизайн.
 
-![Предыдущий вид мотеля Brookhaven до обновления.](/images/maps/motel.jpg)
+![Предыдущий вид мотеля Brookhaven до обновления.](/images/maps/motel.webp)

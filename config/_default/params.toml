@@ -5,7 +5,11 @@
 [search]
   disable = false
   
-disableSearchHiddenPages = false
+  # Optimize search index size
+  [search.index]
+    template = "/_relearn_searchindex_optimized.js"
+    
+disableSearchHiddenPages = true
 
 disableExplicitIndexURLs = true
 collapsibleMenu=true

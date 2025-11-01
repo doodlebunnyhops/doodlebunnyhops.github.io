@@ -4,7 +4,7 @@ noindex: false
 weight: 4
 description: "How to obtain the hidden red book in the library."
 images:
-- images/maps/library.jpg
+- images/maps/library.webp
 #Tags: ["Library", "Agency Book","Follow the book"]
 ---
 
@@ -28,7 +28,7 @@ _Follow the book_
 	
 		==This book needs you to follow it in everything. It knows what is best and you do not. Follow it blindly and do exactly what it says. {Agency}==
 
-![Red Book Location](/images/bh/the_red_book_location.jpg)
+![Red Book Location](/images/bh/the_red_book_location.webp)
  
 <hr style="background-color: #28b44c" size=8>
  

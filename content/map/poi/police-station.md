@@ -7,7 +7,7 @@ description: "Brookhaven Police Station location view and related secrets"
 
 images:
 - images/maps/police_station_remodeled_2024.webp
-- images/maps/police.jpg
+- images/maps/police.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Police Station"]
 draft: false
@@ -53,4 +53,4 @@ The protectors of Brookhaven have a fantastic set of resources to ensure your sa
 
 In Novemeber of 2024 the Police Station was remodeld adding a second story and fresh look.
 
-![Brookhaven's previous look for the police station was a single-story station.](/images/maps/police.jpg)
+![Brookhaven's previous look for the police station was a single-story station.](/images/maps/police.webp)

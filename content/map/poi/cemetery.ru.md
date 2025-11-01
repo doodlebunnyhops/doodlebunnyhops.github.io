@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение кладбища Brookhaven и связанные секреты"
 
 images:
-- images/maps/cemetery.jpg
+- images/maps/cemetery.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Кладбище"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 Кладбище Brookhaven — это место, где можно вспомнить тех, кто был здесь раньше... или, возможно, навестить рычащего Создателя Агентства под землёй. О, боже!
 
-![Вид на кладбище](/images/maps/cemetery.jpg)
+![Вид на кладбище](/images/maps/cemetery.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

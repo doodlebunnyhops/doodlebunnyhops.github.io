@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Spawn location view and related secrets"
 
 images:
-- images/maps/spawn.jpg
+- images/maps/spawn.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Spawn"]
 draft: false
@@ -16,9 +16,9 @@ draft: false
 Everyone spawns into Brookhaven RP at the fountain. At the heart and center of this town. Behind it is the community pool, and on the side the Police Station. You can find event news usually along the wall of the Police Station, like the annual Halloween or easter egg hunt, and details on how to participate.
 
 {{< column "grid-2" >}}
-![view of spawn](/images/maps/spawn.jpg)
+![view of spawn](/images/maps/spawn.webp)
 
-![Community Pool behind Spawn area](/images/maps/community_pool.jpg)
+![Community Pool behind Spawn area](/images/maps/community_pool.webp)
 {{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>

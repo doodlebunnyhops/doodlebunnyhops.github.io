@@ -5,7 +5,7 @@ noindex: false
 weight: 7
 description: "Постройте портал под Eagle View в Brookhaven. Используйте это руководство, чтобы активировать скрытые врата и раскрыть их предназначение."
 images:
-- images/maps/portal-built.jpg
+- images/maps/portal-built.webp
 #Tags: ["Построить портал"]
 ---
 
@@ -114,7 +114,7 @@ images:
 {{% notice style="warning" %}}
 Если вы нажмёте кнопку на тумбочке в комнате будущего и получите сообщение об ошибке в правом верхнем углу экрана, это означает, что кнопка уже была нажата, но ящики за Базой Агентства всё ещё там.
 
-![Ошибка: "Ошибка повторного строительства водородного луча"](/images/bh/build_portal_error.jpg)
+![Ошибка: "Ошибка повторного строительства водородного луча"](/images/bh/build_portal_error.webp)
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>

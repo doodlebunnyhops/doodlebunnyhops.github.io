@@ -5,10 +5,10 @@ weight: 5
 draft: false
 description: "Ещё больше секретов, подтверждённых для Секретной пещеры Долины в Brookhaven RP, и таймлапс видео с загадочным светом."
 images: 
-- images/bh/no_light_source.jpg
+- images/bh/no_light_source.webp
 ---
 
-![Bloomindaisy стоит в пещере с таинственным светом в форме треугольника.](/images/bh/no_light_source.jpg)
+![Bloomindaisy стоит в пещере с таинственным светом в форме треугольника.](/images/bh/no_light_source.webp)
 
 В **обновлении «Строительство»** от **25 августа 2023 года** ([Construction update](blog/archive/2023/august/construction/)), вместе с новой зоной для домов **Hidden Valley**, появилась **секретная пещера**, спрятанная прямо **за участком**!  
 
@@ -23,9 +23,9 @@ images:
 {{< block "post-block-dot" >}}
 {{< column "grid-2" >}}
 
-![хмм](/images/bh/flag.jpg)
+![хмм](/images/bh/flag.webp)
 
-![Wolfpaq подтверждает, что странное освещение в пещере станет частью будущего обновления с секретами.](/images/bh/wolf.jpg)
+![Wolfpaq подтверждает, что странное освещение в пещере станет частью будущего обновления с секретами.](/images/bh/wolf.webp)
 {{< /column >}}
 {{< /block >}}
 
@@ -94,23 +94,23 @@ images:
 {{< tabs title="Нажмите для просмотра ->" >}}
 
 {{% tab title="Флаг 11:55" %}}
-![Освещение в пещере в 11:55, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-11_55.jpg)
+![Освещение в пещере в 11:55, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-11_55.webp)
 {{% /tab %}}
 
 {{% tab title="Флаг 12:16" %}}
-![Освещение в пещере в 12:16, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-12_16.jpg)
+![Освещение в пещере в 12:16, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-12_16.webp)
 {{% /tab %}}
 
 {{% tab title="Треугольник 1:10" %}}
-![Освещение в пещере в 1:10, похоже на треугольник.](/images/bh/cave-light-triangle-shape-1_10.jpg)
+![Освещение в пещере в 1:10, похоже на треугольник.](/images/bh/cave-light-triangle-shape-1_10.webp)
 {{% /tab %}}
 
 {{% tab title="Флаг 1:40" %}}
-![Освещение в пещере в 1:40, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-1_40.jpg)
+![Освещение в пещере в 1:40, похоже на флаг или цифру 1.](/images/bh/cave-light-flag-shape-1_40.webp)
 {{% /tab %}}
 
 {{% tab title="Треугольник 2:32" %}}
-![Освещение в пещере в 2:32, похоже на треугольник.](/images/bh/cave-light-triangle-shape-2_30.jpg)
+![Освещение в пещере в 2:32, похоже на треугольник.](/images/bh/cave-light-triangle-shape-2_30.webp)
 {{% /tab %}}
 
 {{< /tabs >}}
@@ -138,15 +138,15 @@ images:
 {{< block "post-block-dot" >}}
 {{< column "grid-4" >}}
 
-![Секретная кнопка под столом в скрытой комнате за рентгеном.](/images/bh/secrets-button-hidden-room-xray.jpg)
+![Секретная кнопка под столом в скрытой комнате за рентгеном.](/images/bh/secrets-button-hidden-room-xray.webp)
 
-![Секретная кнопка под табуретом в Квантовой комнате.](/images/bh/secrets-button-quantum-room-stool.jpg)
+![Секретная кнопка под табуретом в Квантовой комнате.](/images/bh/secrets-button-quantum-room-stool.webp)
 
-![Остров на озере Мэдисон напоминает форму секретной кнопки.](/images/bh/secrets-button-madison-lake.jpg)
+![Остров на озере Мэдисон напоминает форму секретной кнопки.](/images/bh/secrets-button-madison-lake.webp)
 
-![Секретная кнопка под столом в бункере Агентства.](/images/bh/secrets-button-agency-bunker.jpg)
+![Секретная кнопка под столом в бункере Агентства.](/images/bh/secrets-button-agency-bunker.webp)
 
-![Секретная кнопка на столбе, найденная в амбаре.](/images/bh/secrets-button-farm.jpg)
+![Секретная кнопка на столбе, найденная в амбаре.](/images/bh/secrets-button-farm.webp)
 
 {{< /column >}}
 {{< /block >}}

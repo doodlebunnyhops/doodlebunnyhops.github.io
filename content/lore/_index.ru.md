@@ -7,7 +7,7 @@ description: "Разгадайте тайны Brookhaven RP с этим подр
 
 images: 
 - images/bh/collage.webp
-- images/bh/agency_greed_desk_1_button.jpg
+- images/bh/agency_greed_desk_1_button.webp
 aliases:
 - /mermaid/steps_flow
 collapsibleMenu: true

@@ -54,7 +54,7 @@ Say hi to **DrakeRose**, a Lead Game Engineer on the Brookhaven team from Voldex
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![BrookhavenRP Update: A player riding a swan vehicle at an intersection in Brookhaven.](/images/blog/drakerose_lead_dev_leak.jpg)  
+![BrookhavenRP Update: A player riding a swan vehicle at an intersection in Brookhaven.](/images/blog/drakerose_lead_dev_leak.webp)  
 {{< /column>}}
 {{< /column>}}
 

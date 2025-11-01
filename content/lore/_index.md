@@ -7,7 +7,7 @@ description: "Uncover Brookhaven RP’s secrets with this comprehensive walkthro
 
 images: 
 - images/bh/collage.webp
-- images/bh/agency_greed_desk_1_button.jpg
+- images/bh/agency_greed_desk_1_button.webp
 aliases:
 - /mermaid/steps_flow
 collapsibleMenu: true

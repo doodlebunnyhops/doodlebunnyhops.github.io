@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Find Crystal 2 at Brookhaven Church, hidden behind a plant. Unravel the mystery and progress in your Crystal Quest journey!"
 weight: 2
 images:
-- images/maps/church.jpg
+- images/maps/church.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Church", "Crystal Location"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Who knew the church isn't just for communal gatherings, it's also where someone hid a crystal!
 
-![Front view of Church in the town of Brookhaven](/images/maps/church.jpg?width=400px)
+![Front view of Church in the town of Brookhaven](/images/maps/church.webp?width=400px)
 
 ## Location of Crystal
 

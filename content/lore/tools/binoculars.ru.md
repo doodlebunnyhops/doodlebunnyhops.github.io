@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 description: "Специальный бинокль, найденный в Военном доме RP, поможет вам видеть вещи более чётко."
 images:
-- images/bh/military_base.jpg
+- images/bh/military_base.webp
 collapsibleMenu: true
 ---
 

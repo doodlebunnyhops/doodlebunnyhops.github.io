@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение музея Brookhaven и связанные секреты"
 
 images:
-- images/maps/museum.jpg
+- images/maps/museum.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Музей"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Добавленный в обновлении февраля 2023 года, музей Brookhaven даёт нам представление о скромном начале мистера Brookhaven и Мэдисон, а также открывает несколько захватывающих секретов. Мы видим артефакты, связанные с Агентством и мистером Brookhaven, а также четыре картины под названиями: **Жадность**, **Страх**, **Храбрость** и **Доброта**.
 
-![Вид на фасад музея](/images/maps/museum.jpg)
+![Вид на фасад музея](/images/maps/museum.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -23,9 +23,9 @@ draft: false
 Музей также можно превратить в автосалон или ресторан под названием **"The Brick"**. Чтобы изменить фасад здания, войдите внутрь и выберите нужный вариант.
 
 {{< column "grid-3" >}}
-![Как изменить фасад: выберите Автосалон, Ресторан или Музей](/images/maps/store-select.jpg)
-![Вид фасада Автосалона](/images/maps/dealership.jpg)
-![Вид фасада ресторана "The Brick"](/images/maps/the-brick.jpg)
+![Как изменить фасад: выберите Автосалон, Ресторан или Музей](/images/maps/store-select.webp)
+![Вид фасада Автосалона](/images/maps/dealership.webp)
+![Вид фасада ресторана "The Brick"](/images/maps/the-brick.webp)
 {{< /column >}}
 
 <hr style="background-color: #28b44c" size=8>

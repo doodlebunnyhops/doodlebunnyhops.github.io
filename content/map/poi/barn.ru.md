@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение амбара Brookhaven и связанные секреты"
 
 images:
-- images/maps/barn.jpg
+- images/maps/barn.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Амбар"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Амбар Brookhaven, расположенный рядом с конюшнями, скрывает записку и таинственный кристалл.
 
-![Вид на амбар](/images/maps/barn.jpg)
+![Вид на амбар](/images/maps/barn.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

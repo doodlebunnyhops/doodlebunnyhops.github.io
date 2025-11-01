@@ -16,19 +16,19 @@ description: "Enter Brookhaven Electric and activate its systems using a blue ke
 {{% tab title="Temp Stable" %}}
 When you first enter the building, assuming the levers in Town hall haven't been touched. You will see this message.
 
-![Electric Building Temp Stable](/images/bh/electric-building-temp-stable.jpg)
+![Electric Building Temp Stable](/images/bh/electric-building-temp-stable.webp)
 {{% /tab %}}
 
 {{% tab title="Password" %}}
 Click on the blue pass code panel to put your ROBLOX username in. If you've changed your in game name, it's not the in game username.
 
-![Blue Pass code Panel](/images/bh/electric-building-blue-passcode.jpg)
+![Blue Pass code Panel](/images/bh/electric-building-blue-passcode.webp)
 {{% /tab %}}
 
 {{% tab title="Lever" %}}
 Flip the lever on the right, it will go from red to green.
 
-![Red Lever on Right](/images/bh/electric-building-right-lever.jpg)
+![Red Lever on Right](/images/bh/electric-building-right-lever.webp)
 {{% /tab %}}
 {{< /tabs >}}
 

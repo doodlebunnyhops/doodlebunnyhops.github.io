@@ -20,7 +20,7 @@ _We met in secret_
 1. Head to the secret X-Ray Room in the Hospital.
 1. Dive under the Water and you should see this note in the mirror.
 
-![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-lake-madison.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-lake-madison.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -34,7 +34,7 @@ _The bottom of a hill..._
 1. Head to the secret X-Ray Room in the Hospital.
 1. Dive under the Water and you should see this note in the mirror.
 
-![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-plant-house.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-plant-house.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -49,6 +49,6 @@ _Within the green..._
 1. Head to the secret X-Ray Room in the Hospital.
 1. Dive under the Water and you should see this note in the mirror.
 
-![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-military-rp.jpg)
+![Quantum Window Message from clicking Camera](/images/bh/quantum-window-message-military-rp.webp)
 
 

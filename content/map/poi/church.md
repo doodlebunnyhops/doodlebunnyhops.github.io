@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Church location view and related secrets"
 
 images:
-- images/maps/church.jpg
+- images/maps/church.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Church"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 Mr.Brookhaven's picture is hidden inside a coffin in the church, along with an energy pyramid in the attic. What is Mr.Brookhaven trying to tell us? And why does ringing the church bell summon doves?
 
-![view of Church](/images/maps/church.jpg)
+![view of Church](/images/maps/church.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

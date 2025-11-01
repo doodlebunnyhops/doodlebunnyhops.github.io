@@ -7,8 +7,8 @@ date: 2024-01-02
 description: "Explore the secretive Agency Bunker behind Rotten Robie’s Food Mart. Investigate its connection to the Agency and hidden experiments."
 
 images:
-- images/maps/agency_bunker_inside.jpg
-- images/maps/agency_bunker.jpg
+- images/maps/agency_bunker_inside.webp
+- images/maps/agency_bunker.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Agency Bunker"]
 draft: false
@@ -18,11 +18,11 @@ The Agency Bunker is hidden under a hill with a secret entrance next to Rotten R
 
 {{< column "grid-2" >}}
 
-![Agency Bunker Entrance](/images/maps/agency_bunker.jpg)
+![Agency Bunker Entrance](/images/maps/agency_bunker.webp)
 
-![Agency Bunker Inside](/images/maps/agency_bunker_inside.jpg)
+![Agency Bunker Inside](/images/maps/agency_bunker_inside.webp)
 
-![Agency Logo found in Agency Bunker](/images/maps/agency_logo.jpg)
+![Agency Logo found in Agency Bunker](/images/maps/agency_logo.webp)
 
 {{< /column >}}
 

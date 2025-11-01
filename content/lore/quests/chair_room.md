@@ -5,7 +5,7 @@ noindex: false
 weight: 13
 description: "Unlock the hidden chair room in the Agency Bunker. Follow this guide to use passwords and tools to access the secrets."
 images:
-- images/maps/agency_bunker_inside.jpg
+- images/maps/agency_bunker_inside.webp
 #Tags: ["Agency Bunker", "Hidden Chair Room"]
 ---
 

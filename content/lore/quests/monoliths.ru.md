@@ -6,7 +6,7 @@ weight: 8
 description: "Призовите монолиты в Brookhaven, следуя этому руководству. Раскройте секреты Дома с приведениями RP и скрытые коды."
 #Tags: ["Чёрные прямоугольники", "Монолиты", "Дом с приведениями RP"]
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 ---
 
 {{< youtube id=Ez6vK6Ve2Wc?t=150 loading=lazy >}}
@@ -23,7 +23,7 @@ images:
    - Это активирует [A18](/casebook/light_panel#a18).  
    - Обратите внимание на странные символы на гильотине.  
 
-     ![Надписи или код на боковой стороне чёрного прямоугольного объекта](/images/bh/monolith_scripture.jpg)
+     ![Надписи или код на боковой стороне чёрного прямоугольного объекта](/images/bh/monolith_scripture.webp)
 
 3. Теперь монолиты начнут появляться по всему Brookhaven.  
    - [*Смотрите карту для местоположений монолитов*](/map/monoliths).

@@ -27,8 +27,8 @@ description: "Все записки, подписанные Маркусом, и
 3. В **дальнем углу** стоят **ящики на поддоне**.  
    - **За ними спрятана записка**.  
 
-![Записка от Маркуса: "Агентство любит деньги."](/images/bh/marucs_note_shipment_location.jpg)  
+![Записка от Маркуса: "Агентство любит деньги."](/images/bh/marucs_note_shipment_location.webp)  
 
-![Записка от Маркуса: "Агентство любит деньги."](/images/bh/marcus_note_shipment.jpg)  
+![Записка от Маркуса: "Агентство любит деньги."](/images/bh/marcus_note_shipment.webp)  
 
 <hr style="background-color: #28b44c" size=8>

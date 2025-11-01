@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven North Estate location view and related secrets"
 
 images:
-- images/maps/north_estate.jpg
+- images/maps/north_estate.webp
 #Categories: ["point of interest","map"]
 #Tags: ["North Estate"]
 draft: false
@@ -16,7 +16,7 @@ aliases:
 
 A higher-end estate location for those who wish to splurge on their residence will find the North Estate nestled in Crown Pointe's quiet neighborhood. Easy access to the subway station makes for an excellent spot for those wanting to head into town frequently. Just don't go digging around the dirt by the sides of the property!
 
-![view of North Estate](/images/maps/north_estate.jpg)
+![view of North Estate](/images/maps/north_estate.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

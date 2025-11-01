@@ -64,7 +64,7 @@ Checkout locations of [Monoliths](/lore/quests/monoliths).
 {{% tab title="Monolith" %}}
 When a Monolith Despawns, this is when steam starts in the quantum room.
 
-![Monolith actively despawning, fading away](/images/bh/monolith-despawning.jpg)
+![Monolith actively despawning, fading away](/images/bh/monolith-despawning.webp)
 
 
 {{% /tab %}}
@@ -72,7 +72,7 @@ When a Monolith Despawns, this is when steam starts in the quantum room.
 {{% tab title="Steam" %}}
 Why do Monoliths cause steam in here? Is it because of energy building up to create another monolith?
 
-![Steam in Quantum Room after a monolith despawns.](/images/bh/steam-in-quantum-room.jpg)
+![Steam in Quantum Room after a monolith despawns.](/images/bh/steam-in-quantum-room.webp)
 
 {{% /tab %}}
 
@@ -80,7 +80,7 @@ Why do Monoliths cause steam in here? Is it because of energy building up to cre
 {{% tab title="Floor Flashes" %}}
 Once a new monolith has spawned, the floor where steam once was will flash black. 
 
-![Quantum Room Floor Flashes Black when a new Monolith has spawned.](/images/bh/quantum-room-floor-flash-black.jpg)
+![Quantum Room Floor Flashes Black when a new Monolith has spawned.](/images/bh/quantum-room-floor-flash-black.webp)
 
 {{% /tab %}}
 {{< /tabs >}}

@@ -4,7 +4,7 @@ noindex: false
 weight: 7
 description: "How to find the password to the panel in the agency bunker."
 images:
-- images/bh/agency_bunker_inside.jpg
+- images/bh/agency_bunker_inside.webp
 #Tags: ["Marcus Brookhaven", "Agency Bunker Password"]
 ---
 
@@ -20,7 +20,7 @@ Find the hidden password
 **Steps:**
 
 1. Go to this house
-	- ![House needed for this task](/images/bh/whats-the-password-house.jpg)
+	- ![House needed for this task](/images/bh/whats-the-password-house.webp)
 2. Go to the Second Floor and then go to the Bedroom where the Vault is
 3. The open closet actually has a secret ladder - climb up
 4. Click on the Energy Pyramid to reveal the secret used on the Blue Keypad in the Agency Bunker (must have the Energy Pyramid item)

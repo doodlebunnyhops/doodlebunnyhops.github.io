@@ -7,7 +7,7 @@ description: "Brookhaven Mall location view and related secrets"
 
 images:
 - images/maps/valentines_update_mall_store_front.webp
-- images/maps/mall.jpg
+- images/maps/mall.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Mall"]
 draft: false
@@ -54,4 +54,4 @@ There are a plethora of things to do at Brookhaven's Mall. It's a local hotspot 
 
 On Feburary 14th 2025, the [Mall recieved a remodel](/blog/valentines_update), adding several new stores and restaurants.
 
-![Brookhaven's previous look of the Mall before the remodel.](/images/maps/mall.jpg)
+![Brookhaven's previous look of the Mall before the remodel.](/images/maps/mall.webp)

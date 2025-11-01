@@ -20,7 +20,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 1. Head to the Agency Bunker
 2. Look at the table with paper on the desk - It is Latin for “**Truth Prevails**” alternatively “**Truth conquers**”.
 
-![Note in Agency bunker reads Veritas Vincit](/images/bh/other_agency_bunker_note.jpg) 
+![Note in Agency bunker reads Veritas Vincit](/images/bh/other_agency_bunker_note.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -52,7 +52,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 1. Upon getting the Red Book, head to the Motel Room and go near the picture when you first walk in and pull out your Binoculars.
 
-![Message on Picture frame in Motel Room. Says this room is from the future.](/images/bh/other_future_hotel_picture_frame_note.jpg) 
+![Message on Picture frame in Motel Room. Says this room is from the future.](/images/bh/other_future_hotel_picture_frame_note.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -68,7 +68,7 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 2. Go to the church and then ring the bell. 
 3. Then go back upstairs in the bakery and go near the mirror and jump up. The note will be on the table. 
 
-![Note in Bakery Attic. The sound stretches across the town.](/images/bh/other_bakery_note.jpg) 
+![Note in Bakery Attic. The sound stretches across the town.](/images/bh/other_bakery_note.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -82,12 +82,12 @@ description: "Brookhaven RP Notes found as part of Secrets and Mysteries. These 
 
 1. Go to the Secret Room hidden behind the Xray Room in the Hospital, look at the note on the table
 
-![Note in Secret XRAY Room reads Operation REDRIVER Terminated](/images/bh/operation_red_river_note.jpg) 
+![Note in Secret XRAY Room reads Operation REDRIVER Terminated](/images/bh/operation_red_river_note.webp) 
 
 {{% notice style="tip" %}}
 Is it pronounced `red river` or `re driver`?
 [Officially](https://discord.com/channels/482308357248647177/870010373976236052/1105193056317218856) it is pronounced Red River
-![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.jpg)
+![Wolf pack confirms it's pronounced Red River](/images/bh/wolf_confirmed_red_river.webp)
 {{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>

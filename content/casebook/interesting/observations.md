@@ -38,7 +38,7 @@ Electricity Building and Water Pipes in Town Hall, and Camera at Madison Lake ar
 This is the house you need to spawn. 
 Upstairs is an attic you can get to, this is where you'll find the crystal needed to attempt syncing your laptop.
 
-![h04 house, grey 3 roofs](/images/bh/h04-house.jpg)
+![h04 house, grey 3 roofs](/images/bh/h04-house.webp)
 {{% /tab %}}
 {{< /tabs >}}
 
@@ -60,7 +60,7 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 1. Go to the Church and ring the bell
     1. Go back to the Bakery and go to the second floor and at the top jump on the picture frame and get into the attic and there should be a glowing Energy Ring.
 
-![Energy Ring in Bakery Attic](/images/bh/bakery_energy_ring.jpg)
+![Energy Ring in Bakery Attic](/images/bh/bakery_energy_ring.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -75,6 +75,6 @@ Upstairs is an attic you can get to, this is where you'll find the crystal neede
 1. After completing requirements.
     1. Look under the desk in the Agency Bunker once you use the Green Keycard. No one knows how to activate it at this time.
 
-![Orange Button under table in Agency Bunker](/images/bh/agency_orange_button.jpg)
+![Orange Button under table in Agency Bunker](/images/bh/agency_orange_button.webp)
 
 <hr style="background-color: #28b44c" size=8>

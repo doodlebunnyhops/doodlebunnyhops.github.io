@@ -6,9 +6,9 @@ date: 2024-01-02
 description: "Brookhaven Hidden Valley location view and related secrets"
 
 images:
-- images/maps/hidden_valley_1.jpg
-- images/maps/hidden_valley_2.jpg
-- images/maps/hidden_valley_cave.jpg
+- images/maps/hidden_valley_1.webp
+- images/maps/hidden_valley_2.webp
+- images/maps/hidden_valley_cave.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Hidden Valley"]
 draft: false
@@ -17,9 +17,9 @@ draft: false
 It's a quaint little nook, perfect for a quiet home. But something is hiding inside the mountain just behind this lovely property. Will you dare to explore the hidden cave?
 
 {{< column "grid-2" >}}
-![view of Hidden Valley](/images/maps/hidden_valley_1.jpg)
-![view of Hidden Valley](/images/maps/hidden_valley_2.jpg)
-![view of Hidden Valley](/images/maps/hidden_valley_cave.jpg)
+![view of Hidden Valley](/images/maps/hidden_valley_1.webp)
+![view of Hidden Valley](/images/maps/hidden_valley_2.webp)
+![view of Hidden Valley](/images/maps/hidden_valley_cave.webp)
 {{< /column >}}
 
 

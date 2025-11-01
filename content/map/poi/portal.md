@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Portal location view and related secrets"
 
 images:
-- images/maps/portal_1.jpg
+- images/maps/portal_1.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Portal"]
 draft: false
@@ -17,9 +17,9 @@ The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookh
 
 
 {{< column "grid-2" >}}
-![View of Entrance to Portal under Eagle View estate](/images/maps/portal_1.jpg)
+![View of Entrance to Portal under Eagle View estate](/images/maps/portal_1.webp)
 
-![view of built Portal](/images/maps/portal-built.jpg)
+![view of built Portal](/images/maps/portal-built.webp)
 
 {{< /column >}}
 

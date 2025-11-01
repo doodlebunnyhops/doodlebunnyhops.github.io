@@ -7,7 +7,7 @@ description: "Сообщения на ноутбуке от Агентства."
 #Tags: ["Сообщения на компьютере", "Сообщения от Агентства", "Агентство"]
 images: 
 - images/bh/follow_the_book_comp_message.webp
-- images/bh/useful_soldier_comp_message.jpg
+- images/bh/useful_soldier_comp_message.webp
 
 ---
 
@@ -53,7 +53,7 @@ images:
 
 1. После завершения квеста “Разрушение углеродных блоков” откройте ноутбук, и должно появиться это сообщение.
 
-![DESC](/images/bh/useful_soldier_comp_message.jpg) 
+![DESC](/images/bh/useful_soldier_comp_message.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -69,7 +69,7 @@ images:
 
 ==Мы должны окружить внешний периметр, чтобы точно определить местоположение энергетических Арок. Не подходите слишком близко, вы можете нарушить сигнал. (Агентство)==
 
-![DESC](/images/bh/circle_monotliths_comp_message.jpg) 
+![DESC](/images/bh/circle_monotliths_comp_message.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -84,7 +84,7 @@ images:
 1. После активации TS LVL1 отправляйтесь в секретное рентгеновское убежище в больнице.
 2. Затем зайдите за шкаф и нажмите на предмет, похожий на нож – появится сообщение.
 
-![DESC](/images/bh/agency_no_experimenting_comp_message.jpg) 
+![DESC](/images/bh/agency_no_experimenting_comp_message.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -101,7 +101,7 @@ images:
 3. Сядьте в кресло справа, под табличкой «Experimental», и вас зальёт слизью!
 4. Затем отправляйтесь в торговый центр и включите левый переключатель в телестудии (за стеной, используйте спальный мешок).
 
-![DESC](/images/bh/agency_knows_whats_best_comp_message.jpg) 
+![DESC](/images/bh/agency_knows_whats_best_comp_message.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -120,6 +120,6 @@ images:
    *Мы всё ещё уточняем, нужно ли садиться во все кресла или достаточно одного.*
 
 
-![Сообщение Агентства на компьютере, деньги – это всё](/images/bh/agency_greed_comp_message.jpg)
+![Сообщение Агентства на компьютере, деньги – это всё](/images/bh/agency_greed_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>

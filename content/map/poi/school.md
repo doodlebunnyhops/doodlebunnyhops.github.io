@@ -7,7 +7,7 @@ description: "Brookhaven School location view and related secrets"
 
 images:
 - images/maps/school_remodeled_2024.webp
-- images/maps/school.jpg
+- images/maps/school.webp
 #Categories: ["point of interest","map"]
 #Tags: ["School"]
 draft: false
@@ -56,4 +56,4 @@ I wish the teachers here would tell me what the glowing orb is above the theater
 
 In Novemeber of 2024 the school was remodeld adding more rooms upstairs and giving the school a fresh look.
 
-![Brookhaven's previous look for the School. Bright red exterior and an open upstairs layout.](/images/maps/school.jpg)
+![Brookhaven's previous look for the School. Bright red exterior and an open upstairs layout.](/images/maps/school.webp)

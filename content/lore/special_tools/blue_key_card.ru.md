@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 description: "Как получить синюю ключ-карту для доступа в Brookhaven Electric."
 images:
-- images/maps/brookhaven_electric.jpg
+- images/maps/brookhaven_electric.webp
 #Tags: ["Синяя ключ-карта","Brookhaven Electric"]
 ---
 
@@ -33,7 +33,7 @@ images:
 {{% tab title="Местоположение вентиляции" %}}
 Запрыгните в вентиляцию внутри камеры.
 
-![Полицейская камера, где можно запрыгнуть в вентиляцию](/images/bh/blue-key-card-cell.jpg)
+![Полицейская камера, где можно запрыгнуть в вентиляцию](/images/bh/blue-key-card-cell.webp)
 {{% /tab %}}
 
 {{% tab title="Скрытая стена" %}}
@@ -41,13 +41,13 @@ images:
 
 Обратите внимание, что аватар наполовину проходит через стену — это вход в скрытую комнату.
 
-![Скрытый чердак через вентиляцию в полицейской камере](/images/bh/blue-key-card-wall.jpg)
+![Скрытый чердак через вентиляцию в полицейской камере](/images/bh/blue-key-card-wall.webp)
 {{% /tab %}}
 
 {{% tab title="Синяя ключ-карта" %}}
 Синяя ключ-карта спрятана за шкафом.
 
-![Синяя ключ-карта спрятана за офисным шкафом](/images/bh/blue-key-card-cabinet.jpg)
+![Синяя ключ-карта спрятана за офисным шкафом](/images/bh/blue-key-card-cabinet.webp)
 
 {{% /tab %}}
 

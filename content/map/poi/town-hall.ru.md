@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение Ратуши Brookhaven и связанные секреты"
 
 images: 
-- images/maps/town_hall.jpg
+- images/maps/town_hall.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Ратуша"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 Расположенная напротив больницы, недалеко от полицейского участка, Ратуша Brookhaven отвечает за все ваши городские нужды. Не забудьте оплатить налоги, сообщить о паранормальной активности или распечатать себе немного бесплатных денег в Ратуше Brookhaven. И не трогайте водяные клапаны в отделе City Water & Power!
 
-![Вид на Ратушу](/images/maps/town_hall.jpg)
+![Вид на Ратушу](/images/maps/town_hall.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

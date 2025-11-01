@@ -5,7 +5,7 @@ weight: 1
 draft: false
 description: "Все записки, подписанные Агентством, и способы их нахождения."
 images: 
-- images/bh/agency_greed_comp_message.jpg
+- images/bh/agency_greed_comp_message.webp
 - images/bh/follow_the_book_comp_message.webp
 ---
 
@@ -84,7 +84,7 @@ images:
    - Загляните **под стол** и нажмите **синюю кнопку**, чтобы попасть в **Квантовую комнату**.  
 2. **Нырните под воду** – записку можно увидеть **на одном из табуретов**.  
 
-![Записка Агентства: "Спать и извлечь 7 строительных блоков жизни. Кристалл требует последовательности."](/images/bh/carbon-block-note.jpg)  
+![Записка Агентства: "Спать и извлечь 7 строительных блоков жизни. Кристалл требует последовательности."](/images/bh/carbon-block-note.webp)  
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -103,6 +103,6 @@ images:
    - Сядьте в кресло справа **под табличкой "Experimental"**, вас **зальёт слизью**.  
 3. Посмотрите **за одним из кресел** в Экспериментальной базе Агентства.  
 
-![Записка Агентства: "Только мы знаем лучше."](/images/bh/get-slimed-note.jpg)  
+![Записка Агентства: "Только мы знаем лучше."](/images/bh/get-slimed-note.webp)  
 
 <hr style="background-color: #28b44c" size=8>

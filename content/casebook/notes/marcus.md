@@ -24,8 +24,8 @@ Part of [Criminal Lair](/lore/quests/agency_greed/#criminal-lair)
 1. Load the Shipping RP
 2. Go inside the shipment receiving area of the building. On the back corner there will be some boxes on a pallet. Look behind to find this note:
 
-![Note from Marcus Agency likes money](/images/bh/marucs_note_shipment_location.jpg) 
+![Note from Marcus Agency likes money](/images/bh/marucs_note_shipment_location.webp) 
 
-![Note from Marcus Agency likes money](/images/bh/marcus_note_shipment.jpg) 
+![Note from Marcus Agency likes money](/images/bh/marcus_note_shipment.webp) 
 
 <hr style="background-color: #28b44c" size=8>

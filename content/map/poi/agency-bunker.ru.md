@@ -7,8 +7,8 @@ date: 2024-01-02
 description: "Исследуйте секретный Бункер Агентства за Rotten Robie’s Food Mart. Узнайте о его связи с Агентством и скрытыми экспериментами."
 
 images:
-- images/maps/agency_bunker_inside.jpg
-- images/maps/agency_bunker.jpg
+- images/maps/agency_bunker_inside.webp
+- images/maps/agency_bunker.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Бункер Агентства"]
 draft: false
@@ -18,11 +18,11 @@ draft: false
 
 {{< column "grid-2" >}}
 
-![Вход в Бункер Агентства](/images/maps/agency_bunker.jpg)
+![Вход в Бункер Агентства](/images/maps/agency_bunker.webp)
 
-![Внутри Бункера Агентства](/images/maps/agency_bunker_inside.jpg)
+![Внутри Бункера Агентства](/images/maps/agency_bunker_inside.webp)
 
-![Логотип Агентства в Бункере](/images/maps/agency_logo.jpg)
+![Логотип Агентства в Бункере](/images/maps/agency_logo.webp)
 
 {{< /column >}}
 

@@ -5,7 +5,7 @@ weight: 40
 date: 2023-05-31
 description: "Монолиты появляются по всему Brookhaven."
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 
 #Tags: ["Детали о Монолитах"]
 ---
@@ -17,4 +17,4 @@ images:
 Они, похоже, созданы **Агентством**, так как **на всех из них есть логотип Агентства**.  
 Но что именно они ищут и **зачем**?
 
-![Монолит возле амбара](/images/bh/monolith_main.jpg)
+![Монолит возле амбара](/images/bh/monolith_main.webp)

@@ -7,7 +7,7 @@ description: "Местоположение полицейского участк
 
 images:
 - images/maps/police_station_remodeled_2024.webp
-- images/maps/police.jpg
+- images/maps/police.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Полицейский участок"]
 draft: false
@@ -51,4 +51,4 @@ draft: false
 
 В ноябре 2024 года полицейский участок был обновлён: добавлен второй этаж и обновлённый внешний вид.
 
-![Предыдущий облик полицейского участка Brookhaven — одноэтажное здание.](/images/maps/police.jpg)
+![Предыдущий облик полицейского участка Brookhaven — одноэтажное здание.](/images/maps/police.webp)

@@ -7,7 +7,7 @@ description: "Explore an interactive map of Brookhaven's key locations. Find que
 #Categories: ["point of interest","map"]
 
 images: 
-- images/maps/top_full_cropped.jpg
+- images/maps/top_full_cropped.webp
 date: 2024-01-01
 toc: false
 # draft: false

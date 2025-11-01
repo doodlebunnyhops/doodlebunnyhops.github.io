@@ -72,7 +72,7 @@ The motel’s exterior has undergone a stunning transformation, modernizing its 
 
 | **Old Motel**                        | **New Motel**                         |
 |--------------------------------------|---------------------------------------|
-| ![Old Motel](/images/maps/motel.jpg) | ![New Motel](/images/blog/motel_update_outside_view.webp) |
+| ![Old Motel](/images/maps/motel.webp) | ![New Motel](/images/blog/motel_update_outside_view.webp) |
 
 The new design adds a polished, contemporary feel, complete with larger rooms, updated signage, and improved amenities.
 

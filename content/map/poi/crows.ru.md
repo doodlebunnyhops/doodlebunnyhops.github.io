@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение ворон в Brookhaven и связанные секреты"
 
 images:
-- images/maps/crows.jpg
+- images/maps/crows.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Вороны"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 За амбаром, возле забора, рано утром появляются и исчезают несколько ворон. Они ведут вас к чему-то, что скрыто под землёй!
 
-![Вид на ворон](/images/maps/crows.jpg)
+![Вид на ворон](/images/maps/crows.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

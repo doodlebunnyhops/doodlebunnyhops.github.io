@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Explore Brookhaven Barn to uncover the final 7th crystal. Look behind the hay by the ladder to complete your Crystal Quest adventure!"
 weight: 7
 images:
-- images/maps/barn.jpg
+- images/maps/barn.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Barn", "Crystal Location"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 We end our crystal adventure where we nearly began. Remember when we started with obtaining TSLVL1? We went to the hospital to click on the stack of papers then went to the barn to click on a [mysterious button](casebook/interesting/hidden_valley_cave/#strange-button), only then could we click the button in the Abandoned House to start the quest.
 
-![Front view of Barn at Brookhaven](/images/maps/barn.jpg?width=400px)
+![Front view of Barn at Brookhaven](/images/maps/barn.webp?width=400px)
 
 ## Location of Crystal
 

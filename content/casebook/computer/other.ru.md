@@ -21,7 +21,7 @@ description: "Сообщения на ноутбуке, которые не по
    2. Или, если кристалл есть в **Paradise Falls**.  
       - *Обратите внимание, что кристалл в **синем пентхаусе (игровой пропуск)** не завершает квест «Подключение ноутбука».*  
 
-![DESC](/images/bh/sync_failed_comp_message.jpg)
+![DESC](/images/bh/sync_failed_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

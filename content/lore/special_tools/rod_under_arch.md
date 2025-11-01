@@ -4,7 +4,7 @@ noindex: false
 weight: 5
 description: "How to get the hidden rod."
 images:
-- images/maps/arches.jpg
+- images/maps/arches.webp
 #Tags: ["Bakery RP House", "Rod under Arch"]
 ---
 

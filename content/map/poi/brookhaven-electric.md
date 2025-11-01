@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Electric location view and related secrets"
 
 images:
-- images/maps/brookhaven_electric.jpg
+- images/maps/brookhaven_electric.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Brookhaven Electric"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Brookhaven Electric, the town's power source, is locked. To gain entrance, you need a special access key card, but why? What else could the facility be powering?
 
-![view of Brookhaven Electric](/images/maps/brookhaven_electric.jpg)
+![view of Brookhaven Electric](/images/maps/brookhaven_electric.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
