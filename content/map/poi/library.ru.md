@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение библиотеки Brookhaven и связанные секреты"
 
 images:
-- images/maps/library.jpg
+- images/maps/library.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Библиотека"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Ваша местная библиотека в Brookhaven хранит книги на все случаи жизни! Загляните, чтобы найти свою следующую книгу, от которой невозможно оторваться... или, возможно, зловещую красную книгу, которая приведёт вас туда, куда мы и сами не знаем.
 
-![Вид на библиотеку](/images/maps/library.jpg)
+![Вид на библиотеку](/images/maps/library.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

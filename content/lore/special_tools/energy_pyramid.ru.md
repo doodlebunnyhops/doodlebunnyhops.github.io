@@ -4,7 +4,7 @@ noindex: false
 weight: 6
 description: "Получите Энергетическую пирамиду от голубей."
 images:
-- images/maps/town_hall.jpg
+- images/maps/town_hall.webp
 #Tags: ["Найти Энергетическую пирамиду", "Голуби", "Церковь"]
 ---
 

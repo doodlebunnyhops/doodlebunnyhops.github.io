@@ -36,7 +36,7 @@ description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."
 1. After you start the quest, open up your computer and you should see this message.
 
 
-![DESC](/images/bh/7_crystals_comp_message.jpg) 
+![DESC](/images/bh/7_crystals_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -52,7 +52,7 @@ description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."
 1. After obtaining the Energy Pyramid, open up your computer and you should see this message.
 
 
-![DESC](/images/bh/crystal_guidance_comp_message.jpg) 
+![DESC](/images/bh/crystal_guidance_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -68,7 +68,7 @@ description: "Messages on the laptop from Mr. B aka Mr. Brookhaven."
 1. After you enter the passcode into the keypad, check your computer and this message should appear.
 
 
-![DESC](/images/bh/future_double_agent_comp_message.jpg) 
+![DESC](/images/bh/future_double_agent_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>

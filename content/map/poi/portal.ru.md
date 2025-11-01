@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение портала Brookhaven и связанные секреты"
 
 images:
-- images/maps/portal_1.jpg
+- images/maps/portal_1.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Портал"]
 draft: false
@@ -17,9 +17,9 @@ draft: false
 
 
 {{< column "grid-2" >}}
-![Вид на вход в портал под районом Eagle View](/images/maps/portal_1.jpg)
+![Вид на вход в портал под районом Eagle View](/images/maps/portal_1.webp)
 
-![Вид на построенный портал](/images/maps/portal-built.jpg)
+![Вид на построенный портал](/images/maps/portal-built.webp)
 
 {{< /column >}}
 

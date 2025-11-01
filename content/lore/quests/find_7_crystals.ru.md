@@ -6,7 +6,7 @@ weight: 1
 description: "Найдите 7 скрытых кристаллов в Brookhaven, чтобы разблокировать мощную энергию и секреты. Следуйте этому подробному руководству с шагами и изображениями."
 images: 
 - images/maps/crystals/daisy_holding_a_crystal_in_abandoned_house.webp
-- images/bh/7_crystals_comp_message.jpg
+- images/bh/7_crystals_comp_message.webp
 #Tags: ["Заброшенный дом","Найти 7 кристаллов"]
 ---
 

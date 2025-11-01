@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Horse Stable location view and related secrets"
 
 images:
-- images/maps/horse_stables.jpg
+- images/maps/horse_stables.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Horse Stable"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 The Brookhaven Stables is possibly the first site Mr. Brookhaven built years ago. You can practice running and jumping with your horse nearby. But be careful not to feed your horse a crystal accidentally! There's one lurking in the hay.
 
-![view of Horse Stables](/images/maps/horse_stables.jpg)
+![view of Horse Stables](/images/maps/horse_stables.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

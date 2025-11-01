@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Раскройте секреты Заброшенного дома в Brookhaven – ключевой точки квеста на Кристаллы. Найдите скрытый кристалл между шкафом и стеной!"
 weight: 3
 images:
-- images/maps/abandoned_house.jpg
+- images/maps/abandoned_house.webp
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["заброшенный дом", "Местоположение кристалла"]
 draft: false
@@ -17,7 +17,7 @@ draft: false
 
 Ах да, именно здесь начался Квест на Кристаллы... но мы ещё не закончили! Нам предстоит собрать ещё 4!
 
-![Фасад Заброшенного дома в Brookhaven](/images/maps/abandoned_house.jpg?width=400px)
+![Фасад Заброшенного дома в Brookhaven](/images/maps/abandoned_house.webp?width=400px)
 
 ## Местоположение кристалла
 

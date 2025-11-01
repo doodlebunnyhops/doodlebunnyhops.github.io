@@ -4,9 +4,9 @@ noindex: false
 date: 2024-08-18
 description: "Местоположение монолита в особых местах Brookhaven"
 images:
-- images/bh/monolith_main.jpg
-- images/maps/motel.jpg
-- images/maps/agency_bunker.jpg
+- images/bh/monolith_main.webp
+- images/maps/motel.webp
+- images/maps/agency_bunker.webp
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Особые местоположения", "Местоположение монолита"]
 draft: false

@@ -32,7 +32,7 @@ description: "Сообщения на ноутбуке от мистера B, т
 
 1. После **начала квеста**, откройте **свой ноутбук**, и это сообщение должно появиться.  
 
-![DESC](/images/bh/7_crystals_comp_message.jpg)
+![DESC](/images/bh/7_crystals_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -46,7 +46,7 @@ description: "Сообщения на ноутбуке от мистера B, т
 
 1. После получения **Энергетической пирамиды** откройте **свой ноутбук**, и появится это сообщение.  
 
-![DESC](/images/bh/crystal_guidance_comp_message.jpg)
+![DESC](/images/bh/crystal_guidance_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -60,6 +60,6 @@ description: "Сообщения на ноутбуке от мистера B, т
 
 1. После ввода **пароля в кодовую панель** проверьте **свой ноутбук** – появится это сообщение.  
 
-![DESC](/images/bh/future_double_agent_comp_message.jpg)
+![DESC](/images/bh/future_double_agent_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>

@@ -65,19 +65,19 @@ Steps:
 Criminal Hideout behind Starbrooks. This is entered by clicking on the light to reveal a trap door.
 Use a sleeping bag to look past the back wall.
 
-![Carbon Block hidden behind a wall in the Criminal Hideout](/images/bh/carbon_block_criminal_base.jpg)
+![Carbon Block hidden behind a wall in the Criminal Hideout](/images/bh/carbon_block_criminal_base.webp)
 {{% /tab %}}
 
 {{% tab title="Location #4" %}}
 Inside of the roof at the church. Go on top of the Church and place down a Sleeping Bag, or go inside and place the sleeping bag on the ceiling.
  
-![Crystal at black](/images/bh/carbon_block_church_roof.jpg)
+![Crystal at black](/images/bh/carbon_block_church_roof.webp)
 {{% /tab %}}
 
 {{% tab title="Location #5" %}}
 Near the Grocery Store, place a sleeping bag near the grass wall
  
-![Crystal at black](/images/bh/carbon_block_green_wall.jpg)
+![Crystal at black](/images/bh/carbon_block_green_wall.webp)
 {{% /tab %}}
 
 {{< /tabs >}}
@@ -92,7 +92,7 @@ If you get this Error Message when trying to summon the Carbon Block in the Quan
 - High Voltage is **off**
 - Danger is **on**
 
-![Low Voltage Error Msssage](/images/bh/carbon_block_low_voltage.jpg)
+![Low Voltage Error Msssage](/images/bh/carbon_block_low_voltage.webp)
 {{% /notice %}}	
 
 <hr style="background-color: #28b44c" size=8>

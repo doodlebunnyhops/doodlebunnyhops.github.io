@@ -7,7 +7,7 @@ description: "Исследуйте интерактивную карту клю�
 #Categories: ["точка интереса","карта"]
 
 images: 
-- images/maps/top_full_cropped.jpg
+- images/maps/top_full_cropped.webp
 date: 2024-01-01
 toc: false
 # draft: false

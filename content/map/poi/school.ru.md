@@ -7,7 +7,7 @@ description: "Местоположение школы Brookhaven и связан
 
 images:
 - images/maps/school_remodeled_2024.webp
-- images/maps/school.jpg
+- images/maps/school.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Школа"]
 draft: false
@@ -56,4 +56,4 @@ draft: false
 
 В ноябре 2024 года школа была обновлена: добавлено больше помещений на втором этаже, а также школа получила новый современный облик.
 
-![Предыдущий внешний вид школы Brookhaven. Ярко-красный фасад и открытая планировка второго этажа.](/images/maps/school.jpg)
+![Предыдущий внешний вид школы Brookhaven. Ярко-красный фасад и открытая планировка второго этажа.](/images/maps/school.webp)

@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Найдите шестой кристалл в Северном поместье Brookhaven. Он расположен на земляном холме за границей поместья. Продолжайте своё путешествие в квесте на кристаллы!"
 weight: 6
 images:
-- images/maps/north_estate.jpg
+- images/maps/north_estate.webp
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["Северное поместье", "Местоположение кристалла"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Северное поместье расположено в районе Crown Pointe.
 
-![Фронтальный вид участка Северного поместья в Brookhaven](/images/maps/north_estate.jpg?width=400px)
+![Фронтальный вид участка Северного поместья в Brookhaven](/images/maps/north_estate.webp?width=400px)
 
 ## Местоположение кристалла
 

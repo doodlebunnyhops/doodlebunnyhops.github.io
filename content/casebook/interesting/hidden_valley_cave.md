@@ -5,10 +5,10 @@ weight: 5
 draft: false
 description: "More Secrets confirmed coming to the Hidden Valley Cave in Brookhaven RP and video timelapse of interesting light."
 images: 
-- images/bh/no_light_source.jpg
+- images/bh/no_light_source.webp
 ---
 
-![Bloomindaisy standing in a cave with a mysterious light shaped as a triangle.](/images/bh/no_light_source.jpg)
+![Bloomindaisy standing in a cave with a mysterious light shaped as a triangle.](/images/bh/no_light_source.webp)
 
 
 In the Aug 25 2023 [Construction update](blog/archive/2023/august/construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!
@@ -25,9 +25,9 @@ Someone had asked in [Wolfpaq's Discord](https://discord.com/channels/4823083572
 {{< block "post-block-dot" >}}
 {{< column "grid-2" >}}
 
-![hmm](/images/bh/flag.jpg)
+![hmm](/images/bh/flag.webp)
 
-![Wolfpaq confirms odd lighting in cave will be in a future secret update.](/images/bh/wolf.jpg)
+![Wolfpaq confirms odd lighting in cave will be in a future secret update.](/images/bh/wolf.webp)
 {{< /column >}}
 {{< /block >}}
 
@@ -104,23 +104,23 @@ Triangle: 2am - 2:55am
 {{< tabs title="Click Tab ->" >}}
 
 {{% tab title="Flag 11:55" %}}
-![View of Cave Light at 11:55 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-11_55.jpg)
+![View of Cave Light at 11:55 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-11_55.webp)
 {{% /tab %}}
 
 {{% tab title="Flag 12:16" %}}
-![View of Cave Light at 12:16 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-12_16.jpg)
+![View of Cave Light at 12:16 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-12_16.webp)
 {{% /tab %}}
 
 {{% tab title="Triangle 1:10" %}}
-![View of Cave Light at 1:10 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-1_10.jpg)
+![View of Cave Light at 1:10 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-1_10.webp)
 {{% /tab %}}
 
 {{% tab title="Flag 1:40" %}}
-![View of Cave Light at 1:40 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-1_40.jpg)
+![View of Cave Light at 1:40 that resembles the shape of a 1 or flag.](/images/bh/cave-light-flag-shape-1_40.webp)
 {{% /tab %}}
 
 {{% tab title="Triangle 2:32" %}}
-![View of Cave Light at 2:32 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-2_30.jpg)
+![View of Cave Light at 2:32 that resembles the shape of a triangle.](/images/bh/cave-light-triangle-shape-2_30.webp)
 {{% /tab %}}
 
 {{< /tabs >}}
@@ -149,15 +149,15 @@ You can click on an image to enlarge it.
 
 
 
-![Secret button under a table in a room behind xray.](/images/bh/secrets-button-hidden-room-xray.jpg)
+![Secret button under a table in a room behind xray.](/images/bh/secrets-button-hidden-room-xray.webp)
 
-![Secret button under a stool in the Quantum Room](/images/bh/secrets-button-quantum-room-stool.jpg)
+![Secret button under a stool in the Quantum Room](/images/bh/secrets-button-quantum-room-stool.webp)
 
-![Island at Madison Lake resembles Secret Button Shape.](/images/bh/secrets-button-madison-lake.jpg)
+![Island at Madison Lake resembles Secret Button Shape.](/images/bh/secrets-button-madison-lake.webp)
 
-![Secret button under table in Agency Bunker](/images/bh/secrets-button-agency-bunker.jpg)
+![Secret button under table in Agency Bunker](/images/bh/secrets-button-agency-bunker.webp)
 
-![Secret button on Post found at the Barn.](/images/bh/secrets-button-farm.jpg)
+![Secret button on Post found at the Barn.](/images/bh/secrets-button-farm.webp)
 
 {{< /column >}}
 {{< /block >}}

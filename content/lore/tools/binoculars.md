@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 description: "A special set of Binoculars found in the Military RP House will help you see things clearly."
 images:
-- images/bh/military_base.jpg
+- images/bh/military_base.webp
 collapsibleMenu: true
 ---
 

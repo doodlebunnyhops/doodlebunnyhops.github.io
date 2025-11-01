@@ -35,7 +35,7 @@ _Автор изображения: BatYE_
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Новая цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youre_off_to_great_places_english_class_quote.jpg)  
+![Новая цитата доктора Сьюза в классе английского Brookhaven](/images/bh/youre_off_to_great_places_english_class_quote.webp)  
 > **«Ты отправляешься в великие места! Сегодня твой день! Твоя гора ждёт, так что вперёд!»**  
 {{< /column>}}
 {{< /column>}}

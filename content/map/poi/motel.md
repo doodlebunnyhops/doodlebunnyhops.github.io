@@ -7,7 +7,7 @@ description: "Brookhaven Motel or Hotel location view and related secrets"
 
 images:
 - images/blog/motel_update_outside_view.webp
-- images/maps/motel.jpg
+- images/maps/motel.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Hotel", "Motel"]
 draft: false
@@ -53,4 +53,4 @@ If you visit Brookhaven, there's a great Motel next to the airport and a restaur
 
 On December 20th 2024, the motel recieved a remodel adding a pool, 6 room themes, and a refreshing new look.
 
-![Brookhaven's previous look of the Motel before the remodel.](/images/maps/motel.jpg)
+![Brookhaven's previous look of the Motel before the remodel.](/images/maps/motel.webp)

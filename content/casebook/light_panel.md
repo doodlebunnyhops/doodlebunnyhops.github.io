@@ -5,8 +5,8 @@ weight: 1
 description: "Brookhaven Agency Light Panel showing how to turn on lights in the bunker. Part of secrets and mysteries"
 
 images: 
-- images/bh/panel.jpg
-- images/bh/agency_panel_bloomin.jpg
+- images/bh/panel.webp
+- images/bh/agency_panel_bloomin.webp
 aliases:
 - /light_panel
 - /light_panel/a01
@@ -91,7 +91,7 @@ It's located inside the Agency Bunker. [See the map here](/map/poi/agency-bunker
 
 Here is an image of the panel with no lights activated.
 
-![Agency Light Panel Image](/images/bh/panel.jpg)
+![Agency Light Panel Image](/images/bh/panel.webp)
 
 ---
 ### Interactive Lights Table
@@ -133,7 +133,7 @@ Turning the High Voltage lever on in Town Hall will activate this light.
 1. Go to the Town Hall - inside City Water & Power
 2. Danger lever Green, High Voltage lever Red = Activates A01
 
- ![High Voltage Switch On](/images/bh/a01.jpg)
+ ![High Voltage Switch On](/images/bh/a01.webp)
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -636,7 +636,7 @@ Unlocks ability to Electrocute the Alien
 	
 		==See-through / (Crystal) :A27==
 		
-		![See-Through Crystal A27 deactivated](/images/bh/a27_deactivated.jpg)
+		![See-Through Crystal A27 deactivated](/images/bh/a27_deactivated.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -698,7 +698,7 @@ Unlocks Blue Keypad in the Agency Bunker
 	1. Should get a attempting to sync message if you haven't connected your Laptop yet
 	2. Activates H04
 
-![Image of house needed](/images/bh/h04-house.jpg)
+![Image of house needed](/images/bh/h04-house.webp)
 
 
 
@@ -879,4 +879,4 @@ We still don’t know how to activate light X22 but we do see it mentioned on th
 
 To view this select the Bank Armored Truck and on the side click the hand to change the theme to “Agency”. 
 
-![Agency Armored Vehicle](/images/bh/robbery-update2.jpg)
+![Agency Armored Vehicle](/images/bh/robbery-update2.webp)

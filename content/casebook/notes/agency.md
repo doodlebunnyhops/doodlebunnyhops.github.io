@@ -5,7 +5,7 @@ weight: 1
 draft: false
 description: "All Notes and how to find them that are signed by the Agency."
 images: 
-- images/bh/agency_greed_comp_message.jpg
+- images/bh/agency_greed_comp_message.webp
 - images/bh/follow_the_book_comp_message.webp
 
 ---
@@ -82,7 +82,7 @@ The Book will tell you what to do next, follow its lead and do not think for you
 1. After spawning the 7 carbon blocks, head to the secret X-Ray Room in the Hospital. Look Underneath the Table and Click the blue Button to get inside the Quantum room. 
 2. Dive underneath the Water and see this note on one of the stools.
 
-![Agency note that says sleep and extract 7 building blocks of life. Crystal requires sequencing](/images/bh/carbon-block-note.jpg) 
+![Agency note that says sleep and extract 7 building blocks of life. Crystal requires sequencing](/images/bh/carbon-block-note.webp) 
 
 <hr style="background-color: #28b44c" size=8>
 
@@ -101,6 +101,6 @@ The Book will tell you what to do next, follow its lead and do not think for you
 	2. Sit in the chair on the right under “Experimental” and get slimed!
 1. Look behind one of the chairs in the Agency Experimentation Site
 
-![Agency Note that reads, only we know best.](/images/bh/get-slimed-note.jpg) 
+![Agency Note that reads, only we know best.](/images/bh/get-slimed-note.webp) 
 
 <hr style="background-color: #28b44c" size=8>

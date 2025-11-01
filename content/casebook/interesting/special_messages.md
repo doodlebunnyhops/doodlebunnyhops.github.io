@@ -65,7 +65,7 @@ What a special way to give your condolences Wolfpaq :heart: Our thoughts are wit
 1. Turn off the light on the second floor
 1. Go into Mayor's Office to see `Special Thanks` from Wolfpaq.
 
-![Hidden thank you message from Wolfpaq in Mayors office at Town Hall.](/images/bh/special_thanks.jpg)
+![Hidden thank you message from Wolfpaq in Mayors office at Town Hall.](/images/bh/special_thanks.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

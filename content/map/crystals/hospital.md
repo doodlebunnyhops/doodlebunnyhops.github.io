@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Start your Crystal Quest at Brookhaven Hospital. Use the ladder to access the roof and discover the first hidden crystal!"
 weight: 1
 images:
-- images/maps/hospital.jpg
+- images/maps/hospital.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Hospital", "Crystal Location"]
 draft: false

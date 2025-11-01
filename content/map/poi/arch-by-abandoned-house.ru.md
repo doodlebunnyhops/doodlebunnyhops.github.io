@@ -7,7 +7,7 @@ date: 2024-01-02
 description: "Раскройте секреты арки возле Заброшенного дома Brookhaven. Под её основанием скрыт код фильма — найдите его!"
 
 images:
-- images/maps/arch1.jpg
+- images/maps/arch1.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Арка", "Катушка фильма"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Арка возле Заброшенного дома скрывает код фильма под одной из своих основ!  
 
-![Вид на арку у Заброшенного дома](/images/maps/arch1.jpg)
+![Вид на арку у Заброшенного дома](/images/maps/arch1.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

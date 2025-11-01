@@ -44,7 +44,7 @@ There are _so many_ X lights that we don't know, I haven't even included them in
 
 Is this a hint we should try to find what activates it?
 
-![Agency Armored Vehicle](/images/bh/robbery-update2.jpg)
+![Agency Armored Vehicle](/images/bh/robbery-update2.webp)
 
 Hope everyone enjoys the new additions as much as I will! Till next time
 

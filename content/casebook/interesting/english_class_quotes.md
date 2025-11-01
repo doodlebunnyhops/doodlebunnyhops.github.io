@@ -37,7 +37,7 @@ This updated quote put the secrets channel into a bit of a frenzy contemplating 
 
 {{< column "grid-1 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Brookhaven's English class room previous Dr. Seuss quote in English Class room.](/images/bh/youre_off_to_great_places_english_class_quote.jpg)
+![Brookhaven's English class room previous Dr. Seuss quote in English Class room.](/images/bh/youre_off_to_great_places_english_class_quote.webp)
 > “You're off to Great Places! Today is your day! Your mountain is waiting, So get on your way!”
 {{< /column>}}
 {{< /column>}}

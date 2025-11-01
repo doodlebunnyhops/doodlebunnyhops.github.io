@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Locate the 6th Crystal behind North Estate in Brookhaven. Found on a dirt mound just behind the estate's border next to the underpass. Continue your Crystal Quest!"
 weight: 6
 images:
-- images/maps/north_estate.jpg
+- images/maps/north_estate.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["North Estate", "Crystal Location"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 North Estate is placed at the Crown Pointe neighborhood. 
 
-![Front view of North Estate Lot in Brookhaven](/images/maps/north_estate.jpg?width=400px)
+![Front view of North Estate Lot in Brookhaven](/images/maps/north_estate.webp?width=400px)
 
 ## Location of Crystal
 

@@ -4,7 +4,7 @@ noindex: false
 weight: 6
 description: "Get the Energy Pyramid from the doves."
 images:
-- images/maps/town_hall.jpg
+- images/maps/town_hall.webp
 #Tags: ["Find the Energy Pyramid", "Doves", "Church"]
 ---
 

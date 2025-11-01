@@ -5,7 +5,7 @@ noindex: false
 weight: 7
 description: "Construct the portal beneath Eagle View in Brookhaven. Use this guide to activate the hidden gateway and uncover its purpose."
 images:
-- images/maps/portal-built.jpg
+- images/maps/portal-built.webp
 #Tags: ["Build the Portal"]
 ---
 
@@ -106,7 +106,7 @@ _What have we built???_
 
 {{% notice style="warning" %}}
 If you click the Bedside Table Button in the Future Room and get an Error Message on the top right of your screen, the Agency Bunker will show this on the board. This means it has already been clicked and the boxes are still behind the Agency Bunker.
-![Agency hydrogen beam construction in progress:[ERROR CANNOT REPEAT]](/images/bh/build_portal_error.jpg)
+![Agency hydrogen beam construction in progress:[ERROR CANNOT REPEAT]](/images/bh/build_portal_error.webp)
 {{% /notice %}}
 
 

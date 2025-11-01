@@ -8,9 +8,9 @@ description: "Join William on his journey to the trial of fears. By Bloomindaisy
 author: "Bloomindaisy"
 date: 2024-11-27
 draft: false
-imagecust: /images/stories/the_fallen_one_cover_art.jpg
+imagecust: /images/stories/the_fallen_one_cover_art.webp
 images:
-- images/stories/the_fallen_one_cover_art.jpg
+- images/stories/the_fallen_one_cover_art.webp
 archetype: "story"
 
 ---

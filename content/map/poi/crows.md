@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Crows location view and related secrets"
 
 images:
-- images/maps/crows.jpg
+- images/maps/crows.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Crows"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Behind the Barn where the fence is, several crows come and go early in the morning. There's something they are leading you to beneath the ground!
 
-![view of Crows](/images/maps/crows.jpg)
+![view of Crows](/images/maps/crows.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

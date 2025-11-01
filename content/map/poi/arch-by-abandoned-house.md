@@ -7,7 +7,7 @@ date: 2024-01-02
 description: "Uncover the secrets of the arch near Brookhaven’s Abandoned House. A hidden movie code lies beneath its base—find it now!"
 
 images:
-- images/maps/arch1.jpg
+- images/maps/arch1.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Arch", "Movie Reel"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 The arch by the abandoned house hides a movie code underneath one of its bases!
 
-![view of Arch by Abandoned House](/images/maps/arch1.jpg)
+![view of Arch by Abandoned House](/images/maps/arch1.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

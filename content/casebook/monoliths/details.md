@@ -4,7 +4,7 @@ noindex: false
 weight: 1
 description: "Notes and observations about Monoliths, black rectangular object with red lettering on the side."
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 ---
 
 ### Agency Bunker Message Board inside

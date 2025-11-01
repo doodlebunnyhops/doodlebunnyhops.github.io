@@ -4,7 +4,7 @@ noindex: false
 weight: 1
 description: "Как получить доступ к TS LVL 1."
 images:
-- images/maps/hospital.jpg
+- images/maps/hospital.webp
 #Tags: ["Больница", "Секрет в амбаре","Уровень Совершенно Секретно 1"]
 ---
 

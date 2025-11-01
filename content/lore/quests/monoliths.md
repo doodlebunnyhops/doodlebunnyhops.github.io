@@ -6,7 +6,7 @@ weight: 8
 description: "Summon monoliths across Brookhaven using this guide. Unlock the secrets of the Haunted House RP and hidden codes."
 #Tags: ["Black Rectangles", "Monoliths", "Haunted House RP"]
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 ---
 
 {{< youtube id=Ez6vK6Ve2Wc?t=150 loading=lazy >}}
@@ -25,7 +25,7 @@ images:
 	- This Activates [A18](/casebook/light_panel#a18)
 	- Notice the interesting script on the Guillotine
 	
-		![monolith scripture or code on side of black rectangular object](/images/bh/monolith_scripture.jpg)
+		![monolith scripture or code on side of black rectangular object](/images/bh/monolith_scripture.webp)
 	- Monoliths will now spawn throughout Brookhaven: [*Refer to map for locations*](/map/monoliths)
 
 

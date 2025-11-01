@@ -4,7 +4,7 @@ noindex: false
 weight: 1
 description: "Заметки и наблюдения о Монолитах — чёрных прямоугольных объектах с красными символами на боковой стороне."
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 ---
 
 ### Панель сообщений в бункере Агентства (внутри)  

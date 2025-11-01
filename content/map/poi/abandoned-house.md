@@ -6,7 +6,7 @@ weight: 1
 date: 2024-01-02
 description: "Discover the Abandoned House on the outskirts of Brookhaven. A key location for Mr. Brookhaven, filled with hidden secrets and clues."
 images:
-- images/maps/abandoned_house.jpg
+- images/maps/abandoned_house.webp
 #Categories: ["point of interest","map"]
 #Tags: ["abandoned house"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Located on the outskirts of Brookhaven, just past the airport, this run-down house has many hidden secrets and is a pivotal place for Mr.Brookhaven.
 
-![Abandoned House](/images/maps/abandoned_house.jpg)
+![Abandoned House](/images/maps/abandoned_house.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

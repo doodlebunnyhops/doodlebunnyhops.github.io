@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение скрытой камеры в Brookhaven и связанные секреты"
 
 images:
-- images/maps/hidden_camera.jpg
+- images/maps/hidden_camera.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Скрытая камера"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Агентство установило скрытую камеру рядом с озером Мэдисон, чтобы следить за мистером Brookhaven и его семьёй. Почему они наблюдают? И почему нам нужно нажать на эту камеру для выполнения квеста "Разрушить углеродные блоки"?
 
-![Вид на скрытую камеру](/images/maps/hidden_camera.jpg)
+![Вид на скрытую камеру](/images/maps/hidden_camera.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -4,9 +4,9 @@ noindex: false
 date: 2024-08-18
 description: "Brookhaven Special Locations Monolith location"
 images:
-- images/bh/monolith_main.jpg
-- images/maps/motel.jpg
-- images/maps/agency_bunker.jpg
+- images/bh/monolith_main.webp
+- images/maps/motel.webp
+- images/maps/agency_bunker.webp
 #Categories: ["Monolith Locations","map"]
 #Tags: ["Special Locations", "Monolith Location"]
 draft: false

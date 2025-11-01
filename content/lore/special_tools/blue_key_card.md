@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 description: "How to get blue key card to get into Brookhaven Electric."
 images:
-- images/maps/brookhaven_electric.jpg
+- images/maps/brookhaven_electric.webp
 #Tags: ["Blue Key Card","Brookhaven Electric"]
 ---
 
@@ -41,7 +41,7 @@ Psst... Did you know the blue key card found in the [Power Plant](lore/quests/me
 {{% tab title="Vent Location" %}}
 Jump inside the police vent
 
-![Police Cell Room to jump into vent](/images/bh/blue-key-card-cell.jpg)
+![Police Cell Room to jump into vent](/images/bh/blue-key-card-cell.webp)
 {{% /tab %}}
 
 {{% tab title="False Wall" %}}
@@ -49,13 +49,13 @@ Hidden wall to find a secret room above police station.
 
 Notice the avatar is halfway through the wall - this is the entrance to the hidden room.
 
-![Hidden attic entrance through vent in police cell](/images/bh/blue-key-card-wall.jpg)
+![Hidden attic entrance through vent in police cell](/images/bh/blue-key-card-wall.webp)
 {{% /tab %}}
 
 {{% tab title="Blue Key Card" %}}
 Blue Key Card is behind the cabinet.
 
-![Blue key card hidden behind office cabinet](/images/bh/blue-key-card-cabinet.jpg)
+![Blue key card hidden behind office cabinet](/images/bh/blue-key-card-cabinet.webp)
 
 {{% /tab %}}
 

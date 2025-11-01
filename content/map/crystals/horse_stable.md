@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Visit Brookhaven Horse Stable and find Crystal 5 behind hay in the middle stable. Another step forward in your quest for crystals!"
 weight: 5
 images:
-- images/maps/horse_stables.jpg
+- images/maps/horse_stables.webp
 #Categories: ["Crystal Locations","map"]
 #Tags: ["Horse Stable", "Crystal Location"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Perhaps horses of brookhaven like to snack on crystals? :sweat: maybe we should grab it before it's eaten!
 
-![Entrance view of Brookhaven Horse Stables](/images/maps/horse_stables.jpg?width=400px)
+![Entrance view of Brookhaven Horse Stables](/images/maps/horse_stables.webp?width=400px)
 
 ## Location of Crystal
 

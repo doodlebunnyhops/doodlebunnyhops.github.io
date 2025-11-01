@@ -7,7 +7,7 @@ cascade:
 description: "Fan made stories based on Brookhaven Lore."
 draft: false
 images:
-- images/stories/the_fallen_one_cover_art.jpg
+- images/stories/the_fallen_one_cover_art.webp
 type: story
 ---
 

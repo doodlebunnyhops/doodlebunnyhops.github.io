@@ -7,13 +7,13 @@ aliases:
 - /movie-codes
 
 images: 
-- images/bh/watching_movie.jpg
+- images/bh/watching_movie.webp
 ---
 
 Movie Codes can be found throughout Brookhaven on a movie reel. Their locations are **locked** until you turn on a switch in the Agency Bunker, though we don't want to rule out there could be other ways to unlock hidden movie codes.
 
 
-![Bloomindaisy watching the movie First Contact](/images/bh/watching_movie.jpg)
+![Bloomindaisy watching the movie First Contact](/images/bh/watching_movie.webp)
 
 {{% notice style="note" %}}
 Movie codes change every server you are on! Any listed here are for examples only and may not work for you! Follow along to see how to find the movie codes.
@@ -23,7 +23,7 @@ Movie codes change every server you are on! Any listed here are for examples onl
 
 ## How to Find Movie Codes
 
-![Agency Switch Board](/images/bh/agency_switch_board_200.jpg)
+![Agency Switch Board](/images/bh/agency_switch_board_200.webp)
 {{% notice style="red" %}}
 Note that switch **3** is missing... do we need to find it?
 {{% /notice %}}
@@ -79,7 +79,7 @@ Hidden wall to find a secret room above police station.
 
 Notice the avatar is halfway through the wall - this is the entrance to the hidden room.
 
-![Hidden attic entrance through vent in police cell](/images/bh/blue-key-card-wall.jpg)
+![Hidden attic entrance through vent in police cell](/images/bh/blue-key-card-wall.webp)
 {{% /tab %}}
 
 {{% tab title="Hidden Room..." %}}
@@ -108,11 +108,11 @@ While this no longer exists, here's what this step used to look like.
 {{< tabs title="Old Location ->" >}}
 
 {{% tab title="Go Up Ladder" %}}
-![Old Police Station Movie Reel Ladder to reel location](/images/bh/movie_police.jpg)
+![Old Police Station Movie Reel Ladder to reel location](/images/bh/movie_police.webp)
 {{% /tab %}}
 
 {{% tab title="Movie Reel Spot" %}}
-![Old Police Station Movie Reel Location](/images/bh/movie_poice_code.jpg)
+![Old Police Station Movie Reel Location](/images/bh/movie_poice_code.webp)
 {{% /tab %}}
 {{< /tabs >}}
 
@@ -134,7 +134,7 @@ While this no longer exists, here's what this step used to look like.
 1. Use the code you find at the Movie Theater to watch it.
 
 {{< column "grid-2" >}}
-![Abandoned House Movie Reel Location](/images/bh/movie_abanoned_house_code.jpg)
+![Abandoned House Movie Reel Location](/images/bh/movie_abanoned_house_code.webp)
 {{< /column >}}
 
 {{% notice style="warning" expanded=false %}}
@@ -159,11 +159,11 @@ While this no longer exists, here's what this step used to look like.
 {{< tabs title="Click Tab ->" >}}
 
 {{% tab title="Hole by Arch" %}}
-![Eagle View Arch Location](/images/bh/movie_arch_location.jpg)
+![Eagle View Arch Location](/images/bh/movie_arch_location.webp)
 {{% /tab %}}
 
 {{% tab title="Movie Reel Spot inside hole" %}}
-![Eagle View Arch Movie Reel](/images/bh/movie_arch_code.jpg)
+![Eagle View Arch Movie Reel](/images/bh/movie_arch_code.webp)
 {{% /tab %}}
 {{< /tabs >}}
 
@@ -190,7 +190,7 @@ This movie is what will be playing in the theater when a new server is started, 
 1. In the movie theater where you can purchase popcorn, look under the monitor and you should see a 5 digit movie code.
 
 
-![Movie Theater Reel Location](/images/bh/movie_code.jpg)
+![Movie Theater Reel Location](/images/bh/movie_code.webp)
 
 
 {{% notice style="warning" expanded=false %}}
@@ -218,11 +218,11 @@ This movie is what will be playing in the theater when a new server is started, 
 
 {{% tab title="Click on Movie Projector" %}}
 Type in the code then press enter
-![Put Movie Code into Projector](/images/bh/input_movie_code.jpg)
+![Put Movie Code into Projector](/images/bh/input_movie_code.webp)
 {{% /tab %}}
 
 {{% tab title="Watch the movie..." %}}
-![New movie is playing through view window](/images/bh/movie_theater.jpg)
+![New movie is playing through view window](/images/bh/movie_theater.webp)
 {{% /tab %}}
 {{< /tabs >}}
 
@@ -237,7 +237,7 @@ You will notice that after watching a movie clip, that some dots on the Agency [
 
 There is one action that is not movie related so it may seem other things can turn these lights on but have yet to be discovered.
 
-![Agency Bunker Message Panel](/images/bh/bunker_message_panel.jpg)
+![Agency Bunker Message Panel](/images/bh/bunker_message_panel.webp)
 
 From left to right we know the following triggers:
 

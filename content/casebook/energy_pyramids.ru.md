@@ -5,8 +5,8 @@ weight: 2
 description: "Как найти энергетические пирамиды в Brookhaven RP и для чего они используются в Тайнах и Загадках."
 
 images: 
-- images/bh/bloomin_energy_pyramid3.jpg
-- images/bh/bloomin_energy_pyramid_fireplace4.jpg
+- images/bh/bloomin_energy_pyramid3.webp
+- images/bh/bloomin_energy_pyramid_fireplace4.webp
 ---
 
 Энергетические пирамиды можно найти по всему Brookhaven после их активации.  
@@ -14,7 +14,7 @@ images:
 
 Всегда рядом с энергетической пирамидой можно услышать пару голубей – они помогут вам определить местоположение кристалла энергии.
 
-![Bloomindaisy держит энергетическую пирамиду](/images/bh/bloomin_energy_pyramid3.jpg)
+![Bloomindaisy держит энергетическую пирамиду](/images/bh/bloomin_energy_pyramid3.webp)
 
 _Bloomindaisy держит энергетическую пирамиду_
 

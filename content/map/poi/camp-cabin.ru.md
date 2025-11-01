@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение лагерного домика Brookhaven и связанные секреты"
 
 images:
-- images/maps/camp_cabin.jpg
+- images/maps/camp_cabin.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Лагерный домик"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Лагерный домик — это прекрасное место для летнего отдыха с выходом к пляжу на озере Мэдисон и сезонной горкой на вершине горы. Однако этот домик известен тем, что здесь появляется [Энергетическая пирамида](/casebook/energy_pyramids/#известные-местоположения) и находится _очень_ жуткий чердак.
 
-![Вид на лагерный домик](/images/maps/camp_cabin.jpg)
+![Вид на лагерный домик](/images/maps/camp_cabin.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

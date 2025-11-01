@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Hidden Camera location view and related secrets"
 
 images:
-- images/maps/hidden_camera.jpg
+- images/maps/hidden_camera.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Hidden Camera"]
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 The agency has planted a hidden camera near Lake Madison to monitor Mr. Brookhaven and his family. Why are they watching? And why do we need to click on this camera for the Destroy Carbon Blocks quest?
 
-![view of Hidden Camera](/images/maps/hidden_camera.jpg)
+![view of Hidden Camera](/images/maps/hidden_camera.webp)
 
 
 <hr style="background-color: #28b44c" size=8>

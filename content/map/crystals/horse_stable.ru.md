@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Посетите конюшню Brookhaven и найдите кристалл 5 за сеном в среднем стойле. Ещё один шаг вперёд в вашем квесте на кристаллы!"
 weight: 5
 images:
-- images/maps/horse_stables.jpg
+- images/maps/horse_stables.webp
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["Конюшня", "Местоположение кристалла"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Может, лошади в Brookhaven любят перекусывать кристаллами? :sweat: Лучше заберём его, пока его не съели!
 
-![Вход в конюшню Brookhaven](/images/maps/horse_stables.jpg?width=400px)
+![Вход в конюшню Brookhaven](/images/maps/horse_stables.webp?width=400px)
 
 ## Местоположение кристалла
 

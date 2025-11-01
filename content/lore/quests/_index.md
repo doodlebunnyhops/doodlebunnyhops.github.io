@@ -7,7 +7,7 @@ description: "Explore Brookhaven's hidden secrets with this detailed quests walk
 aliases:
 - /quests
 images:
-- images/bh/agency_greed_desk_1_button.jpg
+- images/bh/agency_greed_desk_1_button.webp
 #Tags: ["Brookhaven Lore Quests"]
 
 ---

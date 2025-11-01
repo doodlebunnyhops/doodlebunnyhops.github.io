@@ -7,7 +7,7 @@ aliases:
 - /tools
 
 images:
-- images/bh/a05-complete.jpg
+- images/bh/a05-complete.webp
 collapsibleMenu: true
 ---
 

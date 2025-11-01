@@ -4,7 +4,7 @@ noindex: false
 weight: 8
 description: "Как получить зелёную ключ-карту и где её использовать в Бункере Агентства."
 images:
-- images/maps/agency_bunker_inside.jpg
+- images/maps/agency_bunker_inside.webp
 #Tags: ["Зелёная ключ-карта", "Секретная панель Бункера Агентства"]
 ---
 
@@ -45,25 +45,25 @@ images:
 {{% tab title="Ворона 1" %}}
 Эта ворона появляется около 7 утра за амбаром, рядом с чучелом.
 
-![чучело](/images/bh/green_key_card-scarecrow.jpg)
+![чучело](/images/bh/green_key_card-scarecrow.webp)
 {{% /tab %}}
 
 {{% tab title="Ворона 2" %}}
 Эта ворона появляется около 7:30 утра на крыше амбара.
 
-![ворона 1](/images/bh/green_key_card-crow1.jpg)
+![ворона 1](/images/bh/green_key_card-crow1.webp)
 {{% /tab %}}
 
 {{% tab title="Ворона 3" %}}
 Эта ворона появляется около 8 утра на фонарном столбе.
 
-![ворона 2](/images/bh/green_key_card-crow2.jpg)
+![ворона 2](/images/bh/green_key_card-crow2.webp)
 {{% /tab %}}
 
 {{% tab title="Ворона 4 - КОПАЙТЕ!" %}}
 Эта ворона появляется около 8:30 утра у забора. Когда она появляется, пора копать, чтобы найти зелёную карту.
 
-![ворона 3](/images/bh/green_key_card-crow3.jpg)
+![ворона 3](/images/bh/green_key_card-crow3.webp)
 {{% /tab %}}
 
 {{< /tabs >}}

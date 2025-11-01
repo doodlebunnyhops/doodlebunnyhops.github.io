@@ -6,7 +6,7 @@ weight: 1
 description: "Computer messages that appear on your laptop in Brookhaven RP by the Agency, Mr. B, and other sources."
 #Tags: ["Computer Messages"]
 images: 
-- images/bh/agency_greed_comp_message.jpg
+- images/bh/agency_greed_comp_message.webp
 - images/bh/follow_the_book_comp_message.webp
 
 date: 2024-08-18

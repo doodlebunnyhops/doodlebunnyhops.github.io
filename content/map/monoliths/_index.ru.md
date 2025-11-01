@@ -7,7 +7,7 @@ description: "Интерактивная карта местоположений
 #Categories: ["Местоположения монолитов","карта"]
 #Tags: ["Карта местоположений монолитов"]
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 
 date: 2024-08-18
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 Это интерактивная карта, показывающая все местоположения монолитов в городе Brookhaven.
 
-![Монолит у амбара](/images/bh/monolith_main.jpg?width=400px)
+![Монолит у амбара](/images/bh/monolith_main.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

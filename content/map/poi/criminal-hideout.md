@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Criminal Hideout location view and related secrets"
 
 images:
-- images/maps/criminal_hideout.jpg
+- images/maps/criminal_hideout.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Criminal Hideout"]
 draft: false
@@ -17,13 +17,13 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 {{< column "grid-2" >}}
 
 
-![Outside view of Criminal Hideout showing hidden wall that opens to get inside](/images/maps/criminal_hideout.jpg)
+![Outside view of Criminal Hideout showing hidden wall that opens to get inside](/images/maps/criminal_hideout.webp)
 
 ![Criminal Hideout and where the trap door is](/images/maps/criminal_hideout_to_trap_door.gif)
 
 ![Clicking secrete passage to open trap door to get to Criminal Hideout](/images/maps/criminal_hideout_click_trap_door.gif)
 
-![Inside view of Criminal Hideout showing computer parts and surveillance system](/images/maps/criminal_hideout_inside.jpg)
+![Inside view of Criminal Hideout showing computer parts and surveillance system](/images/maps/criminal_hideout_inside.webp)
 
 
 {{< /column >}}

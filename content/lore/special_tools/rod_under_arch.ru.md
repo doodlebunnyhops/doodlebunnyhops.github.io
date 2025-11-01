@@ -4,7 +4,7 @@ noindex: false
 weight: 5
 description: "Как найти скрытый жезл."
 images:
-- images/maps/arches.jpg
+- images/maps/arches.webp
 #Tags: ["Дом Пекаря RP", "Жезл под аркой"]
 ---
 

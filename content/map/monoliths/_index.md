@@ -7,7 +7,7 @@ description: "Brookhaven RP interactive map of Monolith locations with details."
 #Categories: ["Monolith Locations","map"]
 #Tags: ["Map of Monolith Locations"]
 images: 
-- images/bh/monolith_main.jpg
+- images/bh/monolith_main.webp
 
 date: 2024-08-18
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 This is an interactive map showing all locations of Monoliths in the Town of Brookhaven.
 
-![Monlith by Barn](/images/bh/monolith_main.jpg?width=400px)
+![Monlith by Barn](/images/bh/monolith_main.webp?width=400px)
 
 <hr style="background-color: #28b44c" size=8>
 

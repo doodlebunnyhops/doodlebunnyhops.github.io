@@ -6,7 +6,7 @@ date: 2024-09-23
 description: "Начните свой квест на Кристаллы в Больнице Brookhaven. Используйте лестницу, чтобы подняться на крышу и найти первый скрытый кристалл!"
 weight: 1
 images:
-- images/maps/hospital.jpg
+- images/maps/hospital.webp
 #Categories: ["Местоположения кристаллов","карта"]
 #Tags: ["Больница", "Местоположение кристалла"]
 draft: false

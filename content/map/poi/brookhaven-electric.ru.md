@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Местоположение Brookhaven Electric и связанные секреты"
 
 images:
-- images/maps/brookhaven_electric.jpg
+- images/maps/brookhaven_electric.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Brookhaven Electric"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Brookhaven Electric, главный источник энергии в городе, закрыт. Чтобы получить доступ, требуется специальная ключ-карта, но почему? Что ещё может питать эта электростанция?
 
-![Вид на Brookhaven Electric](/images/maps/brookhaven_electric.jpg)
+![Вид на Brookhaven Electric](/images/maps/brookhaven_electric.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

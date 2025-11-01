@@ -4,7 +4,7 @@ noindex: false
 weight: 8
 description: "How to get the Green Key Card and where to use it in the Agency Bunker."
 images:
-- images/maps/agency_bunker_inside.jpg
+- images/maps/agency_bunker_inside.webp
 #Tags: ["Green Key Card", "Agency Bunker Secret Panel"]
 ---
 
@@ -45,25 +45,25 @@ The green card does _something_...
 {{% tab title="Crow 1" %}}
 This Crow spawns around 7am behind the barn near the scarecrow.
 
-![scarecrow](/images/bh/green_key_card-scarecrow.jpg)
+![scarecrow](/images/bh/green_key_card-scarecrow.webp)
 {{% /tab %}}
 
 {{% tab title="Crow 2" %}}
 This Crow spawns around 7:30am on top of the Barn.
 
-![crow 1](/images/bh/green_key_card-crow1.jpg)
+![crow 1](/images/bh/green_key_card-crow1.webp)
 {{% /tab %}}
 
 {{% tab title="Crow 3" %}}
 This Crow spawns around 8am by the light post.
 
-![crow 2](/images/bh/green_key_card-crow2.jpg)
+![crow 2](/images/bh/green_key_card-crow2.webp)
 {{% /tab %}}
 
 {{% tab title="Crow 4 - DIG!" %}}
 This Crow spawns around 8:30am by the fence. When this crow appears it is time to dig for the green card.
 
-![crow 3](/images/bh/green_key_card-crow3.jpg)
+![crow 3](/images/bh/green_key_card-crow3.webp)
 {{% /tab %}}
 
 {{< /tabs >}}

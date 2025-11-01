@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Арка у амбара в Brookhaven: местоположение и связанные секреты"
 
 images:
-- images/maps/arch2.jpg
+- images/maps/arch2.webp
 #Categories: ["точка интереса","карта"]
 #Tags: ["Жезл под аркой","Арка"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 Арка у амбара скрывает жезл под своей основой! Почему мистер Brookhaven оставил его именно там?
 
-![Вид на арку у амбара](/images/maps/arch2.jpg)
+![Вид на арку у амбара](/images/maps/arch2.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

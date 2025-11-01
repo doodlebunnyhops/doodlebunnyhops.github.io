@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven Barn location view and related secrets"
 
 images:
-- images/maps/barn.jpg
+- images/maps/barn.webp
 #Categories: ["point of interest","map"]
 #Tags: ["Barn"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 The Brookhaven Barn, located next to the Horse Stables, hides a note and a mysterious crystal. 
 
-![view of Barn](/images/maps/barn.jpg)
+![view of Barn](/images/maps/barn.webp)
 
 <hr style="background-color: #28b44c" size=8>
 

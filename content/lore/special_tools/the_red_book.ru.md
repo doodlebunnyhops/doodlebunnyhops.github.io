@@ -4,7 +4,7 @@ noindex: false
 weight: 4
 description: "Как получить скрытую красную книгу в библиотеке."
 images:
-- images/maps/library.jpg
+- images/maps/library.webp
 #Tags: ["Библиотека", "Книга Агентства", "Следуй за книгой"]
 ---
 
@@ -28,6 +28,6 @@ _Следуй за книгой_
       
       ==Эта книга требует, чтобы вы следовали за ней во всём. Она знает, что лучше для вас, а вы – нет. Следуйте за ней слепо и делайте ровно то, что она говорит. {Агентство}==  
 
-![Местоположение Красной книги](/images/bh/the_red_book_location.jpg)
+![Местоположение Красной книги](/images/bh/the_red_book_location.webp)
  
 <hr style="background-color: #28b44c" size=8>

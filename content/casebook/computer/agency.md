@@ -7,7 +7,7 @@ description: "Messages on the laptop from the Agency."
 #Tags: ["Computer Messages","Agency Computer Messages", "Agency"]
 images: 
 - images/bh/follow_the_book_comp_message.webp
-- images/bh/useful_soldier_comp_message.jpg
+- images/bh/useful_soldier_comp_message.webp
 
 ---
 
@@ -61,7 +61,7 @@ The power of The Book will lead you to construct what is needed to destroy our e
 1. After completing quest “Destroy Carbon Blocks” open up your computer and this message should appear
 
 
-![DESC](/images/bh/useful_soldier_comp_message.jpg) 
+![DESC](/images/bh/useful_soldier_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -78,7 +78,7 @@ The power of The Book will lead you to construct what is needed to destroy our e
 
 ==We must circle the outlying area to pinpoint the Arches energy. Do not get too close, you may disrupt the signal. (Agency)==
 
-![DESC](/images/bh/circle_monotliths_comp_message.jpg) 
+![DESC](/images/bh/circle_monotliths_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -96,7 +96,7 @@ The power of The Book will lead you to construct what is needed to destroy our e
 
 
 
-![DESC](/images/bh/agency_no_experimenting_comp_message.jpg) 
+![DESC](/images/bh/agency_no_experimenting_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -116,7 +116,7 @@ The power of The Book will lead you to construct what is needed to destroy our e
 
 
 
-![DESC](/images/bh/agency_knows_whats_best_comp_message.jpg) 
+![DESC](/images/bh/agency_knows_whats_best_comp_message.webp) 
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -139,6 +139,6 @@ The power of The Book will lead you to construct what is needed to destroy our e
 
 	`Follow blindly, do not think. Money is everything!. (Agency)`
 	
-	![Agency Computer Message, money is everything](/images/bh/agency_greed_comp_message.jpg)
+	![Agency Computer Message, money is everything](/images/bh/agency_greed_comp_message.webp)
 
 <hr style="background-color: #28b44c" size=8>
