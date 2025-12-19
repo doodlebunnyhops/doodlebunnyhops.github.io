@@ -18,6 +18,11 @@ A lot of interesting things are lurking beneath Eagle View Estate, but a Monolit
 ![Monolith On hill by Eagle View Estate](/images/maps/monoliths/monolith_eagle_view.webp?width=400px)
 <hr style="background-color: #28b44c" size=8>
 
+{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
+See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
+{{% /notice %}}
+
+
 ## Related Items
 
 ### Map

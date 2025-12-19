@@ -20,6 +20,9 @@ Lets build stuff!
 {{% /notice %}}
 
 
+{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
+See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
+{{% /notice %}}
 
 ## At the Motel
 **Steps:**

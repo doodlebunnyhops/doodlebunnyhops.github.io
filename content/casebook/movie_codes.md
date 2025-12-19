@@ -145,6 +145,10 @@ While this no longer exists, here's what this step used to look like.
 
 ## Eagle View Arch Code
 
+{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
+See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
+{{% /notice %}}
+
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 - Turn on Switch **1** next to the blue keypad in the Agency Bunker.
 {{% /notice %}}

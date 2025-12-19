@@ -18,6 +18,10 @@ This Monolith tends to be different than the others because there aren't any imm
 
 <hr style="background-color: #28b44c" size=8>
 
+{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
+See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
+{{% /notice %}}
+
 <!-- ## Related Items
 
 ### Map
