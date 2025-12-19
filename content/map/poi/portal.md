@@ -23,8 +23,12 @@ The esteemed Eagle View Residency sits atop a hill to oversee the rest of Brookh
 
 {{< /column >}}
 
+{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
+See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
+{{% /notice %}}
 
 <hr style="background-color: #28b44c" size=8>
+
 
 ## Map View
 
