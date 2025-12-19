@@ -8,12 +8,9 @@ cascade:
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-97656c61e6046d63c7b06f2c6d8cd504/768/432/Image/Webp/noFilter
 images:
-- images/winter_holiday_2025/agency_entrance_next_to_porta_potty.webp
+- https://tr.rbxcdn.com/180DAY-97656c61e6046d63c7b06f2c6d8cd504/768/432/Image/Webp/noFilter
 - images/winter_holiday_2025/eagle_view_plot_behind_holiday_festival.webp
-- images/bh/brookhaven_built_portal.webp
-- images/winter_holiday_2025/eagle_view_movie_reel_location.webp
-- images/winter_holiday_2025/eagle_view_monolith_location_in_underpass.webp
-- images/winter_holiday_2025/Bridge_Underpass_by_Abandoned_House_moved_to_festival_mountain_top.webp
+- https://tr.rbxcdn.com/180DAY-34054dbf20edc70f8832489079f99a30/768/432/Image/Webp/noFilter
 description: "The Brookhaven Winter Festival 2025 has arrived! Some secrets have temporarily moved to make room for the festivities."
 tags: [
   "BrookhavenRP 2025 Updates",
