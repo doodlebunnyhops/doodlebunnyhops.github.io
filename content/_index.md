@@ -29,15 +29,15 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 <hr style="background-color: #28b44c" size=8>
 
-### ☢️ Power Plant Meltdown 
+### ☃️ Holiday Festival & Moved Secrets 
 
-`2025-08-29`
+`2025-12-19`
 
-We have a little secret with the Power Plant update, but the bigger question remains.
+The massive area that the festival occupies means some secrets had to move for a bit. 
 
-...will you stop it...or make it happen???
+See exactly what's changed so you can keep the hunt on!
 
-[See the steps for yourself...](lore/quests/meltdown/)
+[Holiday Festival Blog](/blog/bh_winter_festival_2025)
 
 <hr style="background-color: #28b44c" size=8>
 
