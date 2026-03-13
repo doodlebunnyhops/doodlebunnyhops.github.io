@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-12-31
 title: "A New Year of Secrets Awaits in Brookhaven! ✨"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

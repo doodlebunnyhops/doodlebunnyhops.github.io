@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-06-21
 title: "Pirates Ahoy!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2024/july/pirates
 noindex: false

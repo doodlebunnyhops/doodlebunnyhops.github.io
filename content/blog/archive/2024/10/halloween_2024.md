@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-10-19
 title: "Candy Corn Hunt, '24"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-05-24
 title: "Golfers Retreat"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2024/may/golf-course-house
 noindex: false

@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-08-23
 title: "Lets go to the park!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true
@@ -13,7 +13,6 @@ images:
 - images/blog/park_front_entrance.webp
 - images/blog/park_bar_by_pool.webp
 - images/blog/park_pool_with_playground.webp
-- 
 description: "Brookhaven Update: New Park Role play set for estate pass holders"
 draft: false
 imageEffects:

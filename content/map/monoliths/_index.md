@@ -19,10 +19,6 @@ This is an interactive map showing all locations of Monoliths in the Town of Bro
 ![Monlith by Barn](/images/bh/monolith_main.webp?width=400px)
 
 
-{{% notice style="note" title="Temporarily Changed due to Winter Festival" %}}
-Some locations have moved! See [Winter Festival Blog](/blog/bh_winter_festival_2025) for details.
-{{% /notice %}}
-
 <hr style="background-color: #28b44c" size=8>
 
 ## View Map

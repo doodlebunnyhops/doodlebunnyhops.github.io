@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-10-04
 title: "Bank Heist"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true

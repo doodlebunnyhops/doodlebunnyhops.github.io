@@ -4,7 +4,7 @@ date: 2025-12-19
 title: "Зимний фестиваль Brookhaven 2025"
 linktitle: "Зимний фестиваль"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-97656c61e6046d63c7b06f2c6d8cd504/768/432/Image/Webp/noFilter
 images:

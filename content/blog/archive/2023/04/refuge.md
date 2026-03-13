@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-04-14
 title: "Survival Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/april/refuge
 noindex: false

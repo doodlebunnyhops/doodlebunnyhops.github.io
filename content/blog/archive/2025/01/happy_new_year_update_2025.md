@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2025-01-01
 title: "Brookhaven's 2025 New Year Update 🎉✨"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-08-10
 title: "Agency RP House"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true

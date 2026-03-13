@@ -5,7 +5,7 @@ published: 2025-01-31
 title: "Daycare Gets a Fresh New Look in Brookhaven!"
 linktitle: "Daycare Remodel Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-a24967aaf0e564dda65c4ef546f5dda1/768/432/Image/Png/noFilter
 images:

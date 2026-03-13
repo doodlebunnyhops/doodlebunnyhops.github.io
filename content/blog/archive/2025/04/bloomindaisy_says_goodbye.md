@@ -5,7 +5,7 @@ published: 2025-04-26
 linktitle: "Frozen in Time"
 title: "Frozen in Time: A Quiet Goodbye"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: /images/good_bye_daisy.webp
 images:

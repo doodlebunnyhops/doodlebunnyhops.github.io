@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-07-26
 title: "VIP & 130 Props!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true

@@ -5,7 +5,7 @@ published: 2025-02-14
 title: "Brookhaven Valentine’s Update: A Swan Car, A Mall Remodel & Moved Secrets?!"
 linktitle: "Brookhaven Valentine's Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-1489e714303ec84053d65929691fc59e/768/432/Image/Png/noFilter
 images:

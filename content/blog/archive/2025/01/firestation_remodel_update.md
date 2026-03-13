@@ -5,7 +5,7 @@ published: 2025-01-17
 title: "Fire Station Remodel Brings Exciting Changes to Brookhaven! 🚒"
 linktitle: "Fire Station Remodel"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-e570233f975daa39e83ac42d8d6e668e/768/432/Image/Png/noFilter
 images:

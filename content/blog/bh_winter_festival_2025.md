@@ -4,7 +4,7 @@ date: 2025-12-19
 title: "Brookhaven Winter Festival 2025"
 linktitle: "Winter Festival"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-97656c61e6046d63c7b06f2c6d8cd504/768/432/Image/Webp/noFilter
 images:

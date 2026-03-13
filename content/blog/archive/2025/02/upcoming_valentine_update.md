@@ -5,7 +5,7 @@ published: 2025-02-12
 title: "Update Coming on Valentines Day! Devs Confirm a Secret Has Moved ❤️"
 linktitle: "Brookhaven’s Next Update: A Valentine’s Surprise?"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: /images/blog/brookhaven_valentine_update_leak.webp
 images:

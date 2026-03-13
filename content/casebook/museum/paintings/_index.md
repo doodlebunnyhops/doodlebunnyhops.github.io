@@ -36,7 +36,7 @@ images:
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
-[**Maddison & Mr. B**](/casebook/museum/paintings/maddison_mrb/)
+[**Maddison & Mr. B**](/casebook/museum/paintings/madison_mrb/)
 ![A painting of Maddison and Mr. Brookhaven on their wedding day, displayed in Brookhaven Museum.](/images/bh/museum_madison_&_mrb.webp?height=100px) 
 *Brookhaven’s founders—was their love story the start of everything?*
 {{< /column>}}

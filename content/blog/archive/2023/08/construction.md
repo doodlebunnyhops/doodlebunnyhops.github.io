@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-08-25
 title: "Construction Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/august/construction
 noindex: false

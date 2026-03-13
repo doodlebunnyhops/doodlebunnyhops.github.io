@@ -5,7 +5,7 @@ published: 2025-03-14
 linktitle: "Сладкие поездки и угощения!"
 title: "Обновление Brookhaven: Кондитерская и Велосипеды! 🚲🧁"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-ac441597fa92c301ae8ca27a12de19d5/768/432/Image/Png/noFilter
 images:
