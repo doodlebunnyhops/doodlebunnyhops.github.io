@@ -4,7 +4,7 @@ date: 2024-12-06
 published: 2024-12-07
 title: "Holiday Update: Burger Barn is Back!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-05-19
 title: "Farm Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/may/farm
 noindex: false

@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-11-29
 title: "School, Hospital, and Police Station Remodels!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

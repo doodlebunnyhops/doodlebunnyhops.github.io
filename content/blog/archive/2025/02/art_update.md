@@ -5,7 +5,7 @@ published: 2025-03-01
 linktitle: "Lets Get Crafty"
 title: "Brookhaven's Artistic 🎨 Update Introduces New Tools, Props, and Apartments for Creative Players!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-95aec83d60c2962e0a7a06fe11b03dbc/768/432/Image/Png/noFilter
 images:

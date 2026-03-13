@@ -5,7 +5,7 @@ published: 2025-03-29
 linktitle: "Lights, Camera, SECRETS!"
 title: "Brookhaven Movie Studio Update – New Props, Tools, and Secrets!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-1ff692ab54a30b14d3f0939625afc432/768/432/Image/Png/noFilter
 images:

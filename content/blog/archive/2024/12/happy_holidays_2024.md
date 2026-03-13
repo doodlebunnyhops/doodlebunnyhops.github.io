@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-12-25
 title: "Happy Holidays, Brookhaven players! 🎄✨"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

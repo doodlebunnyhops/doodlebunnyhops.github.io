@@ -11,8 +11,8 @@ images:
 ![Bloomindaisy standing in a cave with a mysterious light shaped as a triangle.](/images/bh/no_light_source.webp)
 
 
-In the Aug 25 2023 [Construction update](blog/archive/2023/august/construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!
-The BrookhavenRP community went back and forth if it could possibly mean something or was a bug. But on the release of the [Halloween Update](blog/archive/2023/october/10-13-23/) Wolfpaq gave us some insight. 
+In the Aug 25 2023 [Construction update](/blog//construction/) along with a new house plot area called Hidden Valley, there’s a secret cave just behind the plot!
+The BrookhavenRP community went back and forth if it could possibly mean something or was a bug. But on the release of the [Halloween Update](/blog/10-13-23/) Wolfpaq gave us some insight. 
 
 <hr style="background-color: #28b44c" size=8>
 

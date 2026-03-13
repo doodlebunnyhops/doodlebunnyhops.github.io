@@ -4,7 +4,7 @@ date: 2025-08-29
 title: "☢️ Авария на Электростанции"
 linktitle: "☢️ Авария"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/power_plant_meltdown.webp
 images:

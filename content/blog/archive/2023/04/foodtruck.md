@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-04-28
 title: "Food Truck Update"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/april/foodtruck
 noindex: false

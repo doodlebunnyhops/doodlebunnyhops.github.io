@@ -5,7 +5,7 @@ published: 2025-04-26
 linktitle: "Застывшее во времени"
 title: "Застывшее во времени: Тихое прощание"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: /images/good_bye_daisy.webp
 images:

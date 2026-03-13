@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-07-08
 title: "GoKarts and Vehicle Props"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true

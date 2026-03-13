@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-12-21
 title: "Motel Remodel Update!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

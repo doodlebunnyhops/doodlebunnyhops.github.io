@@ -4,7 +4,7 @@ linktitle: "Wolfpaq Says Goodbye"
 title: "Brookhaven’s New Chapter – Wolfpaq Passes the Torch to Voldex"
 date: 2025-02-04
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/brightLea_%26_bloomindaisy.webp
 images:

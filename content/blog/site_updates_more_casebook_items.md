@@ -6,7 +6,7 @@ published: 2025-03-10
 title: "🕵️‍♀️ Casebook Updates: New Notes, Museum Overhaul & More!"
 linktitle: "Casebook Updates"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.webp
 images:

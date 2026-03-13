@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-23
 title: "Military Estate and more!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/june/military
 noindex: false

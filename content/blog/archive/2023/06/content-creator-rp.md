@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-30
 title: "Content Creator House!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/june/content-creator-rp
 noindex: false

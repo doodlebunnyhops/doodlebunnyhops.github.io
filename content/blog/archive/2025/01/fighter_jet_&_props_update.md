@@ -5,7 +5,7 @@ published: 2025-01-24
 title: "Brookhaven Update Brings new Fighter Jet Hanger & Props Galore!"
 linktitle: "Fighter Jet & Props"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-b058f6164df9fd72de2a3afdda0689b0/768/432/Image/Webp/noFilter
 images:

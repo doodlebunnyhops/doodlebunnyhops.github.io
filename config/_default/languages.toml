@@ -10,7 +10,13 @@
   languageName = 'English'
   weight = 1
 
+  [en.permalinks]
+    blog = '/blog/:contentbasename/'
+
 [ru]
   contentDir = 'ru'
   languageName = 'Русский'
   weight = 2
+
+  [ru.permalinks]
+    blog = '/blogs/:contentbasename/'

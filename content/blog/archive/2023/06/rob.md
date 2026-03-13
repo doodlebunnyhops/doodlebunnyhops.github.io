@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-06-02
 title: "Cops and Robbers"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/june/rob
 noindex: false

@@ -5,7 +5,7 @@ published: 2025-03-29
 linktitle: "Свет, Камера, СЕКРЕТЫ!"
 title: "Обновление Киностудии в Brookhaven — Новые Реквизиты, Инструменты и Тайны!"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-1ff692ab54a30b14d3f0939625afc432/768/432/Image/Png/noFilter
 images:

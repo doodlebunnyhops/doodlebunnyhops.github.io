@@ -39,6 +39,8 @@ See exactly what's changed so you can keep the hunt on!
 
 [Holiday Festival Blog](/blog/bh_winter_festival_2025)
 
+*Holiday Festival is no longer live - any adjustments to secrets has been put back*
+
 <hr style="background-color: #28b44c" size=8>
 
 ## Things to see in this site!

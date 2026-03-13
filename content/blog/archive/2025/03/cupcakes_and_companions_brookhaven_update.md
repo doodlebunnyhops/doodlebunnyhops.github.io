@@ -5,7 +5,7 @@ published: 2025-03-14
 linktitle: "Sweet Rides & Treats!"
 title: "Brookhaven’s Pastry Shop & Companion Bikes Update! 🚲🧁"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-ac441597fa92c301ae8ca27a12de19d5/768/432/Image/Png/noFilter
 images:

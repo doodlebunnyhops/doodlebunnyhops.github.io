@@ -6,7 +6,7 @@ published: 2025-03-13
 title: "🕵️‍♀️ Обновления Книги Brookhaven: новые записи, полное обновление музея и многое другое!"
 linktitle: "Обновления Книги"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/maps/museum_inside.webp
 images:

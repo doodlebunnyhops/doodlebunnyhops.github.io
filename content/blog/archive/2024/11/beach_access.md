@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-11-01
 title: "Beach Access"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

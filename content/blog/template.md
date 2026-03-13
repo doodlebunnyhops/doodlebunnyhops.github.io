@@ -5,7 +5,7 @@ published: 2024-12-07
 linktitle: "Link Title"
 title: "Longer Title"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: URL
 images:

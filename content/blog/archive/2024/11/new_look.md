@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-11-15
 title: "Fresh Remodels and New Looks"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 hidden: true
 archetype: "blog"

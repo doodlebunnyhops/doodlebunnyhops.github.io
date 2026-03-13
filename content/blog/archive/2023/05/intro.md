@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-05-31
 title: About this site
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/may/intro
 noindex: false

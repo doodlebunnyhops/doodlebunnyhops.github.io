@@ -5,7 +5,7 @@ published: 2025-04-11
 linktitle: "Приключение Пасхальной Охоты!"
 title: "Пасхальная Охота в Brookhaven уже здесь!"
 cascade:
-- url: /ru/blog/:filename
+- url: /ru/blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-8f1234005f4bcc5bf85549fb2f301347/768/432/Image/Png/noFilter
 images:

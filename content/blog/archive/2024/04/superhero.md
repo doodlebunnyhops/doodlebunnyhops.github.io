@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-04-26
 title: "Superhero"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2024/april/superhero
 noindex: false

@@ -4,7 +4,7 @@ date: 2025-08-29
 title: "☢️ Meltdown at the Power Plant"
 linktitle: "☢️ Meltdown"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://raw.githubusercontent.com/doodlebunnyhops/doodlebunnyhops.github.io/refs/heads/main/static/images/power_plant_meltdown.webp
 images:

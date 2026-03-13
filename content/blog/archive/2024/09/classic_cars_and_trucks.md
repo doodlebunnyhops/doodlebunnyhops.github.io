@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-09-06
 title: "Classic Cars & Trucks"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 noindex: false
 archetype: "blog"
 hidden: true

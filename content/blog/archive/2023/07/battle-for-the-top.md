@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2023-07-15
 title: "Battle of the most visited!"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2023/july/battle-for-the-top
 noindex: false

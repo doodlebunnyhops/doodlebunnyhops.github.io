@@ -4,7 +4,7 @@ date: 2025-01-10
 published: 2025-01-10
 title: "Abandoned RP Set With Secrets! 🏚️"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 archetype: "blog"
 imagecust: https://tr.rbxcdn.com/180DAY-a3aaffaf9256439aca22f50e1e3d849b/768/432/Image/Png/noFilter
 images:

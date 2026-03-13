@@ -3,7 +3,7 @@ author: "BloominDaisy"
 date: 2024-06-07
 title: "Pets and Props"
 cascade:
-- url: /blog/:filename
+- url: /blog/:contentbasename
 aliases:
 - /blog/archive/2024/june/new-prop-pets
 noindex: false
