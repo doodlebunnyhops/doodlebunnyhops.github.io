@@ -23,3 +23,11 @@ If the monoliths are looking for a source of power why does one appear right nex
 ### Map
 
 - [Point of Interest](/map/poi/agency-bunker/)
+
+<hr style="background-color: #28b44c" size=8>
+
+## Important Notes
+
+{{% notice style="info" title="Agency Bunker" %}}
+At this time, a brown mud wall has been added to the area behind the agency bunker, clipping the view of this monolith
+{{% /notice %}}

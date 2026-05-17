@@ -4,7 +4,7 @@ date: 2023-05-31
 weight: 7
 title: О сайте
 noindex: false
-
+image: https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5B5DF360E47F5FFD5A3424295DFECE1C-Png/150/150/AvatarHeadshot/Webp/noFilter
 images:
 - https://tr.rbxcdn.com/2f0a5e1b9220aa7aad3c4ab13d52c185/150/150/AvatarHeadshot/Png
 description: "О BloominDaisy, создательнице этого сайта"

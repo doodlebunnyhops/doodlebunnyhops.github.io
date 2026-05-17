@@ -4,7 +4,7 @@ title: "Brookhaven RP: Прохождение, Секреты, Квесты и �
 noindex: false
 weight: 1
 description: "Разгадайте тайны Brookhaven RP с этим подробным путеводителем. Выполняйте квесты, раскрывайте загадки и исследуйте инструменты и скрытые локации в игре."
-
+image: images/bh/agency_greed_desk_1_button.webp
 images: 
 - images/bh/collage.webp
 - images/bh/agency_greed_desk_1_button.webp

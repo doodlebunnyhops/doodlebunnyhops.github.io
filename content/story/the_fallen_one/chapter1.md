@@ -1,5 +1,5 @@
 ---
-title: "Time"
+title: "Chapter 1: Time"
 noindex: false
 weight: 1
 cascade:
@@ -96,6 +96,4 @@ Brookhaven stepped back, his tone unrelenting. “Prove me wrong,” he said. Th
 
 William bent to retrieve his pack, his fingers trembling. He turned to leave, the sound of his boots echoing hollowly in the vast chamber.
 
----
-
-<div align="center">{{% button href="/story/the_fallen_one/chapter/travels/" style="green" %}}Chapter 2{{% /button %}}</div>
+<div align="center">{{% button href="/story/chapter-2-travels/" style="green" %}}Chapter 2: Travels{{% /button %}}</div>

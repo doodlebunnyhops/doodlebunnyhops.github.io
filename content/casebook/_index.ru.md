@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 date: 2024-01-02
 description: "Сборник наблюдений, скрытых мест, записок, сообщений, подсказок и улик, найденных в Brookhaven RP при расследовании тайн и загадок."
-
+image: images/bh/collage.webp
 images: 
 - images/bh/collage.webp
 - images/bh/follow_the_book_comp_message.webp

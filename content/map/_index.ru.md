@@ -5,7 +5,7 @@ noindex: false
 weight: 3
 description: "Получите доступ к интерактивным картам Brookhaven, включая местоположения кристаллов, монолитов и точек интереса. Исследуйте с лёгкостью!"
 #Tags: ["карта"]
-
+image: images/maps/poi.svg
 images:
 - images/maps/poi.svg
 date: 2024-01-01

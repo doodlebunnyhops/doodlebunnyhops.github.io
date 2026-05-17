@@ -4,7 +4,7 @@ noindex: false
 weight: 2
 date: 2024-01-02
 description: "Collection of observations, secret places, notes, messages, clues, and hints found in Brookhaven RP solving secrets and mysteries."
-
+image: images/bh/collage.webp
 images: 
 - images/bh/collage.webp
 - images/bh/follow_the_book_comp_message.webp

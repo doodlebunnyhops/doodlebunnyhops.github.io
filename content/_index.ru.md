@@ -29,26 +29,23 @@ Tags: ["Секреты Брукхейвена","БрукхейвенРП Сек�
 
 <hr style="background-color: #28b44c" size=8>
 
-### ☃️ фестиваль и перемещённые секреты
+### 🚗 Обновление от 15 мая
 
-`2025-12-19`
+Несколько моментов, которыми я хотел(а) поделиться:
 
-Фестиваль занял огромную территорию, поэтому некоторые секреты пришлось временно передвинуть.
-
-Загляни и посмотри, что именно изменилось — чтобы охота за секретами продолжалась!
-
-[Блог о фестивале](/ru/blog/bh_winter_festival_2025)
-
-*Фестиваль больше не проводится — все временные изменения секретов возвращены обратно.*
+- Углеродный блок в [аркаде](/lore/quests/destroy_carbon_blocks/) был перемещён
+- Монолит, появляющийся в [Бункере Агентства](/map/monoliths/agency-bunker/), всё ещё находится там, но теперь закрыт стеной
+- Зона отдыха под дорогой между Town Hall и Big Franks выглядит подозрительно... но никаких секретов найдено не было. И почему «Big Frank» нужна ступенька к его креслу... _подозрительно_
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Что посмотреть на этом сайте!
 
+{{< children sort="Weight" showhidden=false description=true type="card" image=true >}}
 
-<div class="expand-content" style="display: block;">
+<!-- <div class="expand-content" style="display: block;">
 {{% children sort="Weight" showhidden=false description=true type="list" %}}
-</div>
+</div> -->
 
 ---
 

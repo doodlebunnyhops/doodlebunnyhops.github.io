@@ -1,6 +1,6 @@
 baseURL = "https://solve.bhmystery.com/"
 enableRobotsTXT = true
-relativeURLs = true
+relativeURLs = false
 uglyURLs = false
 
 timeout = "60s"
@@ -134,6 +134,7 @@ largeTwitterCard = true
   disableAssetsBusting = false
   collapsibleMenu=true
   alwaysopen=false
+  disableExplicitIndexURLs = true
 
   # Performance optimizations
   [params.caching]
