@@ -4,7 +4,7 @@ title: "Brookhaven RP Walkthrough: Secrets, Quests, and Mysteries"
 noindex: false
 weight: 1
 description: "Uncover Brookhaven RP’s secrets with this comprehensive walkthrough. Solve quests, unlock mysteries, and explore tools and hidden locations in the game"
-
+image: images/bh/agency_greed_desk_1_button.webp
 images: 
 - images/bh/collage.webp
 - images/bh/agency_greed_desk_1_button.webp

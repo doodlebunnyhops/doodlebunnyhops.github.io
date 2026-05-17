@@ -5,7 +5,7 @@ noindex: false
 weight: 3
 description: "Access interactive maps of Brookhaven, including locations of crystals, monoliths, and points of interest. Navigate with ease!"
 #Tags: ["map"]
-
+image: images/maps/poi.svg
 images:
 - images/maps/poi.svg
 date: 2024-01-01

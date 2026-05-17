@@ -29,26 +29,23 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 <hr style="background-color: #28b44c" size=8>
 
-### ☃️ Holiday Festival & Moved Secrets 
+### 🚗 May 15th Update
 
-`2025-12-19`
+A few points I wanted to share: 
 
-The massive area that the festival occupies means some secrets had to move for a bit. 
-
-See exactly what's changed so you can keep the hunt on!
-
-[Holiday Festival Blog](/blog/bh_winter_festival_2025)
-
-*Holiday Festival is no longer live - any adjustments to secrets has been put back*
+- The carbon block in the [arcade](/lore/quests/destroy_carbon_blocks/) moved
+- The monolith that spawns in the [Agency Bunker](/map/monoliths/agency-bunker/) is still there but blocked by a wall
+- The hangout area under the road between Town Hall and Big Franks is sus..but no secrets found. Also why does "Big Frank" need a stair step to his chair... _sus_
 
 <hr style="background-color: #28b44c" size=8>
 
 ## Things to see in this site!
 
+{{< children sort="Weight" showhidden=false description=true type="card" image=true >}}
 
-<div class="expand-content" style="display: block;">
+<!-- <div class="expand-content" style="display: block;">
 {{% children sort="Weight" showhidden=false description=true type="list" %}}
-</div>
+</div> -->
 
 ---
 
