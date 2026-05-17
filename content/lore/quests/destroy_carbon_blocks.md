@@ -46,7 +46,7 @@ description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Ro
 Steps: 
 
 1. Secret Agency Base behind Starbrooks. (click the light to open trap door)
-2. Place down a sleeping bag near the right wall in **arcade**
+2. Place down a sleeping bag outside of left wall to the **arcade**
 3. Place down a sleeping bag near the left wall in **bank**
 4. Inside of the roof at the **church** (go on top of the Church and place down a Sleeping Bag.)
 5. Near the Grocery Store, place a sleeping bag near the **grass wall**
@@ -67,6 +67,19 @@ Use a sleeping bag to look past the back wall.
 
 ![Carbon Block hidden behind a wall in the Criminal Hideout](/images/bh/carbon_block_criminal_base.webp)
 {{% /tab %}}
+
+
+{{% tab title="Location #2" %}}
+The carbon block location has moved to the left wall of the arcade. It's easier to use a sleeping back from the outside.
+
+{{< column "grid-2" >}}
+![Carbon Block hidden in a the wall of the arcarde between Big Frank's Motors and the Arcade ](/images/bh/carbon_block_arcade_street_view.webp)
+![Carbon Block hidden inside the wall of the arcade.](/images/bh/carbon_block_arcade_sleeping_bag_view.webp)
+
+{{< /column >}}
+
+{{% /tab %}}
+
 
 {{% tab title="Location #4" %}}
 Inside of the roof at the church. Go on top of the Church and place down a Sleeping Bag, or go inside and place the sleeping bag on the ceiling.
