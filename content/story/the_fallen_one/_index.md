@@ -15,11 +15,7 @@ archetype: "story"
 
 ---
 
-## Chapters:
 
-{{% children sort="Weight" showhidden=false description=false type="flat" %}}
-
----
 
 ## Synopsis
 
@@ -29,6 +25,12 @@ Haunted by betrayal and pursued by shadows, William must confront his deepest fe
 
 In a world where sacrifice defines greatness and failure erases it, can William rise above his doubts, or will he become another forgotten name shrouded in shame?
 
+
+<div align="center">{{% button href="/story/chapter-1-time/" style="green" %}}Start Reading: Chapter 1{{% /button %}}</div>
+
 ---
 
-<div align="center">{{% button href="/story/the_fallen_one/chapter/time/" style="green" %}}Chapter 1{{% /button %}}</div>
+## Chapters:
+
+{{% children sort="Weight" showhidden=false description=false type="flat" %}}
+
