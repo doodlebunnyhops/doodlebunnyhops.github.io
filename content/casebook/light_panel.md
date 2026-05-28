@@ -824,7 +824,7 @@ Travel to the past by the power of a book!
 1. Follow steps in Build Portal
 2. Once you click on the button behind the dresser you will activate this light.
 
-**Bunkger Message**:
+**Bunker Message**:
 
 ```
 The Book power unveiled [Follow]: X02 activated
@@ -845,7 +845,7 @@ The Book power unveiled [Follow]: X02 activated
 
 1. Comeplete the [Movie Set Mystery](/lore/quests/movie_set_mystery) quest
 
-**Bunkger Message**:
+**Bunker Message**:
 
 ```
 Agency Plans unveiled. [WARNING]:[X10] activated
@@ -862,7 +862,7 @@ Agency Plans unveiled. [WARNING]:[X10] activated
 
 1. Comeplete the [Meltdown](/lore/quests/meltdown) quest
 
-**Bunkger Message**:
+**Bunker Message**:
 
 ```
 Potential Power Source. [DANGER]:[X13] activated

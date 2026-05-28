@@ -84,7 +84,7 @@ _you can click images to make the larger!_
 ![Secret entrance into a hidden room through the brick pillar on the right](/images/blog/secret_present_enter_through_pillar_on_right.webp) 
 <sub>1. **Head to the School**: Enter Brookhaven School and locate the entrance to the auditorium.</sub>
 
-<sub>2. **Find the Hidden Room**: Through the pillar on the right, there’s a hidden false wall that leads to a secret room just behind the Science Classrom.</sub>
+<sub>2. **Find the Hidden Room**: Through the pillar on the right, there’s a hidden false wall that leads to a secret room just behind the Science Classroom.</sub>
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}

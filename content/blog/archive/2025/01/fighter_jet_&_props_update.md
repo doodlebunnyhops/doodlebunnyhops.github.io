@@ -45,7 +45,7 @@ Requires the Red Key card by Security Checkin
 {{< column "post-block-dot column" >}}
 **Underground Jet Hanger**
 ![BrookhavenRP Jet Update: The underground hangar where the fighter jet is housed, the jet is accessible to premium pass holders.](/images/blog/fighter_jet_&_props_update_jet_room.webp)
-Note the Jet is locked for _Premiunm Pass Holders_ ✨
+Note the Jet is locked for _Premium Pass Holders_ ✨
 {{< /column>}}
 
 {{< column "post-block-dot column" >}}
