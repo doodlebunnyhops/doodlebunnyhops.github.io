@@ -39,4 +39,4 @@ draft: false
 
 ### Связанные квесты
 
-- [Красная книга](lore/special_tools/the_red_book/)
+- [Красная книга](/lore/special_tools/the_red_book/)

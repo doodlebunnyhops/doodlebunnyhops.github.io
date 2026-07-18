@@ -21,7 +21,7 @@ images:
 
 1. Go to the Upstairs Bedroom in the Haunted House, there’s a fall through floor 
 1. Sit on the Blue Chair
-	- See [laptop message](casebook/computer/agency/#circle-the-monoliths) in casebook notes 
+	- See [laptop message](/casebook/computer/agency/#circle-the-monoliths) in casebook notes 
 	- This Activates [A18](/casebook/light_panel#a18)
 	- Notice the interesting script on the Guillotine
 	

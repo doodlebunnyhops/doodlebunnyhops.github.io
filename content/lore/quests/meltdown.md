@@ -31,7 +31,7 @@ The steps can be done in any order, but all four must be completed to trigger th
 3. Pull the lever in the Waste Room  
 4. Flip all levers in the Cooling Tower
 
-Once all are complete → the Reactor Core door opens → click the Core to obtain the Green Crystal....and find a new [Agency Light Panel](casebook/light_panel/#x13) unlocked.
+Once all are complete → the Reactor Core door opens → click the Core to obtain the Green Crystal....and find a new [Agency Light Panel](/casebook/light_panel/#x13) unlocked.
 
 
 Want a video walkthrough instead??

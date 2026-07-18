@@ -15,7 +15,7 @@ images:
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
 **Side Quests**: None 
 
-**Optional**:  [Connect Laptop](lore/tools/connect_laptop)
+**Optional**:  [Connect Laptop](/lore/tools/connect_laptop)
 {{% /notice %}}
 
 ## Steps

@@ -15,7 +15,7 @@ images:
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation"  %}}
-- [Введён синхронизированный код](sync_codes)  
+- [Введён синхронизированный код](/lore/quests/agency_coffin_portal/sync_codes/)  
 {{% /notice %}}
 
 ## **Шаги**  

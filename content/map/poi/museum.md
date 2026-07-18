@@ -45,7 +45,7 @@ The museum can also be changed into a dealership or a restaurant called "The Bri
 ### Related CaseBook Items
 
 - [Museum Paintings](/casebook/museum/)
-    - [Knight](/casebook/museum/knight/)
+    - [Knight](/casebook/museum/paintings/knight/)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -40,4 +40,4 @@ aliases:
 
 ### Связанные квесты
 
-- [Найти 7 кристаллов](lore/quests/find_7_crystals/)
+- [Найти 7 кристаллов](/lore/quests/find_7_crystals/)

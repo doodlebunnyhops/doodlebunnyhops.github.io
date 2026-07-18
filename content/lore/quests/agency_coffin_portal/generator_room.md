@@ -13,7 +13,7 @@ images:
 
 <hr style="background-color: #28b44c" size=8>
 {{% notice color="darkgreen" title="**Requirements**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Other Rooms**: Tachyon Button Requires Orb in [Fear & Greed's](fear_and_greed) room. **However** I have laid the steps out to jump between this easily.
+**Other Rooms**: Tachyon Button Requires Orb in [Fear & Greed's](/lore/quests/agency_coffin_portal/fear_and_greed/) room. **However** I have laid the steps out to jump between this easily.
 {{% /notice %}}
 
 **Number of Bars**: `4`

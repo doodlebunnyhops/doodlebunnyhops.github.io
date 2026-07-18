@@ -22,7 +22,7 @@ Either card can be used to access [Brookhaven Electric](/lore/quests/electric_bu
 
 You're nearly there! Head to Walkthrough → Quests → Movie Set Mystery, specifically Step 3, where you need to break a mirror.
 
-[Click here](/lore/quests/movie_set_mystery/#3-break-the-mirror-) to go directly there :D
+[Click here](/lore/quests/movie_set_mystery/#3-break-the-mirror) to go directly there :D
 
 {{% /notice %}}
 

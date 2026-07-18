@@ -28,7 +28,7 @@ We are an a quest to find 7 crystals!
 	
 		==The 7 small crystals are hidden throughout Brookhaven so the agency cannot find them. I'm sure by now the agency has figured out how to reproduce the crystal's energy. Keep an eye out for 7 floating carbon blocks. (Mr. B)==
 3. Collect the crystals in order:
-	1. Refer to the [Crystal Locations Map](map/crystals)
+	1. Refer to the [Crystal Locations Map](/map/crystals)
 4. _Energy crystals awaiting power_
 	1. You will be teleported to the Arch close to the Abandoned House and your Right Hand will glow for a few minutes
 	2. [A20](/casebook/light_panel#a20) now activated

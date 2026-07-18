@@ -79,8 +79,8 @@ Checkout these content creators review and walkthrough of the update!
 
 ## Secrets
 
-Nothing found from in this update, _but_ `@lorenzomaciotti` from WolfPaq's discord found a [4th Top Secret Level plaque](casebook/interesting/top_secret_level/#ts-lvl4) that went unnoticed in the Agency RP Release!
+Nothing found from in this update, _but_ `@lorenzomaciotti` from WolfPaq's discord found a [4th Top Secret Level plaque](/casebook/interesting/top_secret_level/#ts-lvl4) that went unnoticed in the Agency RP Release!
 
-I've added a section just on [TS LVL's](casebook/interesting/top_secret_level/) in the casebook :D enjoy!
+I've added a section just on [TS LVL's](/casebook/interesting/top_secret_level/) in the casebook :D enjoy!
 
 _**Bloomindaisy**_ <span class="nowrap"><span class="emojify">💕</span>

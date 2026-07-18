@@ -39,8 +39,8 @@ Players can freely enter the plant, where a mysterious Agency Light Panel can be
 
 ### Related CaseBook Items
 
-- [Agency Light Panel X13](casebook/light_panel/#x13)
-- [Agency Light Panel A28](casebook/light_panel/#a28)
+- [Agency Light Panel X13](/casebook/light_panel/#x13)
+- [Agency Light Panel A28](/casebook/light_panel/#a28)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Crystal Number 7
 
-We end our crystal adventure where we nearly began. Remember when we started with obtaining TSLVL1? We went to the hospital to click on the stack of papers then went to the barn to click on a [mysterious button](casebook/interesting/hidden_valley_cave/#strange-button), only then could we click the button in the Abandoned House to start the quest.
+We end our crystal adventure where we nearly began. Remember when we started with obtaining TSLVL1? We went to the hospital to click on the stack of papers then went to the barn to click on a [mysterious button](/casebook/interesting/hidden_valley_cave/#strange-button), only then could we click the button in the Abandoned House to start the quest.
 
 ![Front view of Barn at Brookhaven](/images/maps/barn.webp?width=400px)
 

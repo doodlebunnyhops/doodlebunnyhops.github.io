@@ -39,4 +39,4 @@ Your local community Library in Brookhaven has books to read for days! Visit and
 
 ### Related Quests
 
-- [The Red Book](lore/special_tools/the_red_book/)
+- [The Red Book](/lore/special_tools/the_red_book/)

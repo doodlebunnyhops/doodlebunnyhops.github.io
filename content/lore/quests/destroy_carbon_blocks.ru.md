@@ -41,7 +41,7 @@ Tags: ["Разрушение углеродных блоков", "Квантов
    1. Панель сообщений Квантовой комнаты 2:  
 
       ==TS LVL 2 [Mirrored Successfully] Carbon burn commencing==  
-      - Подробнее см. [TS LVL2](casebook/interesting/top_secret_level/#ts-lvl2) в кейсбуке  
+      - Подробнее см. [TS LVL2](/casebook/interesting/top_secret_level/#ts-lvl2) в кейсбуке  
 
 <hr style="background-color: #28b44c" size=8>
 

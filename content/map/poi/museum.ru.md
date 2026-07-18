@@ -43,7 +43,7 @@ draft: false
 ### Связанные материалы в Кейсбуке
 
 - [Картины в музее](/casebook/museum/)
-    - [Рыцарь](/casebook/museum/knight/)
+    - [Рыцарь](/casebook/museum/paintings/knight/)
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -13,7 +13,7 @@ images:
 {{< youtube id=Mecnd2D7cWA loading=lazy start=376 >}}
 
 {{% notice color="darkgreen" title="**Требования**" icon="fa-solid fa-triangle-exclamation"  %}}
-**Побочные квесты** : [Энергетическая пирамида](lore/special_tools/energy_pyramid)
+**Побочные квесты** : [Энергетическая пирамида](/lore/special_tools/energy_pyramid)
 {{% /notice %}}
 
 **Шаги:**

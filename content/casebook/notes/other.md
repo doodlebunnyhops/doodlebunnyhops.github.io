@@ -97,7 +97,7 @@ Is it pronounced `red river` or `re driver`?
 {{% notice style="tip" %}}
 **Requirements** : 
 - Inside Agency RP House
-- Steps 1 & 2 of [Kid's Room Quest](lore/quests/agency_coffin_portal/kids_room/#steps)
+- Steps 1 & 2 of [Kid's Room Quest](/lore/quests/agency_coffin_portal/kids_room/#steps)
 	- Steps will be shown here
 {{% /notice %}}
 
@@ -204,7 +204,7 @@ Is it pronounced `red river` or `re driver`?
 ## Activate Alien Chamber
 
 {{% notice style="tip" %}}
-**Requirements** : Complete step 1 of [Movie Set](/lore/quests/movie_set_mystery/#1-get-the-red-key-card-) quest.
+**Requirements** : Complete step 1 of [Movie Set](/lore/quests/movie_set_mystery/#1-find-the-mannequins-note) quest.
 {{% /notice %}}
 
 **Steps:**
