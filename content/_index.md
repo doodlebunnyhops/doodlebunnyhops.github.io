@@ -38,8 +38,8 @@ A few odd details around it reveal a code...and it has a use
 ##### [Check out the Campsite Code quest](/lore/quests/a28_boot_sequence/)
 
 Couple of call outs: 
-- The mall is temprarily gone for the Summer Carnival event -> sooo ...breaking carbon blocks quest can't be completed rn
-- Obs can't watch movie codes either 
+- The [mall](/map/poi/mall) is temprarily gone for the Summer Carnival event -> The [Carbon Block](/lore/quests/destroy_carbon_blocks) was moved to the [Agency Bunker](/map/poi/agency-bunker/)
+- Obs can't watch movie codes  
 
 <hr style="background-color: #28b44c" size=8>
 

@@ -21,7 +21,7 @@ You will find a hidden entrance behind Starbrooks and Mail & Packages, which cou
 
 ![Criminal Hideout and where the trap door is](/images/maps/criminal_hideout_to_trap_door.gif)
 
-![Clicking secrete passage to open trap door to get to Criminal Hideout](/images/maps/criminal_hideout_click_trap_door.gif)
+<!-- ![Clicking secrete passage to open trap door to get to Criminal Hideout](/images/maps/criminal_hideout_click_trap_door.gif) -->
 
 ![Inside view of Criminal Hideout showing computer parts and surveillance system](/images/maps/criminal_hideout_inside.webp)
 

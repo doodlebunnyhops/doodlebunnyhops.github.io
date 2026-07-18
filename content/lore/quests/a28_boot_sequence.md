@@ -1,6 +1,6 @@
 ---
 linktitle: "Campsite Code"
-title: "A28 Campsite Code & the Subterrain Agency Room"
+title: "A28 Campsite Code & the Power Plant Agency Room"
 noindex: false
 weight: 22
 description: "Discover the code hidden in the campsite tree and use it in the secret Agency room beneath the Power Plant to activate A28."
@@ -9,14 +9,13 @@ images:
   - images/bh/a28_campsite_tree.webp
   - images/bh/a28_boot_sequence_complete.webp
   - images/bh/a28_system_online.webp
-Tags: ["Campsite","Power Plant","Agency","A28"]
+Tags: ["Campsite", "Power Plant Agency Room", "Operation Subterrain", "A28"]
 ---
 
 A strange new tree has appeared at the campsite—and it appears to be connected to the hidden Agency room beneath the Power Plant.
 
 ![New tree at the Brookhaven campsite](/images/bh/a28_daisy_campsite_tree.webp?width=500px)
 
-_Prefer a video walkthrough?_
 
 <div class="grid-2 post-vid-dot">
 {{< youtube id=QvMmz4H1cwg loading=lazy >}}
@@ -27,7 +26,7 @@ _Prefer a video walkthrough?_
 
 **Side Quests**: None
 
-**Items Needed**: [Blue Key Card](/lore/special_tools/blue_key_card)
+**Items Needed**: [Blue Key Card](/lore/special_tools/blue_key_card/#location-2-power-plant)
 
 {{% /notice %}}
 
@@ -56,29 +55,36 @@ Together, these numbers form the code `4359`.
 
 ---
 
-### 2. Enter the Hidden Subterrain Agency Room
+### 2. Enter the Power Plant Agency Room
 
-Head to the secret Agency room beneath the Power Plant.
-
-_Don't remember where that is? This should help!_
-
-[Power Plant Meltdown: Hidden Subterrain Agency Room](/lore/quests/meltdown/#hidden-subterrain-agency-room)
-
-Once inside the room, locate the keypad near the computer systems.
+1. Head to the [Power Plant Agency room](/lore/quests/meltdown/#power-plant-agency-room).
+2. Once inside the room, locate the keypad near the computer systems.
 
 ---
 
 ### 3. Enter the Campsite Code
 
-Once the code is accepted, the panel displays:
+1. Once the code is accepted, the screen changes:
+
+{{% notice style="accent" title="System Online" expanded=false %}}
+```
+SYSTEM: ONLINE
+PRODUCTION: PAUSED
+AWAITING NEXT INPUT
+```
+![Agency computer displaying System Online, Production Paused, and Awaiting Next Input](/images/bh/a28_system_online.webp?width=500px)
+
+{{% /notice %}}
+
+
+
+- This activates [A28 on the Agency Light Panel](/casebook/light_panel/#a28).
+
+{{% notice style="accent" title="A28 Activated" expanded=false %}}
 
 ```
 Boot sequence complete :A28
 ```
-
-This activates [A28 on the Agency Light Panel](/casebook/light_panel/#a28).
-
-{{% notice style="accent" title="A28 Activated" expanded=false %}}
 
 ![Panel displaying Boot sequence complete A28](/images/bh/a28_boot_sequence_complete.webp?width=500px)
 
@@ -86,25 +92,8 @@ This activates [A28 on the Agency Light Panel](/casebook/light_panel/#a28).
 
 ---
 
-### 4. Check the Main System
 
-After activating A28, check the large computer screen inside the Agency room.
-
-The system now displays:
-
-```
-SYSTEM: ONLINE
-PRODUCTION: PAUSED
-AWAITING NEXT INPUT
-```
-
-{{% notice style="accent" title="System Online" expanded=false %}}
-
-![Agency computer displaying System Online, Production Paused, and Awaiting Next Input](/images/bh/a28_system_online.webp?width=500px)
-
-{{% /notice %}}
-
-{{% notice style="tip" expanded=false %}}
+{{% notice style="tip" expanded=false title="Note" %}}
 
 The system is now online, but production remains paused.
 

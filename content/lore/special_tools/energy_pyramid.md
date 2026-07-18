@@ -24,7 +24,7 @@ Did you know when viewing home cams, if the church bell has never been rung, loo
 
 #### Summon Doves:
 
-1. Ring the bell at the Church (Teleport by going to house #22 or #17 to get to the church quickly)
+1. Ring the bell at the Church (Teleport by going to house #12 or #7 to get to the church quickly)
   1. Bunker Message will now read: "Enemy signal Detected: A22"
   2. This wakes up the doves - now look in one of these locations for the Energy Pyramid
 

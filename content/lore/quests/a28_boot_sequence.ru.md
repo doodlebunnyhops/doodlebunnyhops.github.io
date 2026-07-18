@@ -1,6 +1,6 @@
 ---
 linktitle: "Код кемпинга"
-title: "Код A28 в кемпинге и подземная комната Агентства"
+title: "Код A28 в кемпинге и комната Агентства под электростанцией"
 noindex: false
 weight: 22
 description: "Найди код, спрятанный в дереве у кемпинга, и используй его в секретной комнате Агентства под электростанцией, чтобы активировать A28."
@@ -9,14 +9,13 @@ images:
   - images/bh/a28_campsite_tree.webp
   - images/bh/a28_boot_sequence_complete.webp
   - images/bh/a28_system_online.webp
-Tags: ["Кемпинг","Электростанция","Агентство","A28"]
+Tags: ["Кемпинг", "Комната Агентства под электростанцией", "Операция «Подземье»", "A28"]
 ---
 
 У кемпинга появилось странное новое дерево — и, похоже, оно связано со скрытой комнатой Агентства под электростанцией.
 
 ![Новое дерево у кемпинга в Brookhaven](/images/bh/a28_daisy_campsite_tree.webp?width=500px)
 
-_Предпочитаешь видеоинструкцию?_
 
 <div class="grid-2 post-vid-dot">
 {{< youtube id=QvMmz4H1cwg loading=lazy >}}
@@ -27,7 +26,7 @@ _Предпочитаешь видеоинструкцию?_
 
 **Дополнительные квесты**: Нет
 
-**Нужные предметы**: [Синяя ключ-карта](/lore/special_tools/blue_key_card)
+**Нужные предметы**: [Синяя ключ-карта](/lore/special_tools/blue_key_card/#location-2-power-plant)
 
 {{% /notice %}}
 
@@ -56,29 +55,36 @@ _Предпочитаешь видеоинструкцию?_
 
 ---
 
-### 2. Войди в скрытую подземную комнату Агентства
+### 2. Войди в комнату Агентства под электростанцией
 
-Отправляйся в секретную комнату Агентства под электростанцией.
-
-_Не помнишь, где она находится? Вот подсказка!_
-
-[Авария на электростанции: скрытая подземная комната Агентства](/lore/quests/meltdown//#подземная-комната-агентства)
-
-Оказавшись внутри, найди клавиатуру рядом с компьютерными системами.
+1. Отправляйся в [комнату Агентства под электростанцией](/lore/quests/meltdown/#power-plant-agency-room).
+2. Оказавшись внутри, найди клавиатуру рядом с компьютерными системами.
 
 ---
 
 ### 3. Введи код из кемпинга
 
-Когда код будет принят, на панели появится:
+1. Когда код будет принят, изображение на экране изменится:
+
+{{% notice style="accent" title="Система запущена" expanded=false %}}
+```
+SYSTEM: ONLINE
+PRODUCTION: PAUSED
+AWAITING NEXT INPUT
+```
+![Компьютер Агентства с сообщениями System Online, Production Paused и Awaiting Next Input](/images/bh/a28_system_online.webp?width=500px)
+
+{{% /notice %}}
+
+
+
+- Это активирует [A28 на световой панели Агентства](/casebook/light_panel/#a28).
+
+{{% notice style="accent" title="A28 активирован" expanded=false %}}
 
 ```
 Boot sequence complete :A28
 ```
-
-Это активирует [A28 на световой панели Агентства](/casebook/light_panel/#a28).
-
-{{% notice style="accent" title="A28 активирован" expanded=false %}}
 
 ![Панель с сообщением Boot sequence complete A28](/images/bh/a28_boot_sequence_complete.webp?width=500px)
 
@@ -86,25 +92,8 @@ Boot sequence complete :A28
 
 ---
 
-### 4. Проверь главную систему
 
-После активации A28 посмотри на большой экран компьютера в комнате Агентства.
-
-Теперь система показывает:
-
-```
-SYSTEM: ONLINE
-PRODUCTION: PAUSED
-AWAITING NEXT INPUT
-```
-
-{{% notice style="accent" title="Система запущена" expanded=false %}}
-
-![Компьютер Агентства с сообщениями System Online, Production Paused и Awaiting Next Input](/images/bh/a28_system_online.webp?width=500px)
-
-{{% /notice %}}
-
-{{% notice style="tip" expanded=false %}}
+{{% notice style="tip" expanded=false title="Примечание" %}}
 
 Теперь система запущена, но производство всё ещё приостановлено.
 
