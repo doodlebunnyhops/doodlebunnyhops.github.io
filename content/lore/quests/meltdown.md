@@ -117,7 +117,7 @@ On completion you’ll see the log message:
 
 ## Hidden Subterrain Agency Room
 
-There’s also a secret Agency room below the escape route under the Power Plant. At this time it's not known how to interact with this room...stay tuned.
+There’s also a secret Agency room below the escape route under the Power Plant. The room contains a keypad and computer system used during the [A28 Campsite Code quest](/lore/quests/a28_boot_sequence/).
 
 **Requirements**: Blue Key Card found in the Power Room under a chair.
    {{% notice style="accent" title="Video Showing Blue Key Card" expanded=false %}}

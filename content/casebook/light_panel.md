@@ -641,6 +641,23 @@ Unlocks ability to Electrocute the Alien
 
 <hr style="background-color: #28b44c" size=8>
 
+## A28
+**Boot sequence complete**
+
+>Part of following:
+>
+>- [Campsite Code](/lore/quests/a28_boot_sequence)
+
+>**Requirements** : [Blue Key Card](/lore/special_tools/blue_key_card)
+
+**Steps:**
+
+1. Enter the code `4359` in the [Subterranian Agency Bunker](/lore/quests/meltdown/#hidden-subterrain-agency-room)
+	1. Activates A28
+
+
+<hr style="background-color: #28b44c" size=8>
+
 ## H02
 **Hidden Dorm Unlocked**
 
