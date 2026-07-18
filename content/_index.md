@@ -29,13 +29,17 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 <hr style="background-color: #28b44c" size=8>
 
-### 🚗 May 15th Update
+### 🌲 July 17th SECRETS
 
-A few points I wanted to share: 
+A new tree showed up at the campsite...and of course it isn't just a normal tree.
 
-- The carbon block in the [arcade](/lore/quests/destroy_carbon_blocks/) moved
-- The monolith that spawns in the [Agency Bunker](/map/monoliths/agency-bunker/) is still there but blocked by a wall
-- The hangout area under the road between Town Hall and Big Franks is sus..but no secrets found. Also why does "Big Frank" need a stair step to his chair... _sus_
+A few odd details around it reveal a code...and it has a use
+
+##### [Check out the Campsite Code quest](/lore/quests/a28_boot_sequence/)
+
+Couple of call outs: 
+- The mall is temprarily gone for the Summer Carnival event -> sooo ...breaking carbon blocks quest can't be completed rn
+- Obs can't watch movie codes either 
 
 <hr style="background-color: #28b44c" size=8>
 
