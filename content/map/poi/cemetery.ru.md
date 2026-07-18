@@ -33,7 +33,7 @@ draft: false
 
 ### Связанные материалы в Кейсбуке
 
-- [Жадность](/casebook/museum/greed/)
+- [Жадность](/casebook/museum/paintings/greed/)
 
 <hr style="background-color: #28b44c" size=8>
 

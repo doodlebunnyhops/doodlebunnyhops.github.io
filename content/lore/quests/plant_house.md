@@ -25,7 +25,7 @@ There's something special that reveals a hidden message
  
 		==Plant Quantum Saved: [H06]==
 		
-3. Quantum Room has new message on one of the "windows":
+3. Quantum Room has a message on one of the "windows":
 
 	==Seek the bottom of a hill to find the dirt that once was filled==
 

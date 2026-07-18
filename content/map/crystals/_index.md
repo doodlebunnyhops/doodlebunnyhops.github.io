@@ -36,9 +36,15 @@ You can click the outlined areas in the image to find out more details about tha
 
 <hr style="background-color: #28b44c" size=8>
 
-Crystals must be collected in this order to complete [Find 7 Crystals](lore/quests/find_7_crystals) quest
+Crystals must be collected in this order to complete [Find 7 Crystals](/lore/quests/find_7_crystals) quest
 
 {{% children sort="Weight" showhidden=false description=false type="tree" %}}
+
+{{% notice style="info" title="Broken Locations" expanded=true %}}
+
+- Hospital is extremly difficult to reach, while still techincally there, its just under the roof in front of the helicopter. Without this crystal all others do not appear. It's been reported to devs.
+
+{{% /notice %}}
 
 ---
 

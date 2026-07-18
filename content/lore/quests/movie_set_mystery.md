@@ -43,25 +43,28 @@ Head into the Movie RP set and prepare for a multi-step challenge. What looks li
 
 ### Steps:
 
-#### 1. Get the Red Key Card 🔴  
-- Head to the basement filled with mannequins. 
+#### 1. Find the Mannequins Note
+-  Grab the red keycard from the office room, its on the desk.
+- Head to the basement through the elevator using the keycard. 
 - Read the mysterious [**note on the mannequin**](/casebook/notes/other/#activate-alien-chamber)—who left it, and why?
 
-#### 2. Electrocute the Aliens in the Capsules 👽⚡  
+#### 2. Electrocute the Aliens in the Capsules
+- You may need to chage the set theme first.
 - Activate the alien pods in the center of the set.
     - The note from earlier `XOX XOX` means: 
         > X = Off
         >
         > O = On
+    - Turn on the right ones in the back, theres a red button.
 - As they surge with electricity, **the second basement light turns on**.  
 - Shock from the event cracks a mirror in one of the dressing rooms...
 
-#### 3. Break the Mirror 🪞🔨  
+#### 3. Break the Mirror
 - Locate the **axe in the dressing room**, then shatter the cracked mirror.  
     - The 3rd basement light turns on
 - Behind it, you’ll find a **blue key card** (different from the police station one) and a cryptic [**note from Madison**](/casebook/notes/madison/#movie-set).  
 
-#### 4. Enter the Watch Room and Solve the Riddle 🧠🔐  
+#### 4. Enter the Watch Room and Solve the Riddle 
 - Use the blue key card in the basement to unlock the Watch Room.  
     - The 4th basement light turns on
 - On the console inside, enter these answers:  
@@ -78,7 +81,7 @@ It's actually quoted from an [Agency Laptop Message](/casebook/computer/agency/#
 
 {{% /notice %}}
 
-#### 5. Input the Signal Code on the Roof 📡  
+#### 5. Input the Signal Code on the Roof
 - Use the signal input device on the roof.  
 - Once activated, it begins tracking and emits a red **satellite transmission**.  
 - The message is out there now… but who will receive it?

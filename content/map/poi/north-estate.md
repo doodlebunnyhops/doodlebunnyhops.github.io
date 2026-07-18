@@ -42,4 +42,4 @@ A higher-end estate location for those who wish to splurge on their residence wi
 
 ### Related Quests
 
-- [Find 7 Crystals](lore/quests/find_7_crystals/)
+- [Find 7 Crystals](/lore/quests/find_7_crystals/)

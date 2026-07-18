@@ -4,7 +4,15 @@ title: "Find and Destroy the Carbon Blocks in Brookhaven"
 noindex: false
 weight: 6
 description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Room secrets. Follow this guide for steps and solutions."
-#Tags: ["Destroy Carbon Blocks", "Quantum Room"]
+images:
+  - images/bh/carbon_block_agency_base.webp
+  - images/bh/carbon_block_criminal_base.webp
+  - images/bh/carbon_block_arcade_street_view.webp
+  - images/bh/carbon_block_arcade_sleeping_bag_view.webp
+  - images/bh/carbon_block_church_roof.webp
+  - images/bh/carbon_block_green_wall.webp
+
+Tags: ["Destroy Carbon Blocks", "Quantum Room"]
 ---
 
 
@@ -36,7 +44,7 @@ description: "Destroy 7 hidden carbon blocks in Brookhaven and unlock Quantum Ro
 	1. Quantum Message Board 2: 
 			
 		==TS LVL 2 [Mirrored Successfully] Carbon burn commencing==
-		- See more details on [TS LVL2](casebook/interesting/top_secret_level/#ts-lvl2) in the casebook
+		- See more details on [TS LVL2](/casebook/interesting/top_secret_level/#ts-lvl2) in the casebook
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -51,6 +59,13 @@ Steps:
 4. Inside of the roof at the **church** (go on top of the Church and place down a Sleeping Bag.)
 5. Near the Grocery Store, place a sleeping bag near the **grass wall**
 6. In **movie theater** hallway, use sleeping bag at the bottom right of the door and movie banner
+{{% notice style="info" title="Changes Location on special Events" expanded=false %}}
+
+The carbon block previously found in the mall will move to the Agency Bunker during events when the Mall is gone.
+
+![Carbon Block hovering in front of Agency Logo in the Bunker](/images/bh/carbon_block_agency_base.webp?width=400px)
+
+{{% /notice %}}
 7. Go to the **Swimming pool's secret** room.
 
 1. On completion you will teleport to the Arch by the Barn and your Right Hand will glow Black

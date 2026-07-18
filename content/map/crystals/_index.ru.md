@@ -36,7 +36,7 @@ draft: false
 
 <hr style="background-color: #28b44c" size=8>
 
-Кристаллы должны быть собраны в этом порядке, чтобы завершить квест [Найти 7 кристаллов](lore/quests/find_7_crystals).
+Кристаллы должны быть собраны в этом порядке, чтобы завершить квест [Найти 7 кристаллов](/lore/quests/find_7_crystals).
 
 {{% children sort="Weight" showhidden=false description=false type="tree" %}}
 

@@ -587,7 +587,7 @@ No known Quest uses this trigger
 		"Inferential delusion mechanism available: A26 activated"
 		
 		
- New room in Agency Bunker, the "Chair Room" is unlocked.
+ A room in Agency Bunker, the "Chair Room" is unlocked.
 1. If Bunker Message reads:
  
 	==Signal disruption: A08 needed to unlock mechanism==
@@ -652,7 +652,7 @@ Unlocks ability to Electrocute the Alien
 
 **Steps:**
 
-1. Enter the code `4359` in the [Subterranian Agency Bunker](/lore/quests/meltdown/#hidden-subterrain-agency-room)
+1. Enter the code `4359` in the [Power Plant Agency Bunker](/lore/quests/meltdown/#power-plant-agency-room)
 	1. Activates A28
 
 
@@ -737,7 +737,7 @@ Reveals secret message in Quantum Room
  
 		==Plant Quantum Saved: [H06]==
 		
-3. Quantum Room has new message on one of the "windows":
+3. Quantum Room has a message on one of the "windows":
 
 	==Seek the bottom of a hill to find the dirt that once was filled==
 

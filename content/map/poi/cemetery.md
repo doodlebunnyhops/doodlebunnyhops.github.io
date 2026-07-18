@@ -33,7 +33,7 @@ The Brookhaven Graveyard is a place to remember those once here or maybe visit t
 
 ### Related CaseBook Items
 
-- [Greed](/casebook/museum/greed/)
+- [Greed](/casebook/museum/paintings/greed/)
 
 <hr style="background-color: #28b44c" size=8>
 

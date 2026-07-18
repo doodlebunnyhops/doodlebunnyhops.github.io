@@ -1,6 +1,6 @@
 ---
 linktitle: "Power Plant"
-title: "Power Plant: New Brookhaven Landmark with Agency Secrets"
+title: "Power Plant: Brookhaven Landmark with Agency Secrets"
 noindex: false
 # weight: 1
 date: 2025-08-29
@@ -9,11 +9,11 @@ images:
 - images/bh/power_plant_building.webp
 - images/bh/power_plant_reactor_room_with_turbines.webp
 #Categories: ["point of interest","map"]
-#Tags: ["Power Plant"]
+Tags: ["Power Plant"]
 draft: false
 ---
 
-The Power Plant is a new landmark structure added to Brookhaven on August 29th, 2025. While on the surface it appears to be a standard utility building powering the town, its true importance lies in the secret `[redacted]` hidden inside.  
+The Power Plant is a landmark structure added to Brookhaven on August 29th, 2025. While on the surface it appears to be a standard utility building powering the town, its true importance lies in the secret `[redacted]` hidden inside.  
 
 Players can freely enter the plant, where a mysterious Agency Light Panel can be activated to reveal the deeper secret connected to Brookhaven’s ongoing lore.  
 
@@ -39,10 +39,12 @@ Players can freely enter the plant, where a mysterious Agency Light Panel can be
 
 ### Related CaseBook Items
 
-- [Agency Light Panel X13](casebook/light_panel/#x13)
+- [Agency Light Panel X13](/casebook/light_panel/#x13)
+- [Agency Light Panel A28](/casebook/light_panel/#a28)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Related Quests
 
 - [☢️ Meltdown at the Power Plant](/lore/quests/meltdown)
+- [Campsite Code](/lore/quests/a28_boot_sequence)

@@ -6,7 +6,7 @@ date: 2024-01-02
 description: "Brookhaven School location view and related secrets"
 
 images:
-- images/maps/school_remodeled_2024.webp
+- images/bh/school.webp
 - images/maps/school.webp
 #Categories: ["point of interest","map"]
 #Tags: ["School"]
@@ -23,7 +23,7 @@ See more details about the [Engilsh Classroom Quotes here.](/casebook/interestin
 
 I wish the teachers here would tell me what the glowing orb is above the theater; it is suspicious!
 
-![The new Brookhaven School remodel brings modern updates and additional functional rooms.Textured brick facade and structured, expanded interiors](/images/maps/school_remodeled_2024.webp)
+![The new Brookhaven School remodel brings modern updates and additional functional rooms.Textured brick facade and structured, expanded interiors](/images/bh/school.webp)
 
 
 <hr style="background-color: #28b44c" size=8>
@@ -56,4 +56,4 @@ I wish the teachers here would tell me what the glowing orb is above the theater
 
 In Novemeber of 2024 the school was remodeld adding more rooms upstairs and giving the school a fresh look.
 
-![Brookhaven's previous look for the School. Bright red exterior and an open upstairs layout.](/images/maps/school.webp)
+![Brookhaven's previous look for the School. Bright red exterior and an open upstairs layout.](/images/maps/school_remodeled_2024.webp)

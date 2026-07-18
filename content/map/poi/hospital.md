@@ -71,4 +71,4 @@ Medical Officer Avid once worked at the Experimentation Site, but after seeing t
 
 In Novemeber of 2024 the Hospital was remodeld featuring a sleek, glass-heavy exterior and a brighter, modernized look.
 
-![Brookhaven's previous look for the Hospital. Functional with the iconic glass features.](/images/maps/hospital.webp)
+![Brookhaven's previous look for the Hospital. Functional with the iconic glass features.](/images/maps/hospital_remodeled_2024.webp)

@@ -32,7 +32,7 @@ images:
 
 ---
 
-Для получения дополнительной информации о TS LVL'ах смотрите кейсбук по [Уровню Совершенно Секретно](casebook/interesting/top_secret_level/)
+Для получения дополнительной информации о TS LVL'ах смотрите кейсбук по [Уровню Совершенно Секретно](/casebook/interesting/top_secret_level/)
 			
  
 <hr style="background-color: #28b44c" size=8>

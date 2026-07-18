@@ -34,6 +34,10 @@ List of definitions as some names for places/things does differ.
 ### Criminal Lair
 >Sub level room located in the Shipping and Criminal RP House. Also referred to as Criminal Base, as it resembles the original Criminal Base that is no longer in game.
 ---
+### Power Plant Agency Room
+
+>Hidden Agency room beneath the Power Plant, reached through the underground emergency escape route. Featured by the Brookhaven developers as **Operation Subterrain**.
+---
 ### Crystal
 >Yellow slightly glowing item that looks to have 3 prongs.
 ---

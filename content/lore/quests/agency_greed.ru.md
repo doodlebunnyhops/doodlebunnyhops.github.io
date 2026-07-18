@@ -31,7 +31,7 @@ images:
 {{% notice color="darkgreen" title="Требования" icon="fa-solid fa-triangle-exclamation"  %}}
 **Побочные квесты**: Нет  
 
-**Дополнительно**: [Подключение ноутбука](lore/tools/connect_laptop)  
+**Дополнительно**: [Подключение ноутбука](/lore/tools/connect_laptop)  
 {{% /notice %}}
 
 <hr>

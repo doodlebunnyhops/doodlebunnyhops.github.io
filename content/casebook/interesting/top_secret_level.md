@@ -19,7 +19,7 @@ What do the TS LVL's signify? Who placed the plaques for levels 3 and 4 in their
 
 ## TS LVL1
 
-The first level unlocked comes with a [message](casebook/notes/madison/#barn), presumably from Mr.B to Madison. It mentions that he will return to the future with their son, Marcus, and will enable level 1 to help Madison slow down the Agency's progression.
+The first level unlocked comes with a [message](/casebook/notes/madison/#barn), presumably from Mr.B to Madison. It mentions that he will return to the future with their son, Marcus, and will enable level 1 to help Madison slow down the Agency's progression.
 
 {{% notice style="tip" %}}
 **Requirements** : Click stack of papers in [X-Ray Hideout](/terminology/#x-ray-hideout)
@@ -27,7 +27,7 @@ The first level unlocked comes with a [message](casebook/notes/madison/#barn), p
 
 **Steps:**
 
-_Note these are the same steps as getting the [TS Level 1 Special Tool](lore/special_tools/ts_lvl1/)_
+_Note these are the same steps as getting the [TS Level 1 Special Tool](/lore/special_tools/ts_lvl1/)_
 
 1. At the barn, go upstairs and click on the button found on a post.
 1. You will see a message appear on the top of your screen `TS LVL 1 Authorized!` and the Agency Bunker will now read `TS [LVL 1] Permissible`
@@ -38,10 +38,10 @@ _Note these are the same steps as getting the [TS Level 1 Special Tool](lore/spe
 
 ## TS LVL2
 
-Level 2 appears once carbon blocks have spawned through the town, but it's interesting as the message says, "Mirrored Successfully." in the quantum room. So what was mirrored? The Secret Level or something else? How is the [Agency's note](casebook/notes/agency/#quantum-room) that appears after the carbon blocks appear related?
+Level 2 appears once carbon blocks have spawned through the town, but it's interesting as the message says, "Mirrored Successfully." in the quantum room. So what was mirrored? The Secret Level or something else? How is the [Agency's note](/casebook/notes/agency/#quantum-room) that appears after the carbon blocks appear related?
 
 {{% notice style="tip" %}}
-**Requirements** : Steps 1-2 of [Destroy Carbon Blocks](lore/quests/destroy_carbon_blocks/) Quest
+**Requirements** : Steps 1-2 of [Destroy Carbon Blocks](/lore/quests/destroy_carbon_blocks/) Quest
 {{% /notice %}}
 
 **Steps:**

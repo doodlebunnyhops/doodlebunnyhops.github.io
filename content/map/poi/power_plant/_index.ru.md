@@ -9,7 +9,7 @@ images:
 - images/bh/power_plant_building.webp
 - images/bh/power_plant_reactor_room_with_turbines.webp
 #Categories: ["point of interest","map"]
-#Tags: ["Power Plant"]
+Tags: ["Электростанция"]
 draft: false
 ---
 
@@ -39,10 +39,12 @@ draft: false
 
 ### Связанные материалы из Досье
 
-- [Панель Света Агентства X13](casebook/light_panel/#x13)
+- [Панель Света Агентства X13](/casebook/light_panel/#x13)
+- [Панель Света Агентства A28](/casebook/light_panel/#a28)
 
 <hr style="background-color: #28b44c" size=8>
 
 ### Связанные квесты
 
 - [☢️ Авария на Электростанции](/lore/quests/meltdown)
+- [Код кемпинга](/lore/quests/a28_boot_sequence)

@@ -135,7 +135,7 @@ The power of The Book will lead you to construct what is needed to destroy our e
 1. Go to the Criminal Lair under the Shipping RP house.
 1. By the desk there is a button that will unlock a hidden door.
 1. Place money in hand, as the note from Marcus suggested, and go through the lasers.
-1.  After sitting in the chairs, open your laptop to see a new message from the Agency. *We still need confirmation if all chairs or just one need to be sat in.
+1.  After sitting in the chairs, open your laptop to see a message from the Agency. *We still need confirmation if all chairs or just one need to be sat in.
 
 	`Follow blindly, do not think. Money is everything!. (Agency)`
 	

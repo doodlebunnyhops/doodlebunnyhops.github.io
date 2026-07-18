@@ -21,7 +21,7 @@ draft: false
 
 ![Логово преступников и местоположение потайного люка](/images/maps/criminal_hideout_to_trap_door.gif)
 
-![Нажатие на скрытый проход для открытия люка в логове преступников](/images/maps/criminal_hideout_click_trap_door.gif)
+<!-- ![Нажатие на скрытый проход для открытия люка в логове преступников](/images/maps/criminal_hideout_click_trap_door.gif) -->
 
 ![Внутренний вид логова преступников, показывающий компьютерное оборудование и систему наблюдения](/images/maps/criminal_hideout_inside.webp)
 
