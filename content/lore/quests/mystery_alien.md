@@ -4,7 +4,10 @@ title: "Mystery Alien: Electrocute the Figure in the Hospital"
 noindex: false
 weight: 3
 description: "Reveal Brookhaven's green alien at the hospital site. Follow this guide to electrocute the green body."
-#Tags: ["Green Man", "Experimentation Site","Hospital"]
+Tags: ["Green Man", "Experimentation Site","Hospital"]
+images: 
+- images/bh/mystery_alien_lever_in_mall.webp
+- images/bh/mystery_alien_lever_in_agency_bunker.webp
 ---
 
 {{< youtube id=Ez6vK6Ve2Wc?t=19 loading=lazy >}}
@@ -25,6 +28,13 @@ _Note the video above is now outdated due to the [Mall Remodel](/blog/valentines
 	1. Click on the button found underneath the Surgery Table to turn the lights on
 	2. Sit in the chair on the right under "Experimental" and get slimmed!
 3. Go to the mall:
+{{% notice style="info" title="New Location When Mall is gone" expanded=False %}}
+
+- Some events will temporarily remove the mall from Brookhaven, when this happens this step will be to go to the Agency Bunker rather than the mall.
+
+![Levers appear in Agency Bunker Entrance](/images/bh/mystery_alien_lever_in_agency_bunker.webp?width=200px)
+
+{{% /notice %}}
 	1. Go inside the hidden room between GIA and EMPIRE clothing store using a sleeping bag.
 	1. Flip the lever on the left on so it turns green.
 {{< column "grid-2 post-block" >}}
