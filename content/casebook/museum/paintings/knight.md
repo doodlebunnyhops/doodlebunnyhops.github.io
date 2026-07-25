@@ -25,7 +25,7 @@ The Brave painting in the Brookhaven Museum depicts a knight in armor with a hor
 
 ### [Knight of the Castle](/lore/quests/knight_of_the_castle)
 
-- Brave's painting is hidden behind a false wall in a room with mostly white uphosltery.
+- Brave's painting is hidden behind a false wall in a room with mostly white upholstery.
 
 ### [Abandoned Mausoleum](/lore/quests/abandoned_mausoleum/)
 

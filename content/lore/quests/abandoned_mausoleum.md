@@ -185,7 +185,7 @@ This Number Input was generated from Step 4, use it to put in the code `1155` an
 {{% /tab %}}
 
 {{% tab title="Step 12" %}}
-On the second floor you'll now see what looks like a memorial and a brown book on a white lecturn. Pick up the brown book, aka the Good Book.
+On the second floor you'll now see what looks like a memorial and a brown book on a white lectern. Pick up the brown book, aka the Good Book.
 {{< column "grid-2" >}}
 ![Mr. Brookhaven's Memorial in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_mr_brookhavens_tomb.webp?width=400px)
 ![Brown Book, aka The Good Book, in the Abandoned Mausoleum in Brookhaven](/images/abandoned_mausoleum/mausoleum_the_good_book.webp?width=400px)

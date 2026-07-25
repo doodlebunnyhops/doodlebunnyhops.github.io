@@ -67,7 +67,7 @@ Device on the floor of the rundown motel in the future. We can see it was manufa
 {{% /tab %}}
 
 {{% tab title="We're in the Future" %}}
-Click the pictures to see better ... the emtpy picture has an important message...
+Click the pictures to see better ... the empty picture has an important message...
 {{< column "grid-2" >}}
 ![Run down motel is in the future](/images/bh/build_portal_message_on_picture_in_motel.webp?width=400px)
 ![Picture in motel, In the Future](/images/bh/build_portal_message_on_picture_in_motel_closeup.webp?width=400px)
@@ -75,9 +75,9 @@ Click the pictures to see better ... the emtpy picture has an important message.
 {{% /tab %}}
 
 {{% tab title="Present? vs Future" %}}
-On the left is what this room looks like in the future, in a run down or ruined state. While the left is the present or past? I don't konw what "time line" we actually play in lol.
+On the left is what this room looks like in the future, in a run down or ruined state. While the left is the present or past? I don't know what "time line" we actually play in lol.
 {{< column "grid-2" >}}
-![Brookhaven run down motel room](/images/bh/motel_room_run_down_ruined.webp?width=400px)
+![Brookhaven run down motel room](/images/bh/motel_room_run_down_ruined.webp?width=400px) 
 ![Brookhaven simple motel room](/images/bh/motel_update_simple_theme.webp?width=400px)
 {{< /column >}}
 {{% /tab %}}

@@ -27,7 +27,7 @@ The Brookhaven School now features a sophisticated textured brick exterior, repl
 
 #### Note:
 - Student assignment is now inside just to the left on entering the building
-- Teacher assigment is also inside by the stairs on the ground floor.
+- Teacher assignment is also inside by the stairs on the ground floor.
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
@@ -75,7 +75,7 @@ The police station now includes a second floor, adding a conference room and oth
 
 {{< column "grid-2 post-block" >}}
 {{< column "post-block-dot column" >}}
-![Brookhaven's previous look for the police station was a single-story station.](/images/maps/police.webp)Old design: Single-story building with effient space.
+![Brookhaven's previous look for the police station was a single-story station.](/images/maps/police.webp)Old design: Single-story building with efficient space.
 {{< /column>}}
 {{< column "post-block-dot column" >}}
 ![The new Brookhaven Police Station remodel brings a Sleek, modern design with expanded features and a second floor.](/images/maps/police_station_remodeled_2024.webp)New design: Expanded two-story structure with updated interiors.

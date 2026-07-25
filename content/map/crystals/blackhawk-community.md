@@ -30,7 +30,7 @@ The Blackhawk Community Neighborhood is home to lots 11-16 and the South Estate 
 
 ## Location of Crystal
 
-Near the entrance by lot 13 and 14, or by the billboard just at the bend of the road is hidden a crytal in the dirt. 
+Near the entrance by lot 13 and 14, or by the billboard just at the bend of the road is hidden a crystal in the dirt. 
 
 ![crystal 4 found near blackhawk east entrance sign under road](/images/maps/crystals/crystal_4_near_blackhawk_neighborhood_sign_under_road.webp?width=400px)
 
