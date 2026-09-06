@@ -65,3 +65,5 @@ images:
 - lorenzomaciotti
 - megaloman
 - tokkk.yoo
+- bladderfan
+- steliosmou_

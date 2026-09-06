@@ -37,6 +37,8 @@ _An ominous room with 5 coffins in a circle with one of them under a stonehenge_
 1. Head to labs and flick the laser light off and then back on
     1. Lasers should be red
 1. Head back to portal room and click second button 
+1. [H05](/casebook/light_panel/#h05) is turned on:
+    > Agency bunker graves sealed
 
 > :smile: YOU DID IT❣️
 

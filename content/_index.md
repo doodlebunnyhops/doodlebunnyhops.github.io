@@ -29,17 +29,17 @@ This is the unofficial guide to the ROBLOX game <a href="https://www.roblox.com/
 
 <hr style="background-color: #28b44c" size=8>
 
-### 🌲 July 17th SECRETS
+### New Agency Light unlocked...
 
-A new tree showed up at the campsite...and of course it isn't just a normal tree.
+**September 6th 2026**
 
-A few odd details around it reveal a code...and it has a use
+We're not certain _when_ this became available...but light panel [H05](/casebook/light_panel/#h05) was discovered by a community member in [BloominDaisy's Discord](https://discord.gg/fxhXWgxcHV)!
 
-##### [Check out the Campsite Code quest](/lore/quests/a28_boot_sequence/)
+Thanks for sharing with us ye! :heart:
 
-Couple of call outs: 
-- The [mall](/map/poi/mall) is temprarily gone for the Summer Carnival event -> The [Carbon Block](/lore/quests/destroy_carbon_blocks) was moved to the [Agency Bunker](/map/poi/agency-bunker/)
-- Obs can't watch movie codes  
+---
+
+We also had a small update to light panel [A28](/casebook/light_panel/#a28), bladderfan from the community found mid July that there is a second message for this light!
 
 <hr style="background-color: #28b44c" size=8>
 

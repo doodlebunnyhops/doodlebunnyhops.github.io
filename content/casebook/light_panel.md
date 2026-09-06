@@ -656,6 +656,11 @@ Unlocks ability to Electrocute the Alien
 	1. Activates A28
 
 
+{{% notice icon="fa-solid fa-triangle-exclamation" style="tip" title="A28 has a second message" expanded=false %}}
+After waiting about 5 in game hours A28 will change to `Awaiting boot code`
+{{% /notice %}}
+
+
 <hr style="background-color: #28b44c" size=8>
 
 ## H02
@@ -717,6 +722,18 @@ Unlocks Blue Keypad in the Agency Bunker
 
 ![Image of house needed](/images/bh/h04-house.webp)
 
+
+<hr style="background-color: #28b44c" size=8>
+
+## H05
+**Agency bunker graves sealed**
+
+
+>**Requirements** : [Agency Dungeon Completed](lore/quests/agency_coffin_portal)
+
+**Steps:**
+
+1. After completing the last step that triggers the cut scene in [Agency Dungion Quest](lore/quests/agency_coffin_portal/portal/), H05 will be turned on.
 
 
 <hr style="background-color: #28b44c" size=8>
