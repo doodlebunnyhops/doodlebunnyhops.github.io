@@ -6,8 +6,8 @@
 #   weight = 1
 
 [en]
-  languageCode = 'en'
-  languageName = 'English'
+  locale = 'en'
+  label = 'English'
   weight = 1
 
   [en.permalinks]
@@ -15,7 +15,7 @@
 
 [ru]
   contentDir = 'ru'
-  languageName = 'Русский'
+  label = 'Русский'
   weight = 2
 
   [ru.permalinks]
