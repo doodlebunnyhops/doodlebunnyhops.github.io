@@ -39,7 +39,7 @@ Thanks for sharing with us ye! :heart:
 
 ---
 
-We also had a small update to light panel [A28](/casebook/light_panel/#a28), bladderfan from the community found mid July that there is a second message for this light!
+We also had a small update to light panel [A28](/casebook/light_panel/#a28), bladifaan from the community found mid July that there is a second message for this light!
 
 <hr style="background-color: #28b44c" size=8>
 
